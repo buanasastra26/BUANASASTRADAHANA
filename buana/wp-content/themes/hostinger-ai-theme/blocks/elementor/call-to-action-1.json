@@ -1,0 +1,135 @@
+[
+  {
+    "id": "425a1bf",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_background": "classic",
+      "padding": {
+        "unit": "rem",
+        "top": "5",
+        "right": "0",
+        "bottom": "5",
+        "left": "0",
+        "isLinked": false
+      },
+      "__globals__": {
+        "background_color": "globals/colors?id=b5aeb33"
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "8eb3a11",
+        "elType": "container",
+        "settings": {
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "2516ff0",
+            "elType": "widget",
+            "settings": {
+              "title": "Make a reservation",
+              "align": "center",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=09cc561",
+                "title_hover_color": "globals/colors?id=09cc561",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bb2189c",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Florsity is a restaurant that serves authentic Italian cuisine. We serve freshly prepared pasta, expertly paired with Italian wines.</p>",
+              "align": "center",
+              "paragraph_spacing": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "_element_width": "initial",
+              "_element_custom_width": {
+                "unit": "px",
+                "size": 700,
+                "sizes": []
+              },
+              "_flex_align_self": "center",
+              "_css_classes": "hostinger-ai-description",
+              "__globals__": {
+                "text_color": "globals/colors?id=09cc561",
+                "link_color": "globals/colors?id=09cc561",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "c0f4a8e",
+            "elType": "widget",
+            "settings": {
+              "text": "Click here",
+              "link": {
+                "url": "https://hostinger-wp-blocks.com/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "50",
+                "right": "50",
+                "bottom": "50",
+                "left": "50",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-cta-button hostinger-index-0",
+              "__globals__": {
+                "background_color": "",
+                "button_text_color": "globals/colors?id=09cc561",
+                "border_color": "globals/colors?id=09cc561",
+                "typography_typography": "globals/typography?id=6e52843"
+              },
+              "background_color": "#FFFFFF00",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "2",
+                "left": "2",
+                "isLinked": true
+              },
+              "_flex_align_self": "center"
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

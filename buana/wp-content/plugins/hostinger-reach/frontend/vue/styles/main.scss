@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+
+@import "./tooltip.scss";
+@import "./surveys.scss";
+
+
+#adminmenu .toplevel_page_hostinger-reach img, #adminmenu .wp-menu-image img {
+	margin: 0 auto;
+}
+
+#hostinger-reach-app {
+
+	margin-left: -20px;
+
+	@import "./utilities.scss";
+
+	* {
+		box-sizing: border-box;
+	}
+
+	html,
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+	.flex-container {
+		min-width: 0;
+		overflow: hidden;
+	}
+
+	// avoids to be impacted by AI ChatBot bug overriding styles
+	.h-typography {
+		color: inherit;
+	}
+
+	input[type=checkbox]:checked::before {
+		content: none;
+	}
+}

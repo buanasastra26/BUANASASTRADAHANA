@@ -1,0 +1,4042 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI 2.0.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-ai-"
+"assistant\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-19T12:02:35+00:00\n"
+"PO-Revision-Date: 2026-06-30 07:25+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-assistant\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.2.30"
+
+#: includes-psr4/Mcp/Abilities/AbilitiesRegistry.php:94
+msgid "Abilities that provide a way of interacting with WordPress site."
+msgstr "WordPressサイトと連携して操作できる機能です。"
+
+#: includes/class-hostinger-ai-assistant-errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr "操作に失敗しました。再度お試しいただくかサポートまでご連絡ください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:118
+#, fuzzy
+msgid "Activate an installed plugin by plugin file path."
+msgstr "インストールされているプラグインをプラグインファイルのパスでアクティブにします。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:118
+#, fuzzy
+msgid "Activate an installed theme by stylesheet directory name."
+msgstr "インストールされているテーマをスタイルシートディレクトリ名でアクティブにします。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:117
+#, fuzzy
+msgid "Activate Plugin"
+msgstr "プラグインの有効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:117
+#, fuzzy
+msgid "Activate Theme"
+msgstr "テーマをアクティブにする"
+
+#: admin/class-hostinger-ai-assistant-translations.php:60
+msgid "Active"
+msgstr "アクティブ"
+
+#: admin/class-hostinger-ai-assistant-translations.php:122
+msgid "Add a new page to my WordPress website"
+msgstr "WordPressサイトに新しいページを追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:142
+msgid "Add a new post to my WordPress website"
+msgstr "WordPressサイトに新しい記事を追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:166
+msgid "Add a new product to your WooCommerce store"
+msgstr "WooCommerceストアに新しい商品を追加"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:185
+msgid "Add a new WordPress custom post type post"
+msgstr "WordPressカスタム投稿タイプの投稿を新規追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:165
+msgid "Add a product"
+msgstr "商品を追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:170
+msgid "Add a product category"
+msgstr "商品カテゴリーを追加"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:448
+#, fuzzy
+msgid "Add an image inside my content"
+msgstr "コンテンツ内に画像を追加する"
+
+#: admin/class-hostinger-ai-assistant-translations.php:75
+#, fuzzy
+msgid "Add and manage WooCommerce products"
+msgstr "WooCommerce商品の追加と管理"
+
+#: admin/class-hostinger-ai-assistant-translations.php:140
+msgid "Add blog post"
+msgstr "ブログ記事を追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:85
+msgid "Add Comment"
+msgstr "コメントを追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:120
+msgid "Add WordPress page"
+msgstr "WordPressのページを追加"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:313
+msgid "Advanced users willing to test and exclude items"
+msgstr "項目をテストしながら除外したい上級ユーザー向け"
+
+#: admin/class-hostinger-ai-assistant-translations.php:99
+msgid "After clearing history you won't be able to access previous chats."
+msgstr "履歴を削除すると、以前のチャットにアクセスできなくなります。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:104
+msgid ""
+"After starting new chat, you will be able to access previous chats from the "
+"history."
+msgstr "新しいチャットを開始しても、履歴から以前のチャットにアクセスできます。"
+
+#: admin/class-hostinger-ai-assistant-admin.php:171
+#: admin/class-hostinger-ai-assistant-admin.php:172
+#: admin/class-hostinger-ai-assistant-admin.php:189
+#: admin/partials/hostinger-ai-assistant-tab-view.php:24
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/index.js:10
+msgid "AI Content Creator"
+msgstr "AIコンテンツクリエイター"
+
+#: admin/class-hostinger-ai-assistant-translations.php:52
+msgid "AI may produce inaccurate information"
+msgstr "AIにより不正確な情報が生成される場合があります"
+
+#: admin/class-hostinger-ai-assistant-translations.php:34
+msgid "AI-generated image"
+msgstr "AI生成画像"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:217
+msgid "All LiteSpeed caches have been purged successfully."
+msgstr "すべてのLiteSpeedキャッシュを正常にクリアしました。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:249
+msgid "All websites, new users, simple websites, or cache-oriented development"
+msgstr "幅広いサイトに対応 / 新規ユーザー / シンプルなWebサイト / キャッシュ重視の開発"
+
+#: includes/class-hostinger-ai-assistant-errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr "予期しないエラーが発生しました。再度お試しいただくか、サポートまでお問い合わせください。"
+
+#: includes-psr4/Mcp/McpServer.php:65
+msgid "API key required"
+msgstr "APIキーが必要です"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:120
+msgid ""
+"Apply a predefined optimization preset to LiteSpeed Cache settings. "
+"Available presets: basic (minimal optimization), advanced (balanced), "
+"aggressive (more optimization), essentials (core features), extreme (maximum "
+"optimization). A backup of current settings will be created automatically."
+msgstr ""
+"LiteSpeed "
+"Cacheの設定に事前定義された最適化プリセットを適用します。利用可能なプリセット：Basic（最小限の最適化）、Advanced（バランス重視）、Aggressive（より強力な最適化）、Essentials（主要機能）、Extreme（最大限の最適化）。現在の設定は自動的にバックアップされます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:119
+msgid "Apply LiteSpeed Cache Preset"
+msgstr "LiteSpeedのキャッシュプリセットを適用"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:244
+msgid "Are you sure you want to replace your existing content with a new one ?"
+msgstr "既存のコンテンツを新しいものに置き換えてもよろしいですか？"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:28
+#, fuzzy
+msgid ""
+"Array of widget types to search for (e.g., [\"button\", \"heading\", "
+"\"image\"])"
+msgstr "検索するウィジェットタイプの配列 (例: [\"button\", \"heading\", \"image\"])"
+
+#: admin/class-hostinger-ai-assistant-translations.php:53
+#, fuzzy
+msgid "Agent"
+msgstr "AIに質問する"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:168
+#, fuzzy
+msgid ""
+"Assign a menu to a given theme location (e.g., primary). Provide location "
+"and menu ID."
+msgstr "指定されたテーマの配置位置（例：primary）にメニューを割り当てます。配置位置とメニューIDを指定してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:73
+#, fuzzy
+msgid ""
+"Assign a navigation to a template part by providing template_part_id and "
+"navigation_id."
+msgstr "template_part_id と navigation_id を指定して、テンプレートパーツにナビゲーションを割り当てます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:14
+#, fuzzy
+msgid "Assign Elementor Global Color"
+msgstr "Elementorのグローバルカラーを割り当てる"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:167
+#, fuzzy
+msgid "Assign Menu To Location"
+msgstr "メニューを場所に割り当てる"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:72
+#, fuzzy
+msgid "Assign Navigation To Template Part"
+msgstr "テンプレートパーツにナビゲーションを割り当てる"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:15
+#, fuzzy
+msgid ""
+"Assigns Elementor global colors to widget properties. First use "
+"get_active_kit to see available global colors and their IDs. Common color "
+"properties: title_color (heading color), text_color (paragraph color), "
+"background_color, button_background_color, button_text_color, border_color, "
+"hover_color. This creates a dynamic link - when the global color changes in "
+"the kit, all widgets using it update automatically."
+msgstr ""
+"Elementor のグローバルカラーをウィジェットのプロパティに割り当てます。最初に get_active_kit "
+"を使用して、利用可能なグローバルカラーとその ID を確認します。一般的なカラープロパティ: title_color (見出しの色), "
+"text_color (段落の色), background_color, button_background_color, "
+"button_text_color, border_color, hover_color."
+"キットのグローバルカラーが変更されると、それを使用しているすべてのウィジェットが自動的に更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:293
+msgid "Asynchronous CSS Loading with Critical CSS"
+msgstr "Critical CSSによるCSSの非同期読み込み"
+
+#. translators: %s: PHP version
+#: admin/class-hostinger-ai-assistant-notices.php:22
+#: hostinger-ai-assistant.php:145
+msgid "Attention:"
+msgstr "注："
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:46
+#, fuzzy
+msgid "Background color"
+msgstr "背景色"
+
+#: admin/class-hostinger-ai-assistant-translations.php:83
+msgid "Bad response"
+msgstr "回答に不満"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:139
+msgid "Balances depth and readability, engaging audiences and driving leads."
+msgstr "情報の詳しさと読みやすさのバランスを考慮し、エンゲージメントとリードを向上させます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:90
+#, fuzzy
+msgid ""
+"Batch create, update, and delete WooCommerce coupons in a single request."
+msgstr "1回のリクエストでWooCommerceクーポンを一括作成、更新、削除します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:89
+#, fuzzy
+msgid "Batch Update WooCommerce Coupons"
+msgstr "WooCommerceクーポンの一括更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:50
+#, fuzzy
+msgid "Border color"
+msgstr "ボーダーカラー"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:287
+#, fuzzy
+msgid "Border color (hex, rgb, rgba)"
+msgstr "ボーダーの色 (hex, rgb, rgba)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:124
+#, fuzzy
+msgid "Border radius (number for all corners) or object with corners and unit"
+msgstr "境界の半径（すべての角に適用される数値）、または角を持つオブジェクトと単位"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:291
+#, fuzzy
+msgid "Border radius for corners"
+msgstr "コーナーのボーダー半径"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:168
+#, fuzzy
+msgid "Border style"
+msgstr "ボーダースタイル"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:242
+#, fuzzy
+msgid "Border style type"
+msgstr "ボーダースタイルタイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:238
+#, fuzzy
+msgid "Border styling"
+msgstr "ボーダー・スタイリング"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:159
+#, fuzzy
+msgid "Border width (number for all sides) or object with sides and unit"
+msgstr "線の幅（すべての辺の合計値）または、辺と単位を持つオブジェクト"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:254
+#, fuzzy
+msgid "Border width for each side"
+msgstr "各辺のボーダー幅"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:266
+#, fuzzy
+msgid "Bottom border width (as string)"
+msgstr "下枠の幅（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:217
+#, fuzzy
+msgid "Bottom margin value (as string)"
+msgstr "下マージンの値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:179
+#, fuzzy
+msgid "Bottom padding value (as string)"
+msgstr "下パディング値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:307
+#, fuzzy
+msgid "Bottom-left border radius (as string)"
+msgstr "左下のボーダーの半径（文字列として）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:303
+#, fuzzy
+msgid "Bottom-right border radius (as string)"
+msgstr "右下のボーダー半径（文字列として）"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:205
+msgid "Brewing content with magic"
+msgstr "魔法のようにコンテンツを生成"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:247
+msgid "Browser Cache"
+msgstr "ブラウザキャッシュ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:58
+#, fuzzy
+msgid "Button background color"
+msgstr "ボタンの背景色"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:54
+#, fuzzy
+msgid "Button text color"
+msgstr "ボタンの文字色"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:69
+msgid "Bypass code for maintenance mode"
+msgstr "メンテナンスモードのバイパスコード"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:191
+msgid ""
+"Bypass code for maintenance mode. Needed only when maintenance mode is "
+"enabled."
+msgstr "メンテナンスモードのバイパスコードです。メンテナンスモードが有効な場合にのみ必要です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:100
+#: admin/partials/hostinger-ai-assistant-tab-view.php:251
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:324
+#, fuzzy
+msgid "Cannot delete an active plugin."
+msgstr "アクティブなプラグインを削除できません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:313
+#, fuzzy
+msgid "Cannot delete the active parent theme."
+msgstr "アクティブな親テーマを削除できません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:305
+#, fuzzy
+msgid "Cannot delete the active theme."
+msgstr "アクティブなテーマを削除できません。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:58
+msgid "Cannot restart the chat when Hostinger Agent is responding"
+msgstr "Hostinger Agentの応答中はチャットを再起動できません"
+
+#: admin/class-hostinger-ai-assistant-translations.php:47
+msgid "Cannot restart the chat when talking with the agent"
+msgstr "エージェントとの会話中はチャットを再起動できません"
+
+#: admin/class-hostinger-ai-assistant-translations.php:59
+msgid "Cannot start a new chat when Hostinger Agent is responding"
+msgstr "Hostinger Agentの応答中は新しいチャットを開始できません"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:222
+msgid "characters"
+msgstr "文字"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:152
+msgid "Choose the length of generated content"
+msgstr "生成するコンテンツの長さを選択します"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:93
+msgid "Choose the type of content that will be generated"
+msgstr "生成するコンテンツタイプを選択します"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:114
+msgid "Choose your desired emotional impact on readers"
+msgstr "読者に与えたい感情的な効果を選択します"
+
+#: admin/class-hostinger-ai-assistant-translations.php:98
+#: admin/class-hostinger-ai-assistant-translations.php:101
+msgid "Clear chat"
+msgstr "チャットを削除"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:247
+msgid ""
+"Clicking <b>Generate new content</b> will permanently delete your existing "
+"content and generate a new one on your recent inputs."
+msgstr ""
+"<b>新しいコンテンツを生成</b>をクリックすると、既存のコンテンツが完全に削除され、最新の入力内容に基づいて新しいコンテンツが生成されます。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:49
+#: admin/class-hostinger-ai-assistant-translations.php:111
+msgid "Close"
+msgstr "閉じる"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:34
+#, fuzzy
+msgid ""
+"Color properties. Values should be valid CSS colors (hex, rgb, rgba). "
+"Example: \"#FF0000\" or \"rgb(255,0,0)\""
+msgstr ""
+"色のプロパティ。値は有効なCSSカラー（hex, rgb, rgba）でなければなりません。例\"#FF0000 \"または \"rgb(255,0,0)"
+"\""
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:105
+#, fuzzy
+msgid "Column gap for grid or flex (px)"
+msgstr "グリッドまたはフレックス用のカラム間隔（px）"
+
+#: includes-psr4/Nudges/WooCommerceSetupNudge.php:61
+#, fuzzy
+msgid "Complete WooCommerce setup"
+msgstr "WooCommerce のセットアップを完了する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:30
+#, fuzzy
+msgid ""
+"Confirm deletion when the subtree is complex (many descendants) and children "
+"will be removed."
+msgstr "サブツリーが複雑（子要素が多い）で、子要素が削除される場合は、削除を確認してください。"
+
+#: includes-psr4/Nudges/DomainNudge.php:99
+#, fuzzy
+msgid "Connect my domain"
+msgstr "ドメインを接続する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:61
+#, fuzzy
+msgid "Container layout type"
+msgstr "コンテナのレイアウトタイプ"
+
+#. translators: %s: container id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:92
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:367
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:207
+#, fuzzy, php-format
+msgid "Container with ID '%s' not found"
+msgstr "ID '%s' のコンテナが見つかりません"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:121
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:77
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:431
+msgid "Content length"
+msgstr "コンテンツの長さ"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:162
+msgid "Content main idea"
+msgstr "コンテンツの主なアイデア"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:63
+msgid "Content Type"
+msgstr "コンテンツタイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:71
+#, fuzzy
+msgid "Content width behavior for the container"
+msgstr "コンテナのコンテンツ幅の挙動"
+
+#: admin/class-hostinger-ai-assistant-translations.php:79
+msgid "Conversation was closed"
+msgstr "会話が終了しました"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:65
+msgid "Convert emoticons to graphics"
+msgstr "絵文字を画像に変換"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:123
+#, fuzzy
+msgid "Could not determine content field for widget type"
+msgstr "ウィジェットタイプのコンテンツフィールドを決定できませんでした"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:282
+msgid "Could not determine file type"
+msgstr "ファイル形式を特定できませんでした"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:103
+#, fuzzy
+msgid "Could not insert the new container at requested position"
+msgstr "指定された位置に新しいコンテナを挿入できませんでした"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:48
+#, fuzzy
+msgid "Could not parse Elementor data: "
+msgstr "Elementor のデータを解析できませんでした："
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:108
+#, fuzzy
+msgid ""
+"Create a new menu item. Provide title, url or object_id/object, and menu "
+"(menu_id)."
+msgstr ""
+"新しいメニュー項目を作成します。タイトル、URL または object_id/object、およびメニュー（menu_id）を指定してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:38
+#, fuzzy
+msgid "Create a new navigation menu."
+msgstr "新しいナビゲーションメニューを作成します。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:171
+msgid "Create a new product category in WooCommerce"
+msgstr "WooCommerceで新しい商品カテゴリーを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:43
+#, fuzzy
+msgid "Create a new Site Editor navigation."
+msgstr "新しいサイトエディタのナビゲーションを作成します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:42
+#, fuzzy
+msgid ""
+"Create a new WooCommerce coupon. Requires a coupon code and discount details."
+msgstr "新しいWooCommerceクーポンを作成します。クーポンコードと割引の詳細が必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:42
+#, fuzzy
+msgid ""
+"Create a new WooCommerce order. Provide customer and line items data as "
+"needed."
+msgstr "WooCommerceの新しい注文を作成します。必要に応じて、顧客情報および商品明細を入力してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:234
+msgid "Create a new WooCommerce product brand. Requires name."
+msgstr "新しいWooCommerce商品ブランドを作成します。名前が必要です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:172
+msgid "Create a new WooCommerce product category for my store"
+msgstr "ストア用に新しいWooCommerceの商品カテゴリーを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:100
+msgid "Create a new WooCommerce product category. Requires name."
+msgstr "新しいWooCommerceの商品カテゴリーを作成します。名前が必要です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:167
+msgid "Create a new WooCommerce product for my store"
+msgstr "ストア用に新しいWooCommerceの商品を作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:167
+msgid "Create a new WooCommerce product tag. Requires name."
+msgstr "新しいWooCommerceの商品タグを作成します。名前が必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:42
+msgid ""
+"Create a new WooCommerce product. Requires name and other product details."
+msgstr "新しいWooCommerceの商品を作成します。名前とその他の商品詳細が必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:40
+msgid "Create a new WordPress page. Requires title and content."
+msgstr "新しいWordPressページを作成します。タイトルとコンテンツが必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:40
+msgid "Create a new WordPress post category. Requires a name."
+msgstr "新しいWordPressの投稿カテゴリーを作成します。名前が必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:40
+msgid "Create a new WordPress post tag. Requires a name."
+msgstr "新しいWordPressの投稿タグを作成します。名前が必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:40
+msgid "Create a new WordPress post. Requires title and content."
+msgstr "新しいWordPressの投稿を作成します。タイトルと本文が必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:58
+msgid "Create a new WordPress user. Requires username and email."
+msgstr "新しいWordPressユーザーを作成します。ユーザー名とメールアドレスが必要です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:181
+msgid "Create a WooCommerce sales report for a chosen period"
+msgstr "選択した期間のWooCommerce売上レポートを作成"
+
+#: admin/class-hostinger-ai-assistant-translations.php:72
+#, fuzzy
+msgid "Create and edit pages or posts"
+msgstr "ページや投稿の作成と編集"
+
+#: admin/class-hostinger-ai-assistant-translations.php:121
+msgid "Create and publish a new page on your WordPress site"
+msgstr "WordPressサイトに新しいページを作成・公開"
+
+#: admin/class-hostinger-ai-assistant-translations.php:141
+msgid "Create and publish a new post on your WordPress site"
+msgstr "WordPressサイトに新しい投稿を作成・公開"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:39
+msgid "Create Category"
+msgstr "カテゴリーを作成"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:195
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:461
+msgid "Create content"
+msgstr "コンテンツを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:184
+msgid "Create Custom Post Type Post"
+msgstr "カスタム投稿タイプの投稿を作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:14
+#, fuzzy
+msgid "Create Elementor Container"
+msgstr "Elementorコンテナを作成する"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:37
+#, fuzzy
+msgid "Create Menu"
+msgstr "メニューを作成する"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:107
+#, fuzzy
+msgid "Create Menu Item"
+msgstr "メニュー項目を作成する"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:42
+#, fuzzy
+msgid "Create Navigation"
+msgstr "ナビゲーションを作成する"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:39
+msgid "Create Page"
+msgstr "ページを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:39
+msgid "Create Post"
+msgstr "投稿を作成"
+
+#: admin/class-hostinger-ai-assistant-translations.php:33
+msgid "Create Post with AI"
+msgstr "AIで投稿を作成"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:24
+msgid "Create product with AI"
+msgstr "AIで商品を作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:39
+msgid "Create Tag"
+msgstr "タグを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:57
+msgid "Create User"
+msgstr "ユーザーを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:41
+#, fuzzy
+msgid "Create WooCommerce Coupon"
+msgstr "WooCommerceクーポンの作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:41
+#, fuzzy
+msgid "Create WooCommerce Order"
+msgstr "WooCommerceの注文を作成する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:41
+msgid "Create WooCommerce Product"
+msgstr "WooCommerceの商品を作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:233
+msgid "Create WooCommerce Product Brand"
+msgstr "WooCommerceの商品ブランドを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:99
+msgid "Create WooCommerce Product Category"
+msgstr "WooCommerceの商品カテゴリーを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:166
+msgid "Create WooCommerce Product Tag"
+msgstr "WooCommerceの商品タグを作成"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:15
+#, fuzzy
+msgid ""
+"Creates a new Elementor container (section) at root or inside a parent "
+"container. Can optionally create multiple inner columns."
+msgstr ""
+"ルートまたは親コンテナ内に、新しいElementorコンテナ（セクション）を作成します。必要に応じて、複数の内部カラムを作成することもできます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:85
+#, fuzzy
+msgid "Cross‑axis alignment for flex containers"
+msgstr "フレックスコンテナのクロス軸方向の配置"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:292
+msgid "CSS & JS Combine"
+msgstr "CSS / JS結合"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:34
+#, fuzzy
+msgid "CSS color value for background (e.g., #1e90ff, rgba(...), color name)"
+msgstr "背景用のCSSの色値（例：#1e90ff、rgba(...)、色名）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:163
+#, fuzzy
+msgid "CSS color value for border"
+msgstr "境界線のCSSの色値"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:273
+msgid "CSS, JS and HTML Minification"
+msgstr "CSS / JS / HTMLの最小化"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:33
+#, fuzzy
+msgid "Custom global color _id to update (optional)"
+msgstr "更新対象のカスタムグローバルカラー _id（任意）"
+
+#: includes-psr4/Mcp/McpServer.php:43
+msgid "Custom MCP Server for Hostinger AI Assistant."
+msgstr "Hostinger AIアシスタント向けカスタムMCPサーバー"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:60
+#, fuzzy
+msgid "Custom typography preset _id to update (optional)"
+msgstr "更新するカスタムタイポグラフィのプリセット _id（任意）"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:49
+msgid "Date format"
+msgstr "日付形式"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:163
+#, fuzzy
+msgid "Deactivate an active plugin by plugin file path."
+msgstr "プラグインファイルのパスでアクティブなプラグインを無効化します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:162
+#, fuzzy
+msgid "Deactivate Plugin"
+msgstr "プラグインの無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:163
+#, fuzzy
+msgid "Deactivate the currently active theme by switching to a fallback theme."
+msgstr "予備テーマに切り替えることで、現在アクティブなテーマを無効にする。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:162
+#, fuzzy
+msgid "Deactivate Theme"
+msgstr "テーマの無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:245
+msgid "Default Cache"
+msgstr "デフォルトキャッシュ"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:81
+msgid "Default comment status (open/closed)"
+msgstr "デフォルトのコメント設定（許可 / 停止）"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:85
+msgid "Default ping status (open/closed)"
+msgstr "デフォルトのピンバック / トラックバック設定（許可 / 停止）"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:69
+msgid "Default post category"
+msgstr "デフォルトの投稿カテゴリー"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:73
+msgid "Default post format"
+msgstr "デフォルトの投稿フォーマット"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:134
+#, fuzzy
+msgid "Delete a menu item by ID."
+msgstr "ID に基づいてメニュー項目を削除する。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:64
+#, fuzzy
+msgid "Delete a navigation menu by ID."
+msgstr "ID に基づいてナビゲーションメニューを削除する。"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:69
+#, fuzzy
+msgid "Delete a Site Editor navigation by ID."
+msgstr "ID に基づいてサイトエディタのナビゲーションを削除する。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:70
+#, fuzzy
+msgid ""
+"Delete a specific revision for an item. Provide REST API base and parent ID, "
+"plus the revision ID."
+msgstr "アイテムの特定のリビジョンを削除します。REST APIのベースIDと親ID、およびリビジョンIDを指定してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:51
+#, fuzzy
+msgid "Delete a template part by ID."
+msgstr "ID に基づいてテンプレートパーツを削除します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:68
+#, fuzzy
+msgid "Delete a WooCommerce coupon by ID. This action cannot be undone."
+msgstr "IDでWooCommerceクーポンを削除します。このアクションは元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:68
+#, fuzzy
+msgid "Delete a WooCommerce order by ID. This action cannot be undone."
+msgstr "WooCommerceの注文をIDで削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:260
+msgid "Delete a WooCommerce product brand by ID."
+msgstr "IDでWooCommerce商品ブランドを削除します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:68
+msgid "Delete a WooCommerce product by ID. This action cannot be undone."
+msgstr "IDでWooCommerce商品を削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:126
+msgid "Delete a WooCommerce product category by ID."
+msgstr "IDでWooCommerceの商品カテゴリーを削除します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:193
+msgid "Delete a WooCommerce product tag by ID."
+msgstr "IDでWooCommerceの商品タグを削除します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:66
+msgid "Delete a WordPress category by ID. This action cannot be undone."
+msgstr "IDでWordPressのカテゴリーを削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:297
+msgid ""
+"Delete a WordPress custom post type post by ID. This action cannot be undone."
+msgstr "IDでWordPressのカスタム投稿タイプの投稿を削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:56
+msgid ""
+"Delete a WordPress media item permanently. This action cannot be undone."
+msgstr "WordPressのメディアを完全に削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:66
+msgid "Delete a WordPress page by ID. This action cannot be undone."
+msgstr "IDでWordPressのページを削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:66
+msgid "Delete a WordPress post by ID. This action cannot be undone."
+msgstr "IDでWordPressの投稿を削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:66
+msgid "Delete a WordPress tag by ID. This action cannot be undone."
+msgstr "IDでWordPressのタグを削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:90
+msgid "Delete a WordPress user by ID. This action cannot be undone."
+msgstr "IDでWordPressユーザーを削除します。この操作は元に戻せません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:73
+#, fuzzy
+msgid ""
+"Delete an installed plugin by plugin file path. Cannot delete an active "
+"plugin."
+msgstr "インストールされているプラグインをプラグインファイルのパスで削除します。アクティブなプラグインは削除できません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:73
+#, fuzzy
+msgid ""
+"Delete an installed theme by stylesheet directory name. Cannot delete the "
+"active or parent theme."
+msgstr "インストールされているテーマをスタイルシートディレクトリ名で削除します。アクティブまたは親テーマは削除できません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:65
+msgid "Delete Category"
+msgstr "カテゴリーを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:296
+msgid "Delete Custom Post Type Post"
+msgstr "カスタム投稿タイプの投稿を削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:14
+#, fuzzy
+msgid "Delete Elementor Container"
+msgstr "Elementorのコンテナを削除する"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:55
+msgid "Delete Media"
+msgstr "メディアを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:63
+#, fuzzy
+msgid "Delete Menu"
+msgstr "「削除」メニュー"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:133
+#, fuzzy
+msgid "Delete Menu Item"
+msgstr "メニュー項目の削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:68
+#, fuzzy
+msgid "Delete Navigation"
+msgstr "ナビゲーションを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:65
+msgid "Delete Page"
+msgstr "ページを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:72
+#, fuzzy
+msgid "Delete Plugin"
+msgstr "プラグインの削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:65
+msgid "Delete Post"
+msgstr "投稿を削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:69
+#, fuzzy
+msgid "Delete Revision"
+msgstr "リビジョンを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:65
+msgid "Delete Tag"
+msgstr "タグを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:50
+#, fuzzy
+msgid "Delete Template Part"
+msgstr "テンプレートの一部を削除する"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:72
+#, fuzzy
+msgid "Delete Theme"
+msgstr "テーマの削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:89
+msgid "Delete User"
+msgstr "ユーザーを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:67
+#, fuzzy
+msgid "Delete WooCommerce Coupon"
+msgstr "WooCommerceクーポンを削除する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:67
+#, fuzzy
+msgid "Delete WooCommerce Order"
+msgstr "WooCommerceの注文を削除する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:67
+msgid "Delete WooCommerce Product"
+msgstr "WooCommerceの商品を削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:259
+msgid "Delete WooCommerce Product Brand"
+msgstr "WooCommerceの商品ブランドを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:125
+msgid "Delete WooCommerce Product Category"
+msgstr "WooCommerceの商品カテゴリーを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:192
+msgid "Delete WooCommerce Product Tag"
+msgstr "WooCommerceの商品タグを削除"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:70
+msgid "Describe your product in short"
+msgstr "商品の簡潔な説明を入力"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:40
+msgid "Description"
+msgstr "説明"
+
+#: includes/class-hostinger-ai-assistant-errors.php:23
+msgid "Description is empty. Please provide a valid description."
+msgstr "説明欄が空白です。正確に説明を入力してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:85
+msgid "Disable authentication password"
+msgstr "認証パスワードを無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:207
+msgid "Disable authentication password status"
+msgstr "認証パスワードのステータスを無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:195
+msgid "Disable XML-RPC status"
+msgstr "XML-RPCステータスを無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:276
+msgid "DNS Prefetch for static files"
+msgstr "静的ファイルのDNSプリフェッチ"
+
+#: includes/class-hostinger-ai-assistant-surveys.php:24
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "当社のAIツールを改善するためのご意見やご提案はございますか？"
+
+#: admin/class-hostinger-ai-assistant-translations.php:54
+msgid "Drop files here"
+msgstr "ここにファイルをドロップ"
+
+#: admin/class-hostinger-ai-assistant-translations.php:161
+msgid "Edit a WordPress post category by ID"
+msgstr "IDでWordPressの投稿カテゴリーを編集"
+
+#: admin/class-hostinger-ai-assistant-translations.php:156
+msgid "Edit a WordPress post tag (e.g., rename or update it)"
+msgstr "WordPressの投稿タグを編集（例：名前の変更 / 更新）"
+
+#: admin/class-hostinger-ai-assistant-translations.php:126
+msgid "Edit an existing WordPress page by its ID"
+msgstr "IDで既存のWordPressページを編集"
+
+#: admin/class-hostinger-ai-assistant-translations.php:146
+msgid "Edit an existing WordPress post by its ID"
+msgstr "IDで既存のWordPressの投稿を編集"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:229
+msgid "Edit as a draft"
+msgstr "下書きとして編集"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:17
+#, fuzzy
+msgid "Edit Elementor Container Styles"
+msgstr "Elementorのコンテナスタイルを編集する"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:371
+#, fuzzy
+msgid "Edit prompt"
+msgstr "プロンプトを編集"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:48
+msgid "Edit site"
+msgstr "サイトを編集"
+
+#. translators: %s: element id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:229
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:92
+#, fuzzy, php-format
+msgid "Element '%s' is not a container"
+msgstr "要素「%s」はコンテナではありません"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:326
+#, fuzzy
+msgid "Element alignment settings"
+msgstr "エレメントのアライメント設定"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:89
+msgid "Enable llms.txt generation"
+msgstr "llms.txt生成を有効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:211
+msgid "Enable llms.txt status"
+msgstr "llms.txtのステータスを有効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:65
+msgid "Enable or disable maintenance mode"
+msgstr "メンテナンスモードを有効化 / 無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:73
+msgid "Enable or disable XML-RPC"
+msgstr "XML-RPCを有効化または無効化"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:314
+msgid ""
+"Enables the maximum level of optimizations for improved page speed scores. "
+"Extensive testing required."
+msgstr "ページ速度スコアを高めるため最適化を最大限まで適用します。十分なテストが必要です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:30
+#: admin/partials/hostinger-ai-assistant-tab-view.php:175
+msgid "Enter at least 10 characters"
+msgstr "10文字以上で入力します"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:261
+msgid "Enthusiastic beginners"
+msgstr "熱心な初心者"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:291
+msgid "Everything in Advanced"
+msgstr "Advancedのすべて"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:306
+msgid "Everything in Aggressive"
+msgstr "Aggressiveのすべて"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:271
+msgid "Everything in Basic"
+msgstr "Basicのすべて"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:257
+msgid "Everything in Essentials"
+msgstr "Essentialsのすべて"
+
+#: admin/class-hostinger-ai-assistant-translations.php:29
+msgid "Example: website development, WordPress tutorial, ..."
+msgstr "例：Webサイト開発、WordPressチュートリアル、..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:92
+msgid "Excellent"
+msgstr "素晴らしい"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:86
+msgid "External Featured Image"
+msgstr "外部アイキャッチ画像"
+
+#: admin/class-hostinger-ai-assistant-translations.php:36
+msgid "External featured image"
+msgstr "外部アイキャッチ画像"
+
+#. translators: %s: Preset name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:373
+#, php-format
+msgid "Failed to apply preset: %s"
+msgstr "プリセットの適用に失敗しました：%s"
+
+#. translators: %s: plugin file path.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:353
+#, fuzzy, php-format
+msgid "Failed to delete plugin \"%s\"."
+msgstr "プラグイン \"%s\" の削除に失敗しました。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:536
+msgid "Failed to delete post"
+msgstr "投稿を削除できませんでした"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:340
+#, fuzzy, php-format
+msgid "Failed to delete theme \"%s\"."
+msgstr "テーマ \"%s\" の削除に失敗しました。"
+
+#. translators: %s: Error message
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:223
+#, php-format
+msgid "Failed to flush cache: %s"
+msgstr "キャッシュのクリアに失敗しました：%s"
+
+#. translators: %s: Setting name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:193
+#, php-format
+msgid "Failed to get settings: %s"
+msgstr "設定の取得に失敗しました：%s"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:84
+#, fuzzy
+msgid "Failed to insert container into parent elements"
+msgstr "コンテナを親要素に挿入できませんでした"
+
+#. translators: %s: plugin slug.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:282
+#, fuzzy, php-format
+msgid "Failed to install plugin \"%s\"."
+msgstr "プラグイン \"%s\" のインストールに失敗しました。"
+
+#. translators: %s: theme slug.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:284
+#, fuzzy, php-format
+msgid "Failed to install theme \"%s\"."
+msgstr "テーマ \"%s\" のインストールに失敗しました。"
+
+#. translators: %s: plugin slug.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:303
+#, fuzzy, php-format
+msgid "Failed to locate installed plugin \"%s\"."
+msgstr "インストールされたプラグイン \"%s\" を見つけられませんでした。"
+
+#. translators: %s: plugin file path.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:474
+#, fuzzy, php-format
+msgid "Failed to update plugin \"%s\"."
+msgstr "プラグイン \"%s\" の更新に失敗しました。"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:459
+#, fuzzy, php-format
+msgid "Failed to update theme \"%s\"."
+msgstr "テーマ \"%s\" の更新に失敗しました。"
+
+#. translators: %s: theme slug name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:482
+#, fuzzy, php-format
+msgid "Fallback theme \"%s\" not found."
+msgstr "フォールバック・テーマ \"%s\" が見つかりません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:265
+msgid "File is required"
+msgstr "ファイルが必要です"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:227
+msgid "File not found"
+msgstr "ファイルが見つかりません"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:102
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:101
+msgid "Filter by author ID"
+msgstr "投稿者IDで絞り込む"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:93
+msgid "Filter by media type (image, video, audio, application)"
+msgstr "メディアタイプで絞り込む（画像、動画、音声、アプリケーション）"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:97
+msgid "Filter by MIME type (e.g., image/jpeg, video/mp4)"
+msgstr "MIMEタイプで絞り込む（例: 画像 / jpeg、動画 / mp4）"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:105
+msgid "Filter by parent post ID"
+msgstr "親投稿IDで絞り込む"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:28
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:22
+#, fuzzy
+msgid "Filter by post status (publish, draft, any). Default: any"
+msgstr "投稿ステータス(publish, draft, any)によるフィルタリング。デフォルト: any"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:106
+msgid "Filter by post status (publish, draft, pending, etc.)"
+msgstr "投稿ステータスで絞り込む（公開、下書き、保留中など）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:22
+#, fuzzy
+msgid "Filter by post type (page, post, any). Default: any"
+msgstr "投稿タイプ (page, post, any) によるフィルタリング。デフォルト: any"
+
+#: admin/class-hostinger-ai-assistant-translations.php:151
+msgid "Find and filter posts with pagination options"
+msgstr "投稿の検索と絞り込み（ページ分割表示）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:16
+#, fuzzy
+msgid "Find Elementor Widgets"
+msgstr "Elementorウィジェットを探す"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:66
+#, fuzzy
+msgid "Flex direction (row or column). Applies to flex layout."
+msgstr "フレックスの方向（行または列）。フレックスレイアウトに適用されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:58
+msgid "Flush LiteSpeed Cache"
+msgstr "LiteSpeed Cacheを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:274
+msgid "Font Display Optimization"
+msgstr "フォント表示の最適化"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:76
+#, fuzzy
+msgid "Font family name. Example: \"Arial\", \"Roboto\""
+msgstr "フォントファミリー名。例「Arial\"、\"Roboto\""
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:80
+#, fuzzy
+msgid "Font size with unit"
+msgstr "単位付き文字サイズ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:150
+#, fuzzy
+msgid "Font style"
+msgstr "フォントスタイル"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:96
+#, fuzzy
+msgid "Font weight. Example: \"400\", \"700\", \"bold\", \"normal\""
+msgstr "フォントの太さ。例「400\"、\"700\"、\"ボールド\"、\"ノーマル\""
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:72
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:72
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:132
+msgid "Force category deletion"
+msgstr "カテゴリーを強制削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:77
+msgid "Force HTTPS redirects"
+msgstr "HTTPSへのリダイレクトを強制"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:199
+msgid "Force HTTPS status"
+msgstr "HTTPSステータスを強制"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:266
+msgid "Force Product Brand deletion"
+msgstr "商品ブランドを強制削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:199
+msgid "Force tag deletion"
+msgstr "タグを強制削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:81
+msgid "Force WWW in URLs"
+msgstr "URLにwwwを強制"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:203
+msgid "Force WWW status"
+msgstr "wwwステータスを強制"
+
+#: admin/class-hostinger-ai-assistant-translations.php:24
+#: admin/partials/hostinger-ai-assistant-tab-view.php:106
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:89
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:135
+msgid "Formal"
+msgstr "フォーマル"
+
+#: admin/class-hostinger-ai-assistant-translations.php:26
+#: admin/partials/hostinger-ai-assistant-tab-view.php:108
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:91
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:143
+msgid "Friendly"
+msgstr "フレンドリー"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:254
+msgid "Generate new content"
+msgstr "新しいコンテンツを生成"
+
+#: admin/class-hostinger-ai-assistant-translations.php:180
+msgid "Generate sales report"
+msgstr "売上レポートを生成"
+
+#: admin/class-hostinger-ai-assistant-translations.php:182
+msgid "Generate WooCommerce sales report for my store"
+msgstr "ストア用のWooCommerce売上レポートを生成"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:264
+#: admin/partials/hostinger-ai-assistant-tab-view.php:267
+msgid "Generating content..."
+msgstr "コンテンツの生成中..."
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:91
+msgid ""
+"Get a list of all available LiteSpeed Cache optimization presets with their "
+"descriptions, features, risk levels, and requirements."
+msgstr "利用可能なLiteSpeed Cacheの最適化プリセットをすべて一覧で取得し、それぞれの説明、機能、リスクレベル、要件を確認できます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:86
+#, fuzzy
+msgid "Get a list of menu items with filtering options."
+msgstr "フィルタリング機能付きのメニュー項目のリストを取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:16
+#, fuzzy
+msgid "Get a list of navigation menus."
+msgstr "ナビゲーションメニューの一覧を取得します。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:175
+msgid "Get a list of orders"
+msgstr "注文一覧を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:21
+#, fuzzy
+msgid "Get a list of Site Editor navigations."
+msgstr "サイトエディタのナビゲーション一覧を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:16
+#, fuzzy
+msgid "Get a list of template parts."
+msgstr "テンプレートパーツの一覧を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:156
+#, fuzzy
+msgid "Get a list of theme menu locations and their assigned menus."
+msgstr "テーマメニューの配置場所と、それぞれに割り当てられたメニューの一覧を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:20
+msgid ""
+"Get a list of WooCommerce orders with search and filter capabilities. "
+"Returns a list of orders matching the criteria."
+msgstr "検索と絞り込みに対応したWooCommerceの注文一覧を取得します。条件に一致する注文の一覧を返します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:97
+#, fuzzy
+msgid "Get a single menu item by ID."
+msgstr "ID に基づいてメニュー項目を 1 つ取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:32
+#, fuzzy
+msgid "Get a single navigation by ID."
+msgstr "ID に基づいて 1 つのナビゲーションを取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:27
+#, fuzzy
+msgid "Get a single navigation menu by ID."
+msgstr "ID に基づいて単一のナビゲーションメニューを取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:27
+#, fuzzy
+msgid "Get a single template part by ID."
+msgstr "ID に基づいて、1 つのテンプレートパーツを取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:31
+#, fuzzy
+msgid ""
+"Get a single WooCommerce coupon by ID. Returns the full coupon object with "
+"all fields."
+msgstr "IDで単一のWooCommerceクーポンを取得します。全てのフィールドを含む完全なクーポンオブジェクトを返します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:31
+#, fuzzy
+msgid ""
+"Get a single WooCommerce order by ID. Returns the full order object with all "
+"fields."
+msgstr "WooCommerceの注文をIDで1件取得します。すべてのフィールドを含む完全な注文オブジェクトを返します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:31
+msgid ""
+"Get a single WooCommerce product by ID. Returns the full product object with "
+"all fields."
+msgstr "IDを指定してWooCommerceの商品を一件取得します。すべてのフィールドを含む商品オブジェクトが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:29
+msgid ""
+"Get a single WordPress category by ID. Returns the full category object with "
+"all fields."
+msgstr "IDを指定してWordPressのカテゴリーを一件取得します。すべてのフィールドを含むカテゴリーオブジェクトが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:29
+msgid ""
+"Get a single WordPress page by ID. Returns the full page object with all "
+"fields."
+msgstr "IDを指定してWordPressの固定ページを一件取得します。すべてのフィールドを含む固定ページオブジェクトが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:29
+msgid ""
+"Get a single WordPress post by ID. Returns the full post object with all "
+"fields."
+msgstr "IDを指定してWordPressの投稿を一件取得します。すべてのフィールドを含む投稿オブジェクトが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:29
+msgid ""
+"Get a single WordPress tag by ID. Returns the full tag object with all "
+"fields."
+msgstr "IDを指定してWordPressのタグを一件取得します。すべてのフィールドを含むタグオブジェクトが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:44
+msgid ""
+"Get a single WordPress user by ID. Returns the full user object with all "
+"fields."
+msgstr "IDを指定してWordPressのユーザーを一件取得します。すべてのフィールドを含むユーザーオブジェクトが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:46
+#, fuzzy
+msgid ""
+"Get a specific revision for an item. Provide REST API base and parent ID, "
+"plus the revision ID."
+msgstr "アイテムの特定のリビジョンを取得します。REST APIのベースIDと親ID、およびリビジョンIDを指定してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:145
+msgid "Get a WordPress custom post type post by ID"
+msgstr "IDでWordPressカスタム投稿タイプの投稿を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:32
+msgid ""
+"Get a WordPress media item details by ID. Returns the full media object with "
+"all fields."
+msgstr "IDでWordPressのメディアの詳細を取得します。すべてのフィールドを含む完全なメディアオブジェクトを返します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:28
+msgid "Get Category"
+msgstr "カテゴリーを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:28
+msgid ""
+"Get current Hostinger plugin settings including maintenance mode, XML-RPC, "
+"HTTPS, and other security options."
+msgstr "メンテナンスモード、XML-RPC、HTTPSなどのセキュリティオプションを含む、現在のHostingerプラグイン設定を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:30
+msgid ""
+"Get current LiteSpeed Cache settings including active preset, cache status, "
+"and key configuration options."
+msgstr "有効なプリセット、キャッシュの状態、主要な設定項目を含む、現在のLiteSpeed Cache設定を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:118
+msgid "Get Current User"
+msgstr "現在のユーザーを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:144
+msgid "Get Custom Post Type Post"
+msgstr "カスタム投稿タイプの投稿を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:14
+#, fuzzy
+msgid "Get Elementor Active Kit"
+msgstr "Elementor Active Kitを入手する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:14
+#, fuzzy
+msgid "Get Elementor Kit by ID"
+msgstr "IDでElementor Kitを入手する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:14
+#, fuzzy
+msgid "Get Elementor Page Structure"
+msgstr "Elementorのページ構造を取得する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:14
+#, fuzzy
+msgid "Get Elementor Widget by ID"
+msgstr "IDでElementorウィジェットを取得する"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:20
+msgid "Get General Settings"
+msgstr "一般設定を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:27
+msgid "Get Hostinger Plugin Settings"
+msgstr "Hostingerプラグイン設定を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:29
+msgid "Get LiteSpeed Cache Settings"
+msgstr "LiteSpeed Cache設定を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:31
+msgid "Get Media"
+msgstr "メディアを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:142
+msgid "Get Media File"
+msgstr "メディアファイルを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:26
+#, fuzzy
+msgid "Get Menu"
+msgstr "メニューを表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:96
+#, fuzzy
+msgid "Get Menu Item"
+msgstr "メニュー項目を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:31
+#, fuzzy
+msgid "Get Navigation"
+msgstr "ナビゲーションを表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:28
+msgid "Get Page"
+msgstr "ページを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:28
+msgid "Get Post"
+msgstr "投稿を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:45
+#, fuzzy
+msgid "Get Revision"
+msgstr "修正を依頼する"
+
+#: includes-psr4/Mcp/Abilities/Tools/SiteInfoTools.php:16
+msgid "Get Site Info"
+msgstr "サイト情報を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:28
+msgid "Get Tag"
+msgstr "タグを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:26
+#, fuzzy
+msgid "Get Template Part"
+msgstr "テンプレートパーツを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:143
+msgid "Get the actual file content (blob) of a WordPress media item."
+msgstr "WordPressのメディアの実ファイルコンテンツ（blob）を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:119
+msgid "Get the current logged-in user information."
+msgstr "現在ログイン中のユーザー情報を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:43
+msgid "Get User"
+msgstr "ユーザーを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:30
+#, fuzzy
+msgid "Get WooCommerce Coupon"
+msgstr "WooCommerceクーポンを取得する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:87
+msgid "Get WooCommerce Coupons Report"
+msgstr "WooCommerceのクーポンレポートを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:88
+msgid ""
+"Get WooCommerce coupons totals report. Returns count of coupons by coupon "
+"type."
+msgstr "WooCommerceのクーポン集計レポートを取得します。クーポンタイプ別のクーポン件数が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:94
+msgid "Get WooCommerce Customers Report"
+msgstr "WooCommerceの顧客レポートを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:95
+msgid ""
+"Get WooCommerce customers totals report. Returns statistics about customers."
+msgstr "WooCommerceの顧客集計レポートを取得します。顧客に関する統計情報が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:30
+#, fuzzy
+msgid "Get WooCommerce Order"
+msgstr "WooCommerceの注文を取得する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:101
+msgid "Get WooCommerce Orders Report"
+msgstr "WooCommerceの注文レポートを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:102
+msgid "Get WooCommerce orders totals report. Returns statistics about orders."
+msgstr "WooCommerceの注文集計レポートを取得します。注文に関する統計情報が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:30
+msgid "Get WooCommerce Product"
+msgstr "WooCommerce商品を取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:108
+msgid "Get WooCommerce Products Report"
+msgstr "WooCommerceの商品レポートを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:109
+msgid ""
+"Get WooCommerce products totals report. Returns statistics about products."
+msgstr "WooCommerceの商品集計レポートを取得します。商品に関する統計情報が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:115
+msgid "Get WooCommerce Reviews Report"
+msgstr "WooCommerceのレビューレポートを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:116
+msgid ""
+"Get WooCommerce reviews totals report. Returns statistics about product "
+"reviews."
+msgstr "WooCommerceのレビュー集計レポートを取得します。商品レビューに関する統計情報が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:122
+msgid "Get WooCommerce Sales Report"
+msgstr "WooCommerceの売上レポートを取得"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:123
+msgid ""
+"Get WooCommerce sales report. Returns detailed sales statistics and revenue "
+"data."
+msgstr "WooCommerceの売上レポートを取得します。売上の詳細な統計情報と収益データが返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:21
+msgid ""
+"Get WordPress general site settings including title, description, timezone, "
+"and other configuration options."
+msgstr "サイトタイトル、説明、タイムゾーンなどの設定項目を含む、WordPressの一般的なサイト設定を取得します。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:130
+msgid "Get WordPress site information"
+msgstr "WordPressのサイト情報を取得"
+
+#. translators: %s: global color id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:94
+#, fuzzy, php-format
+msgid "Global color with ID '%s' not found in active kit"
+msgstr "ID '%s' を持つグローバル・カラーがアクティブなキットに見つかりません。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:82
+msgid "Good response"
+msgstr "回答に満足"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:277
+msgid "Gravatar Cache"
+msgstr "Gravatar Cache"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:272
+msgid "Guest Mode and Guest Optimization"
+msgstr "ゲストモードとゲスト向け最適化"
+
+#: admin/class-hostinger-ai-assistant-translations.php:64
+msgid "Hello 👋"
+msgstr "こんにちは 👋"
+
+#: includes-psr4/Nudges/WooCommerceSetupNudge.php:49
+#, fuzzy
+msgid ""
+"Hey! It looks like your WooCommerce store isn't fully set up yet. Complete "
+"the remaining steps to make sure your store is ready to sell."
+msgstr "ねえ！あなたのWooCommerceストアはまだ完全に設定されていないようです。販売を開始できるよう、残りの手順を完了させてください。"
+
+#. translators: %s: domain expiration date.
+#: includes-psr4/Nudges/DomainRenewalNudge.php:77
+#, fuzzy, php-format
+msgid ""
+"Hey! Just a heads-up — your domain is expiring on %s. Renew it now to keep "
+"your website running without interruption."
+msgstr "こんにちは！お知らせです。お使いのドメインは%sに期限切れとなります。ウェブサイトを中断なく運用し続けるためにも、今すぐ更新してください。"
+
+#. translators: %s: hosting plan expiration date.
+#: includes-psr4/Nudges/RenewalNudge.php:81
+#, fuzzy, php-format
+msgid ""
+"Hey! Just a heads-up — your hosting plan is expiring on %s. Renew it now to "
+"keep your website running without interruption."
+msgstr ""
+"こんにちは！お知らせです。ご利用中のホスティングプランの有効期限が%sに迫っています。ウェブサイトを中断なく運用し続けるためにも、今すぐ更新してください。"
+
+#: includes-psr4/Nudges/DomainNudge.php:87
+#, fuzzy
+msgid ""
+"Hey! Your site is still running on a temporary domain. Connecting a custom "
+"domain makes your site look more professional and helps visitors find you. "
+"It only takes a few minutes!"
+msgstr ""
+"ねえ！あなたのサイトはまだ仮のドメインで運営されていますね。カスタムドメインを紐づけることで、サイトの印象がよりプロフェッショナルになり、訪問者がサイトを見つけやすくなります。設定はほんの数分で完了しますよ！"
+
+#: admin/class-hostinger-ai-assistant-translations.php:68
+#, fuzzy
+msgid "Hey,"
+msgstr "やあ、"
+
+#: admin/class-hostinger-ai-assistant-translations.php:42
+#| msgid ""
+#| "Hi, I'm your personal AI Assistant. You can ask me any questions you have "
+#| "regarding WordPress. I'm still learning, so sometimes can make mistakes. "
+#| "What questions do you have?"
+msgid ""
+"Hi, I'm Hostinger Agent, your personal AI assistant. You can ask me any questions you "
+"have regarding WordPress. I'm still learning, so sometimes can make mistakes."
+" What questions do you have?"
+msgstr ""
+"こんにちは、パーソナルAIアシスタントのHostinger Agentです。WordPressに関してご質問があれば何でもお尋ねください。まだ学習中なので、時々間違えてしまう場合がありますがご了承ください。何かお手伝いできることはありますか？"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:246
+msgid "Higher TTL"
+msgstr "長めのTTL"
+
+#: admin/class-hostinger-ai-assistant-translations.php:50
+msgid "History"
+msgstr "履歴"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:330
+#, fuzzy
+msgid "Horizontal alignment"
+msgstr "水平アライメント"
+
+#. Author of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger AI"
+msgstr "Hostinger AI"
+
+#: includes-psr4/Mcp/Abilities/AbilitiesRegistry.php:93
+msgid "Hostinger AI Abilities"
+msgstr "Hostinger AIの機能"
+
+#. Description of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger AI plugin for WordPress."
+msgstr "WordPress用のHostinger AIプラグインです。"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:124
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:139
+msgid "Hostinger plugin settings option not defined"
+msgstr "Hostingerプラグイン設定オプションが定義されていません"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:62
+#, fuzzy
+msgid "Hover state color"
+msgstr "ホバー状態の色"
+
+#: admin/class-hostinger-ai-assistant-translations.php:65
+msgid "How can I help you today?"
+msgstr "お手伝いできることはありますか？"
+
+#: admin/class-hostinger-ai-assistant-translations.php:69
+#, fuzzy
+msgid "How can I help you?"
+msgstr "どうされましたか？"
+
+#: admin/class-hostinger-ai-assistant-translations.php:90
+msgid "How can we improve your experience?"
+msgstr "どのようにお客様の体験を改善できますか？"
+
+#: includes/class-hostinger-ai-assistant-surveys.php:23
+msgid ""
+"How would you rate your experience using our AI Assistant plugin for content "
+"generation? (Scale 1-10)"
+msgstr "当社のAIアシスタントプラグインを使用したコンテンツ生成の体験をどのように評価しますか？（1〜10の数字で回答）"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hostinger-ai-assistant.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: admin/class-hostinger-ai-assistant-translations.php:116
+msgid ""
+"I'm sorry, I didn't understand your question. Could you please rephrase it "
+"or ask something different?"
+msgstr "申し訳ありませんが、ご質問を理解できませんでした。別の言い方または他の質問をお試しいただけますか？"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:66
+#, fuzzy
+msgid "Icon color"
+msgstr "アイコンの色"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:121
+#, fuzzy
+msgid "ID of the parent item to restore into."
+msgstr "復元先の親アイテムのID。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:125
+#, fuzzy
+msgid "ID of the revision to restore from."
+msgstr "復元元のリビジョンのID。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:138
+#, fuzzy
+msgid "If preserving children, where to place them into remaining columns"
+msgstr "子どもを保存する場合、残りの列のどこに配置するか"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:25
+#, fuzzy
+msgid ""
+"If true, move the container's children into the parent at the same position "
+"instead of deleting them."
+msgstr "その場合、コンテナの子要素を削除するのではなく、親要素内の同じ位置に移動させる。"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:182
+msgid ""
+"If you skip this part, AI will automatically generate keyword suggestions "
+"after you generate the content"
+msgstr "この手順をスキップすると、コンテンツの作成後にAIによって自動的にキーワードの候補が生成されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:258
+msgid "Image Optimization"
+msgstr "画像の最適化"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:105
+msgid "Image URL:"
+msgstr "画像のURL："
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:32
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:36
+#, fuzzy
+msgid "Include all other kit settings. Default: false"
+msgstr "他のすべてのキット設定を含めます。デフォルト：false"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:26
+#, fuzzy
+msgid "Include global colors in response. Default: true"
+msgstr "レスポンスにグローバルカラーを含める。デフォルト: true"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:27
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:31
+#, fuzzy
+msgid "Include global typography in response. Default: true"
+msgstr "レスポンスにグローバルタイポグラフィを含める。デフォルト: true"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:283
+msgid "Includes many optimizations known to improve page speed scores."
+msgstr "ページ速度スコアの改善に効果があるとされる最適化を多数含んでいます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:298
+msgid ""
+"Includes many optimizations known to improve page speed scores. Testing "
+"recommended."
+msgstr "ページ速度スコアの改善に効果があるとされる最適化を多数含んでいます。テストが推奨されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:262
+msgid ""
+"Includes optimizations known to improve site score in page speed measurement "
+"tools."
+msgstr "ページ速度計測ツールのスコア改善に効果があるとされる最適化を含んでいます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:311
+msgid "Inline CSS added to Combine"
+msgstr "インラインCSSを「結合」に追加"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:310
+msgid "Inline JS added to Combine"
+msgstr "インラインJSを「結合」に追加"
+
+#: admin/class-hostinger-ai-assistant-translations.php:37
+msgid "Insert this image inside content"
+msgstr "この画像をコンテンツ内に挿入"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:42
+#, fuzzy
+msgid ""
+"Insertion position relative to list (start/end), a sibling (before/after) or "
+"a specific index."
+msgstr "リスト（先頭／末尾）、同階層の要素（前／後）、または特定のインデックスに対する挿入位置。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:27
+#, fuzzy
+msgid "Install a plugin from WordPress.org by slug."
+msgstr "WordPress.orgからslugでプラグインをインストールする。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:27
+#, fuzzy
+msgid "Install a theme from WordPress.org by slug."
+msgstr "WordPress.orgからテーマをslugでインストールする。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:26
+#, fuzzy
+msgid "Install Plugin"
+msgstr "プラグインのインストール"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:26
+#, fuzzy
+msgid "Install Theme"
+msgstr "テーマのインストール"
+
+#: includes-psr4/Mcp/McpServer.php:73
+msgid "Invalid API key"
+msgstr "無効なAPIキー"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:171
+#, fuzzy
+msgid "Invalid base API, parent, or revision ID."
+msgstr "無効なベースAPI、親、またはリビジョンIDです。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:275
+msgid "Invalid base64 data"
+msgstr "無効なBase64データ"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:222
+msgid "Invalid media ID"
+msgstr "無効なメディアID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:357
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:402
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:426
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:465
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:516
+msgid "Invalid post type"
+msgstr "無効な投稿タイプ"
+
+#. translators: %s: Allowed preset name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:348
+#, php-format
+msgid "Invalid preset. Allowed presets: %s"
+msgstr "無効なプリセットです。使用可能なプリセット：%s"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:222
+#, fuzzy
+msgid "It was an error processing the request."
+msgstr "リクエストの処理中にエラーが発生しました。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:70
+#, fuzzy
+msgid "I’m Hostinger Agent – your AI WordPress assistant. I can help you:"
+msgstr "私はHostinger Agent - あなたのAI WordPressアシスタントです。あなたのお手伝いをします："
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:275
+msgid "JS Defer for both external and inline JS"
+msgstr "外部JSとインラインJSの両方を遅延読み込み"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:309
+msgid "JS Delayed"
+msgstr "JS遅延"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:9
+msgid "Keywords"
+msgstr "キーワード"
+
+#. translators: %s: kit id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:302
+#, fuzzy, php-format
+msgid "Kit with ID %s not found"
+msgstr "ID %s のキットが見つかりません。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:43
+msgid "Hostinger Agent"
+msgstr "Hostinger Agent"
+
+#: admin/class-hostinger-ai-assistant-translations.php:55
+msgid "Hostinger Agent only supports JPEG, JPG, PNG, GIF, HEIC, and DNG files"
+msgstr "Hostinger AgentはJPEG、JPG、PNG、GIF、HEIC、DNGファイル形式に対応しています"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:295
+msgid "Lazy Load for Iframes"
+msgstr "iframeの遅延読み込み"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:307
+msgid "Lazy Load for Images"
+msgstr "画像の遅延読み込み"
+
+#: admin/class-hostinger-ai-assistant-translations.php:45
+#: admin/class-hostinger-ai-assistant-translations.php:86
+msgid "Leave feedback"
+msgstr "フィードバックを提供"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:270
+#, fuzzy
+msgid "Left border width (as string)"
+msgstr "左境界線の幅（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:221
+#, fuzzy
+msgid "Left margin value (as string)"
+msgstr "左マージンの値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:183
+#, fuzzy
+msgid "Left padding value (as string)"
+msgstr "左パディング値（文字列）"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:164
+msgid ""
+"Let us know more about your content idea. For example: Article about how to "
+"use WordPress to dive into website development including tutorials how to "
+"use it in a simple way..."
+msgstr ""
+"コンテンツのアイデアについて教えてください。例：WordPressの使い方についてのチュートリアルを含む、WordPressを活用してWebサイト制作を行う方法についての記事"
+"..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:31
+msgid ""
+"Let us now more about your post idea. Share more details for better results"
+msgstr "投稿のアイデアについてより詳しく教えていただければ、結果が改善されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:129
+#, fuzzy
+msgid "Letter spacing with unit"
+msgstr "単位付き文字間隔"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:113
+#, fuzzy
+msgid "Line height with unit"
+msgstr "ユニットとラインの高さ"
+
+#. translators: %s: post type names
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:42
+#, php-format
+msgid "List all available WordPress custom post types including %s"
+msgstr "次を含む利用可能なWordPressカスタム投稿タイプを一覧表示：%s"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:223
+msgid "List all WooCommerce product brands. Returns a list of product brands."
+msgstr "WooCommerceの商品ブランド一覧を取得します。商品ブランドの一覧が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:89
+msgid ""
+"List all WooCommerce product categories. Returns a list of product "
+"categories."
+msgstr "WooCommerceの商品カテゴリー一覧を取得します。商品カテゴリーの一覧が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:156
+msgid "List all WooCommerce product tags. Returns a list of product tags."
+msgstr "WooCommerceの商品タグ一覧を取得します。商品タグの一覧が返されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:18
+msgid "List all WordPress post categories with pagination and filtering."
+msgstr "ページ分割と絞り込みに対応した、WordPressの投稿カテゴリー一覧を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:18
+msgid "List all WordPress post tags with pagination and filtering."
+msgstr "ページ分割と絞り込みに対応した、WordPressの投稿タグ一覧を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:17
+msgid "List Categories"
+msgstr "カテゴリーを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:14
+#, fuzzy
+msgid "List Elementor Pages"
+msgstr "Elementorのページ一覧"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:14
+#, fuzzy
+msgid "List Elementor Templates"
+msgstr "Elementorテンプレートのリスト"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:90
+msgid "List LiteSpeed Cache Presets"
+msgstr "LiteSpeed Cacheを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:20
+msgid "List Media"
+msgstr "メディアを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:85
+#, fuzzy
+msgid "List Menu Items"
+msgstr "メニュー項目の一覧"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:155
+#, fuzzy
+msgid "List Menu Locations"
+msgstr "メニューの配置場所一覧"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:15
+#, fuzzy
+msgid "List Menus"
+msgstr "メニュー一覧"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:20
+#, fuzzy
+msgid "List Navigations"
+msgstr "リストのナビゲーション"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:166
+#, fuzzy
+msgid "List of coupon IDs to delete"
+msgstr "削除するクーポンIDのリスト"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:156
+#, fuzzy
+msgid "List of coupon objects to create"
+msgstr "作成するクーポン・オブジェクトのリスト"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:161
+#, fuzzy
+msgid "List of coupon objects to update (must include id)"
+msgstr "更新するクーポンオブジェクトのリスト(idを含むこと)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:22
+#, fuzzy
+msgid "List of global color updates"
+msgstr "グローバルな色の更新一覧"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:49
+#, fuzzy
+msgid "List of typography preset updates"
+msgstr "タイポグラフィプリセットの更新一覧"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:39
+msgid "List Post Types"
+msgstr "投稿タイプを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:20
+#, fuzzy
+msgid "List Revisions"
+msgstr "リストの修正履歴"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:21
+#, fuzzy
+msgid ""
+"List revisions for a specific item. Provide its REST API base (e.g., posts, "
+"pages, templates) and the parent ID."
+msgstr "特定のアイテムの改訂履歴を一覧表示します。そのREST APIのベース（例：投稿、ページ、テンプレート）と親IDを指定してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:17
+msgid "List Tags"
+msgstr "タグを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:15
+#, fuzzy
+msgid "List Template Parts"
+msgstr "テンプレートのパーツ一覧"
+
+#: admin/class-hostinger-ai-assistant-translations.php:135
+msgid "List users with their roles"
+msgstr "ロール付きでユーザーを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:222
+msgid "List WooCommerce Product Brands"
+msgstr "WooCommerceの商品ブランドを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:88
+msgid "List WooCommerce Product Categories"
+msgstr "WooCommerceの商品カテゴリーを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:155
+msgid "List WooCommerce Product Tags"
+msgstr "WooCommerceの商品タグを一覧表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:21
+msgid "List WordPress media items with pagination and filtering."
+msgstr "ページ分割と絞り込みに対応したWordPressのメディア一覧を表示します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:159
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:203
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:233
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:327
+msgid "LiteSpeed Cache plugin is not active"
+msgstr "LiteSpeed Cacheプラグインが無効です"
+
+#. translators: %s: Preset name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:365
+#, php-format
+msgid ""
+"LiteSpeed Cache preset \"%s\" has been applied successfully. A backup of "
+"your previous settings was created automatically."
+msgstr "LiteSpeed Cacheのプリセット「%s」が正常に適用されました。以前の設定は自動的にバックアップされています。"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:143
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:81
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:124
+msgid "Long"
+msgstr "長い"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:398
+#, fuzzy
+msgid "Main topic"
+msgstr "主なテーマ"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:187
+msgid "Maintenance mode status"
+msgstr "メンテナンスモードのステータス"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:90
+#, fuzzy
+msgid "Main‑axis alignment for flex containers"
+msgstr "フレックスコンテナの主軸方向の整列"
+
+#: admin/class-hostinger-ai-assistant-translations.php:73
+#, fuzzy
+msgid "Manage users and permissions"
+msgstr "ユーザーと権限の管理"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:89
+#, fuzzy
+msgid "Margin in px (number for all sides) or object with sides and unit"
+msgstr "px単位の余白（すべての辺に共通の数値）または、各辺と単位が指定されたオブジェクト"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:200
+#, fuzzy
+msgid ""
+"Margin spacing. Set \"reset\" to true to remove margin, or provide dimension "
+"values."
+msgstr "マージンの間隔。マージンを削除するには \"reset \"をtrueに設定するか、寸法値を指定する。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:26
+#, fuzzy
+msgid "Maximum recursion depth to display. Default: 10"
+msgstr "表示する最大再帰深度。デフォルト：10"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:35
+#, fuzzy
+msgid "Maximum search depth. Default: 10"
+msgstr "最大検索深度。デフォルト：10"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:137
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:80
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:120
+msgid "Medium"
+msgstr "中程度"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:177
+#, fuzzy
+msgid "Menu ID to assign to the location."
+msgstr "その場所に割り当てるメニューID。"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:29
+msgid "Meta description"
+msgstr "メタディスクリプション"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:30
+msgid ""
+"Meta descriptions offer concise page summaries in search results, aiding "
+"user understanding before clicking."
+msgstr "メタディスクリプションにより簡潔なページの概要が検索結果に表示され、ユーザーはクリックする前に内容を確認できます。"
+
+#. translators: %s is a route parameter name
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:471
+#, fuzzy, php-format
+msgid "Missing required route parameter: %s"
+msgstr "必須のルートパラメータ %s がありません"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:259
+msgid "Mobile Cache"
+msgstr "モバイルキャッシュ"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:282
+msgid "Most websites"
+msgstr "ほとんどのWebサイト"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:83
+#, fuzzy
+msgid "Navigation (wp_navigation) post ID."
+msgstr "ナビゲーション (wp_navigation) の投稿ID。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:23
+#: admin/partials/hostinger-ai-assistant-tab-view.php:105
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:88
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:131
+msgid "Neutral"
+msgstr "ニュートラル"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:41
+#, fuzzy
+msgid "New color value (e.g. #FF0000 or rgba(255,0,0,1))"
+msgstr "新しい色値（例：#FF0000 または rgba(255,0,0,1)）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:155
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:66
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:117
+#, fuzzy
+msgid "No active Elementor kit found"
+msgstr "アクティブなElementorキットが見つかりません"
+
+#: includes-psr4/Cli/JwtCommand.php:97
+#, fuzzy
+msgid ""
+"No administrator found to issue a token for. Pass --user=<id|login|email>."
+msgstr "トークンを発行する対象となる管理者が見つかりませんでした。--user=<id|login|email> を指定してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:38
+#, fuzzy
+msgid "No Elementor data found for this post"
+msgstr "この投稿にElementorのデータは見つかりませんでした"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:504
+#, fuzzy
+msgid "No fallback theme available to switch to."
+msgstr "切り替え可能なフォールバックテーマはない。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:208
+#, fuzzy
+msgid "Nothing was updated"
+msgstr "更新されたものはありませんでした"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:116
+#, fuzzy
+msgid "Number of inner columns (containers)"
+msgstr "内部カラム（コンテナ）の数"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:114
+msgid "Number of items per page"
+msgstr "ページごとの項目数"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:34
+#, fuzzy
+msgid "Number of pages to return. Default: 50"
+msgstr "返すページ数。デフォルト：50"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:41
+#, fuzzy
+msgid "Number of pages to skip for pagination. Default: 0"
+msgstr "ページ送りのためにスキップするページ数。デフォルト: 0"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:115
+msgid "Number of posts per page"
+msgstr "ページごとの投稿数"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:77
+msgid "Number of posts to show per page"
+msgstr "ページごとに表示する投稿数"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:28
+#, fuzzy
+msgid "Number of templates to return. Default: 50"
+msgstr "返すテンプレートの数。デフォルト：50"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:35
+#, fuzzy
+msgid "Number of templates to skip for pagination. Default: 0"
+msgstr "ページネーションでスキップするテンプレートの数。デフォルト：0"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:174
+#, fuzzy
+msgid "Opacity (0..1)"
+msgstr "不透明度 (0..1)"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:29
+msgid "Open guide"
+msgstr "ガイドを開く"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:93
+msgid "Opt-in to MCP"
+msgstr "MCPにオプトイン"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:215
+msgid "Opt-in Web2Agent MCP status"
+msgstr "Web2Agent MCPステータスにオプトイン"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+msgid "Optional"
+msgstr "任意"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:75
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:182
+#, fuzzy
+msgid "Optional CSS class to assign/update on the container"
+msgstr "コンテナに割り当てたり更新したりするためのオプションのCSSクラス"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:47
+#, fuzzy
+msgid "Optional CSS class to filter by (e.g., \"hostinger-ai-*\")"
+msgstr "フィルタリングするCSSクラス (オプション) (例: \"hostinger-ai-*\")"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:133
+#, fuzzy
+msgid ""
+"Optional list of fields to restore. Defaults to title, content, and excerpt."
+msgstr "復元するフィールドのオプションリスト。デフォルトでは、タイトル、本文、抜粋が指定されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:64
+#, fuzzy
+msgid "Optional new title/label"
+msgstr "任意の新しいタイトル／ラベル"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:37
+#, fuzzy
+msgid "Optional new title/label for the color"
+msgstr "その色に付ける新しいタイトル／ラベル（任意）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:36
+#, fuzzy
+msgid ""
+"Optional parent container ID. If omitted, operations happen at the root "
+"level."
+msgstr "親コンテナのID（任意）。省略した場合は、操作はルートレベルで行われます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:154
+msgid ""
+"Optional. The size of the image to retrieve (thumbnail, medium, large, full)."
+" Defaults to full/original size."
+msgstr "選択は任意です。取得する画像のサイズを選択します（サムネイル / 中 / 大 / フル）。指定しない場合はフル（オリジナル）になります。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:41
+#, fuzzy
+msgid "Optional: Add nofollow attribute"
+msgstr "オプション：nofollow属性を追加する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:38
+#, fuzzy
+msgid "Optional: Image alt text for accessibility"
+msgstr "オプション：アクセシビリティのための画像のaltテキスト"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:36
+#, fuzzy
+msgid "Optional: Open link in new tab"
+msgstr "オプションリンクを新しいタブで開く"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:34
+#, fuzzy
+msgid "Optional: WordPress media library ID"
+msgstr "オプション：WordPressメディアライブラリID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:95
+#, fuzzy
+msgid "Overall gap between child items (px)"
+msgstr "子項目の間の全体的な間隔（px）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:69
+#, fuzzy
+msgid "Padding in px (number for all sides) or object with sides and unit"
+msgstr "px単位の余白（すべての辺に共通の数値）または、各辺と単位が指定されたオブジェクト"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:162
+#, fuzzy
+msgid ""
+"Padding spacing. Set \"reset\" to true to remove padding, or provide "
+"dimension values."
+msgstr "パディングの間隔。パディングを削除するには \"reset\" を true に設定するか、寸法値を指定します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:109
+msgid "Page number for pagination"
+msgstr "ページネーション用のページ番号"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:110
+msgid "Page number for pagination (starts from 1)"
+msgstr "ページネーション用のページ番号（1から開始）"
+
+#. translators: %s: parent id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:94
+#, fuzzy, php-format
+msgid "Parent container with ID '%s' not found"
+msgstr "IDが「%s」の親コンテナが見つかりません"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:411
+#, fuzzy
+msgid "Personalize your content"
+msgstr "コンテンツを自分好みにカスタマイズしましょう"
+
+#. translators: %s: plugin slug.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:260
+#, fuzzy, php-format
+msgid "Plugin \"%s\" is already installed."
+msgstr "プラグイン \"%s\" は既にインストールされています。"
+
+#. translators: %s: plugin file path.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:335
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:372
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:406
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:436
+#, fuzzy, php-format
+msgid "Plugin \"%s\" not found."
+msgstr "プラグイン \"%s\" が見つかりません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:81
+#, fuzzy
+msgid ""
+"Plugin file path relative to the plugins directory (e.g. "
+"'woocommerce/woocommerce.php')"
+msgstr "プラグインディレクトリからのプラグインファイルパス (例 'woocommerce/woocommerce.php')。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:126
+#, fuzzy
+msgid "Plugin file path relative to the plugins directory to activate"
+msgstr "有効化するプラグインディレクトリからの相対的なプラグインファイルパス。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:171
+#, fuzzy
+msgid "Plugin file path relative to the plugins directory to deactivate"
+msgstr "無効化するプラグインディレクトリからの相対的なプラグインファイルパス。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:216
+#, fuzzy
+msgid "Plugin file path relative to the plugins directory to update"
+msgstr "更新するプラグインディレクトリからの相対的なプラグインファイルパス。"
+
+#: includes-psr4/Mcp/Abilities/Resources/PluginsInfoResource.php:16
+msgid "Plugins Information"
+msgstr "プラグイン情報"
+
+#: admin/class-hostinger-ai-assistant-translations.php:91
+msgid "Poor"
+msgstr "悪い"
+
+#. translators: %1$s: kit id, %2$s template type
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:312
+#, fuzzy, php-format
+msgid "Post %1$s is not an Elementor kit (template type: %2$s)"
+msgstr "投稿 %1$s は Elementor キットではありません (テンプレート・タイプ: %2$s)。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:412
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:475
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:526
+msgid "Post not found"
+msgstr "投稿が見つかりません"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:38
+msgid "Powered by"
+msgstr "提供："
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:335
+msgid "Preset parameter is required"
+msgstr "プリセットのパラメータが必要です"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:186
+msgid "Press Enter key to finalize a keyword"
+msgstr "Enterキーを押すとキーワードが確定されます。"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:39
+msgid "Preview site"
+msgstr "サイトをプレビュー"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:108
+#, fuzzy
+msgid "Provide colors and/or typography updates to apply."
+msgstr "適用する色やタイポグラフィの更新内容をご指定ください。"
+
+#: includes-psr4/Mcp/Abilities/Resources/PluginsInfoResource.php:17
+msgid ""
+"Provides detailed information about active and available WordPress plugins"
+msgstr "有効なプラグインと利用可能なWordPressプラグインの詳細情報を提供します"
+
+#: includes-psr4/Mcp/Abilities/Resources/UsersInfoResource.php:17
+msgid ""
+"Provides detailed information about registered WordPress users and their "
+"roles"
+msgstr "登録済みのWordPressユーザーとそのロールの詳細情報を提供します"
+
+#: includes-psr4/Mcp/Abilities/Resources/ThemeInfoResource.php:17
+msgid ""
+"Provides detailed information about the active WordPress theme and its "
+"parent theme if applicable"
+msgstr "有効なWordPressテーマと、該当する場合はその親テーマの詳細情報を提供します"
+
+#: includes-psr4/Mcp/Abilities/Tools/SiteInfoTools.php:17
+msgid ""
+"Provides detailed information about the WordPress site like site name, url, "
+"description, admin email, plugins, themes, users, and more."
+msgstr "サイト名、URL、説明、管理者メールアドレス、プラグイン、テーマ、ユーザーなど、WordPressサイトに関する詳細情報を提供します"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteSettingsResource.php:17
+msgid ""
+"Provides detailed information about WordPress site settings including "
+"general, reading, discussion, media, permalink, privacy, and writing settings"
+msgstr "一般設定、表示設定、ディスカッション、メディア、パーマリンク、プライバシー、投稿など、WordPressサイト設定の詳細情報を提供します"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteInfoResource.php:17
+msgid ""
+"Provides general information about the WordPress site including site details,"
+" plugins, themes, and users"
+msgstr "サイト詳細、プラグイン、テーマ、ユーザーなど、WordPressサイトの基本情報を提供します"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:235
+msgid "Publish"
+msgstr "公開"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:59
+msgid ""
+"Purge all LiteSpeed caches including LSCache, CSS/JS, localized resources, "
+"object cache, and opcache."
+msgstr ""
+"LSCache、CSS/JS、ローカライズ済みリソース、オブジェクトキャッシュ、OPcacheなど、LiteSpeedのすべてのキャッシュをパージします。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:84
+msgid "Rate your conversation"
+msgstr "チャットの利用体験を評価してください"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:280
+msgid "Remove Noscript Tags"
+msgstr "Noscriptタグを削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:278
+msgid "Remove Query Strings from Static Files"
+msgstr "静的ファイルからクエリ文字列を削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:279
+msgid "Remove WordPress Emoji"
+msgstr "WordPressの絵文字を削除"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:294
+msgid "Removed Unused CSS for Users"
+msgstr "ユーザー向けの未使用CSSを削除"
+
+#: includes-psr4/Nudges/DomainRenewalNudge.php:88
+#, fuzzy
+msgid "Renew my domain"
+msgstr "ドメインを更新する"
+
+#: includes-psr4/Nudges/RenewalNudge.php:100
+#, fuzzy
+msgid "Renew my plan"
+msgstr "プランを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:130
+msgid "Report period. Options: week, month, last_month, year."
+msgstr "レポートの期間です。選択肢：week、month、last_month、year"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:239
+msgid "Requested size not found"
+msgstr "指定したサイズが見つかりません"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:46
+#, fuzzy
+msgid "Required when position is before/after. The sibling element ID."
+msgstr "position が「before」または「after」の場合に必要です。兄弟要素の ID。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:32
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:57
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:84
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:117
+#, fuzzy
+msgid ""
+"REST API base for the post type (e.g., posts, pages, templates, product, etc."
+")."
+msgstr "投稿タイプ（例：投稿、ページ、テンプレート、商品など）のREST APIの基盤。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:46
+msgid "Restart chatbot"
+msgstr "チャットボットを再起動"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:110
+#, fuzzy
+msgid ""
+"Restore a specific revision for an item by copying its content back to the "
+"parent. Works for any post type using its REST base."
+msgstr "アイテムの特定のリビジョンを復元するには、その内容を親にコピーし直します。RESTベースを使用するあらゆる投稿タイプで機能します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:109
+#, fuzzy
+msgid "Restore Revision"
+msgstr "リビジョンを復元"
+
+#: admin/class-hostinger-ai-assistant-translations.php:176
+msgid "Retrieve a list of WooCommerce orders with filters"
+msgstr "フィルターを使用してWooCommerceの注文一覧を取得します"
+
+#: admin/class-hostinger-ai-assistant-translations.php:132
+msgid "Retrieve detailed information about my WordPress site"
+msgstr "WordPressサイトの詳細情報を取得します"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:15
+#, fuzzy
+msgid ""
+"Retrieves a specific Elementor kit by post ID with all settings including "
+"global colors, typography presets, and theme style settings."
+msgstr ""
+"特定の Elementor キットを、グローバルカラー、タイポグラフィプリセット、テーマスタイル設定を含むすべての設定とともに投稿 ID で取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:15
+#, fuzzy
+msgid ""
+"Retrieves all posts/pages/custom post types that use Elementor builder. "
+"Supports filtering by post type and status with pagination."
+msgstr ""
+"Elementor "
+"builderを使用しているすべての投稿/ページ/カスタム投稿タイプを取得します。ページネーションによる投稿タイプとステータスによるフィルタリングをサポート。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:15
+#, fuzzy
+msgid ""
+"Retrieves complete information about a specific Elementor widget by its "
+"unique ID, including all settings, position, and parent information."
+msgstr "すべての設定、位置、親情報を含む、固有のIDによって特定のElementorウィジェットに関する完全な情報を取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:15
+#, fuzzy
+msgid ""
+"Retrieves Elementor templates from the elementor_library post type. Results "
+"include the template type and support pagination."
+msgstr ""
+"elementor_library 投稿タイプから Elementor "
+"テンプレートを取得します。結果にはテンプレートの種類が含まれ、ページネーションに対応しています。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:15
+#, fuzzy
+msgid ""
+"Retrieves the active Elementor kit with all settings including global colors,"
+" typography presets, custom CSS, and theme style settings."
+msgstr ""
+"グローバルカラー、タイポグラフィプリセット、カスタムCSS、テーマスタイル設定を含むすべての設定を含むアクティブなElementorキットを取得します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:139
+msgid "Return sales for a specific end date. Format: YYYY-MM-DD."
+msgstr "指定した終了日の売上データを返します。形式：YYYY-MM-DD"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:135
+msgid "Return sales for a specific start date. Format: YYYY-MM-DD."
+msgstr "指定した開始日の売上データを返します。形式：YYYY-MM-DD"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:15
+#, fuzzy
+msgid ""
+"Returns a readable, hierarchical summary of Elementor page structure without "
+"raw JSON. Shows containers and widgets in a tree view."
+msgstr ""
+"生の JSON を使わずに、Elementor のページ構造を読みやすく階層的に要約して返します。コンテナとウィジェットをツリービューで表示します。"
+
+#. translators: %s: revision id
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:189
+#, fuzzy, php-format
+msgid "Revision with ID '%s' not found"
+msgstr "ID '%s' のリビジョンが見つかりません"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:262
+#, fuzzy
+msgid "Right border width (as string)"
+msgstr "右枠の幅（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:213
+#, fuzzy
+msgid "Right margin value (as string)"
+msgstr "右マージンの値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:175
+#, fuzzy
+msgid "Right padding value (as string)"
+msgstr "右パディング値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:100
+#, fuzzy
+msgid "Row gap for grid or multi‑row flex (px)"
+msgstr "グリッドまたは複数行のフレックス配置における行間隔（px）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:15
+#, fuzzy
+msgid ""
+"Safely removes a container. Optionally preserves children by moving them to "
+"the parent at the same position. Can require confirmation for complex "
+"structures."
+msgstr ""
+"コンテナを安全に削除します。オプションで、子要素を親要素の同じ位置に移動させることで、子要素を保持することができます。構造が複雑な場合は、確認を求められることがあります。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:15
+#, fuzzy
+msgid ""
+"Safely updates text content of Elementor widgets (heading, button, text-"
+"editor). Updates text/title/editor fields while preserving all other "
+"settings."
+msgstr ""
+"Elementorウィジェット（見出し、ボタン、テキストエディター）のテキストコンテンツを安全に更新します。他のすべての設定を保持したまま、テキスト/タイトル/エディタフィールドを更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:20
+#, fuzzy
+msgid ""
+"Search and filter WooCommerce coupons with pagination. Returns a list of "
+"coupons matching the search criteria."
+msgstr "ページネーションでWooCommerceのクーポンを検索し、フィルタリングします。検索条件に一致するクーポンのリストを返します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:20
+msgid ""
+"Search and filter WooCommerce products with pagination. Returns a list of "
+"products matching the search criteria."
+msgstr "ページネーション付きでWooCommerceの商品を検索 / 絞り込みします。検索条件に一致する商品の一覧を返します。"
+
+#. translators: %s: post type names
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:85
+#, php-format
+msgid ""
+"Search and filter WordPress custom post types posts including %s with "
+"pagination"
+msgstr "ページネーション付きで、%sを含むWordPressのカスタム投稿タイプの投稿を検索 / 絞り込みします。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:18
+msgid ""
+"Search and filter WordPress pages with pagination. Returns a list of pages "
+"matching the search criteria."
+msgstr "ページネーション付きでWordPressページを検索 / 絞り込みします。検索条件に一致するページの一覧を返します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:18
+msgid ""
+"Search and filter WordPress posts with pagination. Returns a list of posts "
+"matching the search criteria."
+msgstr "ページネーション付きでWordPress投稿を検索 / 絞り込みします。検索条件に一致する投稿の一覧を返します。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:136
+msgid "Search and filter WordPress users with pagination"
+msgstr "ページネーション付きでWordPressユーザーを検索 / 絞り込みします。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:18
+msgid ""
+"Search and filter WordPress users with pagination. Returns a list of users "
+"matching the search criteria."
+msgstr "ページネーション付きでWordPressユーザーを検索 / 絞り込みします。検索条件に一致するユーザーの一覧を返します。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:150
+msgid "Search blog posts"
+msgstr "ブログ投稿を検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:82
+msgid "Search Custom Post Types Posts"
+msgstr "カスタム投稿タイプの投稿を検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:81
+msgid "Search Media"
+msgstr "メディアを検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:17
+msgid "Search Pages"
+msgstr "ページを検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:17
+msgid "Search Posts"
+msgstr "投稿を検索"
+
+#: admin/class-hostinger-ai-assistant-translations.php:152
+msgid "Search posts on my WordPress website"
+msgstr "WordPressサイトの投稿を検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:89
+msgid "Search term to look for in media titles, captions, and descriptions"
+msgstr "メディアのタイトル、キャプション、説明で検索するキーワード"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:98
+msgid "Search term to look for in post titles and content"
+msgstr "投稿のタイトルと本文で検索するキーワード"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:17
+msgid "Search Users"
+msgstr "ユーザーを検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:19
+#, fuzzy
+msgid "Search WooCommerce Coupons"
+msgstr "WooCommerceクーポンを検索する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:19
+msgid "Search WooCommerce Orders"
+msgstr "WooCommerceの注文を検索"
+
+#: admin/class-hostinger-ai-assistant-translations.php:177
+msgid "Search WooCommerce orders for my store"
+msgstr "ストア内のWooCommerceの注文を検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:19
+msgid "Search WooCommerce Products"
+msgstr "WooCommerceの商品を検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:82
+msgid ""
+"Search WordPress media items by title, caption, or description with "
+"filtering options."
+msgstr "WordPressのメディアをタイトル、キャプション、説明で検索し、各種フィルターで絞り込めます。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:137
+msgid "Search WordPress users on my website"
+msgstr "自分のサイトのWordPressユーザーを検索"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:17
+#, fuzzy
+msgid ""
+"Searches for specific widget types in an Elementor page structure. Returns "
+"all widgets matching the criteria with their settings and position."
+msgstr ""
+"Elementorページ構造内の特定のウィジェットタイプを検索します。条件に一致するすべてのウィジェットを、それらの設定と位置とともに返します。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:56
+msgid "Selected file type is not supported"
+msgstr "選択したファイル形式はサポートされていません"
+
+#: admin/class-hostinger-ai-assistant-translations.php:94
+msgid "Send"
+msgstr "送信"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:10
+msgid ""
+"SEO keywords improve web content visibility on search engines like Google by "
+"being relevant and naturally placed"
+msgstr "関連性の高いSEOキーワードを適切に配置することで、Googleなどの検索エンジンでコンテンツの可視性が向上します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:204
+#, fuzzy
+msgid "Set to true to remove margin entirely"
+msgstr "マージンを完全に削除するにはtrueを設定する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:166
+#, fuzzy
+msgid "Set to true to remove padding entirely"
+msgstr "パディングを完全に取り除くにはtrueを設定する。"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:125
+#: admin/partials/hostinger-ai-assistant-tab-view.php:131
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:79
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:116
+msgid "Short"
+msgstr "短い"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteInfoResource.php:16
+msgid "Site Information"
+msgstr "サイト情報"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:61
+msgid "Site language"
+msgstr "サイトの言語"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteSettingsResource.php:16
+msgid "Site Settings"
+msgstr "サイト設定"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:41
+msgid "Site tagline/description"
+msgstr "サイトのタグライン / 説明"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:45
+msgid "Site timezone"
+msgstr "サイトのタイムゾーン"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:37
+msgid "Site title"
+msgstr "サイトのタイトル"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:84
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:117
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:133
+#, fuzzy
+msgid "Size value"
+msgstr "サイズ値"
+
+#: admin/class-hostinger-ai-assistant-translations.php:114
+msgid "Sorry, the AI Chatbot is currently unavailable. Please try again later."
+msgstr "AIチャットボットは現在ご利用いただけません。後ほどお試しください。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:115
+msgid "Sorry, the AI Chatbot request timed out. Please try again later."
+msgstr "AIチャットボットのリクエストがタイムアウトしました。後ほどもう一度お試しください。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:48
+#: admin/class-hostinger-ai-assistant-translations.php:103
+#: admin/class-hostinger-ai-assistant-translations.php:105
+msgid "Start new chat"
+msgstr "新しいチャットを開始"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:57
+msgid "Start of week (0 = Sunday, 1 = Monday, etc.)"
+msgstr "週の開始（0 = 日曜、1 = 月曜など）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:30
+#, fuzzy
+msgid ""
+"Style properties to update. All properties are optional. Only provide the "
+"properties you want to change."
+msgstr "更新するスタイル・プロパティ。すべてのプロパティはオプションです。変更したいプロパティのみを入力してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:175
+#, fuzzy
+msgid ""
+"Stylesheet of the theme to activate as a replacement. Defaults to "
+"'twentytwentyfour'."
+msgstr "置き換えとして有効化するテーマのスタイルシート。デフォルトは 'twentytwentyfour' です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:74
+#, fuzzy
+msgid "Summarize your store or site performance"
+msgstr "店舗やサイトのパフォーマンスをまとめる"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:28
+#, fuzzy
+msgid "System color key to update (optional)"
+msgstr "更新するシステムのカラーキー（任意）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:55
+#, fuzzy
+msgid "System typography preset key to update (optional)"
+msgstr "更新するシステムタイポグラフィプリセットキー（オプション）"
+
+#: admin/class-hostinger-ai-assistant-translations.php:110
+msgid "Talking to Hostinger Agent is in the works, we'll keep you posted once it's out!"
+msgstr "Hostinger Agentとの対話機能は現在開発中です。リリース情報は随時お知らせします！"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:30
+#, fuzzy
+msgid "Target device for responsive settings"
+msgstr "レスポンシブ設定の対象デバイス"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:189
+#, fuzzy
+msgid "Target global color not found in the active kit"
+msgstr "アクティブなキットに、指定されたグローバルカラーが見つかりません"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:127
+#, fuzzy
+msgid "Target number of inner columns (containers)"
+msgstr "内部カラム（コンテナ）の目標数"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:250
+#, fuzzy
+msgid "Target typography preset not found in the active kit"
+msgstr "アクティブなキット内に、対象のタイポグラフィプリセットが見つかりません"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:79
+#, fuzzy
+msgid "Template part ID."
+msgstr "テンプレート部品ID。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:335
+#, fuzzy
+msgid "Text alignment"
+msgstr "テキストの配置"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:38
+#, fuzzy
+msgid "Text color. Used for text elements."
+msgstr "テキストの色。テキスト要素に使用します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:155
+#, fuzzy
+msgid "Text decoration"
+msgstr "文字装飾"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:145
+#, fuzzy
+msgid "Text transformation"
+msgstr "テキスト変換"
+
+#: admin/class-hostinger-ai-assistant-translations.php:95
+msgid "Thank you for your feedback"
+msgstr "ご意見ありがとうございます。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:88
+msgid "Thanks for letting us know"
+msgstr "ご意見をお寄せいただきありがとうございます"
+
+#: admin/class-hostinger-ai-assistant-translations.php:87
+msgid ""
+"Thanks for letting us know. Click the button below if you want to leave "
+"additional feedback."
+msgstr "ご意見をお寄せいただきありがとうございます。追加のフィードバックを送信するには、下記のボタンをクリックしてください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:30
+#, fuzzy
+msgid ""
+"The color property to assign. Common properties: title_color (for headings), "
+"text_color (for text), background_color, button_background_color, "
+"button_text_color, border_color, hover_color, icon_color"
+msgstr ""
+"割り当てる色のプロパティ。一般的なプロパティ: title_color（見出し用）、 text_color（テキスト用）、 "
+"background_color、 button_background_color、 button_text_color、 border_color、 "
+"hover_color、 icon_color"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:200
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:258
+msgid "The content of the post"
+msgstr "投稿の内容"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:192
+msgid "The custom post type to create"
+msgstr "作成するカスタム投稿タイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:304
+msgid "The custom post type to delete"
+msgstr "削除するカスタム投稿タイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:152
+msgid "The custom post type to get"
+msgstr "取得するカスタム投稿タイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:94
+msgid "The custom post type to search"
+msgstr "検索するカスタム投稿タイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:246
+msgid "The custom post type to update"
+msgstr "更新するカスタム投稿タイプ"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:204
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:262
+msgid "The excerpt of the post"
+msgstr "投稿の抜粋"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:46
+#, fuzzy
+msgid ""
+"The global color ID from the active kit. Use get_active_kit tool first to "
+"see available color IDs. Common system colors: primary, secondary, text, "
+"accent. Custom colors have unique IDs like \"09cc561\"."
+msgstr ""
+"アクティブキットのグローバルカラー ID。最初に get_active_kit ツールを使用して、使用可能なカラー ID "
+"を確認してください。一般的なシステムカラー: "
+"プライマリ、セカンダリ、テキスト、アクセント。カスタムカラーには「09cc561」のような固有のIDがあります。"
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:145
+#, php-format
+msgid "The Hostinger AI plugin requires minimum PHP version of <b>%s</b>. "
+msgstr "Hostinger AIプラグインには<b>%s</b>以上のPHPバージョンが必要です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:150
+msgid "The ID of the media item"
+msgstr "メディア項目のID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:308
+msgid "The ID of the post to delete"
+msgstr "削除する投稿のID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:156
+msgid "The ID of the post to get"
+msgstr "取得する投稿のID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:250
+msgid "The ID of the post to update"
+msgstr "更新する記事のID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:24
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:22
+#, fuzzy
+msgid "The ID of the post/page containing the widget"
+msgstr "ウィジェットを含む投稿/ページのID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:22
+#, fuzzy
+msgid "The ID of the post/page to get structure for"
+msgstr "構造を取得する投稿/ページのID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:18
+#, fuzzy
+msgid "The ID of the post/page to modify"
+msgstr "変更する投稿／ページのID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:24
+#, fuzzy
+msgid "The ID of the post/page to search in"
+msgstr "検索対象の投稿/ページのID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:27
+#, fuzzy
+msgid "The ID of the target container"
+msgstr "対象コンテナのID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:30
+#, fuzzy
+msgid "The new content text"
+msgstr "新しいコンテンツ・テキスト"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:30
+#, fuzzy
+msgid "The new image URL"
+msgstr "新しい画像のURL"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:32
+#, fuzzy
+msgid "The new link URL"
+msgstr "新しいリンクURL"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:36
+#, fuzzy
+msgid "The parent item ID to list revisions for."
+msgstr "リビジョンを一覧表示する親アイテムのID。"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:61
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:88
+#, fuzzy
+msgid "The parent item ID."
+msgstr "親アイテムのID。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:22
+#, fuzzy
+msgid "The post ID of the Elementor kit"
+msgstr "Elementorキットの投稿ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:127
+msgid "The preset to apply"
+msgstr "適用するプリセット"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:208
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:266
+msgid "The status of the post (publish, draft, pending, etc.)"
+msgstr "投稿のステータス（公開、下書き、保留中など）"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:196
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:254
+msgid "The title of the post"
+msgstr "投稿のタイトル"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:26
+#, fuzzy
+msgid "The unique ID of the image widget to update"
+msgstr "更新する画像ウィジェットの固有ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:26
+#, fuzzy
+msgid "The unique ID of the widget to retrieve"
+msgstr "取得するウィジェットの固有ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:26
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:26
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:28
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:26
+#, fuzzy
+msgid "The unique ID of the widget to update"
+msgstr "更新するウィジェットの固有ID"
+
+#. translators: %s: theme slug.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:263
+#, fuzzy, php-format
+msgid "Theme \"%s\" is already installed."
+msgstr "テーマ \"%s\" は既にインストールされています。"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:391
+#, fuzzy, php-format
+msgid "Theme \"%s\" is not the active theme."
+msgstr "テーマ \"%s\" はアクティブなテーマではありません。"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:322
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:358
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:421
+#, fuzzy, php-format
+msgid "Theme \"%s\" not found."
+msgstr "テーマ \"%s\" が見つかりません。"
+
+#: includes-psr4/Mcp/Abilities/Resources/ThemeInfoResource.php:16
+msgid "Theme Information"
+msgstr "テーマの情報"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:173
+#, fuzzy
+msgid "Theme location slug (e.g., primary, header, footer)."
+msgstr "テーマのロケーションスラグ（例：primary、header、footer）。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:81
+#, fuzzy
+msgid "Theme stylesheet directory name (e.g. 'twentytwentyfour')"
+msgstr "テーマ・スタイルシート・ディレクトリ名（例：'twentytwentyfour'）"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:126
+#, fuzzy
+msgid "Theme stylesheet directory name to activate"
+msgstr "有効化するテーマ・スタイルシート・ディレクトリ名"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:171
+#, fuzzy
+msgid ""
+"Theme stylesheet directory name to deactivate (will switch to the default "
+"theme)"
+msgstr "無効化するテーマ・スタイルシート・ディレクトリ名（デフォルト・テーマに切り替わる）"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:221
+#, fuzzy
+msgid "Theme stylesheet directory name to update"
+msgstr "更新するテーマ・スタイルシート・ディレクトリ名"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:248
+#, fuzzy
+msgid "There was an error with your request. Please try again."
+msgstr "リクエストにエラーが発生しました。もう一度お試しください。"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:20
+msgid ""
+"These keywords can help your article and website rank higher in search "
+"engines. You can input up to 5 keywords."
+msgstr "キーワードは、記事やWebサイトを検索エンジンで上位に表示させる上で非常に役立ちます。最大で5つまで入力できます。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:61
+msgid "Thinking"
+msgstr "少々お待ちください"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:80
+#, fuzzy
+msgid ""
+"This deletion will remove a complex subtree. Set confirm=true to proceed or "
+"enable preserve_children to keep children."
+msgstr ""
+"この削除操作により、複雑なサブツリーが削除されます。続行するには confirm=true を設定するか、子ノードを保持するには "
+"preserve_children を有効にしてください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:254
+msgid ""
+"This low-risk preset introduces basic optimizations for speed and user "
+"experience. Appropriate for enthusiastic beginners."
+msgstr "この低リスクのプリセットは、速度とユーザー体験のための基本的な最適化を導入します。意欲的な初心者に最適です。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:242
+msgid ""
+"This no-risk preset is appropriate for all websites. Good for new users, "
+"simple websites, or cache-oriented development."
+msgstr "この低リスクのプリセットは、あらゆるWebサイトに適しています。新規ユーザー、シンプルなWebサイト、キャッシュ重視の開発におすすめです。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:28
+#, fuzzy
+msgid "This post does not use Elementor builder"
+msgstr "この記事ではElementorビルダーは使用していません。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:303
+msgid ""
+"This preset almost certainly will require testing and exclusions for some "
+"CSS, JS and Lazy Loaded images. Pay special attention to logos, or HTML-"
+"based slider images."
+msgstr ""
+"このプリセットでは、CSS、JS、遅延読み込み（Lazy "
+"Load）画像の一部について、多くの場合テストと除外設定が必要になります。特にロゴや、HTMLベースのスライダー画像に注意してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:268
+msgid ""
+"This preset is good for most websites, and is unlikely to cause conflicts. "
+"Any CSS or JS conflicts may be resolved with Page Optimization > Tuning "
+"tools."
+msgstr ""
+"このプリセットは、ほとんどのWebサイトに適しており、競合が発生する可能性は低いです。CSSまたはJSで競合が発生した場合は、「ページ最適化」＞「チューニング」のツールで解決できることがあります。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:288
+msgid ""
+"This preset might work out of the box for some websites, but be sure to test!"
+" Some CSS or JS exclusions may be necessary in Page Optimization > Tuning."
+msgstr ""
+"このプリセットは、一部のWebサイトでは初期設定のまま動作する場合がありますが、必ずテストしてください。「ページ最適化」＞「チューニング」で、CSSまたはJSの除外設定が必要になることがあります。"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:270
+msgid "This will only take a moment"
+msgstr "このプロセスはすぐに完了します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:53
+msgid "Time format"
+msgstr "時間形式"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:42
+#, fuzzy
+msgid "Title/heading color. Used for headings and titles."
+msgstr "タイトル／見出し色。見出しやタイトルに使用します。"
+
+#: admin/class-hostinger-ai-assistant-notices.php:22
+msgid ""
+"To unlock the exclusive features of <b>Hostinger AI</b>, you must possess a "
+"unique API token, which is exclusively provided to Hostinger clients"
+msgstr ""
+"<b>Hostinger AI</b>の限定機能を利用するには、Hostingerのクライアントにのみ提供される固有のAPIトークンが必要となります。"
+
+#: includes-psr4/Cli/JwtCommand.php:130
+#, fuzzy
+msgid "Token expiration (--expires-in) must be an integer number of seconds."
+msgstr "トークンの有効期限（--expires-in）は、秒単位の整数で指定する必要があります。"
+
+#. translators: 1: minimum expiration in seconds, 2: maximum expiration in seconds
+#: includes-psr4/Cli/JwtCommand.php:140
+#, fuzzy, php-format
+msgid "Token expiration must be between %1$d and %2$d seconds."
+msgstr "トークンの有効期限は、%1$d秒から%2$d秒の間でなければなりません。"
+
+#. translators: 1: minimum expiration time in seconds, 2: maximum expiration time in seconds
+#: includes-psr4/Mcp/Rest/JwtAuth.php:66
+#, php-format
+msgid ""
+"Token expiration must be between %1$d seconds (1 hour) and %2$d seconds (1 "
+"day)"
+msgstr "トークンの有効期限は%1$d秒（1時間）～%2$d秒（1日）の範囲で指定してください。"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:34
+msgid "Token expiration time in seconds (3600-86400)"
+msgstr "秒単位でのトークンの有効期限（3600～86400）"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:81
+msgid "Token ID is required."
+msgstr "トークンIDが必要です。"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:112
+msgid "Token is invalid, expired, or has been revoked."
+msgstr "トークンが無効、期限切れ、または無効化されています。"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:118
+msgid "Token is malformed: missing user_id."
+msgstr "トークンが無効です：user_idが不足しています。"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:89
+msgid "Token not found in registry."
+msgstr "レジストリにトークンが見つかりません。"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:99
+msgid "Token revoked successfully."
+msgstr "トークンが正常に無効化されました。"
+
+#. translators: %s: error message from JWT library
+#: includes-psr4/Mcp/Rest/JwtAuth.php:135
+#, php-format
+msgid "Token validation failed: %s"
+msgstr "トークンの検証に失敗しました：%s"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:100
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:86
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:420
+msgid "Tone of voice"
+msgstr "文章のトーン"
+
+#: admin/class-hostinger-ai-assistant-translations.php:21
+msgid "tones selected"
+msgstr "選択されたトーン"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:258
+#, fuzzy
+msgid "Top border width (as string)"
+msgstr "上部のボーダーの幅（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:209
+#, fuzzy
+msgid "Top margin value (as string)"
+msgstr "トップマージンの値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:171
+#, fuzzy
+msgid "Top padding value (as string)"
+msgstr "トップ・パディング値（文字列）"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:295
+#, fuzzy
+msgid "Top-left border radius (as string)"
+msgstr "左上のボーダーの半径 (文字列)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:299
+#, fuzzy
+msgid "Top-right border radius (as string)"
+msgstr "右上のボーダーの半径（文字列として）"
+
+#: admin/class-hostinger-ai-assistant-translations.php:25
+#: admin/partials/hostinger-ai-assistant-tab-view.php:107
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:90
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:139
+msgid "Trustworthy"
+msgstr "誠実"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:72
+#, fuzzy
+msgid "Typography settings for text appearance"
+msgstr "テキスト外観のタイポグラフィ設定"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:104
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:129
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:140
+msgid "Unique identifier for the resource"
+msgstr "リソースの一意識別子"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:225
+#, fuzzy
+msgid "Unit for all margin values"
+msgstr "すべてのマージン値の単位"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:187
+#, fuzzy
+msgid "Unit for all padding values"
+msgstr "すべてのパディング値の単位"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:311
+#, fuzzy
+msgid "Unit for border radius"
+msgstr "ボーダー半径の単位"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:274
+#, fuzzy
+msgid "Unit for border width"
+msgstr "ボーダー幅の単位"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:137
+#, fuzzy
+msgid "Unit: px, em"
+msgstr "単位：px、em"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:88
+#, fuzzy
+msgid "Unit: px, em, rem, %"
+msgstr "単位：px、em、rem、%。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:121
+#, fuzzy
+msgid "Unit: px, em, rem, or empty for unitless"
+msgstr "単位：px、em、rem、または単位なしの場合は空"
+
+#: includes/class-hostinger-ai-assistant-errors.php:36
+msgid "Unknown error code."
+msgstr "不明なエラーコードです。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:162
+msgid "Update a post category on my WordPress website"
+msgstr "WordPressサイトの投稿カテゴリーを更新"
+
+#: admin/class-hostinger-ai-assistant-translations.php:157
+msgid "Update a post tag on my WordPress website"
+msgstr "WordPressサイトの投稿タグを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:38
+#, fuzzy
+msgid "Update a template part content or title."
+msgstr "テンプレートパーツの内容またはタイトルを更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:239
+msgid "Update a WordPress custom post type post by ID"
+msgstr "IDでWordPressのカスタム投稿タイプの投稿を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:43
+msgid ""
+"Update a WordPress media item metadata. Only provided fields will be updated."
+msgstr "WordPressのメディア項目のメタデータを更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:121
+#, fuzzy
+msgid "Update an existing menu item, including label, URL, parent, and order."
+msgstr "既存のメニュー項目（ラベル、URL、親項目、順序など）を更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:51
+#, fuzzy
+msgid "Update an existing navigation menu by ID."
+msgstr "ID に基づいて既存のナビゲーションメニューを更新する。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:127
+msgid "Update an existing page on my WordPress website"
+msgstr "WordPressサイトの既存ページを更新"
+
+#: admin/class-hostinger-ai-assistant-translations.php:147
+msgid "Update an existing post on my WordPress site"
+msgstr "WordPressサイトの既存の投稿を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:56
+#, fuzzy
+msgid "Update an existing Site Editor navigation."
+msgstr "既存のサイトエディタのナビゲーションを更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:55
+#, fuzzy
+msgid ""
+"Update an existing WooCommerce coupon by ID. Only provided fields will be "
+"updated."
+msgstr "IDで既存のWooCommerceクーポンを更新します。提供されたフィールドのみが更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:55
+#, fuzzy
+msgid ""
+"Update an existing WooCommerce order by ID. Use this to change status (e.g., "
+"pending, processing, completed, refunded) and other editable fields."
+msgstr ""
+"ID を使用して、既存の WooCommerce "
+"注文を更新します。これを使用して、ステータス（例：保留中、処理中、完了、返金済み）やその他の編集可能なフィールドを変更できます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:247
+msgid "Update an existing WooCommerce product brand by ID."
+msgstr "IDを指定して既存のWooCommerceの商品ブランドを更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:55
+msgid ""
+"Update an existing WooCommerce product by ID. Only provided fields will be "
+"updated."
+msgstr "IDを指定して既存のWooCommerce商品を更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:113
+msgid "Update an existing WooCommerce product category by ID."
+msgstr "IDを指定して既存のWooCommerceの商品カテゴリーを更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:180
+msgid "Update an existing WooCommerce product tag by ID."
+msgstr "IDを指定して既存のWooCommerceの商品タグを更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:53
+msgid ""
+"Update an existing WordPress category by ID. Only provided fields will be "
+"updated."
+msgstr "IDを指定して既存のWordPressカテゴリーを更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:53
+msgid ""
+"Update an existing WordPress page by ID. Only provided fields will be "
+"updated."
+msgstr "IDを指定して既存のWordPressページを更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:53
+msgid ""
+"Update an existing WordPress post by ID. Only provided fields will be "
+"updated."
+msgstr "IDを指定して既存のWordPressの投稿を更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:53
+msgid ""
+"Update an existing WordPress tag by ID. Only provided fields will be updated."
+msgstr "IDを指定して既存のWordPressのタグを更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:74
+msgid ""
+"Update an existing WordPress user by ID. Only provided fields will be "
+"updated."
+msgstr "IDを指定して既存のWordPressのユーザーを更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:208
+#, fuzzy
+msgid "Update an installed plugin to the latest version from WordPress.org."
+msgstr "インストールされているプラグインをWordPress.orgから最新バージョンに更新する。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:213
+#, fuzzy
+msgid "Update an installed theme to the latest version from WordPress.org."
+msgstr "インストールされているテーマをWordPress.orgから最新バージョンにアップデートする。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:145
+msgid "Update blog post"
+msgstr "ブログ投稿を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:52
+msgid "Update Category"
+msgstr "カテゴリーを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:132
+msgid "Update Current User"
+msgstr "現在のユーザーを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:238
+msgid "Update Custom Post Type Post"
+msgstr "カスタム投稿タイプの投稿を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:14
+#, fuzzy
+msgid "Update Elementor Container"
+msgstr "Elementorのコンテナを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:14
+#, fuzzy
+msgid "Update Elementor Global Styles"
+msgstr "Elementorのグローバルスタイルを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:14
+#, fuzzy
+msgid "Update Elementor Widget Content"
+msgstr "Elementorウィジェットのコンテンツを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:14
+#, fuzzy
+msgid "Update Elementor Widget Image"
+msgstr "Elementorウィジェットの画像を更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:16
+#, fuzzy
+msgid "Update Elementor Widget Link"
+msgstr "Elementorウィジェットのリンクを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:14
+#, fuzzy
+msgid "Update Elementor Widget Styles"
+msgstr "Elementorウィジェットスタイルを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:31
+msgid "Update General Settings"
+msgstr "一般設定を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:57
+msgid "Update Hostinger Plugin Settings"
+msgstr "Hostingerプラグインの設定を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:58
+msgid "Update Hostinger plugin settings. Only provided fields will be updated."
+msgstr "Hostingerプラグインの設定を更新します。入力されたフィールドのみ更新されます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:93
+#, fuzzy
+msgid "Update links is only supported for button widgets"
+msgstr "リンクの更新はボタンウィジェットにのみ対応しています"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:42
+msgid "Update Media"
+msgstr "メディアを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:50
+#, fuzzy
+msgid "Update Menu"
+msgstr "「更新」メニュー"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:120
+#, fuzzy
+msgid "Update Menu Item"
+msgstr "メニュー項目の更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:55
+#, fuzzy
+msgid "Update Navigation"
+msgstr "ナビゲーションの更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:52
+msgid "Update Page"
+msgstr "ページを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:207
+#, fuzzy
+msgid "Update Plugin"
+msgstr "プラグインの更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:52
+msgid "Update Post"
+msgstr "投稿を更新"
+
+#: admin/class-hostinger-ai-assistant-translations.php:160
+msgid "Update post category"
+msgstr "投稿カテゴリーを更新"
+
+#: admin/class-hostinger-ai-assistant-translations.php:155
+msgid "Update post tag"
+msgstr "投稿タグを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:52
+msgid "Update Tag"
+msgstr "タグを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:37
+#, fuzzy
+msgid "Update Template Part"
+msgstr "テンプレートパーツの更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:133
+msgid "Update the current logged-in user information."
+msgstr "現在ログイン中のユーザー情報を更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:212
+#, fuzzy
+msgid "Update Theme"
+msgstr "更新テーマ"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:73
+msgid "Update User"
+msgstr "ユーザーを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:54
+#, fuzzy
+msgid "Update WooCommerce Coupon"
+msgstr "WooCommerceクーポンを更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:54
+#, fuzzy
+msgid "Update WooCommerce Order"
+msgstr "WooCommerceの注文を更新する"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:54
+msgid "Update WooCommerce Product"
+msgstr "WooCommerce商品を更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:246
+msgid "Update WooCommerce Product Brand"
+msgstr "WooCommerceの商品ブランドを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:112
+msgid "Update WooCommerce Product Category"
+msgstr "WooCommerceの商品カテゴリーを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:179
+msgid "Update WooCommerce Product Tag"
+msgstr "WooCommerceの商品タグを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:32
+msgid ""
+"Update WordPress general site settings. Only provided fields will be updated."
+msgstr "WordPressの一般的なサイト設定を更新します。入力されたフィールドのみ更新されます。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:125
+msgid "Update WordPress page"
+msgstr "WordPressのページを更新"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:15
+#, fuzzy
+msgid ""
+"Updates container layout and structure settings like layout, direction, "
+"content width, alignment, spacing, and number of inner columns."
+msgstr "レイアウト、方向、コンテンツの幅、配置、余白、内部カラムの数など、コンテナのレイアウトおよび構造に関する設定を更新します。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:18
+#, fuzzy
+msgid ""
+"Updates container styling: background color, padding/margin, border "
+"(radius/width/color/style), opacity, z-index. Supports responsive device "
+"targeting."
+msgstr ""
+"コンテナのスタイル（背景色、パディング／マージン、ボーダー（半径／幅／色／スタイル）、不透明度、z-"
+"index）を更新します。レスポンシブなデバイスターゲティングに対応しています。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:15
+#, fuzzy
+msgid ""
+"Updates Elementor global colors and/or typography presets in the active kit "
+"in a single call. Intended for intents like \"Change primary color to red\" "
+"and \"Change heading font to Arial\" with one request. Triggers site-wide "
+"CSS regeneration."
+msgstr ""
+"1回の呼び出しで、アクティブなキット内のElementorのグローバルカラーやタイポグラフィのプリセットを更新します。「メインカラーを赤に変更する」や「見出しのフォントをArialに変更する」といった操作を1回のリクエストで実行することを目的としています。サイト全体のCSSの再生成がトリガーされます。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:15
+#, fuzzy
+msgid ""
+"Updates image widget source URLs safely. Supports updating URL, media "
+"library ID, and alt text."
+msgstr "画像ウィジェットのソースURLを安全に更新。URL、メディアライブラリID、altテキストの更新をサポートします。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:17
+#, fuzzy
+msgid ""
+"Updates link URLs in buttons and other link-capable Elementor widgets. "
+"Supports external and nofollow attributes."
+msgstr ""
+"ボタンやその他のリンク可能なElementorウィジェットのリンクURLを更新します。external 属性と nofollow 属性をサポートします。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:15
+#, fuzzy
+msgid ""
+"Updates visual styles of Elementor widgets including colors, typography, "
+"spacing (padding/margin), borders, and alignment. Supports both direct "
+"values and responsive settings."
+msgstr ""
+"色、タイポグラフィ、スペーシング（パディング/マージン）、ボーダー、整列を含む Elementor "
+"ウィジェットのビジュアルスタイルを更新します。直接値とレスポンシブ設定の両方をサポートします。"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:377
+#, fuzzy
+msgid "Use this content"
+msgstr "このコンテンツをご利用ください"
+
+#: admin/class-hostinger-ai-assistant-translations.php:35
+msgid "Use this image as:"
+msgstr "この画像の使用方法："
+
+#. translators: %d: WordPress user ID
+#: includes-psr4/Cli/JwtCommand.php:105
+#, fuzzy, php-format
+msgid "User %d lacks the manage_options capability required to issue a token."
+msgstr "ユーザー %d には、トークンを発行するために必要な manage_options 権限がありません。"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:125
+msgid "User associated with token no longer exists."
+msgstr "トークンに紐づくユーザーは存在しません。"
+
+#: includes-psr4/Mcp/Abilities/Resources/UsersInfoResource.php:16
+msgid "Users Information"
+msgstr "ユーザー情報"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:133
+msgid "Usually used for video, infographics, or product descriptions"
+msgstr "通常は動画、インフォグラフィック、商品説明などに使用されます。"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:145
+msgid "Usually used to make high-ranked articles that will generate more leads"
+msgstr "通常はランキング上位の記事を作成して、リード数を増加させるために使用されます。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:131
+msgid ""
+"View site details like name, URL, description, admin email, plugins, themes, "
+"and users"
+msgstr "名前、URL、説明、管理者メール、プラグイン、テーマ、ユーザーなどのサイトの詳細を表示"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:308
+msgid "Viewport Image Generation"
+msgstr "ビューポート画像生成"
+
+#: admin/class-hostinger-ai-assistant-translations.php:109
+msgid "Voice feature is coming soon"
+msgstr "音声機能は近日リリース予定です"
+
+#: includes/class-hostinger-ai-assistant-errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later."
+msgstr "申し訳ございませんが、AIコンテンツ生成プロセス中にサーバーエラーが発生しました。後ほどもう一度お試しください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:297
+msgid "Websites willing to test and tune settings"
+msgstr "テストや設定調整に対応可能なWebサイト"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+msgid "What are the focus keywords of your content?"
+msgstr "コンテンツのフォーカスキーワードは何ですか？"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:394
+#, fuzzy
+msgid "What content do you want AI to create today?"
+msgstr "今日はAIにどんなコンテンツを作成してもらいたいですか？"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:56
+msgid "What do you want to make today?"
+msgstr "どのようなコンテンツを作成しますか？"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:157
+msgid "What is your content about?"
+msgstr "どのような内容のコンテンツを作成しますか？"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:132
+#, fuzzy
+msgid ""
+"When reducing columns, keep removed columns’ children by moving them into a "
+"remaining column"
+msgstr "列を削減する際は、削除する列の子要素を、残りの列に移動させて保持してください。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:317
+#, fuzzy
+msgid "Whether all corners are linked"
+msgstr "すべてのコーナーがリンクしているかどうか"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:280
+#, fuzzy
+msgid "Whether all sides are linked"
+msgstr "すべての面がリンクしているかどうか"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:193
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:231
+#, fuzzy
+msgid "Whether all sides are linked together"
+msgstr "すべてのサイドがリンクしているかどうか"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:33
+#, fuzzy
+msgid "Whether to include settings. Default: false"
+msgstr "設定を含めるかどうか。デフォルト：false"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:42
+#, fuzzy
+msgid "Whether to include widget settings. Default: true"
+msgstr "ウィジェットの設定を含めるかどうか。デフォルト: true"
+
+#. translators: %s: widget type
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:109
+#, fuzzy, php-format
+msgid "Widget type '%s' does not support content updates"
+msgstr "ウィジェット・タイプ '%s' はコンテンツの更新をサポートしません。"
+
+#. translators: %s: widget id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:120
+#, fuzzy, php-format
+msgid "Widget with ID %s not found"
+msgstr "ID %s のウィジェットが見つかりません。"
+
+#. translators: %s: widget id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:112
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:75
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:396
+#, fuzzy, php-format
+msgid "Widget with ID '%s' not found"
+msgstr "ID '%s' を持つウィジェットが見つかりません。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:27
+#: admin/partials/hostinger-ai-assistant-tab-view.php:109
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:92
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:147
+msgid "Witty"
+msgstr "軽妙"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:35
+#, fuzzy
+msgid "WordPress.org plugin slug (e.g. 'woocommerce')"
+msgstr "WordPress.orgプラグインのスラッグ（例：'woocommerce'）"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:35
+#, fuzzy
+msgid "WordPress.org theme slug (e.g. 'twentytwentyfour')"
+msgstr "WordPress.orgのテーマスラッグ（例：「twentytwentyfour）"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:220
+msgid "words"
+msgstr "単語"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:154
+#, fuzzy
+msgid "Write a motivational post about..."
+msgstr "…について、やる気を起こさせる投稿を書いてください。"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:153
+#, fuzzy
+msgid "Write a recommendation list of..."
+msgstr "…の推奨リストを作成してください。"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:152
+#, fuzzy
+msgid "Write a step-by-step tutorial about..."
+msgstr "…に関する手順を詳しく解説したチュートリアルを作成してください。"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:157
+#, fuzzy
+msgid "Write a summary of..."
+msgstr "…の要約を書いてください。"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:156
+#: gutenberg-block/src/edit.js:399
+#, fuzzy
+msgid "Write an article about ..."
+msgstr "…に関する記事を書きます。"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:155
+#, fuzzy
+msgid "Write promotional content about..."
+msgstr "…に関するプロモーションコンテンツを作成してください。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:93
+msgid "Write your feedback (optional)"
+msgstr "フィードバックを入力してください（任意）"
+
+#: admin/class-hostinger-ai-assistant-translations.php:51
+msgid "Write your question"
+msgstr "質問を入力してください"
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:149
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "現在利用中のPHPバージョンは<b>%s</b>です。"
+
+#: admin/class-hostinger-ai-assistant-translations.php:57
+msgid "You can only upload up to 6 files"
+msgstr "アップロードできるのは最大6ファイルまでです"
+
+#: admin/class-hostinger-ai-assistant-translations.php:89
+msgid "You rated your conversation"
+msgstr "チャットの評価が送信されました"
+
+#: admin/class-hostinger-ai-assistant-translations.php:32
+msgid "You're good to go, but you can share more details for better results"
+msgstr "十分な長さですが、より詳細な情報を共有することで、結果が改善される可能性があります。"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:178
+#, fuzzy
+msgid "Z-index"
+msgstr "Z-index"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:51
+#, fuzzy
+msgid "Zero-based index to insert at when position is index."
+msgstr "位置が index のときに挿入するゼロベースのインデックス。"

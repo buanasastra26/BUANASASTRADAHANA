@@ -1,0 +1,92 @@
+[
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 7,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 18,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 2,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 2,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 504,
+      "height": 492,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "1",
+    "max_words": 5,
+    "image_size": {
+      "width": 280,
+      "height": 345,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-background-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 400,
+      "height": 565,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-background-image",
+    "type": "Image",
+    "index": "1",
+    "max_words": 5,
+    "image_size": {
+      "width": 194,
+      "height": 276,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-background-image",
+    "type": "Image",
+    "index": "2",
+    "max_words": 5,
+    "image_size": {
+      "width": 194,
+      "height": 276,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-background-video",
+    "type": "Video",
+    "index": "0",
+    "max_words": 5,
+    "video_size": {
+      "width": 1920,
+      "height": 1080
+    }
+  }
+]

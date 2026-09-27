@@ -1,0 +1,92 @@
+[
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 3,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 7,
+    "tone": "business",
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 18,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "3"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 3,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-background-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 600,
+      "height": 800,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 1,
+    "tone": "business",
+    "index": "4"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 4,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 1,
+    "tone": "business",
+    "index": "5"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 4,
+    "index": "2"
+  }
+]

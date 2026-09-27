@@ -1,0 +1,455 @@
+[
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 2,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 14,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "1",
+    "max_words": 5,
+    "image_size": {
+      "width": 800,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "2",
+    "max_words": 5,
+    "image_size": {
+      "width": 800,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "3",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "4",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "5",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "6",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "7",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 400,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "8",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "9",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "10",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "11",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "12",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "13",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "14",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "15",
+    "max_words": 5,
+    "image_size": {
+      "width": 275,
+      "height": 275,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "16",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 453,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "17",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 453,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "18",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 453,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "19",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 453,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "20",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 453,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "21",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 453,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "22",
+    "max_words": 5,
+    "image_size": {
+      "width": 214,
+      "height": 320,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "23",
+    "max_words": 5,
+    "image_size": {
+      "width": 214,
+      "height": 320,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "24",
+    "max_words": 5,
+    "image_size": {
+      "width": 642,
+      "height": 657,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "25",
+    "max_words": 5,
+    "image_size": {
+      "width": 214,
+      "height": 320,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "26",
+    "max_words": 5,
+    "image_size": {
+      "width": 214,
+      "height": 320,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "27",
+    "max_words": 5,
+    "image_size": {
+      "width": 354,
+      "height": 261,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "28",
+    "max_words": 5,
+    "image_size": {
+      "width": 354,
+      "height": 261,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "29",
+    "max_words": 5,
+    "image_size": {
+      "width": 354,
+      "height": 538,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "30",
+    "max_words": 5,
+    "image_size": {
+      "width": 1100,
+      "height": 545,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "31",
+    "max_words": 5,
+    "image_size": {
+      "width": 208,
+      "height": 208,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "32",
+    "max_words": 5,
+    "image_size": {
+      "width": 208,
+      "height": 208,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "33",
+    "max_words": 5,
+    "image_size": {
+      "width": 208,
+      "height": 208,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "34",
+    "max_words": 5,
+    "image_size": {
+      "width": 208,
+      "height": 208,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "35",
+    "max_words": 5,
+    "image_size": {
+      "width": 208,
+      "height": 208,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "36",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 450,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "37",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 450,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "38",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 450,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "39",
+    "max_words": 5,
+    "image_size": {
+      "width": 543,
+      "height": 450,
+      "crop": true
+    }
+  }
+]

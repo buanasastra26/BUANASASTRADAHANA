@@ -1,0 +1,1 @@
+<section class="section page-top"><div class="container narrow"><h1>404</h1><p>Halaman tidak ditemukan.</p><a class="btn primary" href="<?= url('') ?>">Kembali ke Beranda</a></div></section>

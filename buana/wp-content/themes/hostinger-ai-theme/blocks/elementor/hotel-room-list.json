@@ -1,0 +1,204 @@
+[
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 600,
+      "height": 600,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "1",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "2",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "3",
+    "max_words": 5,
+    "image_size": {
+      "width": 600,
+      "height": 600,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "4",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "5",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "6",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "7",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "8",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-cover-image",
+    "type": "Image",
+    "index": "9",
+    "max_words": 5,
+    "image_size": {
+      "width": 300,
+      "height": 300,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-card-title",
+    "type": "Card title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-card-title",
+    "type": "Card title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-card-description",
+    "type": "Card description",
+    "max_words": 30,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-card-description",
+    "type": "Card description",
+    "max_words": 30,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-card-price",
+    "type": "Price with currency (ex. 10$)",
+    "max_words": 2,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-card-price",
+    "type": "Price with currency (ex. 10$)",
+    "max_words": 2,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 2,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 2,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Subtitle",
+    "max_words": 3,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Subtitle",
+    "max_words": 3,
+    "tone": "business",
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Subtitle",
+    "max_words": 3,
+    "tone": "business",
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Subtitle",
+    "max_words": 3,
+    "tone": "business",
+    "index": "3"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Subtitle",
+    "max_words": 3,
+    "tone": "business",
+    "index": "4"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Subtitle",
+    "max_words": 3,
+    "tone": "business",
+    "index": "5"
+  }
+]

@@ -1,0 +1,2759 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2026-09-08 13:34+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.2.30"
+
+#. translators: 1: current page count, 2: maximum number of pages
+#: includes/Admin/AdminTranslations.php:226
+#, fuzzy, php-format
+msgid "%1$s/%2$s pages"
+msgstr "%1$s/%2$s halaman"
+
+#: includes/Admin/AdminTranslations.php:47
+#, php-format
+msgid "%s characters left"
+msgstr "Sisa %s karakter"
+
+#. translators: %s: plugin name
+#: includes/Builder/AbstractPluginBuilder.php:49
+#, php-format
+msgid "%s is not active after installation."
+msgstr "%s tidak aktif setelah instalasi."
+
+#. translators: %s: social network name, e.g. Instagram
+#: includes/Admin/AdminTranslations.php:242
+#: includes/Admin/AdminTranslations.php:243
+#: includes/Admin/AdminTranslations.php:244
+#, fuzzy, php-format
+msgid "%s link or username"
+msgstr "%s tautan atau nama pengguna"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+msgid "A customizable booking form for your website"
+msgstr "Formulir reservasi yang bisa disesuaikan untuk website Anda"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:9
+msgid "A customizable contact form for your website"
+msgstr "Formulir kontak yang bisa disesuaikan untuk website Anda"
+
+#: includes/Versions/Restore/Preflight.php:47
+#, fuzzy
+msgid "A website generation is currently running."
+msgstr "Proses pembuatan situs web sedang berlangsung."
+
+#: includes/Admin/AdminTranslations.php:208
+#: includes/Admin/AdminTranslations.php:213
+msgid "Actions"
+msgstr "Tindakan"
+
+#: includes/Admin/AdminTranslations.php:221
+msgid "Add"
+msgstr "Tambahkan"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:40
+#, fuzzy
+msgid "Add a Google Maps embed URL in the block settings to preview the map."
+msgstr ""
+"Tambahkan URL sematan Google Maps di pengaturan blokir untuk melihat "
+"pratinjau peta."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Add an image"
+msgstr "Tambahkan gambar"
+
+#: includes/Admin/AdminTranslations.php:255
+#, fuzzy
+msgid "Add contacts"
+msgstr "Tambahkan kontak"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+msgid "Add text..."
+msgstr "Tambahkan teks..."
+
+#: includes/Admin/AdminTranslations.php:254
+#: includes/Admin/AdminTranslations.php:257
+#, fuzzy
+msgid "Add WhatsApp button to my site"
+msgstr "Tambahkan tombol WhatsApp ke situs saya"
+
+#: includes/Admin/AdminTranslations.php:259 includes/Builder/Translator.php:66
+#, fuzzy
+msgid "Address"
+msgstr "Alamat"
+
+#: includes/Settings/Theme.php:97
+msgid "Adjust how elements are displayed on your website:"
+msgstr "Sesuaikan tampilkan elemen di website Anda:"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Affiliate marketing site"
+msgstr "Website affiliate marketing"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/AiContent/src/index.js:10
+msgid "AI Content Generator"
+msgstr "AI Content Generator"
+
+#: includes/Admin/AdminTranslations.php:253
+#, fuzzy
+msgid "AI website assistant"
+msgstr "Asisten situs web berbasis kecerdasan buatan"
+
+#: includes/Admin/AdminTranslations.php:10 includes/Admin/Menu.php:25
+#: includes/Admin/Menu.php:26
+msgid "AI Website Builder"
+msgstr "AI Website Builder"
+
+#: includes/Builder/Translator.php:63
+msgid "All rights reserved."
+msgstr "Semua hak cipta dilindungi undang-undang."
+
+#: includes/Admin/AdminTranslations.php:155
+msgid "Almost ready to build"
+msgstr "Proses hampir selesai"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:78
+#: includes/Elementor/WidgetManager.php:55
+msgid "An error occurred. Please try again later."
+msgstr "Terjadi kesalahan. Coba lagi nanti."
+
+#: includes/Admin/AdminTranslations.php:287
+#, fuzzy
+msgid "Apply changes"
+msgstr "Terapkan perubahan"
+
+#: includes/Admin/AdminTranslations.php:236
+msgid "At least one page is needed for the website"
+msgstr "Website perlu minimal satu halaman"
+
+#: includes/Rest/LogoRoutes.php:44
+msgid "Attachment file not found on disk."
+msgstr "Tidak ada file lampiran di disk."
+
+#: includes/Rest/LogoRoutes.php:26
+msgid "Attachment not found."
+msgstr "Tidak ada lampiran."
+
+#. translators: %s php version
+#: functions.php:56
+msgid "Attention:"
+msgstr "Perhatian:"
+
+#: includes/Admin/AdminTranslations.php:165
+msgid ""
+"Awesome! I'm now building your site – just give me a few moments until it's "
+"done and ready!"
+msgstr ""
+"Sip! Saya sedang menyelesaikan website Anda. Sebentar lagi siap digunakan."
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "Kembali"
+
+#: includes/Admin/AdminTranslations.php:137
+#, fuzzy
+msgid "Background"
+msgstr "Latar Belakang"
+
+#: includes/Admin/AdminTranslations.php:290
+#, fuzzy
+msgid "Best"
+msgstr "Terbaik"
+
+#: gutenberg-blocks/AiContent/block.json
+msgctxt "block description"
+msgid "A block for AI-powered content generation and regeneration"
+msgstr "Block untuk membuat dan memperbarui konten dengan AI"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "Block dengan integrasi formulir pemesanan"
+
+#: gutenberg-blocks/ContactForm/block.json
+msgctxt "block description"
+msgid "A customizable contact form for your website"
+msgstr "Formulir kontak yang bisa disesuaikan untuk website Anda"
+
+#: gutenberg-blocks/Map/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "Embeds a Google Maps iframe with an editor preview."
+msgstr "Menyematkan iframe Google Maps dengan pratinjau editor."
+
+#: includes/Admin/AdminTranslations.php:53
+msgid "Block editor"
+msgstr "Editor block"
+
+#: gutenberg-blocks/AiContent/block.json
+msgctxt "block title"
+msgid "AI Content Generator"
+msgstr "AI Content Generator"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "Block Reservasi"
+
+#: gutenberg-blocks/ContactForm/block.json
+msgctxt "block title"
+msgid "Contact Form"
+msgstr "Formulir Kontak"
+
+#: gutenberg-blocks/Map/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Map"
+msgstr "Peta"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:18
+msgid "Blog Posts"
+msgstr "Postingan Blog"
+
+#: includes/Admin/AdminTranslations.php:21
+msgid "Booking"
+msgstr "Reservasi"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+msgid "Booking Form"
+msgstr "Formulir Reservasi"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+msgid "Bookings"
+msgstr "Reservasi"
+
+#: includes/Admin/AdminTranslations.php:136
+#, fuzzy
+msgid "Brand"
+msgstr "Merek"
+
+#: includes/Rest/BuilderRoutes.php:452
+msgid "Brand data not found."
+msgstr "Tidak ada data brand."
+
+#: includes/Admin/AdminTranslations.php:12
+#: includes/Admin/AdminTranslations.php:238
+msgid "Brand name"
+msgstr "Nama brand"
+
+#: includes/Admin/AdminTranslations.php:239
+msgid "Brand name is required"
+msgstr "Nama brand wajib diisi"
+
+#: includes/Admin/AdminTranslations.php:281
+#, fuzzy
+msgid "Browse files"
+msgstr "Telusuri berkas"
+
+#: includes/Admin/AdminTranslations.php:97
+msgid ""
+"Build a blog for \"Wanderlust Lens,\" featuring travel photography and "
+"destination guides. Use adventurous colors like blue, orange, and white. "
+"Include gallery sections and a newsletter signup for travel tips."
+msgstr ""
+"Buat blog \"Wanderlust Lens\" untuk berbagi foto perjalanan dan rekomendasi "
+"destinasi wisata. Gunakan kombinasi warna biru, oranye, dan putih dengan "
+"nuansa petualangan. Tambahkan juga galeri foto dan formulir subscribe untuk "
+"newsletter tips traveling."
+
+#: includes/Admin/AdminTranslations.php:129
+msgid ""
+"Build a calming landing page for \"Calm Mind,\" a meditation and mindfulness "
+"app. Use soothing colors like lavender, soft blue, and white. Design should "
+"be serene and minimal with clear app features."
+msgstr ""
+"Buat landing page untuk aplikasi meditasi dan mindfulness bernama \"Calm "
+"Mind\". Tampilannya kalem dan minimalis dengan kombinasi warna lavender, "
+"biru muda, dan putih. Pastikan fitur-fiturnya mudah ditemukan dan dipahami."
+
+#: includes/Admin/AdminTranslations.php:107
+msgid ""
+"Build a calming website for \"Zen Flow Yoga,\" a boutique yoga studio "
+"offering individual classes and group workshops. Use peaceful colors like "
+"sage green and beige. Keep the design minimal and serene"
+msgstr ""
+"Buat website bernuansa kalem untuk \"Zen Flow Yoga\", studio yoga yang "
+"menawarkan kelas private dan workshop grup. Gunakan warna hijau sage dan "
+"beige, serta desain minimalis dan elegan."
+
+#: includes/Admin/AdminTranslations.php:115
+msgid ""
+"Build a cozy website for \"Morning Crumb Bakery & Cafe,\" a neighborhood "
+"spot serving fresh pastries and coffee. Use warm, appetizing colors like "
+"golden brown and cream."
+msgstr ""
+"Buat website bernuansa homey untuk \"Morning Crumb Bakery & Cafe\", kafe "
+"kecil yang menyajikan aneka pastry dan kopi. Gunakan warna cokelat keemasan "
+"dan krem agar tampilannya hangat dan mengunggah selera."
+
+#: includes/Admin/AdminTranslations.php:127
+msgid ""
+"Build a modern landing page for \"CloudMail,\" a SaaS startup launching new "
+"AI based email app. Use tech-forward colors like electric blue, purple, and "
+"white. Design should be minimal with waitlist signup and feature highlights."
+msgstr ""
+"Buat website landing page untuk \"CloudMail\", startup SaaS yang akan segera "
+"merilis aplikasi email berbasis AI. Saya mau desain modern dengan kombinasi "
+"biru elektrik, ungu, dan putih. Lengkapi dengan formulir waitlist dan "
+"penjelasan fitur-fiturnya."
+
+#: includes/Admin/AdminTranslations.php:101
+msgid ""
+"Build a portfolio site for wedding photographers \"Frames Photography.\" "
+"Keep design elegant and minimal. Use color palette of black, white, and "
+"beige. Add a blog page to share valuable wedding tips with couples."
+msgstr ""
+"Buat website portofolio \"Frames Photography\" untuk jasa fotografer wedding."
+" Desainnya simpel, elegan, dengan kombinasi warna hitam, putih, dan beige. "
+"Tambahkan halaman blog untuk membagikan tips dan inspirasi seputar "
+"pernikahan."
+
+#: includes/Admin/AdminTranslations.php:117
+msgid ""
+"Build a professional site for \"Pixel Growth,\" a digital marketing agency "
+"for small businesses. Use modern, confident colors like navy blue, bright "
+"orange, and white. Keep design clean and minimal with clear service sections."
+"."
+msgstr ""
+"Buat website profesional untuk \"Pixel Growth\", agensi digital marketing "
+"yang fokus membantu UMKM. Desainnya simpel, minimalis, dengan kombinasi "
+"warna biru navy, oranye cerah, dan putih. Pastikan setiap layanan "
+"ditampilkan dengan jelas."
+
+#: includes/Admin/AdminTranslations.php:133
+msgid ""
+"Build a whimsical page for\"Emma Stories\" showcasing published books and "
+"upcoming releases for children books. Use cheerful colors like pink, yellow, "
+"and light blue. Design should be playful and fun with colorful images."
+msgstr ""
+"Buat website bertema fantasi untuk \"Emma Stories\". Tampilkan koleksi buku "
+"anak-anak yang sudah terbit dan yang akan datang. Gunakan warna cerah "
+"seperti pink, kuning, dan biru muda, dengan desain playful, penuh warna, dan "
+"menarik."
+
+#: includes/Admin/AdminTranslations.php:125
+msgid ""
+"Build an elegant site for \"Valley Vista Vineyard,\" offering wine tastings, "
+"tours, and bottle sales. Use rich, earthy colors like burgundy, deep green, "
+"and cream. Design should feel rustic yet refined with event calendar and "
+"wine collection showcase."
+msgstr ""
+"Buat website elegan untuk \"Valley Vista Vineyard\" yang menawarkan wine "
+"tasting, tur kebun anggur, dan penjualan wine. Gunakan warna burgundy, hijau "
+"tua, dan krem untuk kesan rustic dan earthy, serta tambahkan kalender event "
+"dan etalase koleksi wine."
+
+#: includes/Admin/AdminTranslations.php:87
+msgid ""
+"Build an online store for \"Retro Revival,\" selling curated vintage "
+"clothing from the 60s-90s. Use nostalgic colors like mustard yellow, burnt "
+"orange, and brown. Design should feel fun and energetic with retro vibe."
+msgstr ""
+"Buat website untuk toko online \"Retro Revival\" yang menjual baju vintage "
+"pilihan dari era 60-an sampai 90-an. Gunakan warna bernuansa retro seperti "
+"kuning mustard, oranye tua, dan cokelat. Tampilannya harus terkesan "
+"nostalgik, ceria, sekaligus klasik."
+
+#: includes/Admin/AdminTranslations.php:52
+msgid "Builder type"
+msgstr "Jenis builder"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Building content"
+msgstr "Membuat konten"
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Business and services"
+msgstr "Bisnis dan layanan"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+msgid "Button Settings"
+msgstr "Pengaturan Tombol"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:120
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:96
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: includes/Admin/AdminTranslations.php:39
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Cancel"
+msgstr "Batal"
+
+#: includes/Admin/AdminTranslations.php:88
+msgid "Candle shop"
+msgstr "Toko lilin"
+
+#: includes/Admin/AdminTranslations.php:122
+msgid "Car repair services"
+msgstr "Jasa servis mobil"
+
+#: includes/Builder/SiteApplier.php:1289
+#: includes/Builder/WebsiteBuilder.php:509
+#: includes/Shortcodes/ShortcodesManager.php:28
+msgid "Cart"
+msgstr "Cart"
+
+#. translators: %d: generated product category number.
+#: includes/Builder/ProductCategoryManager.php:218
+#, php-format
+msgid "Category %d"
+msgstr "Kategori %d"
+
+#: includes/Admin/AdminTranslations.php:207
+#: includes/Admin/AdminTranslations.php:212
+msgid "Chat"
+msgstr "Chat"
+
+#: includes/Admin/AdminTranslations.php:175
+msgid "Check that your file is in one of these formats: PNG, JPG."
+msgstr "Pastikan file Anda berformat PNG atau JPG."
+
+#: includes/Settings/Theme.php:113
+msgid "Check this box to hide the header element on all pages"
+msgstr "Centang kotak ini untuk menyembunyikan elemen header di semua halaman"
+
+#: includes/Admin/Hooks.php:159
+msgid ""
+"Check this box to hide the page title on the frontend. This is useful when "
+"your page content already includes a heading."
+msgstr ""
+"Centang opsi ini untuk menyembunyikan judul halaman. Gunakan jika judul "
+"sudah ditampilkan di dalam konten."
+
+#: includes/Builder/SiteApplier.php:1294
+#: includes/Builder/WebsiteBuilder.php:518
+msgid "Checkout"
+msgstr "Checkout"
+
+#: includes/Admin/AdminTranslations.php:132
+msgid "Children's book author page"
+msgstr "Halaman penulis buku anak-anak"
+
+#: includes/Admin/AdminTranslations.php:49
+msgid "Choose your site’s language"
+msgstr "Pilih bahasa website"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Close AI Generator"
+msgstr "Tutup Generator AI"
+
+#: includes/Admin/AdminTranslations.php:120
+msgid "Coffee roastery site"
+msgstr "Website coffee roastery"
+
+#: includes/Admin/AdminTranslations.php:140
+msgid "Color code"
+msgstr "Kode warna"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Button text"
+msgstr "Teks tombol"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "Warna 1 (Background bagian)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "Warna 2 (Background bagian)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "Warna 3 (Background tombol)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "Gelap (Teks Terang dan Warna 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "Abu-abu (Border formulir)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "Terang (Teks Warna 2 dan Gradien)"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Page background"
+msgstr "Latar belakang halaman"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Page text"
+msgstr "Teks halaman"
+
+#: includes/Admin/AdminTranslations.php:145
+msgid "Colors"
+msgstr "Warna"
+
+#: includes/Rest/BuilderRoutes.php:962
+msgid "Colors data with color_palette is required."
+msgstr "Data warna dengan color_palette wajib diisi."
+
+#: includes/Admin/AdminTranslations.php:235
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+#: includes/Admin/AdminTranslations.php:149
+msgid "Confirm site details"
+msgstr "Konfirmasi detail website"
+
+#: includes/Admin/AdminTranslations.php:249
+#, fuzzy
+msgid "Connect"
+msgstr "Terhubung"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+msgid "Consent Text"
+msgstr "Teks Persetujuan"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:17
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:8
+msgid "Contact Form"
+msgstr "Formulir Kontak"
+
+#: includes/Builder/Translator.php:45
+msgid "Contacts"
+msgstr "Kontak"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:37
+#: includes/Elementor/Widgets/ContactFormWidget.php:50
+msgid "Content"
+msgstr "Konten"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content generated but could not be inserted. Please try again."
+msgstr "Konten telah dibuat, tetapi tidak dapat disisipkan. Silakan coba lagi."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content generated successfully!"
+msgstr "Konten berhasil dibuat!"
+
+#: includes/Rest/BlockTypeRoutes.php:284
+msgid "Content generation failed"
+msgstr "Gagal membuat konten"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content generation failed. Please try again."
+msgstr "Pembuatan konten gagal. Silakan coba lagi."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content length"
+msgstr "Panjang konten"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: includes/Admin/AdminTranslations.php:142
+#: includes/Admin/AdminTranslations.php:153
+msgid "Continue to setup"
+msgstr "Lanjutkan ke setup"
+
+#: includes/Admin/AdminTranslations.php:80
+msgid "Couldn’t create your site this time"
+msgstr "Tidak dapat membuat website saat ini"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Country"
+msgstr "Negara"
+
+#: includes/Admin/AdminTranslations.php:24
+#: includes/Admin/AdminTranslations.php:269
+msgid "Create"
+msgstr "Buat"
+
+#: includes/Admin/AdminTranslations.php:215
+msgid "Create a blog about..."
+msgstr "Buat blog tentang..."
+
+#: includes/Admin/AdminTranslations.php:93
+msgid ""
+"Create a blog called “Mindful Money\" sharing tips on budgeting, investing, "
+"and financial freedom. Use trustworthy colors like dark blue, light gray, "
+"and white. Design should be clean and professional with easy navigation and "
+"newsletter signup."
+msgstr ""
+"Buat blog \"Mindful Money\" untuk berbagi tips budgeting, investasi, dan "
+"financial freedom. Gunakan warna biru tua, abu muda, dan putih untuk kesan "
+"profesional dan kredibel. Pastikan navigasinya simpel dan sertakan formulir "
+"subscribe newsletter."
+
+#: includes/Admin/AdminTranslations.php:103
+msgid ""
+"Create a portfolio for a freelance graphic designer \"GrapicVibe\" "
+"specializing in branding and visual identity. Use bold, modern colors like "
+"black, neon green, and white. Design should be minimal yet striking with "
+"large project showcases."
+msgstr ""
+"Buat portofolio online untuk freelancer graphic designer bernama "
+"\"GraphicVibe\" yang fokus di bidang branding dan visual identity. Gunakan "
+"warna hitam, hijau neon, dan putih dengan desain minimalis yang modern. "
+"Tampilkan proyek utama sebagai fokus utama."
+
+#: includes/Admin/AdminTranslations.php:123
+msgid ""
+"Create a site for \"Pette’s Auto Care,\" a local mechanic shop offering "
+"honest repairs and maintenance. Use professional colors like orange, black, "
+"and gray. Include our services list, contact form and a blog about cars."
+msgstr ""
+"Buat website untuk bengkel saya, \"Satria Auto Care\". Bengkel ini "
+"menyediakan jasa servis dan reparasi mobil yang tepercaya. Gunakan warna "
+"oranye, hitam, dan abu-abu, serta tambahkan daftar layanan, formulir kontak, "
+"dan blog seputar otomotif."
+
+#: includes/Admin/AdminTranslations.php:121
+msgid ""
+"Create a website for \"Dark Bean Roasters,\" an artisan coffee roastery. Use "
+"rich, earthy tones like dark brown, copper, and cream. Design should be warm "
+"and inviting. Include a blog page about coffee culture and brewing tips."
+msgstr ""
+"Buat website untuk bisnis kopi artisan bernama \"Dark Bean Roastery\". "
+"Gunakan kombinasi warna cokelat tua, copper, dan krem untuk kesan hangat dan "
+"premium. Buatkan juga halaman blog yang berisi artikel seputar dunia kopi "
+"dan tips brewing."
+
+#: includes/Admin/AdminTranslations.php:214
+msgid "Create a website for my business..."
+msgstr "Buat website untuk bisnis saya..."
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Create again"
+msgstr "Buat lagi"
+
+#: includes/Admin/AdminTranslations.php:99
+msgid ""
+"Create an affiliate marketing blog called \"Glow Guide\" reviewing and "
+"recommending skincare products. Use fresh colors like white, light gray and "
+"green."
+msgstr ""
+"Buat blog affiliate marketing bernama \"Glow Guide\" yang berisi ulasan dan "
+"rekomendasi produk skincare. Gunakan warna putih, abu-abu muda, dan hijau "
+"untuk nuansa cerah dan segar."
+
+#: includes/Admin/AdminTranslations.php:95
+msgid ""
+"Create an affiliate marketing blog called \"Smart Reviews\" featuring in-"
+"depth reviews of smartphones and laptops and other home gadgets. Use modern, "
+"tech-inspired colors like dark blue, silver, and white. Add newsletter "
+"signup section."
+msgstr ""
+"Buat blog affiliate marketing bernama \"Smart Reviews\" untuk membahas "
+"review smartphone, laptop, dan home gadget lainnya. Gunakan warna modern "
+"bertema teknologi seperti biru tua, silver, dan putih. Tambahkan juga "
+"formulir subscribe newsletter."
+
+#: includes/Admin/AdminTranslations.php:218
+msgid "Create an affiliate marketing site for..."
+msgstr "Buat website affiliate marketing untuk..."
+
+#: includes/Admin/AdminTranslations.php:85
+msgid ""
+"Create an e-commerce website selling handmade macrame and knitted goods "
+"called \"Cozy Knot”. Use warm and light tones like white, beige, light green."
+msgstr ""
+"Buat website toko online dengan nama \"Cozy Knot\" untuk jualan produk "
+"makrame dan rajutan handmade. Gunakan tone desain yang lembut dan natural "
+"dengan warna putih, beige, dan hijau muda."
+
+#: includes/Admin/AdminTranslations.php:105
+msgid ""
+"Create an elegant portfolio for \"Morning Interiors,\" showcasing "
+"residential design projects. Use sophisticated colors like black, light "
+"brown. Design should be minimal and luxurious with large project images."
+msgstr ""
+"Buat website portofolio untuk \"Morning Interior\" dengan desain elegan. "
+"Gunakan warna-warna klasik seperti hitam dan cokelat muda, serta tampilkan "
+"foto proyek desain rumah dalam ukuran besar."
+
+#: includes/Admin/AdminTranslations.php:119
+msgid ""
+"Create an elegant website for \"Wanderlux Travel,\" offering curated luxury "
+"tours to exotic destinations. Use sophisticated tones of blues and greens. "
+"Design should feel inspiring with stunning exotic destination photography "
+"and package details."
+msgstr ""
+"Buat website elegan untuk \"Wanderlux Travel\", agen perjalanan yang "
+"menawarkan paket wisata mewah ke berbagai destinasi eksotis. Desainnya "
+"premium dan inspiratif dengan kombinasi warna biru dan hijau, foto destinasi "
+"yang menarik, serta detail paket perjalanan."
+
+#: includes/Admin/AdminTranslations.php:216
+msgid "Create an online store selling..."
+msgstr "Buat toko online untuk menjual..."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Create content section"
+msgstr "Buat bagian konten"
+
+#: includes/Admin/AdminTranslations.php:217
+msgid "Create portfolio showcasing my..."
+msgstr "Buat portofolio untuk menampilkan..."
+
+#: includes/Admin/AdminTranslations.php:219
+msgid "Create..."
+msgstr "Buat..."
+
+#: includes/Admin/AdminTranslations.php:274
+#, fuzzy
+msgid "Creating a new version will replace the oldest one"
+msgstr "Membuat versi baru akan menggantikan versi yang paling lama"
+
+#: includes/Admin/AdminTranslations.php:202
+#, fuzzy
+msgid "Creating your logo"
+msgstr "Membuat logo Anda"
+
+#: includes/Admin/AdminTranslations.php:196
+msgid "Creating your site"
+msgstr "Sedang membuat website"
+
+#: includes/Admin/AdminTranslations.php:286
+#, fuzzy
+msgid "Custom"
+msgstr "Kustom"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "Tidak ada judul"
+
+#: includes/Admin/AdminTranslations.php:160
+#: includes/Admin/AdminTranslations.php:170
+msgid "Customize again"
+msgstr "Sesuaikan lagi"
+
+#: includes/Admin/AdminTranslations.php:151
+msgid "Customize style"
+msgstr "Sesuaikan gaya"
+
+#: includes/Admin/AdminTranslations.php:166
+#, fuzzy
+msgid "Customize your colors, fonts, and logo."
+msgstr "Sesuaikan warna, jenis huruf, dan logo Anda."
+
+#: gutenberg-blocks/Booking/Booking.php:85 includes/Builder/Translator.php:59
+#: includes/Elementor/Widgets/ContactFormWidget.php:210
+msgid "Date"
+msgstr "Tanggal"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:208
+msgid "Date Label"
+msgstr "Label Tanggal"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:220
+msgid "Date Placeholder"
+msgstr "Placeholder Tanggal"
+
+#: includes/Admin/AdminTranslations.php:278
+#, fuzzy
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/Admin/AdminTranslations.php:276
+#, fuzzy
+msgid "Delete this version?"
+msgstr "Hapus versi ini?"
+
+#: includes/Admin/AdminTranslations.php:275
+#, fuzzy
+msgid "Delete version"
+msgstr "Hapus versi"
+
+#: includes/Admin/AdminTranslations.php:71
+msgid "Describe your website idea..."
+msgstr "Jelaskan ide website Anda..."
+
+#: includes/Admin/AdminTranslations.php:22
+#: includes/Admin/AdminTranslations.php:57
+#: includes/Elementor/Widgets/ContactFormWidget.php:107
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:53
+msgid "Description"
+msgstr "Deskripsi"
+
+#: includes/Rest/GenerationRoutes.php:194
+#: includes/Rest/GenerationRoutes.php:427
+#, fuzzy
+msgid "Description and brand name are required."
+msgstr "Deskripsi dan nama merek wajib diisi."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Description is required"
+msgstr "Deskripsi wajib diisi"
+
+#: includes/Rest/BlockTypeRoutes.php:118 includes/Rest/BlockTypeRoutes.php:368
+#: includes/Rest/BuilderRoutes.php:277
+msgid "Description is required."
+msgstr "Deskripsi wajib diisi."
+
+#: includes/Admin/AdminTranslations.php:46
+#| msgid ""
+#| "Description is too long. Please shorten it to 2000 characters or less."
+msgid "Description is too long. Please shorthen it to 2000 or  less"
+msgstr "Deskripsi terlalu panjang. Maksimal 2.000 karakter"
+
+#: includes/Admin/AdminTranslations.php:109
+msgid ""
+"Design a friendly service website for \"Pawsitive Grooming,\" a local pet "
+"grooming business. Use playful, warm colors like green, light blue, and "
+"yellow. The design should feel welcoming and trustworthy for pet owners."
+msgstr ""
+"Buat desain website untuk \"Pawsitive Grooming\", tempat grooming hewan "
+"peliharaan. Gunakan warna ceria seperti hijau, biru muda, dan kuning agar "
+"nuansanya ramah dan meyakinkan bagi pemilik hewan."
+
+#: includes/Admin/AdminTranslations.php:111
+msgid ""
+"Design a motivating website for fitness coach \"Power Path\" offering "
+"personal training and nutrition plans. Use energetic colors like red, black, "
+"and white. The design should feel bold and inspiring with clear service "
+"packages."
+msgstr ""
+"Buatkan website yang menarik untuk \"Power Path\", jasa personal trainer "
+"yang membantu klien mencapai target kebugaran lewat latihan dan panduan "
+"nutrisi. Tampilannya harus terkesan memotivasi, menggunakan warna merah, "
+"hitam, dan putih. Pastikan paket layanan mudah ditemukan."
+
+#: includes/Admin/AdminTranslations.php:131
+msgid ""
+"Design a site for \"Second Chance Paws,\" a non-profit rescuing and rehoming "
+"abandoned dogs, cats and other pets. Use warm colors like orange, beige, "
+"light brown. Include adoption listings and volunteer signup section.."
+msgstr ""
+"Buat website untuk \"Second Chance Paws\", organisasi nonprofit yang "
+"menyelamatkan dan mencarikan adopter bagi anjing, kucing, dan hewan telantar "
+"lainnya. Gunakan warna oranye, beige, dan cokelat muda. Tambahkan katalog "
+"hewan yang siap diadopsi dan formulir pendaftaran relawan."
+
+#: includes/Admin/AdminTranslations.php:113
+msgid ""
+"Design a stylish site for corporate events, and parties company \"This "
+"Moment\" . Use bright colors like purple, black, lime green. Showcase our "
+"service, include portfolio gallery, and contact form for inquiries."
+msgstr ""
+"Buat website modern dan stylish untuk perusahaan event organizer \"This "
+"Moment\". Pakai warna ungu, hitam, serta hijau lime, lalu tambahkan galeri "
+"portofolio dan formulir kontak untuk calon klien."
+
+#: includes/Admin/AdminTranslations.php:91
+msgid ""
+"Design a vibrant food blog named \"Green Plate\" focusing on plant-based, "
+"healthy recipes. Use fresh, bright colors like lime green, yellow, and white."
+" Include the subscribe section."
+msgstr ""
+"Buat blog resep sehat bernama \"Green Plate\". Aku mau tampilannya cerah dan "
+"fresh dengan dominasi warna hijau lime, kuning, dan putih. Sertakan form "
+"subscribe untuk pembaca."
+
+#: includes/Admin/AdminTranslations.php:200
+#, fuzzy
+msgid "Designing your layout"
+msgstr "Merancang tata letak Anda"
+
+#: includes/Admin/AdminTranslations.php:116
+msgid "Digital marketing agency"
+msgstr "Agensi digital marketing"
+
+#: includes/Settings/Theme.php:56
+msgid "Display Settings"
+msgstr "Pengaturan Tampilan"
+
+#: includes/Admin/AdminTranslations.php:62
+msgid "Do you have any comments/suggestions to improve created site?"
+msgstr "Punya ide atau masukan untuk menyempurnakan website ini?"
+
+#: includes/Admin/Surveys/WebsiteBuilderExperience.php:33
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "Punya komentar/saran untuk meningkatkan tool AI kami?"
+
+#: includes/Admin/AdminTranslations.php:283
+#, fuzzy
+msgid "Drag & drop or browse your files"
+msgstr "Seret dan lepas atau telusuri file Anda"
+
+#: includes/Admin/AdminTranslations.php:84
+msgid "E-shop for handmade crafts"
+msgstr "Toko online kerajinan tangan"
+
+#: includes/Admin/AdminTranslations.php:72
+msgid "Easy drag-and-drop builder for fast, no-code design"
+msgstr "Drag and drop builder praktis tanpa coding"
+
+#: includes/Admin/AdminTranslations.php:32 includes/Hooks.php:155
+msgid "Edit site"
+msgstr "Edit website"
+
+#: includes/Admin/AdminTranslations.php:187
+msgid "Edit site design and content"
+msgstr "Edit desain dan konten website"
+
+#: includes/Admin/AdminTranslations.php:74
+#| msgid "Editor: "
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/Admin/AdminTranslations.php:189
+msgid "editor"
+msgstr "editor"
+
+#: includes/Admin/AdminTranslations.php:78
+msgid "Editor is required"
+msgstr "Perlu editor"
+
+#: includes/Admin/AdminTranslations.php:54
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/Admin/AdminTranslations.php:56
+msgid ""
+"Elementor is an easy drag-and-drop builder, while the WordPress Block Editor "
+"gives pros more flexibility"
+msgstr ""
+"Elementor mudah digunakan dengan fitur drag and drop, sementara WordPress "
+"Block Editor lebih fleksibel untuk pengguna berpengalaman"
+
+#: includes/Admin/AdminTranslations.php:258 includes/Builder/Translator.php:55
+#: includes/Elementor/Widgets/ContactFormWidget.php:174
+#: includes/Shortcodes/ShortcodesManager.php:42
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:40
+msgid "Email"
+msgstr "Email"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:135
+msgid ""
+"Email address where form submissions will be sent. Defaults to WordPress "
+"admin email."
+msgstr ""
+"Alamat email penerima kiriman formulir. Secara default menggunakan email "
+"admin WordPress."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:172
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:74
+msgid "Email Label"
+msgstr "Label Email"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:181
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:79
+msgid "Email Placeholder"
+msgstr "Placeholder Email"
+
+#: includes/Elementor/ScrollAnimation.php:37
+msgid "Enable fade-up animation when this section scrolls into view."
+msgstr "Aktifkan animasi fade up saat bagian ini muncul di layar."
+
+#: includes/Elementor/ScrollAnimation.php:36
+msgid "Enable Scroll Animation"
+msgstr "Aktifkan Animasi Scroll"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Enabling plugins"
+msgstr "Mengaktifkan plugin"
+
+#: includes/Admin/AdminTranslations.php:83
+msgid "Enhance with AI"
+msgstr "Sempurnakan dengan AI"
+
+#: includes/Admin/AdminTranslations.php:251
+#, fuzzy
+msgid "Enter a correct email address"
+msgstr "Masukkan alamat email yang benar"
+
+#: includes/Admin/AdminTranslations.php:246
+#, fuzzy
+msgid "Enter a correct Facebook link or Username"
+msgstr "Masukkan tautan Facebook atau nama pengguna yang benar"
+
+#: includes/Admin/AdminTranslations.php:245
+#, fuzzy
+msgid "Enter a correct Instagam link or Username"
+msgstr "Masukkan tautan Instagram atau nama pengguna yang benar"
+
+#: includes/Admin/AdminTranslations.php:252
+#, fuzzy
+msgid "Enter a correct phone number"
+msgstr "Masukkan nomor telepon yang benar"
+
+#: includes/Admin/AdminTranslations.php:247
+#, fuzzy
+msgid "Enter a correct TikTok link or Username"
+msgstr "Masukkan tautan TikTok atau nama pengguna yang benar"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Enter at least 11 characters"
+msgstr "Masukkan minimal 11 karakter"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:123
+msgid "Enter button text"
+msgstr "Masukkan teks tombol"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:110
+msgid "Enter form description"
+msgstr "Masukkan deskripsi formulir"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:56
+msgid "Enter form description..."
+msgstr "Masukkan deskripsi formulir..."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:73
+msgid "Enter form title"
+msgstr "Masukkan judul formulir"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:41
+msgid "Enter form title..."
+msgstr "Masukkan judul formulir..."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:134
+msgid "Enter recipient email address"
+msgstr "Masukkan alamat email penerima"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+msgid "Enter your email..."
+msgstr "Masukkan email Anda..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+msgid "Enter your message..."
+msgstr "Masukkan pesan Anda..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+msgid "Enter your name..."
+msgstr "Masukkan nama Anda..."
+
+#: includes/Admin/AdminTranslations.php:112
+msgid "Event planning services"
+msgstr "Jasa event organizer"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid ""
+"Example: article about the benefits of drop-shipping with included tips & "
+"tricks."
+msgstr ""
+"Contoh: artikel tentang manfaat drop-shipping yang dilengkapi dengan tips "
+"dan trik."
+
+#: includes/Admin/AdminTranslations.php:64
+msgid "Excellent"
+msgstr "Sangat puas"
+
+#: includes/Admin/AdminTranslations.php:37
+msgid "Existing content will be deleted"
+msgstr "Konten yang ada akan dihapus"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "Gambar eksternal dapat digunakan untuk menampilkan gambar unggulan."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "URL Gambar Eksternal"
+
+#. translators: %s: plugin name
+#: includes/Builder/PluginInstaller.php:38
+#: includes/Builder/PluginInstaller.php:205
+#, php-format
+msgid "Failed to activate %s. Please try activating it manually."
+msgstr "Gagal mengaktifkan %s. Coba aktifkan secara manual."
+
+#. translators: %s: plugin name
+#: includes/Builder/PluginInstaller.php:76
+#, php-format
+msgid ""
+"Failed to download %s after multiple attempts. Please try again later or "
+"install the plugin manually."
+msgstr "Gagal mendownload %s. Coba lagi atau instal plugin secara manual."
+
+#: includes/Rest/BlockTypeRoutes.php:233
+msgid ""
+"Failed to generate content. Please try again with a different description."
+msgstr "Gagal membuat konten. Coba lagi dengan deskripsi lain."
+
+#: includes/Rest/BlockTypeRoutes.php:150
+msgid "Failed to generate page content."
+msgstr "Gagal membuat konten halaman."
+
+#: includes/Rest/BlockTypeRoutes.php:186
+msgid ""
+"Failed to generate page content. Please try again with a different "
+"description."
+msgstr "Gagal membuat konten halaman. Coba lagi dengan deskripsi lain."
+
+#: includes/Rest/BlockTypeRoutes.php:142
+msgid "Failed to generate page structure."
+msgstr "Gagal membuat struktur halaman."
+
+#: includes/Rest/BuilderRoutes.php:465
+msgid "Failed to generate pages list."
+msgstr "Gagal membuat daftar halaman."
+
+#: includes/Rest/BlockTypeRoutes.php:428
+msgid "Failed to generate section content."
+msgstr "Gagal membuat konten bagian."
+
+#: includes/Rest/BlockTypeRoutes.php:105
+msgid ""
+"Failed to generate section content. Please try again with a different "
+"description."
+msgstr "Gagal membuat konten bagian. Coba lagi dengan deskripsi lain."
+
+#: includes/Rest/BuilderRoutes.php:606 includes/Rest/BuilderRoutes.php:622
+msgid "Failed to generate structure."
+msgstr "Gagal membuat struktur."
+
+#: includes/Rest/BlockTypeRoutes.php:434
+msgid "Failed to merge content with structure."
+msgstr "Gagal menggabungkan konten dengan struktur."
+
+#: includes/Admin/AdminTranslations.php:178
+msgid "Failed to remove logo. Please try again."
+msgstr "Gagal menghapus logo. Coba lagi."
+
+#: includes/Admin/AdminTranslations.php:179
+#, fuzzy
+msgid "Failed to restore generated logo. Please try again."
+msgstr "Gagal memulihkan logo yang telah dibuat. Silakan coba lagi."
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:143
+#: includes/Elementor/Widgets/ContactFormWidget.php:385
+msgid "Failed to send email. Please try again later."
+msgstr "Gagal mengirim email. Coba lagi nanti."
+
+#: includes/Admin/AdminTranslations.php:177
+msgid "Failed to upload logo. Please try again."
+msgstr "Gagal mengupload logo. Coba lagi."
+
+#: includes/Admin/Hooks.php:39
+msgid "Featured Image with URL"
+msgstr "Gambar Unggulan dengan URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+msgid "Field Settings"
+msgstr "Pengaturan Kolom"
+
+#: includes/Admin/AdminTranslations.php:176 includes/Hooks.php:428
+#: includes/Rest/LogoRoutes.php:52
+msgid "File size exceeds the 2 MB limit."
+msgstr "Ukuran file melebihi limit 2 MB."
+
+#: includes/Admin/AdminTranslations.php:143
+#: includes/Admin/AdminTranslations.php:158
+msgid "Finish customization"
+msgstr "Selesaikan kustomisasi"
+
+#: includes/Admin/AdminTranslations.php:162
+msgid ""
+"First, I just want to make sure I got this right – what's your brand name?"
+msgstr "Untuk memulai, beri tahu saya nama brand Anda."
+
+#: includes/Admin/AdminTranslations.php:110
+msgid "Fitness coaching services"
+msgstr "Jasa personal trainer"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Catamaran"
+msgstr "Catamaran"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Caudex"
+msgstr "Caudex"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Cormorant"
+msgstr "Cormorant"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Serif Display"
+msgstr "DM Serif Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Sans"
+msgstr "Fira Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Gruppo"
+msgstr "Gruppo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "IBM Plex Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Junge"
+msgstr "Junge"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr "Lato"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito Sans"
+msgstr "Nunito Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prata"
+msgstr "Prata"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prompt"
+msgstr "Prompt"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prosto One"
+msgstr "Prosto One"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "Sistem"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Titillium Web"
+msgstr "Titillium Web"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Trirong"
+msgstr "Trirong"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:147
+#: includes/Admin/AdminTranslations.php:284
+msgid "Fonts"
+msgstr "Font"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:146
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:61
+msgid "Form Fields"
+msgstr "Kolom Formulir"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:29
+msgid "Form Settings"
+msgstr "Pengaturan Formulir"
+
+#: includes/Admin/AdminTranslations.php:295
+#, fuzzy
+msgid "Game over"
+msgstr "Game over"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Generate"
+msgstr "Buat"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/AiContent/src/index.js:11
+msgid "Generate and regenerate content using AI"
+msgstr "Buat dan perbarui konten dengan AI"
+
+#: includes/Rest/LogoRoutes.php:106
+#, fuzzy
+msgid "Generated logo file not found."
+msgstr "File logo yang dihasilkan tidak ditemukan."
+
+#: includes/Rest/LogoRoutes.php:97
+#, fuzzy
+msgid "Generated logo not found."
+msgstr "Logo yang dihasilkan tidak ditemukan."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid ""
+"Generating a full page will delete all existing content on this page and "
+"replace it with new AI-generated content."
+msgstr ""
+"Membuat halaman baru akan menghapus semua konten yang ada di halaman ini dan "
+"menggantinya dengan konten baru yang dihasilkan oleh AI."
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "Membuat warna"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Generating content"
+msgstr "Membuat konten"
+
+#: includes/Admin/AdminTranslations.php:203
+#, fuzzy
+msgid "Generating images"
+msgstr "Membuat gambar"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating structure"
+msgstr "Membuat struktur"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Generating..."
+msgstr "Sedang memproses..."
+
+#: includes/Builder/Translator.php:50
+#: includes/Elementor/Widgets/ContactFormWidget.php:72
+msgid "Get in Touch"
+msgstr "Hubungi"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Give us a minute"
+msgstr "Harap tunggu"
+
+#: includes/Admin/AdminTranslations.php:195
+msgid "Go to WordPress"
+msgstr "Buka WordPress"
+
+#: includes/Admin/AdminTranslations.php:210
+msgid "Go to WordPress admin"
+msgstr "Buka WordPress admin"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:17
+#, fuzzy
+msgid "Google Maps embed URL"
+msgstr "URL sematan Google Maps"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "Gradien background bagian"
+
+#: includes/Admin/AdminTranslations.php:102
+msgid "Graphic designer portfolio"
+msgstr "Portofolio graphic designer"
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Great description! Feel free to add more details"
+msgstr "Deskripsinya sudah bagus! Tambahkan lebih banyak detail"
+
+#: includes/Admin/AdminTranslations.php:154
+msgid "Head to WP admin or your chosen editor"
+msgstr "Kunjungi WP admin atau editor pilihan Anda"
+
+#: includes/Admin/AdminTranslations.php:90
+msgid "Healthy food blog"
+msgstr "Blog makanan sehat"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:23
+#, fuzzy
+msgid "Height (px)"
+msgstr "Tinggi (px)"
+
+#: includes/Admin/AdminTranslations.php:58
+msgid "Help us improve"
+msgstr "Bantu kami meningkatkan kualitas"
+
+#: includes/Admin/AdminTranslations.php:161
+msgid ""
+"Hi 👋 I'm your AI assistant. Your site is on the way.\\n\\nHere is the plan:"
+msgstr "Hai 👋 Saya akan membantu membuat website Anda."
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:48
+#: includes/Elementor/Widgets/ContactFormWidget.php:61
+#: includes/Elementor/Widgets/ContactFormWidget.php:86
+#: includes/Elementor/Widgets/ContactFormWidget.php:98
+#| msgid "Ehime"
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: includes/Settings/Theme.php:63
+msgid "Hide Header"
+msgstr "Sembunyikan Header"
+
+#: includes/Admin/Hooks.php:155
+msgid "Hide page title"
+msgstr "Sembunyikan judul halaman"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Tema AI Hostinger"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"Tema AI Hostinger dioptimalkan untuk SEO dan perangkat mobile agar performa "
+"website Anda lebih baik."
+
+#: includes/Admin/AdminTranslations.php:262
+#, fuzzy
+msgid "Hostinger Ecommerce setup"
+msgstr "Pengaturan E-commerce Hostinger"
+
+#: includes/Builder/Translator.php:67
+#, fuzzy
+msgid "Hours"
+msgstr "Jam"
+
+#: includes/Admin/Surveys/WebsiteBuilderExperience.php:29
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"Seberapa puaskah Anda menggunakan AI website builder kami untuk membuat "
+"website? (Skala 1–10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Admin/AdminTranslations.php:89
+msgid ""
+"I am creating luxury handmade soy wax candles under the brand name “Bliss "
+"Candles\". I need a warm and inviting online store for it. The design should "
+"emphasize relaxation and luxury. Use soft, muted colors: lavender, light "
+"gray, and beige."
+msgstr ""
+"Aku punya bisnis lilin handmade berbahan soy wax dengan nama \"Bliss "
+"Candles\". Buatkan toko online yang elegan dan premium, dengan desain yang "
+"bernuansa relaksasi dan self-care. Pilih warna yang lembut seperti lavender, "
+"beige, dan abu muda."
+
+#: gutenberg-blocks/ContactForm/render.php:18
+#: includes/Elementor/Widgets/ContactFormWidget.php:263
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"Saya menyetujui penggunaan data pribadi yang saya berikan untuk memproses "
+"permintaan sesuai dengan"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"Saya menyetujui penggunaan data pribadi yang saya berikan untuk memproses "
+"permintaan sesuai dengan Kebijakan Privasi yang telah saya baca. Persetujuan "
+"ini dapat saya cabut kapan saja."
+
+#: includes/Admin/AdminTranslations.php:168
+msgid ""
+"If there's anything you'd still like to change, you can customize your site "
+"again. If you're done, simply continue to setup and I'll guide you through "
+"the rest! "
+msgstr ""
+"Jika masih ada yang ingin diubah, lakukan penyesuaian sekarang. Setelah "
+"selesai, lanjutkan ke pengaturan dan saya akan memandu langkah berikutnya."
+
+#: includes/Admin/AdminTranslations.php:174
+msgid ""
+"If you believe this is a mistake, please revise the description and try "
+"again."
+msgstr "Jika hasil tidak sesuai, coba ubah deskripsinya dan kirim ulang."
+
+#: includes/Admin/AdminTranslations.php:250
+#, fuzzy
+msgid ""
+"If you like, we can add your contacts straight away, what do you say? "
+"(Optional)"
+msgstr ""
+"Kalau mau, kita bisa langsung menambahkan kontak Anda, bagaimana menurut "
+"Anda? (Opsional)"
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "Improve description"
+msgstr "Perbaiki deskripsi"
+
+#: includes/Admin/AdminTranslations.php:104
+msgid "Interior design portfolio"
+msgstr "Portofolio interior designer"
+
+#: includes/Rest/BlockTypeRoutes.php:389
+msgid "Invalid block type response."
+msgstr "Jenis block tidak valid."
+
+#: includes/Rest/BuilderRoutes.php:160
+msgid "Invalid body font."
+msgstr "Font body tidak valid."
+
+#: includes/Admin/AdminTranslations.php:139
+msgid "Invalid color code"
+msgstr "Kode warna tidak valid."
+
+#: includes/Hooks.php:421 includes/Rest/LogoRoutes.php:35
+msgid "Invalid file type. Allowed types: jpg, png, svg."
+msgstr "Jenis file tidak valid. Gunakan jpg, png, atau svg."
+
+#: includes/Rest/BuilderRoutes.php:152
+msgid "Invalid heading font."
+msgstr "Font heading tidak valid."
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Tidak ada hasil. Coba gunakan fitur pencarian."
+
+#: includes/Admin/AdminTranslations.php:156
+msgid "Just confirm a few details in the chat to get your site up and running"
+msgstr "Lengkapi beberapa detail di chat untuk mulai menjalankan website Anda"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+msgid "Label"
+msgstr "Label"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "Landing"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:247
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:107
+msgid "Leave empty to use default privacy policy text"
+msgstr "Kosongkan untuk menggunakan teks kebijakan privasi default."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:248
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:108
+msgid ""
+"Leave empty to use the default privacy policy text with automatic link "
+"generation."
+msgstr ""
+"Kosongkan untuk menggunakan teks kebijakan privasi default dengan link "
+"otomatis."
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Let us know more about your website to get the best result"
+msgstr ""
+"Beri tahu kami lebih banyak tentang website Anda untuk mendapatkan hasil "
+"terbaik"
+
+#: includes/Admin/AdminTranslations.php:265
+#, fuzzy
+msgid "Let's give it another go"
+msgstr "Ayo kita coba lagi"
+
+#: includes/Admin/AdminTranslations.php:70
+msgid "Let's start with your website idea"
+msgstr "Ceritakan ide website Anda"
+
+#: includes/Admin/AdminTranslations.php:150
+msgid "Like brand name, pages or contact information"
+msgstr "Informasi nama brand, halaman, atau kontak"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+msgid "Link to your privacy policy page"
+msgstr "Link ke halaman kebijakan privasi Anda"
+
+#: includes/Admin/AdminTranslations.php:157
+msgid "Loading website preview"
+msgstr "Memuat pratinjau website"
+
+#: includes/Admin/AdminTranslations.php:291
+#, fuzzy
+msgid "Loading..."
+msgstr "Sedang dimuat..."
+
+#: includes/Admin/AdminTranslations.php:114
+msgid "Local bakery site"
+msgstr "Website bakery lokal"
+
+#: includes/Admin/AdminTranslations.php:124
+msgid "Local wine tasting page"
+msgstr "Halaman wine tasting lokal"
+
+#: includes/Admin/AdminTranslations.php:146
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/Admin/AdminTranslations.php:183
+msgid "Logo preview"
+msgstr "Pratinjau logo"
+
+#: includes/Admin/AdminTranslations.php:167
+msgid "Looks like your site is done! 😊 "
+msgstr "Website Anda sudah selesai! 😊"
+
+#: includes/Builder/NavigationBuilder.php:45
+#, fuzzy
+msgid "Main menu"
+msgstr "Menu utama"
+
+#: includes/Admin/AdminTranslations.php:186
+msgid "Manage your site, add plugins, domain and adjust other settings"
+msgstr "Kelola website, tambahkan plugin, domain, dan sesuaikan pengaturan"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:39
+#, fuzzy
+msgid "Map"
+msgstr "Peta"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:15
+#, fuzzy
+msgid "Map settings"
+msgstr "Pengaturan peta"
+
+#: includes/Admin/AdminTranslations.php:169
+msgid "Maximum attempts reached. Please try later."
+msgstr "Terlalu banyak percobaan. Coba lagi nanti."
+
+#: includes/Admin/AdminTranslations.php:128
+msgid "Meditation app landing page"
+msgstr "Landing page aplikasi meditasi"
+
+#: includes/Builder/Translator.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/Builder/Translator.php:57
+#: includes/Elementor/Widgets/ContactFormWidget.php:192
+#: includes/Shortcodes/ShortcodesManager.php:43
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:44
+msgid "Message"
+msgstr "Pesan"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:190
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:85
+msgid "Message Label"
+msgstr "Label Pesan"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:199
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:90
+msgid "Message Placeholder"
+msgstr "Placeholder Pesan"
+
+#: includes/Admin/AdminTranslations.php:260
+#, fuzzy
+msgid "mobile phone"
+msgstr "ponsel"
+
+#: includes/Builder/SiteApplier.php:1299
+#: includes/Builder/WebsiteBuilder.php:527
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: includes/Builder/Translator.php:53
+#: includes/Elementor/Widgets/ContactFormWidget.php:156
+#: includes/Shortcodes/ShortcodesManager.php:41
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:36
+msgid "Name"
+msgstr "Nama"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:154
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:63
+msgid "Name Label"
+msgstr "Label Nama"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:163
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:68
+msgid "Name Placeholder"
+msgstr "Placeholder Nama"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:108
+#: includes/Elementor/Widgets/ContactFormWidget.php:362
+msgid "New Contact Form Submission"
+msgstr "Kiriman Formulir Kontak Baru"
+
+#: includes/Admin/AdminTranslations.php:223
+msgid "New page name"
+msgstr "Nama halaman baru"
+
+#: includes/Elementor/ScrollAnimation.php:39
+msgid "No"
+msgstr "Tidak"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+msgid "No bookings yet."
+msgstr "Belum ada reservasi."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "No content was generated. Please try again."
+msgstr "Tidak ada konten yang dihasilkan. Silakan coba lagi."
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:72
+msgid "No posts found. Please create some blog posts."
+msgstr "Tidak ada postingan blog. Silakan buat baru."
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "Hasil tidak ditemukan."
+
+#: includes/Rest/GenerationRoutes.php:280
+#, fuzzy
+msgid "No website generation has been started."
+msgstr "Proses pembuatan situs web belum dimulai."
+
+#: includes/Admin/AdminTranslations.php:130
+msgid "Non-profit animal rescue organization"
+msgstr "Organisasi nonprofit penyelamatan hewan"
+
+#: includes/Admin/AdminTranslations.php:144
+#: includes/Admin/AdminTranslations.php:159
+msgid "Not now"
+msgstr "Lain kali"
+
+#: includes/Admin/AdminTranslations.php:66
+msgid "of"
+msgstr "dari"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Online store"
+msgstr "Toko online"
+
+#: includes/Admin/AdminTranslations.php:148
+#, fuzzy
+msgid "Original"
+msgstr "Asli"
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Other"
+msgstr "Lainnya"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: includes/Admin/Hooks.php:138
+msgid "Page Title Display"
+msgstr "Tampilan Judul Halaman"
+
+#: includes/Admin/AdminTranslations.php:222
+#, fuzzy
+msgid "Pages"
+msgstr "Halaman"
+
+#: includes/Rest/BuilderRoutes.php:491 includes/Rest/BuilderRoutes.php:511
+msgid "Pages must be a non-empty array."
+msgstr "Halaman harus berisi minimal satu item."
+
+#: includes/Rest/GenerationRoutes.php:720
+#, fuzzy
+msgid ""
+"Pages must contain a home page and up to eight unique page slugs with names."
+msgstr ""
+"Setiap situs harus memiliki halaman beranda dan maksimal delapan slug "
+"halaman unik beserta namanya."
+
+#: includes/Admin/AdminTranslations.php:135
+#, fuzzy
+msgid "Palette"
+msgstr "Palet"
+
+#: includes/Admin/AdminTranslations.php:285
+#, fuzzy
+msgid "Palettes"
+msgstr "Palet"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:20
+#, fuzzy
+msgid ""
+"Paste the URL from a Google Maps embed iframe (the value of its src "
+"attribute)."
+msgstr "Rekatkan URL dari iframe sematan Google Maps (nilai atribut src-nya)."
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "Meta postingan tersembunyi"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Pertanyaan"
+
+#: includes/Admin/AdminTranslations.php:92
+msgid "Personal finance blog"
+msgstr "Blog keuangan pribadi"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Personalize your content"
+msgstr "Sesuaikan konten Anda"
+
+#: includes/Admin/AdminTranslations.php:108
+msgid "Pet grooming services"
+msgstr "Layanan pet grooming"
+
+#: includes/Admin/AdminTranslations.php:152
+#, fuzzy
+#| msgid "Pick your colors and logo"
+msgid "Pick your colors, fonts and logo"
+msgstr "Pilih warna dan logo"
+
+#: includes/Admin/AdminTranslations.php:198
+#, fuzzy
+msgid "Picking colors and fonts"
+msgstr "Memilih warna dan jenis huruf"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/Admin/AdminTranslations.php:199
+#, fuzzy
+msgid "Planning your pages"
+msgstr "Merencanakan halaman Anda"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:101
+#: includes/Elementor/Widgets/ContactFormWidget.php:355
+msgid "Please agree with privacy policy."
+msgstr "Harap setujui kebijakan privasi."
+
+#: includes/Admin/AdminTranslations.php:237
+msgid "Please confirm the essentials first:"
+msgstr "Konfirmasi dulu hal-hal berikut:"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:105
+#: includes/Elementor/Widgets/ContactFormWidget.php:359
+msgid "Please enter a valid email address."
+msgstr "Masukkan alamat email yang valid."
+
+#: includes/Rest/BuilderRoutes.php:428
+msgid "Plugin installation failed."
+msgstr "Gagal menginstal plugin."
+
+#: includes/Admin/AdminTranslations.php:185
+msgid "PNG, JPG (max 2MB)"
+msgstr "PNG, JPG (maks. 2 MB)"
+
+#: includes/Admin/AdminTranslations.php:63
+msgid "Poor"
+msgstr "Kurang puas"
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Portfolio"
+msgstr "Portofolio"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Powered by Hostinger"
+msgstr "Didukung oleh Hostinger"
+
+#: includes/Admin/AdminTranslations.php:209
+msgid "Prefer to start from scratch?"
+msgstr "Ingin membuat dari awal?"
+
+#: gutenberg-blocks/ContactForm/render.php:20
+#: includes/Elementor/Widgets/ContactFormWidget.php:236
+#: includes/Elementor/Widgets/ContactFormWidget.php:265
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:102
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+msgid "Privacy Policy Link Text"
+msgstr "Teks Link Kebijakan Privasi"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:244
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:104
+#| msgid "Privacy Policy URL"
+msgid "Privacy Policy Text"
+msgstr "Teks Kebijakan Privasi"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+msgid "Privacy Policy URL"
+msgstr "URL Kebijakan Privasi"
+
+#: includes/Rest/BuilderRoutes.php:738
+msgid "Problem building content."
+msgstr "Terjadi masalah saat menyusun konten."
+
+#: includes/Rest/BuilderRoutes.php:691
+msgid "Problem generating content."
+msgstr "Terjadi masalah saat membuat konten."
+
+#: includes/Rest/BuilderRoutes.php:1002
+msgid "Problem setting colors."
+msgstr "Terjadi masalah saat mengatur warna."
+
+#: includes/Admin/AdminTranslations.php:204
+#, fuzzy
+msgid "Putting it all together"
+msgstr "Menggabungkan semuanya"
+
+#: includes/Admin/AdminTranslations.php:65
+msgid "Question"
+msgstr "Pertanyaan"
+
+#: includes/Admin/AdminTranslations.php:59
+msgid "Rate"
+msgstr "Beri rating"
+
+#: includes/Admin/AdminTranslations.php:60
+msgid "Rate site"
+msgstr "Beri rating untuk website"
+
+#: includes/Admin/AdminTranslations.php:61
+msgid "Rate the site AI created for you"
+msgstr "Seberapa puas Anda dengan website yang dibuat AI?"
+
+#: includes/Admin/AdminTranslations.php:190
+msgid "Rate your site"
+msgstr "Beri rating untuk website Anda"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:130
+msgid "Recipient Email Address"
+msgstr "Alamat Email Penerima"
+
+#: includes/Admin/AdminTranslations.php:181
+#, fuzzy
+msgid "Remove"
+msgstr "Hapus"
+
+#: includes/Admin/AdminTranslations.php:182
+#, fuzzy
+msgid "Replace"
+msgstr "Ganti"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Replace All Content"
+msgstr "Ganti Semua Isi"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Replace All Content?"
+msgstr "Mengganti Semua Isi?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+msgid "Required"
+msgstr "Diperlukan"
+
+#: includes/Admin/AdminTranslations.php:180
+#, fuzzy
+msgid "Restore generated logo"
+msgstr "Kembalikan logo yang telah dibuat"
+
+#: includes/Admin/AdminTranslations.php:289
+#, fuzzy
+msgid "Score"
+msgstr "Skor"
+
+#: includes/Elementor/ScrollAnimation.php:28
+msgid "Scroll Animation"
+msgstr "Animasi Scroll"
+
+#: includes/Admin/AdminTranslations.php:138
+#, fuzzy
+msgid "Section"
+msgstr "Bagian"
+
+#: includes/Builder/Translator.php:60
+#: includes/Elementor/Widgets/ContactFormWidget.php:222
+msgid "Select a date"
+msgstr "Pilih tanggal"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+msgid "Select date..."
+msgstr "Pilih tanggal..."
+
+#: includes/Admin/AdminTranslations.php:55
+msgid "Select editor"
+msgstr "Pilih editor"
+
+#: includes/Builder/Translator.php:52
+#: includes/Elementor/Widgets/ContactFormWidget.php:122
+#: includes/Shortcodes/ShortcodesManager.php:40
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:32
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: includes/Admin/AdminTranslations.php:263
+#, fuzzy
+msgid "Set up your store details and products"
+msgstr "Atur detail toko dan produk Anda"
+
+#: includes/Admin/AdminTranslations.php:171
+msgid "Setup in WP admin"
+msgstr "Setup di WP admin"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Extra Large"
+msgstr "Ekstra Besar"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Huge"
+msgstr "Sangat besar"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Small"
+msgstr "Kecil"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:47
+#: includes/Elementor/Widgets/ContactFormWidget.php:60
+#: includes/Elementor/Widgets/ContactFormWidget.php:85
+#: includes/Elementor/Widgets/ContactFormWidget.php:97
+msgid "Show"
+msgstr "Tampilkan"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:45
+#: includes/Elementor/Widgets/ContactFormWidget.php:95
+msgid "Show Date"
+msgstr "Tampilkan Tanggal"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:83
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:46
+msgid "Show Description"
+msgstr "Tampilkan Deskripsi"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:58
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:31
+msgid "Show Title"
+msgstr "Tampilkan Judul"
+
+#: includes/Admin/AdminTranslations.php:79
+msgid "Site couldn’t be created"
+msgstr "Tidak dapat membuat website"
+
+#: includes/Admin/AdminTranslations.php:48
+msgid "Site Language"
+msgstr "Bahasa Website"
+
+#: includes/Admin/AdminTranslations.php:75
+#| msgid "Site language: "
+msgid "Site language"
+msgstr "Bahasa website"
+
+#: includes/Admin/AdminTranslations.php:206
+#: includes/Admin/AdminTranslations.php:211
+msgid "Site preview"
+msgstr "Pratinjau website"
+
+#: includes/Admin/AdminTranslations.php:173
+msgid "Site request not allowed"
+msgstr "Permintaan website tidak diizinkan"
+
+#: includes/Admin/AdminTranslations.php:98
+msgid "Skincare affiliate site"
+msgstr "Website affiliate skincare"
+
+#: includes/Admin/AdminTranslations.php:256
+#, fuzzy
+msgid "Skip contacts"
+msgstr "Lewati kontak"
+
+#: includes/Admin/AdminTranslations.php:248
+#, fuzzy
+msgid "Skip socials"
+msgstr "Lewati acara sosial"
+
+#: includes/Builder/Translator.php:46
+msgid "Socials"
+msgstr "Media Sosial"
+
+#: includes/Admin/AdminTranslations.php:163
+msgid "Sorry, I didn't understand your answer. What\\u2019s your brand name?"
+msgstr "Maaf, saya kurang paham. Apa nama brand Anda?"
+
+#: includes/Rest/BuilderRoutes.php:331
+msgid "Sorry, something wrong with data."
+msgstr "Maaf, terjadi masalah dengan data."
+
+#: includes/Admin/AdminTranslations.php:220
+msgid ""
+"Sounds great 🚀 Next, based on what you shared so far, I'm thinking these "
+"pages would work well for your site.\\n\\nFeel free to remove or add pages "
+"as you like – then hit confirm when you're ready!"
+msgstr ""
+"Sip 🚀 Dari info yang sudah diberikan, beberapa halaman ini mungkin cocok "
+"untuk website Anda. Bebas edit, tambah, atau hapus kapan saja. Tinggal klik "
+"konfirmasi setelah siap."
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: includes/Admin/AdminTranslations.php:293
+#, fuzzy
+msgid "Start the game"
+msgstr "Mulai permainan"
+
+#: includes/Admin/AdminTranslations.php:77
+#| msgid "Location is required"
+msgid "Store location is required"
+msgstr "Lokasi toko wajib diisi"
+
+#: includes/Admin/AdminTranslations.php:76
+msgid "Store location: "
+msgstr "Lokasi toko:"
+
+#: includes/Admin/AdminTranslations.php:67
+msgid "Submit"
+msgstr "Kirim"
+
+#: includes/Admin/AdminTranslations.php:68
+msgid "Submitting..."
+msgstr "Sedang mengirim..."
+
+#: includes/Builder/Translator.php:47
+msgid "Subscribe to our newsletter"
+msgstr "Subscribe newsletter kami"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:141
+#: includes/Elementor/Widgets/ContactFormWidget.php:383
+msgid "Successfully submitted!"
+msgstr "Berhasil dikirim!"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "Suggest a description"
+msgstr "Sarankan deskripsi"
+
+#: includes/Admin/AdminTranslations.php:267
+#, fuzzy
+msgid "Switched to {version}"
+msgstr "Telah beralih ke {versi}"
+
+#: includes/Admin/AdminTranslations.php:273
+#, fuzzy
+msgid "Switching version..."
+msgstr "Mengganti versi..."
+
+#: includes/Admin/AdminTranslations.php:294
+#, fuzzy
+msgid "Tap or click start to play"
+msgstr "Ketuk atau klik \"Mulai\" untuk memutar"
+
+#: includes/Admin/AdminTranslations.php:296
+#, fuzzy
+msgid "Tap the screen to restart"
+msgstr "Ketuk layar untuk memulai ulang"
+
+#: includes/Admin/AdminTranslations.php:94
+msgid "Tech gadgets affiliate site"
+msgstr "Website affiliate tech gadget"
+
+#: includes/Admin/AdminTranslations.php:126
+msgid "Tech startup landing page"
+msgstr "Landing page tech startup"
+
+#: includes/Admin/AdminTranslations.php:11
+msgid "Tell us about your site"
+msgstr "Ceritakan website Anda"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+msgid "Text to display for the privacy policy link"
+msgstr "Teks yang ditampilkan untuk link kebijakan privasi"
+
+#: includes/Admin/AdminTranslations.php:192
+msgid "Thank you!"
+msgstr "Terima kasih!"
+
+#: includes/Admin/AdminTranslations.php:69
+msgid "Thanks for your feedback"
+msgstr "Terima kasih atas masukan Anda"
+
+#: includes/Admin/AdminTranslations.php:264
+#, fuzzy
+msgid "That didn't quite land..."
+msgstr "Itu sepertinya kurang berhasil..."
+
+#: includes/Rest/VersionRoutes.php:91
+#, fuzzy
+msgid "The active version cannot be deleted."
+msgstr "Versi aktif tidak dapat dihapus."
+
+#: includes/Admin/AdminTranslations.php:82
+msgid ""
+"The AI builder is experiencing high demand right now. Try again in a few "
+"minutes."
+msgstr ""
+"AI builder sedang banyak digunakan saat ini. Coba lagi dalam beberapa menit."
+
+#: includes/Admin/AdminTranslations.php:266
+#, fuzzy
+msgid ""
+"The build didn't finish this time, but it's usually a quick fix. One more "
+"try should do it."
+msgstr ""
+"Proses kompilasi kali ini tidak selesai, tapi biasanya masalahnya bisa "
+"diatasi dengan cepat. Coba sekali lagi saja, pasti berhasil."
+
+#: includes/Admin/AdminTranslations.php:292
+#, fuzzy
+msgid "The game could not be loaded"
+msgstr "Permainan tidak dapat dimuat"
+
+#: includes/Rest/GenerationRoutes.php:208
+#, fuzzy
+msgid "The generated website is currently being applied."
+msgstr "Situs web yang telah dibuat saat ini sedang diterapkan."
+
+#. translators: %s php version
+#: functions.php:56
+#, php-format
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"Plugin Hostinger Easy Onboarding membutuhkan versi PHP minimum <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:277
+#, fuzzy
+msgid ""
+"The saved copy of {version} from {date} will be removed for good. Your live "
+"site stays exactly as it is."
+msgstr ""
+"Salinan {versi} yang disimpan pada tanggal {tanggal} akan dihapus secara "
+"permanen. Situs aktif Anda akan tetap sama persis seperti sekarang."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+msgid "The text shown with the privacy policy checkbox"
+msgstr "Teks pada kotak centang kebijakan privasi"
+
+#: includes/Admin/AdminTranslations.php:280
+#, fuzzy
+msgid "The version your site is currently using can't be deleted."
+msgstr "Versi yang saat ini digunakan oleh situs Anda tidak dapat dihapus."
+
+#: includes/Rest/GenerationRoutes.php:940
+#, fuzzy
+msgid "The website generation service is temporarily unavailable."
+msgstr ""
+"Layanan pembuatan situs web sedang tidak tersedia untuk sementara waktu."
+
+#: includes/Settings/Theme.php:32 includes/Settings/Theme.php:33
+#: includes/Settings/Theme.php:125
+msgid "Theme Settings"
+msgstr "Pengaturan Tema"
+
+#: includes/Admin/AdminTranslations.php:205
+msgid "Thinking..."
+msgstr "Sedang berpikir..."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+"Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin melanjutkan?"
+
+#: includes/Admin/AdminTranslations.php:43
+msgid "This field is required"
+msgstr "Kolom wajib diisi"
+
+#: includes/Admin/AdminTranslations.php:45
+#| msgid "This field should not be longer than 1024 symbols."
+msgid "This field should not be longer than 1500 symbols."
+msgstr "Kolom tidak boleh lebih dari 1.500 simbol."
+
+#: includes/Admin/AdminTranslations.php:44
+msgid "This field should not be longer than 255 symbols."
+msgstr "Kolom tidak boleh lebih dari 225 simbol."
+
+#: includes/Admin/AdminTranslations.php:81
+#, fuzzy
+msgid ""
+"This issue is on our side. We’re working on it — please try again shortly."
+msgstr ""
+"Masalah ini ada di pihak kami. Kami sedang mengatasinya - silakan coba lagi "
+"segera."
+
+#: includes/Versions/Restore/Preflight.php:55
+#, fuzzy
+msgid "This version contains no pages."
+msgstr "Versi ini tidak berisi halaman apa pun."
+
+#: includes/Admin/AdminTranslations.php:272
+#: includes/Versions/Restore/Preflight.php:40
+#, fuzzy
+msgid ""
+"This version was saved in an older format and can no longer be restored."
+msgstr ""
+"Versi ini disimpan dalam format yang lebih lama dan tidak dapat dipulihkan "
+"lagi."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:70
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:38
+#| msgid "Tete"
+msgid "Title"
+msgstr "Judul"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Tone of voice"
+msgstr "Gaya bahasa"
+
+#: includes/Builder/Translator.php:61
+msgid "Top rated by 100+ clients"
+msgstr "Rating terbaik dari 100+ klien"
+
+#: includes/Admin/AdminTranslations.php:118
+msgid "Travel agency for luxury tours"
+msgstr "Agen travel untuk perjalanan mewah"
+
+#: includes/Admin/AdminTranslations.php:96
+msgid "Travel photography blog"
+msgstr "Blog fotografi perjalanan"
+
+#: includes/Admin/AdminTranslations.php:231
+#, fuzzy
+msgid "Try again"
+msgstr "Coba lagi"
+
+#: includes/Admin/AdminTranslations.php:172
+msgid "Type your answer..."
+msgstr "Masukkan jawaban Anda..."
+
+#: includes/Admin/AdminTranslations.php:197
+#, fuzzy
+msgid "Understanding your brand identity"
+msgstr "Memahami identitas merek Anda"
+
+#: includes/Admin/AdminTranslations.php:141
+msgid "Update site colors"
+msgstr "Ubah warna website"
+
+#: includes/Admin/AdminTranslations.php:232
+msgid "Update site fonts"
+msgstr "Ubah font website"
+
+#: includes/Admin/AdminTranslations.php:184
+msgid "Upload"
+msgstr "Upload"
+
+#: includes/Admin/AdminTranslations.php:282
+#, fuzzy
+msgid "Upload a logo"
+msgstr "Unggah logo"
+
+#. translators: %d: version number
+#: includes/Rest/VersionRoutes.php:133
+#, fuzzy, php-format
+msgid "Version %d"
+msgstr "Versi %d"
+
+#: includes/Rest/VersionRoutes.php:153
+#: includes/Versions/Restore/Preflight.php:34
+#: includes/Versions/Restore/SnapshotRestorer.php:39
+#, fuzzy
+msgid "Version not found."
+msgstr "Versi tidak ditemukan."
+
+#: includes/Admin/AdminTranslations.php:270
+#, fuzzy
+msgid "Versions"
+msgstr "Versi"
+
+#: includes/Admin/AdminTranslations.php:86
+msgid "Vintage clothing e-shop"
+msgstr "Toko baju vintage online"
+
+#: includes/Admin/AdminTranslations.php:279
+#, fuzzy
+msgid "We couldn't delete this version. Please try again."
+msgstr "Kami tidak dapat menghapus versi ini. Silakan coba lagi."
+
+#: includes/Admin/AdminTranslations.php:271
+#, fuzzy
+msgid "We couldn't switch to this version. Please try again."
+msgstr "Kami tidak dapat beralih ke versi ini. Silakan coba lagi."
+
+#: includes/Admin/AdminTranslations.php:224
+#, fuzzy
+msgid "We couldn’t suggest pages"
+msgstr "Kami tidak dapat merekomendasikan halaman-halaman tersebut"
+
+#: includes/Builder/Translator.php:51
+#: includes/Elementor/Widgets/ContactFormWidget.php:109
+msgid ""
+"We'd love to hear from you. Send us a message and we'll respond as soon as "
+"possible."
+msgstr ""
+"Kami siap membantu. Kirim pesan Anda dan kami akan merespons secepatnya."
+
+#. translators: 1: number of pages kept, 2: number of pages the AI suggested
+#: includes/Admin/AdminTranslations.php:230
+#, fuzzy, php-format
+msgid "We've added the %1$s most relevant of %2$s suggested pages."
+msgstr ""
+"Kami telah menambahkan %1$s halaman yang paling relevan dari %2$s halaman "
+"yang disarankan."
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Website type"
+msgstr "Jenis website"
+
+#: includes/Admin/AdminTranslations.php:100
+msgid "Wedding photography website"
+msgstr "Website fotografer wedding"
+
+#: includes/Admin/AdminTranslations.php:240
+#, fuzzy
+msgid "What about socials? (Optional)"
+msgstr "Bagaimana dengan media sosial? (Opsional)"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "What do you want AI to create?"
+msgstr "Apa yang ingin kamu buat dengan AI?"
+
+#: includes/Builder/Translator.php:56
+#: includes/Elementor/Widgets/ContactFormWidget.php:183
+#: includes/Shortcodes/ShortcodesManager.php:45
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:52
+msgid "What's your email?"
+msgstr "Apa email Anda?"
+
+#: includes/Builder/Translator.php:54
+#: includes/Elementor/Widgets/ContactFormWidget.php:165
+#: includes/Shortcodes/ShortcodesManager.php:44
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:48
+msgid "What's your name?"
+msgstr "Siapa nama Anda?"
+
+#: gutenberg-blocks/ContactForm/render.php:22
+#: includes/Elementor/Widgets/ContactFormWidget.php:267
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "yang telah saya baca. Persetujuan ini dapat saya cabut kapan saja."
+
+#: includes/Admin/AdminTranslations.php:191
+msgid "Why did you give this rating?"
+msgstr "Apa alasan Anda memberi rating ini?"
+
+#: includes/Admin/AdminTranslations.php:261
+#, fuzzy
+msgid "WooCommerce setup"
+msgstr "Pengaturan WooCommerce"
+
+#: includes/Admin/AdminTranslations.php:73
+msgid ""
+"WordPress's built-in block editor with powerful flexibility for advanced "
+"users"
+msgstr ""
+"Editor block bawaan WordPress yang fleksibel, cocok untuk pengguna "
+"berpengalaman"
+
+#: includes/Admin/AdminTranslations.php:51
+#: includes/Admin/AdminTranslations.php:188
+msgid "WP admin"
+msgstr "WP admin"
+
+#: includes/Admin/AdminTranslations.php:234
+msgid "Write brand name"
+msgstr "Ketik nama brand"
+
+#: includes/Admin/AdminTranslations.php:194
+msgid "Write your feedback here (optional)"
+msgstr "Ketik masukan Anda di sini (opsional)"
+
+#: includes/Builder/Translator.php:58
+#: includes/Elementor/Widgets/ContactFormWidget.php:201
+#: includes/Shortcodes/ShortcodesManager.php:46
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:56
+msgid "Write your message..."
+msgstr "Ketik pesan Anda..."
+
+#: includes/Admin/AdminTranslations.php:201
+#, fuzzy
+msgid "Writing your content"
+msgstr "Menulis konten Anda"
+
+#: includes/Rest/BuilderRoutes.php:580 includes/Rest/BuilderRoutes.php:650
+#: includes/Rest/BuilderRoutes.php:719
+msgid "Wrong sequence of step execution."
+msgstr "Urutan langkah tidak sesuai."
+
+#: includes/Elementor/ScrollAnimation.php:38
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/Admin/AdminTranslations.php:106
+msgid "Yoga studio website"
+msgstr "Website studio yoga"
+
+#. translators: %s php version
+#: functions.php:60
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Anda menjalankan versi PHP <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:268
+#, fuzzy
+msgid "You can create up to 5 site versions that will appear here"
+msgstr "Anda dapat membuat hingga 5 versi situs yang akan ditampilkan di sini"
+
+#. translators: %s: maximum number of pages that can be generated
+#: includes/Admin/AdminTranslations.php:228
+#, fuzzy, php-format
+msgid "You can generate up to %s pages."
+msgstr "Anda dapat membuat hingga %s halaman."
+
+#: includes/Admin/AdminTranslations.php:288
+#, fuzzy
+msgid ""
+"You have 5 versions of your website. Oldest version will be deleted. Are you "
+"sure you want to proceed?"
+msgstr ""
+"Anda memiliki 5 versi situs web Anda. Versi tertua akan dihapus. Apakah Anda "
+"yakin ingin melanjutkan?"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"Konten yang sudah dibuat akan dihapus jika Anda melanjutkan. Tetap lanjut?"
+
+#: includes/Admin/AdminTranslations.php:193
+msgid "Your feedback will help us improve."
+msgstr "Masukan Anda sangat berarti bagi kami."
+
+#: includes/Admin/AdminTranslations.php:134
+msgid "Your own color palette"
+msgstr "Palet warna kustom"
+
+#: includes/Admin/AdminTranslations.php:233
+#| msgid "My own font pair"
+msgid "Your own font pair"
+msgstr "Font pair kustom"
+
+#: includes/Admin/AdminTranslations.php:50
+#| msgid ""
+#| "Your site’s language will be changed to the selected language from this "
+#| "list, and all content will be generated in that language.”"
+msgid ""
+"Your site’s language will be changed to the selected language from this list,"
+" and all content will be generated in that language."
+msgstr ""
+"Website Anda akan menggunakan bahasa yang dipilih, dan semua konten akan "
+"dibuat dalam bahasa tersebut."
+
+#: includes/Admin/AdminTranslations.php:164
+msgid "{builderType}, {language} and {brandName} for brand name"
+msgstr "{builderType}, {language}, dan {brandName} untuk nama brand"

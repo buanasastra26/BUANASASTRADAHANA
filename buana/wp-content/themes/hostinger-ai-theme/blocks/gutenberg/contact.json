@@ -1,0 +1,26 @@
+[
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 3,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 10,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 550,
+      "height": 550,
+      "crop": true
+    }
+  }
+]

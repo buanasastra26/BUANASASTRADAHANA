@@ -1,0 +1,2670 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-18T09:12:04+00:00\n"
+"PO-Revision-Date: 2026-09-08 13:34+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.2.30"
+
+#. translators: 1: current page count, 2: maximum number of pages
+#: includes/Admin/AdminTranslations.php:226
+#, fuzzy, php-format
+msgid "%1$s/%2$s pages"
+msgstr "%1$s/%2$s ページ"
+
+#: includes/Admin/AdminTranslations.php:47
+#, php-format
+msgid "%s characters left"
+msgstr "残り%s文字"
+
+#. translators: %s: plugin name
+#: includes/Builder/AbstractPluginBuilder.php:49
+#, php-format
+msgid "%s is not active after installation."
+msgstr "%sはインストール後に有効化されていません。"
+
+#. translators: %s: social network name, e.g. Instagram
+#: includes/Admin/AdminTranslations.php:242
+#: includes/Admin/AdminTranslations.php:243
+#: includes/Admin/AdminTranslations.php:244
+#, fuzzy, php-format
+msgid "%s link or username"
+msgstr "%s のリンクまたはユーザー名"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+msgid "A customizable booking form for your website"
+msgstr "Webサイト用のカスタマイズ可能な予約フォーム"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:9
+msgid "A customizable contact form for your website"
+msgstr "Webサイト用のカスタマイズ可能なお問い合わせフォーム"
+
+#: includes/Versions/Restore/Preflight.php:47
+#, fuzzy
+msgid "A website generation is currently running."
+msgstr "現在、ウェブサイトの生成が実行されています。"
+
+#: includes/Admin/AdminTranslations.php:208
+#: includes/Admin/AdminTranslations.php:213
+msgid "Actions"
+msgstr "アクション"
+
+#: includes/Admin/AdminTranslations.php:221
+msgid "Add"
+msgstr "追加"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:40
+#, fuzzy
+msgid "Add a Google Maps embed URL in the block settings to preview the map."
+msgstr "ブロックの設定でGoogleマップの埋め込みURLを追加し、マップをプレビューします。"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Add an image"
+msgstr "画像を追加する"
+
+#: includes/Admin/AdminTranslations.php:255
+#, fuzzy
+msgid "Add contacts"
+msgstr "連絡先を追加する"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+msgid "Add text..."
+msgstr "テキストを追加..."
+
+#: includes/Admin/AdminTranslations.php:254
+#: includes/Admin/AdminTranslations.php:257
+#, fuzzy
+msgid "Add WhatsApp button to my site"
+msgstr "自分のサイトにWhatsAppボタンを追加する"
+
+#: includes/Admin/AdminTranslations.php:259 includes/Builder/Translator.php:66
+#, fuzzy
+msgid "Address"
+msgstr "住所"
+
+#: includes/Settings/Theme.php:97
+msgid "Adjust how elements are displayed on your website:"
+msgstr "Webサイト上で要素がどのように表示されるかを調整します："
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Affiliate marketing site"
+msgstr "アフィリエイト・マーケティング・サイト"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/AiContent/src/index.js:10
+msgid "AI Content Generator"
+msgstr "AIコンテンツジェネレーター"
+
+#: includes/Admin/AdminTranslations.php:253
+#, fuzzy
+msgid "AI website assistant"
+msgstr "AIウェブサイトアシスタント"
+
+#: includes/Admin/AdminTranslations.php:10 includes/Admin/Menu.php:25
+#: includes/Admin/Menu.php:26
+msgid "AI Website Builder"
+msgstr "AIサイト作成ツール"
+
+#: includes/Builder/Translator.php:63
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+#: includes/Admin/AdminTranslations.php:155
+msgid "Almost ready to build"
+msgstr "準備完了まであと少し"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:78
+#: includes/Elementor/WidgetManager.php:55
+msgid "An error occurred. Please try again later."
+msgstr "エラーが発生しました。後ほどもう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:287
+#, fuzzy
+msgid "Apply changes"
+msgstr "変更を適用する"
+
+#: includes/Admin/AdminTranslations.php:236
+msgid "At least one page is needed for the website"
+msgstr "サイトには1ページ以上必要なため削除できません"
+
+#: includes/Rest/LogoRoutes.php:44
+msgid "Attachment file not found on disk."
+msgstr "添付ファイルがストレージ上に見つかりませんでした。"
+
+#: includes/Rest/LogoRoutes.php:26
+msgid "Attachment not found."
+msgstr "添付ファイルが見つかりませんでした。"
+
+#. translators: %s php version
+#: functions.php:56
+msgid "Attention:"
+msgstr "注："
+
+#: includes/Admin/AdminTranslations.php:165
+msgid ""
+"Awesome! I'm now building your site – just give me a few moments until it's "
+"done and ready!"
+msgstr "いいですね！サイトを作成しています。完成まで少しお待ちください。"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "戻る"
+
+#: includes/Admin/AdminTranslations.php:137
+#, fuzzy
+msgid "Background"
+msgstr "背景"
+
+#: includes/Admin/AdminTranslations.php:290
+#, fuzzy
+msgid "Best"
+msgstr "ベスト"
+
+#: gutenberg-blocks/AiContent/block.json
+msgctxt "block description"
+msgid "A block for AI-powered content generation and regeneration"
+msgstr "AIによるコンテンツ生成・再生成ブロック"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "予約フォームが統合されたブロック"
+
+#: gutenberg-blocks/ContactForm/block.json
+msgctxt "block description"
+msgid "A customizable contact form for your website"
+msgstr "Webサイト用のカスタマイズ可能なお問い合わせフォーム"
+
+#: gutenberg-blocks/Map/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "Embeds a Google Maps iframe with an editor preview."
+msgstr "Google Maps iframeをエディタプレビュー付きで埋め込みます。"
+
+#: includes/Admin/AdminTranslations.php:53
+msgid "Block editor"
+msgstr "ブロックエディター"
+
+#: gutenberg-blocks/AiContent/block.json
+msgctxt "block title"
+msgid "AI Content Generator"
+msgstr "AIコンテンツジェネレーター"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "予約ブロック"
+
+#: gutenberg-blocks/ContactForm/block.json
+msgctxt "block title"
+msgid "Contact Form"
+msgstr "お問い合わせフォーム"
+
+#: gutenberg-blocks/Map/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Map"
+msgstr "地図"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "ブログ"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:18
+msgid "Blog Posts"
+msgstr "ブログ記事"
+
+#: includes/Admin/AdminTranslations.php:21
+msgid "Booking"
+msgstr "予約"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+msgid "Booking Form"
+msgstr "予約フォーム"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+msgid "Bookings"
+msgstr "予約"
+
+#: includes/Admin/AdminTranslations.php:136
+#, fuzzy
+msgid "Brand"
+msgstr "ブランド"
+
+#: includes/Rest/BuilderRoutes.php:452
+msgid "Brand data not found."
+msgstr "ブランドデータが見つかりませんでした。"
+
+#: includes/Admin/AdminTranslations.php:12
+#: includes/Admin/AdminTranslations.php:238
+msgid "Brand name"
+msgstr "ブランド名"
+
+#: includes/Admin/AdminTranslations.php:239
+msgid "Brand name is required"
+msgstr "ブランド名は必須です"
+
+#: includes/Admin/AdminTranslations.php:281
+#, fuzzy
+msgid "Browse files"
+msgstr "ファイルを閲覧する"
+
+#: includes/Admin/AdminTranslations.php:97
+msgid ""
+"Build a blog for \"Wanderlust Lens,\" featuring travel photography and "
+"destination guides. Use adventurous colors like blue, orange, and white. "
+"Include gallery sections and a newsletter signup for travel tips."
+msgstr ""
+"旅行写真と旅先ガイドを掲載するブログ「Wanderlust "
+"Lens」を作成してください。ブルー、オレンジ、白などの明るく躍動感のある色を取り入れ、ギャラリーセクションと、旅のヒントを届けるニュースレター登録フォームを含めてください。"
+
+#: includes/Admin/AdminTranslations.php:129
+msgid ""
+"Build a calming landing page for \"Calm Mind,\" a meditation and mindfulness "
+"app. Use soothing colors like lavender, soft blue, and white. Design should "
+"be serene and minimal with clear app features."
+msgstr ""
+"瞑想・マインドフルネスアプリ「Calm "
+"Mind」向けに、心が落ち着くランディングページを作成してください。ラベンダー、淡いブルー、白などのやさしい色を使い、アプリの機能がわかりやすく伝わる、穏やかでミニマルなデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:107
+msgid ""
+"Build a calming website for \"Zen Flow Yoga,\" a boutique yoga studio "
+"offering individual classes and group workshops. Use peaceful colors like "
+"sage green and beige. Keep the design minimal and serene"
+msgstr ""
+"個人レッスンとグループワークショップを提供する、少人数制のヨガスタジオ「Zen Flow "
+"Yoga」の落ち着いたWebサイトを作成してください。セージグリーンやベージュなど穏やかな色を使い、ミニマルで静かな印象のデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:115
+msgid ""
+"Build a cozy website for \"Morning Crumb Bakery & Cafe,\" a neighborhood "
+"spot serving fresh pastries and coffee. Use warm, appetizing colors like "
+"golden brown and cream."
+msgstr ""
+"「Morning Crumb Bakery & "
+"Cafe」という、焼きたてのペストリーとコーヒーを提供する地域密着型のベーカリーカフェ向けに、親しみやすい雰囲気のWebサイトを作成してください。ゴールデンブラウンやクリームなど、食欲をそそる温かみのある色を使用してください。"
+
+#: includes/Admin/AdminTranslations.php:127
+msgid ""
+"Build a modern landing page for \"CloudMail,\" a SaaS startup launching new "
+"AI based email app. Use tech-forward colors like electric blue, purple, and "
+"white. Design should be minimal with waitlist signup and feature highlights."
+msgstr ""
+"AIを活用した新しいメールアプリ「CloudMail」のローンチ向けに、モダンなランディングページを作成してください。エレクトリックブルー、紫、白を基調に、テック系サービスらしい先進的な印象にしてください。ウェイトリスト登録フォームと機能紹介を含めた、ミニマルなデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:101
+msgid ""
+"Build a portfolio site for wedding photographers \"Frames Photography.\" "
+"Keep design elegant and minimal. Use color palette of black, white, and "
+"beige. Add a blog page to share valuable wedding tips with couples."
+msgstr ""
+"ウェディングフォトのスタジオ「Frames "
+"Photography」のポートフォリオサイトを作成してください。黒、白、ベージュの配色を取り入れた、上品でミニマルなデザインにします。結婚式を控えたカップルに役立つヒントを紹介するブログページも追加してください。"
+
+#: includes/Admin/AdminTranslations.php:117
+msgid ""
+"Build a professional site for \"Pixel Growth,\" a digital marketing agency "
+"for small businesses. Use modern, confident colors like navy blue, bright "
+"orange, and white. Keep design clean and minimal with clear service sections."
+"."
+msgstr ""
+" スモールビジネス向けのデジタルマーケティング会社「Pixel "
+"Growth」のプロフェッショナルなWebサイトを作成してください。ネイビーブルー、鮮やかなオレンジ、ホワイトなど、モダンで信頼感のある色を使ってください。サービス内容がわかりやすく伝わるセクションを設け、すっきりとしたミニマルなデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:133
+msgid ""
+"Build a whimsical page for\"Emma Stories\" showcasing published books and "
+"upcoming releases for children books. Use cheerful colors like pink, yellow, "
+"and light blue. Design should be playful and fun with colorful images."
+msgstr ""
+"「Emma "
+"Stories」という絵本ブランド向けに、既刊の絵本や発売予定の新作を紹介する、遊び心のあるページを作成してください。ピンク、黄色、ライトブルーなどの明るい色を使い、カラフルな画像を取り入れた、親しみやすく楽しいデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:125
+msgid ""
+"Build an elegant site for \"Valley Vista Vineyard,\" offering wine tastings, "
+"tours, and bottle sales. Use rich, earthy colors like burgundy, deep green, "
+"and cream. Design should feel rustic yet refined with event calendar and "
+"wine collection showcase."
+msgstr ""
+"Valley Vista "
+"Vineyardというワイナリー向けに、上品なWebサイトを作成してください。ワインテイスティング、ツアー、ボトル販売を提供するワイナリーです。バーガンディ、深いグリーン、クリームなどの落ち着いたアースカラーを使い、素朴でありながら洗練された雰囲気にしてください。イベントカレンダーとワインコレクションの紹介も含めてください。"
+
+#: includes/Admin/AdminTranslations.php:87
+msgid ""
+"Build an online store for \"Retro Revival,\" selling curated vintage "
+"clothing from the 60s-90s. Use nostalgic colors like mustard yellow, burnt "
+"orange, and brown. Design should feel fun and energetic with retro vibe."
+msgstr ""
+"1960年代から90年代のセレクトヴィンテージ古着を販売するオンラインストア「Retro "
+"Revival」を作成してください。マスタードイエロー、バーントオレンジ、ブラウンなどのどこか懐かしさを感じる色合いを取り入れ、楽しくエネルギッシュでレトロな雰囲気のデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:52
+msgid "Builder type"
+msgstr "ビルダータイプ"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Building content"
+msgstr "コンテンツの構築中"
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Business and services"
+msgstr "ビジネスおよびサービス"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+msgid "Button Settings"
+msgstr "ボタン設定"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:120
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:96
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: includes/Admin/AdminTranslations.php:39
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/Admin/AdminTranslations.php:88
+msgid "Candle shop"
+msgstr "キャンドルショップ"
+
+#: includes/Admin/AdminTranslations.php:122
+msgid "Car repair services"
+msgstr "自動車修理サービス"
+
+#: includes/Builder/SiteApplier.php:1289
+#: includes/Builder/WebsiteBuilder.php:509
+#: includes/Shortcodes/ShortcodesManager.php:28
+msgid "Cart"
+msgstr "カート"
+
+#. translators: %d: generated product category number.
+#: includes/Builder/ProductCategoryManager.php:218
+#, php-format
+msgid "Category %d"
+msgstr "カテゴリー%d"
+
+#: includes/Admin/AdminTranslations.php:207
+#: includes/Admin/AdminTranslations.php:212
+msgid "Chat"
+msgstr "チャット"
+
+#: includes/Admin/AdminTranslations.php:175
+msgid "Check that your file is in one of these formats: PNG, JPG."
+msgstr "ファイルがPNGまたはJPG形式であることを確認してください。"
+
+#: includes/Settings/Theme.php:113
+msgid "Check this box to hide the header element on all pages"
+msgstr "すべてのページでヘッダー要素を非表示にするには、このボックスをチェックしてください。"
+
+#: includes/Admin/Hooks.php:159
+msgid ""
+"Check this box to hide the page title on the frontend. This is useful when "
+"your page content already includes a heading."
+msgstr "チェックを入れると、公開画面でページタイトルを非表示にできます。ページ本文にすでに見出しがある場合に便利です。"
+
+#: includes/Builder/SiteApplier.php:1294
+#: includes/Builder/WebsiteBuilder.php:518
+msgid "Checkout"
+msgstr "購入手続き"
+
+#: includes/Admin/AdminTranslations.php:132
+msgid "Children's book author page"
+msgstr "絵本作家のページ"
+
+#: includes/Admin/AdminTranslations.php:49
+msgid "Choose your site’s language"
+msgstr "サイトの言語を選択"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Close AI Generator"
+msgstr "AIジェネレーターを閉じる"
+
+#: includes/Admin/AdminTranslations.php:120
+msgid "Coffee roastery site"
+msgstr "コーヒー焙煎所"
+
+#: includes/Admin/AdminTranslations.php:140
+msgid "Color code"
+msgstr "カラーコード"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Button text"
+msgstr "ボタンのテキスト"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "カラー1（セクションの背景）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "カラー2（セクションの背景）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "カラー3（ボタン背景）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "ダーク（ライトとカラー1をテキストに適用）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "グレー（フォームの境界線）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "ライト（カラー2とグラデーションをテキストに適用）"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Page background"
+msgstr "ページの背景"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Page text"
+msgstr "ページ本文"
+
+#: includes/Admin/AdminTranslations.php:145
+msgid "Colors"
+msgstr "カラー"
+
+#: includes/Rest/BuilderRoutes.php:962
+msgid "Colors data with color_palette is required."
+msgstr "color_paletteを含む色データは必須です。"
+
+#: includes/Admin/AdminTranslations.php:235
+msgid "Confirm"
+msgstr "確認"
+
+#: includes/Admin/AdminTranslations.php:149
+msgid "Confirm site details"
+msgstr "サイト情報の確認"
+
+#: includes/Admin/AdminTranslations.php:249
+#, fuzzy
+msgid "Connect"
+msgstr "接続"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+msgid "Consent Text"
+msgstr "同意テキスト"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:17
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:8
+msgid "Contact Form"
+msgstr "お問い合わせフォーム"
+
+#: includes/Builder/Translator.php:45
+msgid "Contacts"
+msgstr "連絡先"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:37
+#: includes/Elementor/Widgets/ContactFormWidget.php:50
+msgid "Content"
+msgstr "コンテンツ"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content generated but could not be inserted. Please try again."
+msgstr "コンテンツは生成されましたが、挿入できませんでした。もう一度お試しください。"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content generated successfully!"
+msgstr "コンテンツの生成に成功しました！"
+
+#: includes/Rest/BlockTypeRoutes.php:284
+msgid "Content generation failed"
+msgstr "コンテンツ生成に失敗"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content generation failed. Please try again."
+msgstr "コンテンツの生成に失敗しました。もう一度お試しください。"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Content length"
+msgstr "コンテンツの長さ"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "Continue"
+msgstr "続ける"
+
+#: includes/Admin/AdminTranslations.php:142
+#: includes/Admin/AdminTranslations.php:153
+msgid "Continue to setup"
+msgstr "サイトの設定を続ける"
+
+#: includes/Admin/AdminTranslations.php:80
+msgid "Couldn’t create your site this time"
+msgstr "サイトを作成できませんでした"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Country"
+msgstr "国"
+
+#: includes/Admin/AdminTranslations.php:24
+#: includes/Admin/AdminTranslations.php:269
+msgid "Create"
+msgstr "作成"
+
+#: includes/Admin/AdminTranslations.php:215
+msgid "Create a blog about..."
+msgstr "次の要件を満たすブログを作成してください..."
+
+#: includes/Admin/AdminTranslations.php:93
+msgid ""
+"Create a blog called “Mindful Money\" sharing tips on budgeting, investing, "
+"and financial freedom. Use trustworthy colors like dark blue, light gray, "
+"and white. Design should be clean and professional with easy navigation and "
+"newsletter signup."
+msgstr ""
+"予算管理、投資、経済的自由に関するヒントを発信する「Mindful "
+"Money」というブログを作成してください。ダークブルー、ライトグレー、ホワイトなど、信頼感のある色を使ってください。見やすいナビゲーションとニュースレター登録セクションを備えた、すっきりとしたプロフェッショナルなデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:103
+msgid ""
+"Create a portfolio for a freelance graphic designer \"GrapicVibe\" "
+"specializing in branding and visual identity. Use bold, modern colors like "
+"black, neon green, and white. Design should be minimal yet striking with "
+"large project showcases."
+msgstr ""
+"ブランディングとビジュアルアイデンティティを専門とするフリーランスのグラフィックデザイナー「GrapicVibe」のポートフォリオを作成してください。ブラック、ネオングリーン、ホワイトなど、大胆でモダンな色を使ってください。大きな制作事例セクションを設け、ミニマルでありながら印象的なデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:123
+msgid ""
+"Create a site for \"Pette’s Auto Care,\" a local mechanic shop offering "
+"honest repairs and maintenance. Use professional colors like orange, black, "
+"and gray. Include our services list, contact form and a blog about cars."
+msgstr ""
+"「Pette’s Auto "
+"Care」という、地域密着型の自動車整備工場向けにWebサイトを作成してください。安心して任せられる修理・メンテナンスを提供していることが伝わる内容にし、オレンジ、黒、グレーなど、信頼感のある色を使用してください。提供サービス一覧、お問い合わせフォーム、車に関するブログを含めてください。"
+
+#: includes/Admin/AdminTranslations.php:121
+msgid ""
+"Create a website for \"Dark Bean Roasters,\" an artisan coffee roastery. Use "
+"rich, earthy tones like dark brown, copper, and cream. Design should be warm "
+"and inviting. Include a blog page about coffee culture and brewing tips."
+msgstr ""
+"コーヒー焙煎所「Dark Bean "
+"Roasters」のWebサイトを作成してください。ダークブラウン、カッパー、クリームなどの深みのある落ち着いた色合いを取り入れ、温かみがあり親しみやすいデザインにします。コーヒー文化や淹れ方のコツを紹介するブログページも追加してください。"
+
+#: includes/Admin/AdminTranslations.php:214
+msgid "Create a website for my business..."
+msgstr "次の要件を満たすビジネス向けのWebサイトを作成してください..."
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Create again"
+msgstr "再作成する"
+
+#: includes/Admin/AdminTranslations.php:99
+msgid ""
+"Create an affiliate marketing blog called \"Glow Guide\" reviewing and "
+"recommending skincare products. Use fresh colors like white, light gray and "
+"green."
+msgstr ""
+"スキンケア商品をレビューし、おすすめを紹介する「Glow "
+"Guide」というアフィリエイトマーケティングブログを作成してください。ホワイト、ライトグレー、グリーンなど、爽やかな色を使ってください。"
+
+#: includes/Admin/AdminTranslations.php:95
+msgid ""
+"Create an affiliate marketing blog called \"Smart Reviews\" featuring in-"
+"depth reviews of smartphones and laptops and other home gadgets. Use modern, "
+"tech-inspired colors like dark blue, silver, and white. Add newsletter "
+"signup section."
+msgstr ""
+"スマートフォンやノートPC、生活家電や各種ガジェットの詳しいレビューを掲載する「Smart "
+"Reviews」というアフィリエイトマーケティングブログを作成してください。ダークブルー、シルバー、ホワイトなど、モダンでテクノロジー感のある色を使い、ニュースレター登録セクションを追加してください。"
+
+#: includes/Admin/AdminTranslations.php:218
+msgid "Create an affiliate marketing site for..."
+msgstr "次の要件を満たすアフィリエイトマーケティングサイトを作成してください..."
+
+#: includes/Admin/AdminTranslations.php:85
+msgid ""
+"Create an e-commerce website selling handmade macrame and knitted goods "
+"called \"Cozy Knot”. Use warm and light tones like white, beige, light green."
+msgstr ""
+"ハンドメイドのマクラメ作品やニット雑貨を販売する「Cozy "
+"Knot」というECサイトを作成してください。ホワイト、ベージュ、ライトグリーンなど、温かみのある明るい色調を使ってください。"
+
+#: includes/Admin/AdminTranslations.php:105
+msgid ""
+"Create an elegant portfolio for \"Morning Interiors,\" showcasing "
+"residential design projects. Use sophisticated colors like black, light "
+"brown. Design should be minimal and luxurious with large project images."
+msgstr ""
+"「Morning "
+"Interiors」という名前の、住宅デザインの実績を紹介するエレガントなポートフォリオを作成してください。黒やライトブラウンなどの洗練された色を使い、大きな実績画像を配置した、ミニマルで高級感のあるデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:119
+msgid ""
+"Create an elegant website for \"Wanderlux Travel,\" offering curated luxury "
+"tours to exotic destinations. Use sophisticated tones of blues and greens. "
+"Design should feel inspiring with stunning exotic destination photography "
+"and package details."
+msgstr ""
+"エキゾチックな旅先への厳選されたラグジュアリーツアーを提供する「Wanderlux "
+"Travel」の、上品なWebサイトを作成してください。ブルーやグリーンを基調とした洗練された色調を使ってください。魅力的な旅先の美しい写真とツアーパッケージの詳細を掲載し、旅への期待が高まるデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:216
+msgid "Create an online store selling..."
+msgstr "次の商品を販売するオンラインストアを作成してください..."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Create content section"
+msgstr "コンテンツセクションを作成する"
+
+#: includes/Admin/AdminTranslations.php:217
+msgid "Create portfolio showcasing my..."
+msgstr "次の内容を紹介するポートフォリオを作成してください..."
+
+#: includes/Admin/AdminTranslations.php:219
+msgid "Create..."
+msgstr "作成..."
+
+#: includes/Admin/AdminTranslations.php:274
+#, fuzzy
+msgid "Creating a new version will replace the oldest one"
+msgstr "新しいバージョンを作成すると、最も古いバージョンが上書きされます"
+
+#: includes/Admin/AdminTranslations.php:202
+#, fuzzy
+msgid "Creating your logo"
+msgstr "ロゴの作成"
+
+#: includes/Admin/AdminTranslations.php:196
+msgid "Creating your site"
+msgstr "サイトの作成中"
+
+#: includes/Admin/AdminTranslations.php:286
+#, fuzzy
+msgid "Custom"
+msgstr "カスタム"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "タイトルなし"
+
+#: includes/Admin/AdminTranslations.php:160
+#: includes/Admin/AdminTranslations.php:170
+msgid "Customize again"
+msgstr "再度カスタマイズ"
+
+#: includes/Admin/AdminTranslations.php:151
+msgid "Customize style"
+msgstr "スタイルのカスタマイズ"
+
+#: includes/Admin/AdminTranslations.php:166
+#, fuzzy
+msgid "Customize your colors, fonts, and logo."
+msgstr "色、フォント、ロゴをカスタマイズしましょう。"
+
+#: gutenberg-blocks/Booking/Booking.php:85 includes/Builder/Translator.php:59
+#: includes/Elementor/Widgets/ContactFormWidget.php:210
+msgid "Date"
+msgstr "日付"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:208
+msgid "Date Label"
+msgstr "日付ラベル"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:220
+msgid "Date Placeholder"
+msgstr "日付のプレースホルダー"
+
+#: includes/Admin/AdminTranslations.php:278
+#, fuzzy
+msgid "Delete"
+msgstr "削除"
+
+#: includes/Admin/AdminTranslations.php:276
+#, fuzzy
+msgid "Delete this version?"
+msgstr "このバージョンを削除しますか？"
+
+#: includes/Admin/AdminTranslations.php:275
+#, fuzzy
+msgid "Delete version"
+msgstr "バージョンを削除"
+
+#: includes/Admin/AdminTranslations.php:71
+msgid "Describe your website idea..."
+msgstr "作成したいWebサイトの内容を入力…"
+
+#: includes/Admin/AdminTranslations.php:22
+#: includes/Admin/AdminTranslations.php:57
+#: includes/Elementor/Widgets/ContactFormWidget.php:107
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:53
+msgid "Description"
+msgstr "説明"
+
+#: includes/Rest/GenerationRoutes.php:194
+#: includes/Rest/GenerationRoutes.php:427
+#, fuzzy
+msgid "Description and brand name are required."
+msgstr "商品説明とブランド名は必須です。"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Description is required"
+msgstr "説明文の入力が必要です"
+
+#: includes/Rest/BlockTypeRoutes.php:118 includes/Rest/BlockTypeRoutes.php:368
+#: includes/Rest/BuilderRoutes.php:277
+msgid "Description is required."
+msgstr "説明は必須です。"
+
+#: includes/Admin/AdminTranslations.php:46
+#| msgid ""
+#| "Description is too long. Please shorten it to 2000 characters or less."
+msgid "Description is too long. Please shorthen it to 2000 or  less"
+msgstr "説明が長すぎます。2,000文字以内で入力してください。"
+
+#: includes/Admin/AdminTranslations.php:109
+msgid ""
+"Design a friendly service website for \"Pawsitive Grooming,\" a local pet "
+"grooming business. Use playful, warm colors like green, light blue, and "
+"yellow. The design should feel welcoming and trustworthy for pet owners."
+msgstr ""
+"地域密着型のペットトリミングサービス「Pawsitive "
+"Grooming」の、親しみやすいサービスサイトをデザインしてください。グリーン、ライトブルー、イエローなどの明るく温かみのある色を取り入れ、飼い主に安心感と信頼感を与えるデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:111
+msgid ""
+"Design a motivating website for fitness coach \"Power Path\" offering "
+"personal training and nutrition plans. Use energetic colors like red, black, "
+"and white. The design should feel bold and inspiring with clear service "
+"packages."
+msgstr ""
+"フィットネスコーチングサービス「Power "
+"Path」向けに、モチベーションを高めるWebサイトを作成してください。パーソナルトレーニングと栄養プランを提供する内容にし、赤、黒、白などのエネルギッシュな色を使います。明確なサービスパッケージを掲載し、力強く、見る人の意欲を高めるデザインにしてください。"
+
+#: includes/Admin/AdminTranslations.php:131
+msgid ""
+"Design a site for \"Second Chance Paws,\" a non-profit rescuing and rehoming "
+"abandoned dogs, cats and other pets. Use warm colors like orange, beige, "
+"light brown. Include adoption listings and volunteer signup section.."
+msgstr ""
+"捨てられた犬や猫などのペットを保護し、新しい飼い主につなぐ非営利の動物保護団体「Second Chance "
+"Paws」のサイトをデザインしてください。オレンジ、ベージュ、ライトブラウンなどの温かみのある色を取り入れ、里親募集のリストとボランティア登録セクションを含めてください。"
+
+#: includes/Admin/AdminTranslations.php:113
+msgid ""
+"Design a stylish site for corporate events, and parties company \"This "
+"Moment\" . Use bright colors like purple, black, lime green. Showcase our "
+"service, include portfolio gallery, and contact form for inquiries."
+msgstr ""
+"「This "
+"Moment」という企業イベントやパーティーを企画・運営する会社向けに、スタイリッシュなWebサイトを作成してください。紫、黒、ライムグリーンなどの鮮やかな色を使い、サービス紹介、過去のイベント事例を紹介するギャラリー、お問い合わせフォームを含めてください。"
+
+#: includes/Admin/AdminTranslations.php:91
+msgid ""
+"Design a vibrant food blog named \"Green Plate\" focusing on plant-based, "
+"healthy recipes. Use fresh, bright colors like lime green, yellow, and white."
+" Include the subscribe section."
+msgstr ""
+"プラントベースのヘルシーレシピを中心にした、明るく活気のある「Green "
+"Plate」というフードブログをデザインしてください。ライムグリーン、イエロー、ホワイトなど、フレッシュで明るい色を使い、購読セクションも含めてください。"
+
+#: includes/Admin/AdminTranslations.php:200
+#, fuzzy
+msgid "Designing your layout"
+msgstr "レイアウトの設計"
+
+#: includes/Admin/AdminTranslations.php:116
+msgid "Digital marketing agency"
+msgstr "デジタルマーケティング会社"
+
+#: includes/Settings/Theme.php:56
+msgid "Display Settings"
+msgstr "表示設定"
+
+#: includes/Admin/AdminTranslations.php:62
+msgid "Do you have any comments/suggestions to improve created site?"
+msgstr "サイトを改善するためのコメントや提案はありますか？"
+
+#: includes/Admin/Surveys/WebsiteBuilderExperience.php:33
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "当社のAIツールを改善するためのコメントや提案はありますか？"
+
+#: includes/Admin/AdminTranslations.php:283
+#, fuzzy
+msgid "Drag & drop or browse your files"
+msgstr "ファイルをドラッグ＆ドロップするか、ファイルを選択してください"
+
+#: includes/Admin/AdminTranslations.php:84
+msgid "E-shop for handmade crafts"
+msgstr "ハンドメイド雑貨のECサイト"
+
+#: includes/Admin/AdminTranslations.php:72
+msgid "Easy drag-and-drop builder for fast, no-code design"
+msgstr "ノーコードで手軽にデザインできるドラッグ＆ドロップ式ビルダー"
+
+#: includes/Admin/AdminTranslations.php:32 includes/Hooks.php:155
+msgid "Edit site"
+msgstr "サイトを編集"
+
+#: includes/Admin/AdminTranslations.php:187
+msgid "Edit site design and content"
+msgstr "サイトのデザインとコンテンツを編集できます"
+
+#: includes/Admin/AdminTranslations.php:74
+#| msgid "Editor: "
+msgid "Editor"
+msgstr "エディター"
+
+#: includes/Admin/AdminTranslations.php:189
+msgid "editor"
+msgstr "エディター"
+
+#: includes/Admin/AdminTranslations.php:78
+msgid "Editor is required"
+msgstr "エディターを選択してください"
+
+#: includes/Admin/AdminTranslations.php:54
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/Admin/AdminTranslations.php:56
+msgid ""
+"Elementor is an easy drag-and-drop builder, while the WordPress Block Editor "
+"gives pros more flexibility"
+msgstr ""
+"Elementorはドラッグ＆ドロップで直感的に使えるビルダーであり、WordPressのブロックエディターは上級者向けでより高い柔軟性を提供します"
+
+#: includes/Admin/AdminTranslations.php:258 includes/Builder/Translator.php:55
+#: includes/Elementor/Widgets/ContactFormWidget.php:174
+#: includes/Shortcodes/ShortcodesManager.php:42
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:40
+msgid "Email"
+msgstr "メールアドレス"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:135
+msgid ""
+"Email address where form submissions will be sent. Defaults to WordPress "
+"admin email."
+msgstr "フォームの送信内容の送付先メールアドレスです。デフォルトはWordPressの管理者メールアドレスです。"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:172
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:74
+msgid "Email Label"
+msgstr "メールラベル"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:181
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:79
+msgid "Email Placeholder"
+msgstr "メールのプレースホルダー"
+
+#: includes/Elementor/ScrollAnimation.php:37
+msgid "Enable fade-up animation when this section scrolls into view."
+msgstr "セクション表示時にフェードアップアニメーションを再生します。"
+
+#: includes/Elementor/ScrollAnimation.php:36
+msgid "Enable Scroll Animation"
+msgstr "スクロールアニメーションを有効にする"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Enabling plugins"
+msgstr "プラグインを有効化中…"
+
+#: includes/Admin/AdminTranslations.php:83
+msgid "Enhance with AI"
+msgstr "AIで改善"
+
+#: includes/Admin/AdminTranslations.php:251
+#, fuzzy
+msgid "Enter a correct email address"
+msgstr "正しいメールアドレスを入力してください"
+
+#: includes/Admin/AdminTranslations.php:246
+#, fuzzy
+msgid "Enter a correct Facebook link or Username"
+msgstr "正しいFacebookのリンクまたはユーザー名を入力してください"
+
+#: includes/Admin/AdminTranslations.php:245
+#, fuzzy
+msgid "Enter a correct Instagam link or Username"
+msgstr "正しいInstagramのリンクまたはユーザー名を入力してください"
+
+#: includes/Admin/AdminTranslations.php:252
+#, fuzzy
+msgid "Enter a correct phone number"
+msgstr "正しい電話番号を入力してください"
+
+#: includes/Admin/AdminTranslations.php:247
+#, fuzzy
+msgid "Enter a correct TikTok link or Username"
+msgstr "正しいTikTokのリンクまたはユーザー名を入力してください"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Enter at least 11 characters"
+msgstr "11文字以上入力してください"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:123
+msgid "Enter button text"
+msgstr "ボタンテキストを入力"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:110
+msgid "Enter form description"
+msgstr "フォームの説明を入力"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:56
+msgid "Enter form description..."
+msgstr "フォームの説明を入力..."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:73
+msgid "Enter form title"
+msgstr "フォームのタイトルを入力"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:41
+msgid "Enter form title..."
+msgstr "フォームのタイトルを入力..."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:134
+msgid "Enter recipient email address"
+msgstr "受信者のメールアドレスを入力"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+msgid "Enter your email..."
+msgstr "メールアドレスを入力..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+msgid "Enter your message..."
+msgstr "メッセージを入力..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+msgid "Enter your name..."
+msgstr "名前を入力..."
+
+#: includes/Admin/AdminTranslations.php:112
+msgid "Event planning services"
+msgstr "イベント企画サービス"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid ""
+"Example: article about the benefits of drop-shipping with included tips & "
+"tricks."
+msgstr "例：ドロップシッピングのメリットに関する記事（ヒントやコツも掲載）。"
+
+#: includes/Admin/AdminTranslations.php:64
+msgid "Excellent"
+msgstr "良い"
+
+#: includes/Admin/AdminTranslations.php:37
+msgid "Existing content will be deleted"
+msgstr "既存のコンテンツが削除されます"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "外部画像をアイキャッチ画像として使用できます。"
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "外部画像URL"
+
+#. translators: %s: plugin name
+#: includes/Builder/PluginInstaller.php:38
+#: includes/Builder/PluginInstaller.php:205
+#, php-format
+msgid "Failed to activate %s. Please try activating it manually."
+msgstr "%sを有効化できませんでした。手動で有効化してください。"
+
+#. translators: %s: plugin name
+#: includes/Builder/PluginInstaller.php:76
+#, php-format
+msgid ""
+"Failed to download %s after multiple attempts. Please try again later or "
+"install the plugin manually."
+msgstr "%sをダウンロードできませんでした。後ほどもう一度試すか、プラグインを手動でインストールしてください。"
+
+#: includes/Rest/BlockTypeRoutes.php:233
+msgid ""
+"Failed to generate content. Please try again with a different description."
+msgstr "コンテンツを生成できませんでした。別の説明で再度お試しください。"
+
+#: includes/Rest/BlockTypeRoutes.php:150
+msgid "Failed to generate page content."
+msgstr "ページコンテンツの生成に失敗しました。"
+
+#: includes/Rest/BlockTypeRoutes.php:186
+msgid ""
+"Failed to generate page content. Please try again with a different "
+"description."
+msgstr "ページコンテンツの生成に失敗しました。別の説明で再度お試しください。"
+
+#: includes/Rest/BlockTypeRoutes.php:142
+msgid "Failed to generate page structure."
+msgstr "ページ構成の生成に失敗しました。"
+
+#: includes/Rest/BuilderRoutes.php:465
+msgid "Failed to generate pages list."
+msgstr "ページリストの生成に失敗しました。"
+
+#: includes/Rest/BlockTypeRoutes.php:428
+msgid "Failed to generate section content."
+msgstr "セクションコンテンツの生成に失敗しました。"
+
+#: includes/Rest/BlockTypeRoutes.php:105
+msgid ""
+"Failed to generate section content. Please try again with a different "
+"description."
+msgstr "セクションコンテンツの生成に失敗しました。別の説明で再度お試しください。"
+
+#: includes/Rest/BuilderRoutes.php:606 includes/Rest/BuilderRoutes.php:622
+msgid "Failed to generate structure."
+msgstr "構成の生成に失敗しました。"
+
+#: includes/Rest/BlockTypeRoutes.php:434
+msgid "Failed to merge content with structure."
+msgstr "コンテンツと構成の統合に失敗しました。"
+
+#: includes/Admin/AdminTranslations.php:178
+msgid "Failed to remove logo. Please try again."
+msgstr "ロゴの削除に失敗しました。もう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:179
+#, fuzzy
+msgid "Failed to restore generated logo. Please try again."
+msgstr "生成されたロゴの復元に失敗しました。もう一度お試しください。"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:143
+#: includes/Elementor/Widgets/ContactFormWidget.php:385
+msgid "Failed to send email. Please try again later."
+msgstr "メールの送信に失敗しました。後ほどもう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:177
+msgid "Failed to upload logo. Please try again."
+msgstr "ロゴのアップロードに失敗しました。もう一度お試しください。"
+
+#: includes/Admin/Hooks.php:39
+msgid "Featured Image with URL"
+msgstr "アイキャッチ画像（URL付き）"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+msgid "Field Settings"
+msgstr "フィールド設定"
+
+#: includes/Admin/AdminTranslations.php:176 includes/Hooks.php:428
+#: includes/Rest/LogoRoutes.php:52
+msgid "File size exceeds the 2 MB limit."
+msgstr "ファイルサイズが2MBの上限を超えています。"
+
+#: includes/Admin/AdminTranslations.php:143
+#: includes/Admin/AdminTranslations.php:158
+msgid "Finish customization"
+msgstr "カスタマイズを完了"
+
+#: includes/Admin/AdminTranslations.php:162
+msgid ""
+"First, I just want to make sure I got this right – what's your brand name?"
+msgstr "まずはブランド名を教えてもらえますか？"
+
+#: includes/Admin/AdminTranslations.php:110
+msgid "Fitness coaching services"
+msgstr "フィットネスコーチング"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Catamaran"
+msgstr "Catamaran"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Caudex"
+msgstr "Caudex"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Cormorant"
+msgstr "Cormorant"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Serif Display"
+msgstr "DM Serif Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Sans"
+msgstr "Fira Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Gruppo"
+msgstr "Gruppo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "IBM Plex Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Junge"
+msgstr "Junge"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr "Lato"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "等幅フォント"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito Sans"
+msgstr "Nunito Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prata"
+msgstr "Prata"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prompt"
+msgstr "Prompt"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prosto One"
+msgstr "Prosto One"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "システム"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Titillium Web"
+msgstr "Titillium Web"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Trirong"
+msgstr "Trirong"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "中"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:147
+#: includes/Admin/AdminTranslations.php:284
+msgid "Fonts"
+msgstr "フォント"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:146
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:61
+msgid "Form Fields"
+msgstr "フォームフィールド"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:29
+msgid "Form Settings"
+msgstr "フォーム設定"
+
+#: includes/Admin/AdminTranslations.php:295
+#, fuzzy
+msgid "Game over"
+msgstr "ゲームオーバー"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Generate"
+msgstr "生成"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/AiContent/src/index.js:11
+msgid "Generate and regenerate content using AI"
+msgstr "AIでコンテンツを生成・再生成"
+
+#: includes/Rest/LogoRoutes.php:106
+#, fuzzy
+msgid "Generated logo file not found."
+msgstr "生成されたロゴファイルが見つかりません。"
+
+#: includes/Rest/LogoRoutes.php:97
+#, fuzzy
+msgid "Generated logo not found."
+msgstr "生成されたロゴが見つかりません。"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid ""
+"Generating a full page will delete all existing content on this page and "
+"replace it with new AI-generated content."
+msgstr "ページ全体を生成すると、このページ上の既存のコンテンツがすべて削除され、AIによって生成された新しいコンテンツに置き換えられます。"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "カラーの生成中"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Generating content"
+msgstr "コンテンツの生成中"
+
+#: includes/Admin/AdminTranslations.php:203
+#, fuzzy
+msgid "Generating images"
+msgstr "画像の生成"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating structure"
+msgstr "構造の生成中"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Generating..."
+msgstr "生成中..."
+
+#: includes/Builder/Translator.php:50
+#: includes/Elementor/Widgets/ContactFormWidget.php:72
+msgid "Get in Touch"
+msgstr "問い合わせはこちら"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Give us a minute"
+msgstr "少々お待ちください"
+
+#: includes/Admin/AdminTranslations.php:195
+msgid "Go to WordPress"
+msgstr "WordPressに移動"
+
+#: includes/Admin/AdminTranslations.php:210
+msgid "Go to WordPress admin"
+msgstr "WordPress adminに移動する"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:17
+#, fuzzy
+msgid "Google Maps embed URL"
+msgstr "グーグルマップ埋め込みURL"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "セクション背景グラデーション"
+
+#: includes/Admin/AdminTranslations.php:102
+msgid "Graphic designer portfolio"
+msgstr "グラフィックデザイナーのポートフォリオ"
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Great description! Feel free to add more details"
+msgstr "素晴らしいですね、さらに詳細を追加しましょう。"
+
+#: includes/Admin/AdminTranslations.php:154
+msgid "Head to WP admin or your chosen editor"
+msgstr "WP管理画面または選択したエディターに移動します"
+
+#: includes/Admin/AdminTranslations.php:90
+msgid "Healthy food blog"
+msgstr "ヘルシーレシピブログ"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:23
+#, fuzzy
+msgid "Height (px)"
+msgstr "高さ (px)"
+
+#: includes/Admin/AdminTranslations.php:58
+msgid "Help us improve"
+msgstr "フィードバックにご協力ください"
+
+#: includes/Admin/AdminTranslations.php:161
+msgid ""
+"Hi 👋 I'm your AI assistant. Your site is on the way.\\n\\nHere is the plan:"
+msgstr "こんにちは 👋 サイト作成をサポートするAIアシスタントです。\\n\\n次の手順でサイトの準備を進めます："
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:48
+#: includes/Elementor/Widgets/ContactFormWidget.php:61
+#: includes/Elementor/Widgets/ContactFormWidget.php:86
+#: includes/Elementor/Widgets/ContactFormWidget.php:98
+#| msgid "Ehime"
+msgid "Hide"
+msgstr "非表示"
+
+#: includes/Settings/Theme.php:63
+msgid "Hide Header"
+msgstr "ヘッダーを非表示"
+
+#: includes/Admin/Hooks.php:155
+msgid "Hide page title"
+msgstr "ページタイトルを非表示"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Hostinger AIテーマ"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr "Hostinger AIテーマは、SEOとモバイル対応を考慮して作られており、パフォーマンスとオンラインプレゼンスを向上します。"
+
+#: includes/Admin/AdminTranslations.php:262
+#, fuzzy
+msgid "Hostinger Ecommerce setup"
+msgstr "HostingerでのECサイト設定"
+
+#: includes/Builder/Translator.php:67
+#, fuzzy
+msgid "Hours"
+msgstr "営業時間"
+
+#: includes/Admin/Surveys/WebsiteBuilderExperience.php:29
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr "当社のAIサイト作成ツールを使用してサイトを作成した経験をどのように評価しますか？（1〜10）"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com/jp"
+
+#: includes/Admin/AdminTranslations.php:89
+msgid ""
+"I am creating luxury handmade soy wax candles under the brand name “Bliss "
+"Candles\". I need a warm and inviting online store for it. The design should "
+"emphasize relaxation and luxury. Use soft, muted colors: lavender, light "
+"gray, and beige."
+msgstr ""
+"ハンドメイドのソイワックスキャンドルを扱う高級キャンドルブランド「Bliss "
+"Candles」向けに、温かみのあるオンラインストアを作成してください。リラックスできる雰囲気と洗練された印象が伝わるデザインにし、ラベンダー、ライトグレー、ベージュなどのやわらかく落ち着いた色を使ってください。"
+
+#: gutenberg-blocks/ContactForm/render.php:18
+#: includes/Elementor/Widgets/ContactFormWidget.php:263
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr "問い合わせ対応を目的として、提供した個人情報が"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"問い合わせ対応を目的として、提供した個人情報がプライバシーポリシーの記載に従って利用されることに同意します。同意をいつでも撤回できることを理解しています。"
+
+#: includes/Admin/AdminTranslations.php:168
+msgid ""
+"If there's anything you'd still like to change, you can customize your site "
+"again. If you're done, simply continue to setup and I'll guide you through "
+"the rest! "
+msgstr "まだ変更したい点があれば、サイトをもう一度カスタマイズできます。問題なければ、そのままセットアップに進んでください。"
+
+#: includes/Admin/AdminTranslations.php:174
+msgid ""
+"If you believe this is a mistake, please revise the description and try "
+"again."
+msgstr "誤りと思われる場合は、説明を修正してもう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:250
+#, fuzzy
+msgid ""
+"If you like, we can add your contacts straight away, what do you say? "
+"(Optional)"
+msgstr "よろしければ、今すぐ連絡先を追加してもいいですよ。いかがですか？（任意）"
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "Improve description"
+msgstr "説明の改善"
+
+#: includes/Admin/AdminTranslations.php:104
+msgid "Interior design portfolio"
+msgstr "インテリアデザインのポートフォリオ"
+
+#: includes/Rest/BlockTypeRoutes.php:389
+msgid "Invalid block type response."
+msgstr "ブロックタイプの応答が無効です。"
+
+#: includes/Rest/BuilderRoutes.php:160
+msgid "Invalid body font."
+msgstr "本文フォントが無効です。"
+
+#: includes/Admin/AdminTranslations.php:139
+msgid "Invalid color code"
+msgstr "カラーコードが無効です"
+
+#: includes/Hooks.php:421 includes/Rest/LogoRoutes.php:35
+msgid "Invalid file type. Allowed types: jpg, png, svg."
+msgstr "ファイル形式が無効です。使用可能な形式：jpg、png、svg"
+
+#: includes/Rest/BuilderRoutes.php:152
+msgid "Invalid heading font."
+msgstr "見出しフォントが無効です。"
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "この場所では何も見つかりませんでした。検索機能の使用をお勧めします。"
+
+#: includes/Admin/AdminTranslations.php:156
+msgid "Just confirm a few details in the chat to get your site up and running"
+msgstr "チャットでいくつかの詳細を確認するだけで、サイトを公開して運営を開始できます。"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+msgid "Label"
+msgstr "ラベル"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "ランディング"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:247
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:107
+msgid "Leave empty to use default privacy policy text"
+msgstr "空欄の場合はデフォルトのプライバシーポリシー用のテキストが使用されます"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:248
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:108
+msgid ""
+"Leave empty to use the default privacy policy text with automatic link "
+"generation."
+msgstr "空欄の場合は自動生成リンクを含むデフォルトのプライバシーポリシー用のテキストが使用されます"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Let us know more about your website to get the best result"
+msgstr "最適な結果を得るために、Webサイトについて詳しく教えてください。"
+
+#: includes/Admin/AdminTranslations.php:265
+#, fuzzy
+msgid "Let's give it another go"
+msgstr "もう一度やってみよう"
+
+#: includes/Admin/AdminTranslations.php:70
+msgid "Let's start with your website idea"
+msgstr "アイデアを入力してWebサイトを作成"
+
+#: includes/Admin/AdminTranslations.php:150
+msgid "Like brand name, pages or contact information"
+msgstr "ブランド名、ページ構成、連絡先情報などを確認します"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+msgid "Link to your privacy policy page"
+msgstr "プライバシーポリシーページへのリンク"
+
+#: includes/Admin/AdminTranslations.php:157
+msgid "Loading website preview"
+msgstr "Webサイトプレビューの読み込み中"
+
+#: includes/Admin/AdminTranslations.php:291
+#, fuzzy
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: includes/Admin/AdminTranslations.php:114
+msgid "Local bakery site"
+msgstr "ベーカリー＆カフェサイト"
+
+#: includes/Admin/AdminTranslations.php:124
+msgid "Local wine tasting page"
+msgstr "地元ワインの試飲ページ"
+
+#: includes/Admin/AdminTranslations.php:146
+msgid "Logo"
+msgstr "ロゴ"
+
+#: includes/Admin/AdminTranslations.php:183
+msgid "Logo preview"
+msgstr "ロゴプレビュー"
+
+#: includes/Admin/AdminTranslations.php:167
+msgid "Looks like your site is done! 😊 "
+msgstr "サイトが完成しました！😊"
+
+#: includes/Builder/NavigationBuilder.php:45
+#, fuzzy
+msgid "Main menu"
+msgstr "メインメニュー"
+
+#: includes/Admin/AdminTranslations.php:186
+msgid "Manage your site, add plugins, domain and adjust other settings"
+msgstr "サイトの管理、プラグインやドメインの追加、その他の設定を行えます"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:39
+#, fuzzy
+msgid "Map"
+msgstr "地図"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:15
+#, fuzzy
+msgid "Map settings"
+msgstr "地図設定"
+
+#: includes/Admin/AdminTranslations.php:169
+msgid "Maximum attempts reached. Please try later."
+msgstr "試行回数の上限に達しました。後ほどもう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:128
+msgid "Meditation app landing page"
+msgstr "瞑想アプリのランディングページ"
+
+#: includes/Builder/Translator.php:44
+msgid "Menu"
+msgstr "メニュー"
+
+#: includes/Builder/Translator.php:57
+#: includes/Elementor/Widgets/ContactFormWidget.php:192
+#: includes/Shortcodes/ShortcodesManager.php:43
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:44
+msgid "Message"
+msgstr "メッセージ"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:190
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:85
+msgid "Message Label"
+msgstr "メッセージラベル"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:199
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:90
+msgid "Message Placeholder"
+msgstr "メッセージのプレースホルダー"
+
+#: includes/Admin/AdminTranslations.php:260
+#, fuzzy
+msgid "mobile phone"
+msgstr "携帯電話"
+
+#: includes/Builder/SiteApplier.php:1299
+#: includes/Builder/WebsiteBuilder.php:527
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: includes/Builder/Translator.php:53
+#: includes/Elementor/Widgets/ContactFormWidget.php:156
+#: includes/Shortcodes/ShortcodesManager.php:41
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:36
+msgid "Name"
+msgstr "名前"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:154
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:63
+msgid "Name Label"
+msgstr "名前ラベル"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:163
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:68
+msgid "Name Placeholder"
+msgstr "名前のプレースホルダー"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:108
+#: includes/Elementor/Widgets/ContactFormWidget.php:362
+msgid "New Contact Form Submission"
+msgstr "新規のお問い合わせフォームの送信内容"
+
+#: includes/Admin/AdminTranslations.php:223
+msgid "New page name"
+msgstr "新しいページ名"
+
+#: includes/Elementor/ScrollAnimation.php:39
+msgid "No"
+msgstr "いいえ"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+msgid "No bookings yet."
+msgstr "予約はまだありません。"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "No content was generated. Please try again."
+msgstr "コンテンツが生成されませんでした。もう一度お試しください。"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:72
+msgid "No posts found. Please create some blog posts."
+msgstr "記事が見つかりません。ブログ記事を作成してください。"
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "結果は見つかりませんでした"
+
+#: includes/Rest/GenerationRoutes.php:280
+#, fuzzy
+msgid "No website generation has been started."
+msgstr "ウェブサイトの生成は開始されていません。"
+
+#: includes/Admin/AdminTranslations.php:130
+msgid "Non-profit animal rescue organization"
+msgstr "非営利の動物保護団体"
+
+#: includes/Admin/AdminTranslations.php:144
+#: includes/Admin/AdminTranslations.php:159
+msgid "Not now"
+msgstr "今はスキップ"
+
+# pagination (?)
+# Probably used in the context of:
+# 
+# 1 Question of 2
+#: includes/Admin/AdminTranslations.php:66
+msgid "of"
+msgstr "/"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Online store"
+msgstr "オンラインストア"
+
+#: includes/Admin/AdminTranslations.php:148
+#, fuzzy
+msgid "Original"
+msgstr "原文"
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Other"
+msgstr "その他"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "ページが見つかりませんでした"
+
+#: includes/Admin/Hooks.php:138
+msgid "Page Title Display"
+msgstr "ページタイトル表示"
+
+#: includes/Admin/AdminTranslations.php:222
+#, fuzzy
+msgid "Pages"
+msgstr "ページ"
+
+#: includes/Rest/BuilderRoutes.php:491 includes/Rest/BuilderRoutes.php:511
+msgid "Pages must be a non-empty array."
+msgstr "ページを1件以上指定してください。"
+
+#: includes/Rest/GenerationRoutes.php:720
+#, fuzzy
+msgid ""
+"Pages must contain a home page and up to eight unique page slugs with names."
+msgstr "ページには、ホームページと、名前が付けられた最大8つの固有のページスラグが含まれている必要があります。"
+
+#: includes/Admin/AdminTranslations.php:135
+#, fuzzy
+msgid "Palette"
+msgstr "パレット"
+
+#: includes/Admin/AdminTranslations.php:285
+#, fuzzy
+msgid "Palettes"
+msgstr "パレット"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:20
+#, fuzzy
+msgid ""
+"Paste the URL from a Google Maps embed iframe (the value of its src "
+"attribute)."
+msgstr "Google Maps埋め込みiframeのURL（src属性の値）を貼り付けます。"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "投稿メタ（非表示）"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Query"
+
+#: includes/Admin/AdminTranslations.php:92
+msgid "Personal finance blog"
+msgstr "個人向け資産管理ブログ"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Personalize your content"
+msgstr "コンテンツを自分好みにカスタマイズしましょう"
+
+#: includes/Admin/AdminTranslations.php:108
+msgid "Pet grooming services"
+msgstr "ペットトリミング"
+
+#: includes/Admin/AdminTranslations.php:152
+#, fuzzy
+#| msgid "Pick your colors and logo"
+msgid "Pick your colors, fonts and logo"
+msgstr "カラーとロゴを選択します"
+
+#: includes/Admin/AdminTranslations.php:198
+#, fuzzy
+msgid "Picking colors and fonts"
+msgstr "色とフォントの選択"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: includes/Admin/AdminTranslations.php:199
+#, fuzzy
+msgid "Planning your pages"
+msgstr "ページの構成を計画する"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:101
+#: includes/Elementor/Widgets/ContactFormWidget.php:355
+msgid "Please agree with privacy policy."
+msgstr "プライバシーポリシーに同意する必要があります。"
+
+#: includes/Admin/AdminTranslations.php:237
+msgid "Please confirm the essentials first:"
+msgstr "まずは基本情報を確認してください："
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:105
+#: includes/Elementor/Widgets/ContactFormWidget.php:359
+msgid "Please enter a valid email address."
+msgstr "有効なメールアドレスを入力してください。"
+
+#: includes/Rest/BuilderRoutes.php:428
+msgid "Plugin installation failed."
+msgstr "プラグインをインストールできませんでした。"
+
+#: includes/Admin/AdminTranslations.php:185
+msgid "PNG, JPG (max 2MB)"
+msgstr "PNG、JPG（最大2MB）"
+
+#: includes/Admin/AdminTranslations.php:63
+msgid "Poor"
+msgstr "悪い"
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Powered by Hostinger"
+msgstr "Hostinger提供"
+
+#: includes/Admin/AdminTranslations.php:209
+msgid "Prefer to start from scratch?"
+msgstr "自分で一から作成しますか？"
+
+#: gutenberg-blocks/ContactForm/render.php:20
+#: includes/Elementor/Widgets/ContactFormWidget.php:236
+#: includes/Elementor/Widgets/ContactFormWidget.php:265
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:102
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+msgid "Privacy Policy Link Text"
+msgstr "プライバシーポリシーリンクテキスト"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:244
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:104
+#| msgid "Privacy Policy URL"
+msgid "Privacy Policy Text"
+msgstr "プライバシーポリシーテキスト"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+msgid "Privacy Policy URL"
+msgstr "プライバシーポリシーURL"
+
+#: includes/Rest/BuilderRoutes.php:738
+msgid "Problem building content."
+msgstr "コンテンツの作成中に問題が発生しました。"
+
+#: includes/Rest/BuilderRoutes.php:691
+msgid "Problem generating content."
+msgstr "コンテンツの生成中に問題が発生しました。"
+
+#: includes/Rest/BuilderRoutes.php:1002
+msgid "Problem setting colors."
+msgstr "カラーの設定中に問題が発生しました。"
+
+#: includes/Admin/AdminTranslations.php:204
+#, fuzzy
+msgid "Putting it all together"
+msgstr "すべてをまとめると"
+
+# Probably used in the context of:
+# 
+# 1 Question of 2
+#: includes/Admin/AdminTranslations.php:65
+msgid "Question"
+msgstr "問目"
+
+#: includes/Admin/AdminTranslations.php:59
+msgid "Rate"
+msgstr "評価する"
+
+#: includes/Admin/AdminTranslations.php:60
+msgid "Rate site"
+msgstr "サイトを評価する"
+
+#: includes/Admin/AdminTranslations.php:61
+msgid "Rate the site AI created for you"
+msgstr "AIが作成したサイトを評価"
+
+#: includes/Admin/AdminTranslations.php:190
+msgid "Rate your site"
+msgstr "サイトを評価する"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:130
+msgid "Recipient Email Address"
+msgstr "受信者のメールアドレス"
+
+#: includes/Admin/AdminTranslations.php:181
+#, fuzzy
+msgid "Remove"
+msgstr "削除"
+
+#: includes/Admin/AdminTranslations.php:182
+#, fuzzy
+msgid "Replace"
+msgstr "置換"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Replace All Content"
+msgstr "すべてのコンテンツを置き換える"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Replace All Content?"
+msgstr "すべてのコンテンツを置き換えますか？"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+msgid "Required"
+msgstr "必須"
+
+#: includes/Admin/AdminTranslations.php:180
+#, fuzzy
+msgid "Restore generated logo"
+msgstr "生成されたロゴを復元する"
+
+#: includes/Admin/AdminTranslations.php:289
+#, fuzzy
+msgid "Score"
+msgstr "スコア"
+
+#: includes/Elementor/ScrollAnimation.php:28
+msgid "Scroll Animation"
+msgstr "スクロールアニメーション"
+
+#: includes/Admin/AdminTranslations.php:138
+#, fuzzy
+msgid "Section"
+msgstr "セクション"
+
+#: includes/Builder/Translator.php:60
+#: includes/Elementor/Widgets/ContactFormWidget.php:222
+msgid "Select a date"
+msgstr "日付を選択"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+msgid "Select date..."
+msgstr "日付を選択..."
+
+#: includes/Admin/AdminTranslations.php:55
+msgid "Select editor"
+msgstr "エディターを選択"
+
+#: includes/Builder/Translator.php:52
+#: includes/Elementor/Widgets/ContactFormWidget.php:122
+#: includes/Shortcodes/ShortcodesManager.php:40
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:32
+msgid "Send Message"
+msgstr "メッセージを送信"
+
+#: includes/Admin/AdminTranslations.php:263
+#, fuzzy
+msgid "Set up your store details and products"
+msgstr "店舗情報と商品を設定する"
+
+#: includes/Admin/AdminTranslations.php:171
+msgid "Setup in WP admin"
+msgstr "WP管理画面で設定"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Extra Large"
+msgstr "特大"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Huge"
+msgstr "巨大"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Large"
+msgstr "大"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Medium"
+msgstr "中"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Small"
+msgstr "小"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:47
+#: includes/Elementor/Widgets/ContactFormWidget.php:60
+#: includes/Elementor/Widgets/ContactFormWidget.php:85
+#: includes/Elementor/Widgets/ContactFormWidget.php:97
+msgid "Show"
+msgstr "表示"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:45
+#: includes/Elementor/Widgets/ContactFormWidget.php:95
+msgid "Show Date"
+msgstr "日付を表示"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:83
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:46
+msgid "Show Description"
+msgstr "詳細を表示"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:58
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:31
+msgid "Show Title"
+msgstr "タイトルを表示"
+
+#: includes/Admin/AdminTranslations.php:79
+msgid "Site couldn’t be created"
+msgstr "サイトを作成できませんでした"
+
+#: includes/Admin/AdminTranslations.php:48
+msgid "Site Language"
+msgstr "サイトの言語"
+
+#: includes/Admin/AdminTranslations.php:75
+#| msgid "Site language: "
+msgid "Site language"
+msgstr "サイトの言語"
+
+#: includes/Admin/AdminTranslations.php:206
+#: includes/Admin/AdminTranslations.php:211
+msgid "Site preview"
+msgstr "サイトプレビュー"
+
+#: includes/Admin/AdminTranslations.php:173
+msgid "Site request not allowed"
+msgstr "このリクエストは許可されていません"
+
+#: includes/Admin/AdminTranslations.php:98
+msgid "Skincare affiliate site"
+msgstr "スキンケア系アフィリエイトサイト"
+
+#: includes/Admin/AdminTranslations.php:256
+#, fuzzy
+msgid "Skip contacts"
+msgstr "連絡先をスキップ"
+
+#: includes/Admin/AdminTranslations.php:248
+#, fuzzy
+msgid "Skip socials"
+msgstr "交流イベントをスキップする"
+
+#: includes/Builder/Translator.php:46
+msgid "Socials"
+msgstr "ソーシャル"
+
+#: includes/Admin/AdminTranslations.php:163
+msgid "Sorry, I didn't understand your answer. What\\u2019s your brand name?"
+msgstr "申し訳ありません、入力内容を理解できませんでした。ブランド名を教えてください。"
+
+#: includes/Rest/BuilderRoutes.php:331
+msgid "Sorry, something wrong with data."
+msgstr "申し訳ありませんが、データに問題があります。"
+
+#: includes/Admin/AdminTranslations.php:220
+msgid ""
+"Sounds great 🚀 Next, based on what you shared so far, I'm thinking these "
+"pages would work well for your site.\\n\\nFeel free to remove or add pages "
+"as you like – then hit confirm when you're ready!"
+msgstr ""
+"いいですね 🚀 "
+"これまでの内容をもとに、サイトに合いそうなページを選んでみました。\\n\\n必要に応じてページを追加・削除し、準備ができたら確定してください。"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: includes/Admin/AdminTranslations.php:293
+#, fuzzy
+msgid "Start the game"
+msgstr "ゲームを始める"
+
+#: includes/Admin/AdminTranslations.php:77
+#| msgid "Location is required"
+msgid "Store location is required"
+msgstr "店舗の所在地は必須です"
+
+#: includes/Admin/AdminTranslations.php:76
+msgid "Store location: "
+msgstr "店舗の所在地："
+
+#: includes/Admin/AdminTranslations.php:67
+msgid "Submit"
+msgstr "送信"
+
+#: includes/Admin/AdminTranslations.php:68
+msgid "Submitting..."
+msgstr "送信中..."
+
+#: includes/Builder/Translator.php:47
+msgid "Subscribe to our newsletter"
+msgstr "ニュースレターに登録する"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:141
+#: includes/Elementor/Widgets/ContactFormWidget.php:383
+msgid "Successfully submitted!"
+msgstr "送信成功！"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "Suggest a description"
+msgstr "説明を提案する"
+
+#: includes/Admin/AdminTranslations.php:267
+#, fuzzy
+msgid "Switched to {version}"
+msgstr "{version} に切り替えました"
+
+#: includes/Admin/AdminTranslations.php:273
+#, fuzzy
+msgid "Switching version..."
+msgstr "バージョンを切り替えます…"
+
+#: includes/Admin/AdminTranslations.php:294
+#, fuzzy
+msgid "Tap or click start to play"
+msgstr "「開始」をタップまたはクリックして再生してください"
+
+#: includes/Admin/AdminTranslations.php:296
+#, fuzzy
+msgid "Tap the screen to restart"
+msgstr "画面をタップして再起動してください"
+
+#: includes/Admin/AdminTranslations.php:94
+msgid "Tech gadgets affiliate site"
+msgstr "ガジェット系アフィリエイトサイト"
+
+#: includes/Admin/AdminTranslations.php:126
+msgid "Tech startup landing page"
+msgstr "テック系スタートアップのLP"
+
+#: includes/Admin/AdminTranslations.php:11
+msgid "Tell us about your site"
+msgstr "サイトの内容について教えてください"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "フッター"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "ヘッダー"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+msgid "Text to display for the privacy policy link"
+msgstr "プライバシーポリシーリンクの表示テキスト"
+
+#: includes/Admin/AdminTranslations.php:192
+msgid "Thank you!"
+msgstr "ありがとうございます！"
+
+#: includes/Admin/AdminTranslations.php:69
+msgid "Thanks for your feedback"
+msgstr "ご意見ありがとうございます"
+
+#: includes/Admin/AdminTranslations.php:264
+#, fuzzy
+msgid "That didn't quite land..."
+msgstr "ちょっとピンと来なかったな……"
+
+#: includes/Rest/VersionRoutes.php:91
+#, fuzzy
+msgid "The active version cannot be deleted."
+msgstr "有効なバージョンは削除できません。"
+
+#: includes/Admin/AdminTranslations.php:82
+msgid ""
+"The AI builder is experiencing high demand right now. Try again in a few "
+"minutes."
+msgstr "現在、AIビルダーへのアクセスが集中しています。数分後にもう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:266
+#, fuzzy
+msgid ""
+"The build didn't finish this time, but it's usually a quick fix. One more "
+"try should do it."
+msgstr "今回はビルドが完了しませんでしたが、たいていはすぐに直ります。もう1回試せば大丈夫でしょう。"
+
+#: includes/Admin/AdminTranslations.php:292
+#, fuzzy
+msgid "The game could not be loaded"
+msgstr "ゲームを読み込めませんでした"
+
+#: includes/Rest/GenerationRoutes.php:208
+#, fuzzy
+msgid "The generated website is currently being applied."
+msgstr "生成されたウェブサイトは現在、導入が進められています。"
+
+#. translators: %s php version
+#: functions.php:56
+#, php-format
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr "Hostinger Easy Onboardingプラグインには、<b>%s</b>以上のPHPバージョンが必要となります。"
+
+#: includes/Admin/AdminTranslations.php:277
+#, fuzzy
+msgid ""
+"The saved copy of {version} from {date} will be removed for good. Your live "
+"site stays exactly as it is."
+msgstr "{date}に保存された{version}のコピーは、完全に削除されます。本番サイトの状態は、そのまま維持されます。"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+msgid "The text shown with the privacy policy checkbox"
+msgstr "プライバシーポリシーのチェックボックスに表示されるテキスト"
+
+#: includes/Admin/AdminTranslations.php:280
+#, fuzzy
+msgid "The version your site is currently using can't be deleted."
+msgstr "現在、あなたのサイトで使用されているバージョンは削除できません。"
+
+#: includes/Rest/GenerationRoutes.php:940
+#, fuzzy
+msgid "The website generation service is temporarily unavailable."
+msgstr "ウェブサイト作成サービスは現在、一時的にご利用いただけません。"
+
+#: includes/Settings/Theme.php:32 includes/Settings/Theme.php:33
+#: includes/Settings/Theme.php:125
+msgid "Theme Settings"
+msgstr "テーマ設定"
+
+#: includes/Admin/AdminTranslations.php:205
+msgid "Thinking..."
+msgstr "思考中..."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "この操作は元に戻せません。本当に続行しますか？"
+
+#: includes/Admin/AdminTranslations.php:43
+msgid "This field is required"
+msgstr "このフィールドは必須です"
+
+#: includes/Admin/AdminTranslations.php:45
+#| msgid "This field should not be longer than 1024 symbols."
+msgid "This field should not be longer than 1500 symbols."
+msgstr "このフィールドは1500文字以内で入力してください。"
+
+#: includes/Admin/AdminTranslations.php:44
+msgid "This field should not be longer than 255 symbols."
+msgstr "このフィールドは255文字以内で入力してください。"
+
+#: includes/Admin/AdminTranslations.php:81
+#, fuzzy
+msgid ""
+"This issue is on our side. We’re working on it — please try again shortly."
+msgstr "この問題は私たちの側にあります。すぐに再試行してください。"
+
+#: includes/Versions/Restore/Preflight.php:55
+#, fuzzy
+msgid "This version contains no pages."
+msgstr "このバージョンにはページが含まれていません。"
+
+#: includes/Admin/AdminTranslations.php:272
+#: includes/Versions/Restore/Preflight.php:40
+#, fuzzy
+msgid ""
+"This version was saved in an older format and can no longer be restored."
+msgstr "このバージョンは古い形式で保存されていたため、復元することはできなくなりました。"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:70
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:38
+#| msgid "Tete"
+msgid "Title"
+msgstr "タイトル"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "Tone of voice"
+msgstr "語り口"
+
+#: includes/Builder/Translator.php:61
+msgid "Top rated by 100+ clients"
+msgstr "100以上のクライアントから高評価を獲得"
+
+#: includes/Admin/AdminTranslations.php:118
+msgid "Travel agency for luxury tours"
+msgstr "ラグジュアリー旅行サイト"
+
+#: includes/Admin/AdminTranslations.php:96
+msgid "Travel photography blog"
+msgstr "旅行写真ブログ"
+
+#: includes/Admin/AdminTranslations.php:231
+#, fuzzy
+msgid "Try again"
+msgstr "もう一度試してみてください"
+
+#: includes/Admin/AdminTranslations.php:172
+msgid "Type your answer..."
+msgstr "回答を入力..."
+
+#: includes/Admin/AdminTranslations.php:197
+#, fuzzy
+msgid "Understanding your brand identity"
+msgstr "ブランドアイデンティティの理解"
+
+#: includes/Admin/AdminTranslations.php:141
+msgid "Update site colors"
+msgstr "サイトカラーを更新"
+
+#: includes/Admin/AdminTranslations.php:232
+msgid "Update site fonts"
+msgstr "サイトのフォントを更新"
+
+#: includes/Admin/AdminTranslations.php:184
+msgid "Upload"
+msgstr "アップロード"
+
+#: includes/Admin/AdminTranslations.php:282
+#, fuzzy
+msgid "Upload a logo"
+msgstr "ロゴをアップロードする"
+
+#. translators: %d: version number
+#: includes/Rest/VersionRoutes.php:133
+#, fuzzy, php-format
+msgid "Version %d"
+msgstr "バージョン %d"
+
+#: includes/Rest/VersionRoutes.php:153
+#: includes/Versions/Restore/Preflight.php:34
+#: includes/Versions/Restore/SnapshotRestorer.php:39
+#, fuzzy
+msgid "Version not found."
+msgstr "バージョンが見つかりません。"
+
+#: includes/Admin/AdminTranslations.php:270
+#, fuzzy
+msgid "Versions"
+msgstr "バージョン"
+
+#: includes/Admin/AdminTranslations.php:86
+msgid "Vintage clothing e-shop"
+msgstr "古着のオンラインショップ"
+
+#: includes/Admin/AdminTranslations.php:279
+#, fuzzy
+msgid "We couldn't delete this version. Please try again."
+msgstr "このバージョンは削除できませんでした。もう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:271
+#, fuzzy
+msgid "We couldn't switch to this version. Please try again."
+msgstr "このバージョンに切り替えることができませんでした。もう一度お試しください。"
+
+#: includes/Admin/AdminTranslations.php:224
+#, fuzzy
+msgid "We couldn’t suggest pages"
+msgstr "ページを提案できませんでした"
+
+#: includes/Builder/Translator.php:51
+#: includes/Elementor/Widgets/ContactFormWidget.php:109
+msgid ""
+"We'd love to hear from you. Send us a message and we'll respond as soon as "
+"possible."
+msgstr "ご意見をお聞かせください。メッセージをお送りいただければ、できるだけ早くご返信いたします。"
+
+#. translators: 1: number of pages kept, 2: number of pages the AI suggested
+#: includes/Admin/AdminTranslations.php:230
+#, fuzzy, php-format
+msgid "We've added the %1$s most relevant of %2$s suggested pages."
+msgstr "%2$s件の候補ページの中から、最も関連性の高い%1$s件を追加しました。"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Website type"
+msgstr "Webサイトの種類"
+
+#: includes/Admin/AdminTranslations.php:100
+msgid "Wedding photography website"
+msgstr "ウェディングフォト"
+
+#: includes/Admin/AdminTranslations.php:240
+#, fuzzy
+msgid "What about socials? (Optional)"
+msgstr "SNSについてはどうでしょうか？（任意）"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#, fuzzy
+msgid "What do you want AI to create?"
+msgstr "AIに何を作ってもらいたいですか？"
+
+#: includes/Builder/Translator.php:56
+#: includes/Elementor/Widgets/ContactFormWidget.php:183
+#: includes/Shortcodes/ShortcodesManager.php:45
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:52
+msgid "What's your email?"
+msgstr "-"
+
+#: includes/Builder/Translator.php:54
+#: includes/Elementor/Widgets/ContactFormWidget.php:165
+#: includes/Shortcodes/ShortcodesManager.php:44
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:48
+msgid "What's your name?"
+msgstr "-"
+
+#: gutenberg-blocks/ContactForm/render.php:22
+#: includes/Elementor/Widgets/ContactFormWidget.php:267
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "の記載に従って利用されることに同意します。同意をいつでも撤回できることを理解しています。"
+
+#: includes/Admin/AdminTranslations.php:191
+msgid "Why did you give this rating?"
+msgstr "このスコアを選んだ理由を教えてください"
+
+#: includes/Admin/AdminTranslations.php:261
+#, fuzzy
+msgid "WooCommerce setup"
+msgstr "WooCommerceの設定"
+
+#: includes/Admin/AdminTranslations.php:73
+msgid ""
+"WordPress's built-in block editor with powerful flexibility for advanced "
+"users"
+msgstr "上級者向けの高い柔軟性を備えたWordPress標準のブロックエディター"
+
+#: includes/Admin/AdminTranslations.php:51
+#: includes/Admin/AdminTranslations.php:188
+msgid "WP admin"
+msgstr "WP管理画面"
+
+#: includes/Admin/AdminTranslations.php:234
+msgid "Write brand name"
+msgstr "ブランド名を入力"
+
+#: includes/Admin/AdminTranslations.php:194
+msgid "Write your feedback here (optional)"
+msgstr "フィードバックを入力してください（任意）"
+
+#: includes/Builder/Translator.php:58
+#: includes/Elementor/Widgets/ContactFormWidget.php:201
+#: includes/Shortcodes/ShortcodesManager.php:46
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:56
+msgid "Write your message..."
+msgstr "メッセージを入力してください..."
+
+#: includes/Admin/AdminTranslations.php:201
+#, fuzzy
+msgid "Writing your content"
+msgstr "コンテンツの作成"
+
+#: includes/Rest/BuilderRoutes.php:580 includes/Rest/BuilderRoutes.php:650
+#: includes/Rest/BuilderRoutes.php:719
+msgid "Wrong sequence of step execution."
+msgstr "ステップの実行順序が正しくありません。"
+
+#: includes/Elementor/ScrollAnimation.php:38
+msgid "Yes"
+msgstr "はい"
+
+#: includes/Admin/AdminTranslations.php:106
+msgid "Yoga studio website"
+msgstr "ヨガスタジオサイト"
+
+#. translators: %s php version
+#: functions.php:60
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "現在のPHPバージョンは<b>%s</b>です。"
+
+#: includes/Admin/AdminTranslations.php:268
+#, fuzzy
+msgid "You can create up to 5 site versions that will appear here"
+msgstr "ここに表示されるサイトバージョンは、最大5つまで作成できます"
+
+#. translators: %s: maximum number of pages that can be generated
+#: includes/Admin/AdminTranslations.php:228
+#, fuzzy, php-format
+msgid "You can generate up to %s pages."
+msgstr "最大 %s ページまで生成できます。"
+
+#: includes/Admin/AdminTranslations.php:288
+#, fuzzy
+msgid ""
+"You have 5 versions of your website. Oldest version will be deleted. Are you "
+"sure you want to proceed?"
+msgstr "このウェブサイトには5つのバージョンがあります。最も古いバージョンが削除されます。本当に続行しますか？"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr "すでにコンテンツが生成されています。続行すると、これまでのコンテンツはすべて削除されます。本当に続行しますか？"
+
+#: includes/Admin/AdminTranslations.php:193
+msgid "Your feedback will help us improve."
+msgstr "いただいた内容はサービス改善に活用されます。"
+
+#: includes/Admin/AdminTranslations.php:134
+msgid "Your own color palette"
+msgstr "カスタムカラーパレット"
+
+#: includes/Admin/AdminTranslations.php:233
+#| msgid "My own font pair"
+msgid "Your own font pair"
+msgstr "フォントを自分で組み合わせる"
+
+#: includes/Admin/AdminTranslations.php:50
+#| msgid ""
+#| "Your site’s language will be changed to the selected language from this "
+#| "list, and all content will be generated in that language.”"
+msgid ""
+"Your site’s language will be changed to the selected language from this list,"
+" and all content will be generated in that language."
+msgstr "サイトの言語は選択した言語に変更され、すべてのコンテンツがその言語で生成されます。"
+
+#: includes/Admin/AdminTranslations.php:164
+msgid "{builderType}, {language} and {brandName} for brand name"
+msgstr "{builderType}、{language}、ブランド名：{brandName}"

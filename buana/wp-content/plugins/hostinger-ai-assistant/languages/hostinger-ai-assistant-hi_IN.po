@@ -1,0 +1,4428 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI Assistant 1.7.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-ai-"
+"assistant\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-25T14:33:28+00:00\n"
+"PO-Revision-Date: 2026-06-30 07:25+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-assistant\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.2.30"
+
+#: includes-psr4/Mcp/Abilities/AbilitiesRegistry.php:94
+msgid "Abilities that provide a way of interacting with WordPress site."
+msgstr ""
+"WordPress साइट के साथ इंटरैक्ट करने का तरीका प्रदान करने वाली क्षमताएं।"
+
+#: includes/class-hostinger-ai-assistant-errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr ""
+"क्षमा करें, यह क्रिया विफल रही। दोबारा प्रयास करें या सपोर्ट से संपर्क करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:118
+#, fuzzy
+msgid "Activate an installed plugin by plugin file path."
+msgstr "प्लगइन फ़ाइल पथ के द्वारा स्थापित प्लगइन को सक्रिय करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:118
+#, fuzzy
+msgid "Activate an installed theme by stylesheet directory name."
+msgstr "स्टाइलशीट निर्देशिका नाम के द्वारा स्थापित थीम को सक्रिय करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:117
+#, fuzzy
+msgid "Activate Plugin"
+msgstr "प्लगइन सक्रिय करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:117
+#, fuzzy
+msgid "Activate Theme"
+msgstr "थीम सक्रिय करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:60
+msgid "Active"
+msgstr "सक्रिय"
+
+#: admin/class-hostinger-ai-assistant-translations.php:122
+msgid "Add a new page to my WordPress website"
+msgstr "मेरी WordPress वेबसाइट में एक नया पेज जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:142
+msgid "Add a new post to my WordPress website"
+msgstr "मेरी WordPress वेबसाइट में एक नया पोस्ट जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:166
+msgid "Add a new product to your WooCommerce store"
+msgstr "अपने WooCommerce स्टोर में एक नया उत्पाद जोड़ें"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:185
+msgid "Add a new WordPress custom post type post"
+msgstr "एक नया WordPress कस्टम पोस्ट के प्रकार का पोस्ट जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:165
+#, fuzzy
+msgid "Add a product"
+msgstr "उत्पाद जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:170
+#, fuzzy
+msgid "Add a product category"
+msgstr "उत्पाद श्रेणी जोड़ें"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:448
+#, fuzzy
+msgid "Add an image inside my content"
+msgstr "मेरी सामग्री के अंदर एक छवि जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:75
+#, fuzzy
+msgid "Add and manage WooCommerce products"
+msgstr "WooCommerce उत्पादों को जोड़ें और प्रबंधित करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:140
+#, fuzzy
+msgid "Add blog post"
+msgstr "ब्लॉग पोस्ट जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:85
+msgid "Add Comment"
+msgstr "कमेंट जोड़ें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:120
+#, fuzzy
+msgid "Add WordPress page"
+msgstr "WordPress पेज जोड़ें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:313
+msgid "Advanced users willing to test and exclude items"
+msgstr ""
+"आइटमों का परीक्षण करने और उन्हें बाहर रखने के इच्छुक एडवांस्ड उपयोगकर्ता"
+
+#: admin/class-hostinger-ai-assistant-translations.php:99
+msgid "After clearing history you won't be able to access previous chats."
+msgstr "हिस्ट्री मिटाने के बाद आप पुराने चैट्स ऐक्सेस नहीं कर पाएंगे।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:104
+msgid ""
+"After starting new chat, you will be able to access previous chats from the "
+"history."
+msgstr ""
+"नई चैट शुरू करने के बाद आप अपनी हिस्ट्री से पुरानी चैट्स ऐक्सेस कर पाएंगे।"
+
+#: admin/class-hostinger-ai-assistant-admin.php:171
+#: admin/class-hostinger-ai-assistant-admin.php:172
+#: admin/class-hostinger-ai-assistant-admin.php:189
+#: admin/partials/hostinger-ai-assistant-tab-view.php:24
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/index.js:10
+msgid "AI Content Creator"
+msgstr "AI कॉन्टेंट क्रिएटर"
+
+#: admin/class-hostinger-ai-assistant-translations.php:52
+msgid "AI may produce inaccurate information"
+msgstr "AI गलत जानकारी उत्पन्न कर सकता है"
+
+#: admin/class-hostinger-ai-assistant-translations.php:34
+msgid "AI-generated image"
+msgstr "AI-जनरेटेड इमेज"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:217
+msgid "All LiteSpeed caches have been purged successfully."
+msgstr "सभी LiteSpeed कैश सफलतापूर्वक साफ कर दिए गए हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:249
+msgid "All websites, new users, simple websites, or cache-oriented development"
+msgstr "सभी वेबसाइट्स, नए उपयोगकर्ता, सरल वेबसाइट्स या कैश-उन्मुख डेवलपमेंट"
+
+#: includes/class-hostinger-ai-assistant-errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr ""
+"एक अप्रत्याशित त्रुटि पेश आई है। कृपया दोबारा प्रयास करें या सपोर्ट से "
+"संपर्क करें।"
+
+#: includes-psr4/Mcp/McpServer.php:65
+msgid "API key required"
+msgstr "API कुंजी आवश्यक है"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:120
+msgid ""
+"Apply a predefined optimization preset to LiteSpeed Cache settings. "
+"Available presets: basic (minimal optimization), advanced (balanced), "
+"aggressive (more optimization), essentials (core features), extreme (maximum "
+"optimization). A backup of current settings will be created automatically."
+msgstr ""
+"LiteSpeed कैश सेटिंग्स पर एक पूर्वनिर्धारित ऑप्टिमाइज़ेशन प्रीसेट लागू करें। "
+" उपलब्ध प्रीसेट: बेसिक (न्यूनतम ऑप्टिमाइज़ेशन), एडवांस्ड (संतुलित), एग्रेसिव "
+"(अधिक ऑप्टिमाइज़ेशन), एसेंशियल्स (मुख्य सुविधाएं), एक्सट्रीम (अधिकतम "
+"ऑप्टिमाइज़ेशन)।  वर्तमान सेटिंग्स का बैकअप स्वचालित रूप से बनाया जाएगा।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:119
+msgid "Apply LiteSpeed Cache Preset"
+msgstr "LiteSpeed कैश प्रीसेट लागू करें"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:244
+msgid "Are you sure you want to replace your existing content with a new one ?"
+msgstr "क्या आप अपना मौजूदा कॉन्टेंट किसी नई कॉन्टेंट से बदलना चाहते हैं?"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:28
+#, fuzzy
+msgid ""
+"Array of widget types to search for (e.g., [\"button\", \"heading\", "
+"\"image\"])"
+msgstr ""
+"खोजने के लिए विजेट प्रकारों की सूची (उदाहरण के लिए, [\"बटन\", \"हेडिंग\", "
+"\"इमेज\"])"
+
+#: admin/class-hostinger-ai-assistant-translations.php:53
+#, fuzzy
+msgid "Agent"
+msgstr "AI से पूछें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:168
+#, fuzzy
+msgid ""
+"Assign a menu to a given theme location (e.g., primary). Provide location "
+"and menu ID."
+msgstr ""
+"दी गई थीम लोकेशन (जैसे, प्राथमिक) के लिए एक मेनू असाइन करें। लोकेशन और मेनू "
+"आईडी प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:73
+#, fuzzy
+msgid ""
+"Assign a navigation to a template part by providing template_part_id and "
+"navigation_id."
+msgstr ""
+"template_part_id और navigation_id प्रदान करके एक टेम्पलेट भाग में नेविगेशन "
+"असाइन करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:14
+#, fuzzy
+msgid "Assign Elementor Global Color"
+msgstr "एलिमेंटर ग्लोबल रंग असाइन करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:167
+#, fuzzy
+msgid "Assign Menu To Location"
+msgstr "स्थान के लिए मेनू असाइन करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:72
+#, fuzzy
+msgid "Assign Navigation To Template Part"
+msgstr "टेम्पलेट भाग में नेविगेशन असाइन करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:15
+#, fuzzy
+msgid ""
+"Assigns Elementor global colors to widget properties. First use "
+"get_active_kit to see available global colors and their IDs. Common color "
+"properties: title_color (heading color), text_color (paragraph color), "
+"background_color, button_background_color, button_text_color, border_color, "
+"hover_color. This creates a dynamic link - when the global color changes in "
+"the kit, all widgets using it update automatically."
+msgstr ""
+"Elementor के ग्लोबल रंगों को विजेट की प्रॉपर्टीज़ में असाइन करता है। सबसे "
+"पहले उपलब्ध ग्लोबल रंगों और उनकी आईडी देखने के लिए get_active_kit का उपयोग "
+"करें। सामान्य रंग प्रॉपर्टीज़: title_color (शीर्षक का रंग), text_color "
+"(अनुच्छेद का रंग), background_color, button_background_color, "
+"button_text_color, border_color, hover_color। यह एक डायनामिक लिंक बनाता है – "
+"जब किट में ग्लोबल रंग बदलता है, तो इसे उपयोग करने वाले सभी विजेट्स स्वचालित "
+"रूप से अपडेट हो जाते हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:293
+msgid "Asynchronous CSS Loading with Critical CSS"
+msgstr "क्रिटिकल CSS के साथ असिंक्रोनस CSS लोडिंग"
+
+#. translators: %s: PHP version
+#: admin/class-hostinger-ai-assistant-notices.php:22
+#: hostinger-ai-assistant.php:145
+msgid "Attention:"
+msgstr "कृपया ध्यान दें:"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:46
+#, fuzzy
+msgid "Background color"
+msgstr "पृष्ठभूमि का रंग"
+
+#: admin/class-hostinger-ai-assistant-translations.php:83
+msgid "Bad response"
+msgstr "खराब प्रतिक्रिया"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:139
+msgid "Balances depth and readability, engaging audiences and driving leads."
+msgstr ""
+"कॉन्टेंट की गहराई और स्पष्टता को संतुलित करता है, दर्शकों का ध्यान बनाए रखता "
+"है और लीडस् में बढ़ोतरी करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:90
+#, fuzzy
+msgid ""
+"Batch create, update, and delete WooCommerce coupons in a single request."
+msgstr "एक ही अनुरोध में WooCommerce कूपन थोक में बनाएँ, अपडेट करें और हटाएँ।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:89
+#, fuzzy
+msgid "Batch Update WooCommerce Coupons"
+msgstr "बैच अपडेट WooCommerce कूपन"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:50
+#, fuzzy
+msgid "Border color"
+msgstr "सीमा का रंग"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:287
+#, fuzzy
+msgid "Border color (hex, rgb, rgba)"
+msgstr "सीमा का रंग (हेक्स, आरजीबी, आरजीबीए)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:124
+#, fuzzy
+msgid "Border radius (number for all corners) or object with corners and unit"
+msgstr "सीमा त्रिज्या (सभी कोनों के लिए संख्या) या कोनों वाला वस्तु और इकाई"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:291
+#, fuzzy
+msgid "Border radius for corners"
+msgstr "कोनों के लिए सीमा त्रिज्या"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:168
+#, fuzzy
+msgid "Border style"
+msgstr "सीमा शैली"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:242
+#, fuzzy
+msgid "Border style type"
+msgstr "सीमा शैली प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:238
+#, fuzzy
+msgid "Border styling"
+msgstr "सीमा शैलीकरण"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:159
+#, fuzzy
+msgid "Border width (number for all sides) or object with sides and unit"
+msgstr ""
+"सीमा की चौड़ाई (सभी किनारों के लिए संख्या) या किनारों और इकाई वाला वस्तु"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:254
+#, fuzzy
+msgid "Border width for each side"
+msgstr "प्रत्येक तरफ के लिए सीमा की चौड़ाई"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:266
+#, fuzzy
+msgid "Bottom border width (as string)"
+msgstr "निचली सीमा की चौड़ाई (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:217
+#, fuzzy
+msgid "Bottom margin value (as string)"
+msgstr "निचले मार्जिन का मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:179
+#, fuzzy
+msgid "Bottom padding value (as string)"
+msgstr "तल पैडिंग मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:307
+#, fuzzy
+msgid "Bottom-left border radius (as string)"
+msgstr "नीचे-बाएँ बॉर्डर का त्रिज्या (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:303
+#, fuzzy
+msgid "Bottom-right border radius (as string)"
+msgstr "नीचे-दाएँ बॉर्डर का त्रिज्या (स्ट्रिंग के रूप में)"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:205
+msgid "Brewing content with magic"
+msgstr "कॉन्टेंट तैयार करना मानो जैसे जादू"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:247
+msgid "Browser Cache"
+msgstr "ब्राउज़र कैश"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:58
+#, fuzzy
+msgid "Button background color"
+msgstr "बटन का पृष्ठभूमि रंग"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:54
+#, fuzzy
+msgid "Button text color"
+msgstr "बटन टेक्स्ट का रंग"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:69
+msgid "Bypass code for maintenance mode"
+msgstr "रखरखाव मोड के लिए बाईपास कोड"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:191
+msgid ""
+"Bypass code for maintenance mode. Needed only when maintenance mode is "
+"enabled."
+msgstr ""
+"रखरखाव मोड के लिए बाईपास कोड। केवल तभी आवश्यक है जब रखरखाव मोड सक्षम हो।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:100
+#: admin/partials/hostinger-ai-assistant-tab-view.php:251
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:324
+#, fuzzy
+msgid "Cannot delete an active plugin."
+msgstr "सक्रिय प्लगइन को हटाया नहीं जा सकता।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:313
+#, fuzzy
+msgid "Cannot delete the active parent theme."
+msgstr "सक्रिय पैरेंट थीम को हटाया नहीं जा सकता।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:305
+#, fuzzy
+msgid "Cannot delete the active theme."
+msgstr "सक्रिय थीम को हटाया नहीं जा सकता।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:58
+msgid "Cannot restart the chat when Hostinger Agent is responding"
+msgstr "Hostinger Agent के जवाब देते समय चैट को रिस्टार्ट नहीं किया जा सकता है"
+
+#: admin/class-hostinger-ai-assistant-translations.php:47
+msgid "Cannot restart the chat when talking with the agent"
+msgstr "एजेंट से बात करते समय चैट को रिस्टार्ट नहीं किया जा सकता है"
+
+#: admin/class-hostinger-ai-assistant-translations.php:59
+msgid "Cannot start a new chat when Hostinger Agent is responding"
+msgstr "Hostinger Agent के जवाब देते समय नई चैट शुरू नहीं की जा सकती है"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:222
+msgid "characters"
+msgstr "वर्ण"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:152
+msgid "Choose the length of generated content"
+msgstr "जनरेट किए गए कॉन्टेंट की लंबाई तय करें"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:93
+msgid "Choose the type of content that will be generated"
+msgstr "चुनें कि आप किस प्रकार का कॉन्टेंट जनरेट करना चाहते हैं"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:114
+msgid "Choose your desired emotional impact on readers"
+msgstr "चुनें कि आप अपने पाठकों पर किस तरह का भावनात्मक प्रभाव छोड़ना चाहते हैं"
+
+#: admin/class-hostinger-ai-assistant-translations.php:98
+#: admin/class-hostinger-ai-assistant-translations.php:101
+msgid "Clear chat"
+msgstr "चैट मिटाएं"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:247
+msgid ""
+"Clicking <b>Generate new content</b> will permanently delete your existing "
+"content and generate a new one on your recent inputs."
+msgstr ""
+"<b>नया कॉन्टेंट जनरेट करें</b> पर क्लिक करने से आपका मौजूदा कॉन्टेंट स्थायी "
+"रूप से हट जाएगा और आपके हाल के इनपुट पर आधारित नया कॉन्टेंट तैयार किया जाएगा।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:49
+#: admin/class-hostinger-ai-assistant-translations.php:111
+msgid "Close"
+msgstr "बंद करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:34
+#, fuzzy
+msgid ""
+"Color properties. Values should be valid CSS colors (hex, rgb, rgba). "
+"Example: \"#FF0000\" or \"rgb(255,0,0)\""
+msgstr ""
+"रंग गुण। मान मान्य CSS रंग होने चाहिए (हेक्स, rgb, rgba)। उदाहरण: "
+"\"#FF0000\" या \"rgb(255,0,0)\""
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:105
+#, fuzzy
+msgid "Column gap for grid or flex (px)"
+msgstr "ग्रिड या फ्लेक्स के लिए कॉलम गैप (px)"
+
+#: includes-psr4/Nudges/WooCommerceSetupNudge.php:61
+#, fuzzy
+msgid "Complete WooCommerce setup"
+msgstr "WooCommerce सेटअप पूरा करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:30
+#, fuzzy
+msgid ""
+"Confirm deletion when the subtree is complex (many descendants) and children "
+"will be removed."
+msgstr ""
+"जब उपवृक्ष जटिल हो (कई वंशज) और उसके बच्चे हटा दिए जाएँगे, तब हटाने की "
+"पुष्टि करें।"
+
+#: includes-psr4/Nudges/DomainNudge.php:99
+#, fuzzy
+msgid "Connect my domain"
+msgstr "मेरा डोमेन कनेक्ट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:61
+#, fuzzy
+msgid "Container layout type"
+msgstr "कंटेनर लेआउट का प्रकार"
+
+#. translators: %s: container id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:92
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:367
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:207
+#, fuzzy, php-format
+msgid "Container with ID '%s' not found"
+msgstr "आईडी '%s' वाला कंटेनर नहीं मिला"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:121
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:77
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:431
+msgid "Content length"
+msgstr "कॉन्टेंट की लंबाई"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:162
+msgid "Content main idea"
+msgstr "कॉन्टेंट का मुख्य आईडिया"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:63
+msgid "Content Type"
+msgstr "कॉन्टेंट का प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:71
+#, fuzzy
+msgid "Content width behavior for the container"
+msgstr "कंटेनर के लिए सामग्री की चौड़ाई का व्यवहार"
+
+#: admin/class-hostinger-ai-assistant-translations.php:79
+msgid "Conversation was closed"
+msgstr "चैट बंद कर दी गई"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:65
+msgid "Convert emoticons to graphics"
+msgstr "इमोजी को ग्राफिक्स में बदलें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:123
+#, fuzzy
+msgid "Could not determine content field for widget type"
+msgstr "विजेट प्रकार के लिए सामग्री क्षेत्र निर्धारित नहीं किया जा सका।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:282
+msgid "Could not determine file type"
+msgstr "फाइल का प्रकार निर्धारित नहीं हो पाया"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:103
+#, fuzzy
+msgid "Could not insert the new container at requested position"
+msgstr "अनुरोधित स्थिति पर नया कंटेनर सम्मिलित नहीं किया जा सका।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:48
+#, fuzzy
+msgid "Could not parse Elementor data: "
+msgstr "Elementor डेटा पार्स नहीं किया जा सका: "
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:108
+#, fuzzy
+msgid ""
+"Create a new menu item. Provide title, url or object_id/object, and menu "
+"(menu_id)."
+msgstr ""
+"एक नया मेनू आइटम बनाएँ। शीर्षक, URL या object_id/object, और मेनू (menu_id) "
+"प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:38
+#, fuzzy
+msgid "Create a new navigation menu."
+msgstr "एक नया नेविगेशन मेनू बनाएँ।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:171
+msgid "Create a new product category in WooCommerce"
+msgstr "WooCommerce में एक नई उत्पाद श्रेणी बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:43
+#, fuzzy
+msgid "Create a new Site Editor navigation."
+msgstr "एक नया साइट एडिटर नेविगेशन बनाएँ।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:42
+#, fuzzy
+msgid ""
+"Create a new WooCommerce coupon. Requires a coupon code and discount details."
+msgstr "एक नया WooCommerce कूपन बनाएँ। कूपन कोड और छूट विवरण आवश्यक हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:42
+#, fuzzy
+msgid ""
+"Create a new WooCommerce order. Provide customer and line items data as "
+"needed."
+msgstr ""
+"एक नया WooCommerce ऑर्डर बनाएँ। ग्राहक और लाइन आइटम का डेटा आवश्यकतानुसार "
+"प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:234
+msgid "Create a new WooCommerce product brand. Requires name."
+msgstr "एक नया WooCommerce उत्पाद ब्रांड बनाएं। इसके लिए नाम आवश्यक है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:172
+msgid "Create a new WooCommerce product category for my store"
+msgstr "मेरे स्टोर के लिए एक नई WooCommerce उत्पाद श्रेणी बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:100
+msgid "Create a new WooCommerce product category. Requires name."
+msgstr "एक नई WooCommerce उत्पाद श्रेणी बनाएं। इसके लिए नाम आवश्यक है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:167
+msgid "Create a new WooCommerce product for my store"
+msgstr "मेरे स्टोर के लिए एक नया WooCommerce उत्पाद बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:167
+msgid "Create a new WooCommerce product tag. Requires name."
+msgstr "एक नया WooCommerce उत्पाद टैग बनाएं। इसके लिए नाम आवश्यक है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:42
+msgid ""
+"Create a new WooCommerce product. Requires name and other product details."
+msgstr ""
+"एक नया WooCommerce उत्पाद बनाएं। इसके लिए नाम और अन्य उत्पाद विवरण आवश्यक "
+"हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:40
+msgid "Create a new WordPress page. Requires title and content."
+msgstr "एक नया WordPress पेज बनाएं। इसके लिए शीर्षक और कॉन्टेंट आवश्यक हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:40
+msgid "Create a new WordPress post category. Requires a name."
+msgstr "एक नई WordPress पोस्ट श्रेणी बनाएं। इसके लिए नाम आवश्यक है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:40
+msgid "Create a new WordPress post tag. Requires a name."
+msgstr "एक नया WordPress पोस्ट टैग बनाएं। इसके लिए नाम आवश्यक है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:40
+msgid "Create a new WordPress post. Requires title and content."
+msgstr "एक नया WordPress पोस्ट बनाएं। इसके लिए शीर्षक और कॉन्टेंट आवश्यक हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:58
+msgid "Create a new WordPress user. Requires username and email."
+msgstr ""
+"एक नया WordPress उपयोगकर्ता बनाएं। इसके लिए उपयोगकर्ता का नाम और ईमेल आवश्यक "
+"हैं।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:181
+msgid "Create a WooCommerce sales report for a chosen period"
+msgstr "चुनी हुई अवधि के लिए WooCommerce सेल्स रिपोर्ट बनाएं"
+
+#: admin/class-hostinger-ai-assistant-translations.php:72
+#, fuzzy
+msgid "Create and edit pages or posts"
+msgstr "पृष्ठ या पोस्ट बनाएँ और संपादित करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:121
+msgid "Create and publish a new page on your WordPress site"
+msgstr "अपनी WordPress साइट पर एक नया पेज बनाएं और पब्लिश करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:141
+msgid "Create and publish a new post on your WordPress site"
+msgstr "अपनी WordPress साइट पर एक नया पोस्ट बनाएं और पब्लिश करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:39
+msgid "Create Category"
+msgstr "श्रेणी बनाएं"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:195
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:461
+#| msgid "Generate content"
+msgid "Create content"
+msgstr "कॉन्टेंट बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:184
+msgid "Create Custom Post Type Post"
+msgstr "कस्टम पोस्ट के प्रकार के पोस्ट बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:14
+#, fuzzy
+msgid "Create Elementor Container"
+msgstr "एलिमेंटर कंटेनर बनाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:37
+#, fuzzy
+msgid "Create Menu"
+msgstr "मेनू बनाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:107
+#, fuzzy
+msgid "Create Menu Item"
+msgstr "मेनू आइटम बनाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:42
+#, fuzzy
+msgid "Create Navigation"
+msgstr "नेविगेशन बनाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:39
+msgid "Create Page"
+msgstr "पेज बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:39
+msgid "Create Post"
+msgstr "पोस्ट बनाएं"
+
+#: admin/class-hostinger-ai-assistant-translations.php:33
+msgid "Create Post with AI"
+msgstr "AI के साथ पोस्ट बनाएं"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:24
+msgid "Create product with AI"
+msgstr "AI के साथ उत्पाद बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:39
+msgid "Create Tag"
+msgstr "टैग बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:57
+msgid "Create User"
+msgstr "उपयोगकर्ता बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:41
+#, fuzzy
+msgid "Create WooCommerce Coupon"
+msgstr "WooCommerce कूपन बनाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:41
+#, fuzzy
+msgid "Create WooCommerce Order"
+msgstr "WooCommerce ऑर्डर बनाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:41
+msgid "Create WooCommerce Product"
+msgstr "WooCommerce उत्पाद बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:233
+msgid "Create WooCommerce Product Brand"
+msgstr "WooCommerce उत्पाद ब्रांड बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:99
+msgid "Create WooCommerce Product Category"
+msgstr "WooCommerce उत्पाद श्रेणी बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:166
+msgid "Create WooCommerce Product Tag"
+msgstr "WooCommerce उत्पाद टैग बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:15
+#, fuzzy
+msgid ""
+"Creates a new Elementor container (section) at root or inside a parent "
+"container. Can optionally create multiple inner columns."
+msgstr ""
+"रूट पर या किसी पैरेंट कंटेनर के अंदर एक नया Elementor कंटेनर (सेक्शन) बनाता "
+"है। वैकल्पिक रूप से कई आंतरिक कॉलम भी बना सकता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:85
+#, fuzzy
+msgid "Cross‑axis alignment for flex containers"
+msgstr "फ्लेक्स कंटेनरों के लिए क्रॉस-एक्सिस संरेखण"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:292
+msgid "CSS & JS Combine"
+msgstr "CSS और JS कंबाइन"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:34
+#, fuzzy
+msgid "CSS color value for background (e.g., #1e90ff, rgba(...), color name)"
+msgstr ""
+"पृष्ठभूमि के लिए CSS रंग मान (उदाहरण के लिए, #1e90ff, rgba(...), रंग का नाम)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:163
+#, fuzzy
+msgid "CSS color value for border"
+msgstr "बॉर्डर के लिए CSS रंग मान"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:273
+msgid "CSS, JS and HTML Minification"
+msgstr "CSS, JS और HTML मिनिफिकेशन"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:33
+#, fuzzy
+msgid "Custom global color _id to update (optional)"
+msgstr "अपडेट करने के लिए कस्टम ग्लोबल कलर _id (वैकल्पिक)"
+
+#: includes-psr4/Mcp/McpServer.php:43
+#, fuzzy
+msgid "Custom MCP Server for Hostinger AI Assistant."
+msgstr "Hostinger AI असिस्टेंट के लिए कस्टम MCP सर्वर।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:60
+#, fuzzy
+msgid "Custom typography preset _id to update (optional)"
+msgstr "कस्टम टाइपोग्राफी प्रीसेट _id अपडेट करने के लिए (वैकल्पिक)"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:49
+msgid "Date format"
+msgstr "दिनांक का फॉर्मेट"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:163
+#, fuzzy
+msgid "Deactivate an active plugin by plugin file path."
+msgstr "प्लगइन फ़ाइल पथ के द्वारा एक सक्रिय प्लगइन को निष्क्रिय करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:162
+#, fuzzy
+msgid "Deactivate Plugin"
+msgstr "प्लगइन निष्क्रिय करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:163
+#, fuzzy
+msgid "Deactivate the currently active theme by switching to a fallback theme."
+msgstr "बैकअप थीम पर स्विच करके वर्तमान सक्रिय थीम को निष्क्रिय करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:162
+#, fuzzy
+msgid "Deactivate Theme"
+msgstr "थीम निष्क्रिय करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:245
+msgid "Default Cache"
+msgstr "डिफॉल्ट कैश"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:81
+msgid "Default comment status (open/closed)"
+msgstr "डिफॉल्ट कमेंट स्टेटस (खुला/बंद)"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:85
+msgid "Default ping status (open/closed)"
+msgstr "डिफॉल्ट पिंग स्टेटस (खुला/बंद)"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:69
+msgid "Default post category"
+msgstr "डिफॉल्ट पोस्ट श्रेणी"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:73
+msgid "Default post format"
+msgstr "डिफॉल्ट पोस्ट फॉर्मेट"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:134
+#, fuzzy
+msgid "Delete a menu item by ID."
+msgstr "आईडी के द्वारा एक मेनू आइटम हटाएँ।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:64
+#, fuzzy
+msgid "Delete a navigation menu by ID."
+msgstr "आईडी के द्वारा नेविगेशन मेनू हटाएँ।"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:69
+#, fuzzy
+msgid "Delete a Site Editor navigation by ID."
+msgstr "ID द्वारा साइट संपादक नेविगेशन हटाएँ।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:70
+#, fuzzy
+msgid ""
+"Delete a specific revision for an item. Provide REST API base and parent ID, "
+"plus the revision ID."
+msgstr ""
+"किसी आइटम के लिए एक विशिष्ट संशोधन को हटाएँ। REST API बेस और पैरेंट आईडी के "
+"साथ-साथ संशोधन आईडी प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:51
+#, fuzzy
+msgid "Delete a template part by ID."
+msgstr "आईडी के द्वारा एक टेम्पलेट भाग को हटाएँ।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:68
+#, fuzzy
+msgid "Delete a WooCommerce coupon by ID. This action cannot be undone."
+msgstr ""
+"ID के द्वारा WooCommerce कूपन हटाएँ। इस क्रिया को रद्द नहीं किया जा सकता।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:68
+#, fuzzy
+msgid "Delete a WooCommerce order by ID. This action cannot be undone."
+msgstr ""
+"WooCommerce ऑर्डर को आईडी के द्वारा हटाएँ। इस क्रिया को वापस नहीं किया जा "
+"सकता।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:260
+msgid "Delete a WooCommerce product brand by ID."
+msgstr "ID के अनुसार WooCommerce उत्पाद ब्रांड हटाएं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:68
+msgid "Delete a WooCommerce product by ID. This action cannot be undone."
+msgstr ""
+"ID के अनुसार WooCommerce उत्पाद हटाएं। इस क्रिया को वापस नहीं लिया जा सकता "
+"है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:126
+msgid "Delete a WooCommerce product category by ID."
+msgstr "WooCommerce उत्पाद श्रेणी को ID के अनुसार हटाएं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:193
+msgid "Delete a WooCommerce product tag by ID."
+msgstr "WooCommerce उत्पाद टैग को ID के अनुसार हटाएं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:66
+msgid "Delete a WordPress category by ID. This action cannot be undone."
+msgstr ""
+"WordPress श्रेणी को ID के अनुसार हटाएं। इस क्रिया को वापस नहीं लिया जा सकता "
+"है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:297
+msgid ""
+"Delete a WordPress custom post type post by ID. This action cannot be undone."
+msgstr ""
+"WordPress कस्टम पोस्ट टाइप के पोस्ट को ID के अनुसार हटाएं। इस क्रिया को वापस "
+"नहीं लिया जा सकता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:56
+msgid ""
+"Delete a WordPress media item permanently. This action cannot be undone."
+msgstr ""
+"WordPress मीडिया आइटम को स्थायी रूप से हटाएं। इस क्रिया को वापस नहीं लिया जा "
+"सकता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:66
+msgid "Delete a WordPress page by ID. This action cannot be undone."
+msgstr ""
+"WordPress पेज को ID के अनुसार हटाएं। इस क्रिया को वापस नहीं लिया जा सकता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:66
+msgid "Delete a WordPress post by ID. This action cannot be undone."
+msgstr ""
+"WordPress पोस्ट को ID के अनुसार हटाएं। इस क्रिया को वापस नहीं लिया जा सकता "
+"है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:66
+msgid "Delete a WordPress tag by ID. This action cannot be undone."
+msgstr ""
+"WordPress टैग को ID के अनुसार हटाएं। इस क्रिया को वापस नहीं लिया जा सकता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:90
+msgid "Delete a WordPress user by ID. This action cannot be undone."
+msgstr ""
+"WordPress उपयोगकर्ता को ID के अनुसार हटाएं। इस क्रिया को वापस नहीं लिया जा "
+"सकता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:73
+#, fuzzy
+msgid ""
+"Delete an installed plugin by plugin file path. Cannot delete an active "
+"plugin."
+msgstr ""
+"प्लगइन फ़ाइल पथ के अनुसार इंस्टॉल किए गए प्लगइन को हटाएँ। सक्रिय प्लगइन को "
+"नहीं हटाया जा सकता।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:73
+#, fuzzy
+msgid ""
+"Delete an installed theme by stylesheet directory name. Cannot delete the "
+"active or parent theme."
+msgstr ""
+"स्टाइलशीट डायरेक्टरी नाम के अनुसार इंस्टॉल की गई थीम को हटाएँ। सक्रिय या "
+"पैरेंट थीम को हटाया नहीं जा सकता।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:65
+msgid "Delete Category"
+msgstr "श्रेणी हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:296
+msgid "Delete Custom Post Type Post"
+msgstr "कस्टम पोस्ट प्रकार का पोस्ट हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:14
+#, fuzzy
+msgid "Delete Elementor Container"
+msgstr "एलिमेंटर कंटेनर हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:55
+msgid "Delete Media"
+msgstr "मीडिया हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:63
+#, fuzzy
+msgid "Delete Menu"
+msgstr "मूल मेनू"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:133
+#, fuzzy
+msgid "Delete Menu Item"
+msgstr "मेनू आइटम हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:68
+#, fuzzy
+msgid "Delete Navigation"
+msgstr "नेविगेशन हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:65
+msgid "Delete Page"
+msgstr "पेज हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:72
+#, fuzzy
+msgid "Delete Plugin"
+msgstr "प्लगइन हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:65
+msgid "Delete Post"
+msgstr "पोस्ट हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:69
+#, fuzzy
+msgid "Delete Revision"
+msgstr "संशोधन हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:65
+msgid "Delete Tag"
+msgstr "टैग हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:50
+#, fuzzy
+msgid "Delete Template Part"
+msgstr "टेम्पलेट भाग हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:72
+#, fuzzy
+msgid "Delete Theme"
+msgstr "थीम हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:89
+msgid "Delete User"
+msgstr "उपयोगकर्ता को हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:67
+#, fuzzy
+msgid "Delete WooCommerce Coupon"
+msgstr "WooCommerce कूपन हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:67
+#, fuzzy
+msgid "Delete WooCommerce Order"
+msgstr "WooCommerce ऑर्डर हटाएँ"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:67
+msgid "Delete WooCommerce Product"
+msgstr "WooCommerce उत्पाद हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:259
+msgid "Delete WooCommerce Product Brand"
+msgstr "WooCommerce उत्पाद ब्रांड हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:125
+msgid "Delete WooCommerce Product Category"
+msgstr "WooCommerce उत्पाद श्रेणी हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:192
+msgid "Delete WooCommerce Product Tag"
+msgstr "WooCommerce उत्पाद टैग हटाएं"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:70
+msgid "Describe your product in short"
+msgstr "अपने उत्पाद के बारे में संक्षिप्त में बताएं"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:40
+#, fuzzy
+msgid "Description"
+msgstr "विवरण"
+
+#: includes/class-hostinger-ai-assistant-errors.php:23
+msgid "Description is empty. Please provide a valid description."
+msgstr "विवरण खाली है। कृपया विवरण दर्ज करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:85
+#, fuzzy
+msgid "Disable authentication password"
+msgstr "प्रमाणीकरण पासवर्ड अक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:207
+msgid "Disable authentication password status"
+msgstr "प्रमाणीकरण पासवर्ड स्टेटस अक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:195
+msgid "Disable XML-RPC status"
+msgstr "XML-RPC स्टेटस अक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:276
+msgid "DNS Prefetch for static files"
+msgstr "स्थिर फाइलों के लिए DNS प्रीफेच"
+
+#: includes/class-hostinger-ai-assistant-surveys.php:24
+#, fuzzy
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "क्या हमारे AI टूल्स बेहतर बनाने के लिए आपके पास कोई सुझाव हैं?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:54
+#, fuzzy
+msgid "Drop files here"
+msgstr "यहां फाइल्स ड्रॉप करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:161
+msgid "Edit a WordPress post category by ID"
+msgstr "WordPress पोस्ट श्रेणी को ID के अनुसार एडिट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:156
+msgid "Edit a WordPress post tag (e.g., rename or update it)"
+msgstr "WordPress पोस्ट टैग एडिट करें (जैसे, इसका नाम बदलें या इसे अपडेट करें)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:126
+msgid "Edit an existing WordPress page by its ID"
+msgstr "किसी मौजूदा WordPress पेज को उसकी ID के अनुसार एडिट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:146
+msgid "Edit an existing WordPress post by its ID"
+msgstr "किसी मौजूदा WordPress पोस्ट को उसकी ID के अनुसार एडिट करें"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:229
+msgid "Edit as a draft"
+msgstr "ड्राफ्ट के रूप में एडिट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:17
+#, fuzzy
+msgid "Edit Elementor Container Styles"
+msgstr "एलिमेंटर कंटेनर शैलियों को संपादित करें"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:371
+#, fuzzy
+msgid "Edit prompt"
+msgstr "प्रॉम्प्ट संपादित करें"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:48
+msgid "Edit site"
+msgstr "वेबसाइट एडिट करें"
+
+#. translators: %s: element id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:229
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:92
+#, fuzzy, php-format
+msgid "Element '%s' is not a container"
+msgstr "तत्व '%s' एक कंटेनर नहीं है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:326
+#, fuzzy
+msgid "Element alignment settings"
+msgstr "तत्व संरेखण सेटिंग्स"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:89
+msgid "Enable llms.txt generation"
+msgstr "llms.txt जनरेशन सक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:211
+msgid "Enable llms.txt status"
+msgstr "llms.txt स्टेटस सक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:65
+#, fuzzy
+msgid "Enable or disable maintenance mode"
+msgstr "रखरखाव मोड सक्षम या अक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:73
+#, fuzzy
+msgid "Enable or disable XML-RPC"
+msgstr "XML-RPC सक्षम या अक्षम करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:314
+msgid ""
+"Enables the maximum level of optimizations for improved page speed scores. "
+"Extensive testing required."
+msgstr ""
+"बेहतर पेज गति स्कोर के लिए ऑप्टिमाइज़ेशन के अधिकतम स्तर को सक्षम करता है। "
+"व्यापक परीक्षण आवश्यक है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:30
+#: admin/partials/hostinger-ai-assistant-tab-view.php:175
+#, fuzzy
+msgid "Enter at least 10 characters"
+msgstr "कम से कम 10 वर्ण दर्ज करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:261
+msgid "Enthusiastic beginners"
+msgstr "उत्साही शुरुआती लोग"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:291
+msgid "Everything in Advanced"
+msgstr "Advanced की सभी सुविधाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:306
+msgid "Everything in Aggressive"
+msgstr "Aggressive की सभी सुविधाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:271
+msgid "Everything in Basic"
+msgstr "Basic की सभी सुविधाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:257
+msgid "Everything in Essentials"
+msgstr "Essentials की सभी सुविधाएं"
+
+#: admin/class-hostinger-ai-assistant-translations.php:29
+msgid "Example: website development, WordPress tutorial, ..."
+msgstr "उदाहरण: वेबसाइट डेवलपमेंट, WordPress ट्यूटोरियल, ..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:92
+msgid "Excellent"
+msgstr "बेहतरीन"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:86
+#, fuzzy
+msgid "External Featured Image"
+msgstr "एक्सटर्नल फीचर्ड इमेज"
+
+#: admin/class-hostinger-ai-assistant-translations.php:36
+msgid "External featured image"
+msgstr "एक्सटर्नल फीचर्ड इमेज"
+
+#. translators: %s: Preset name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:373
+#, fuzzy, php-format
+msgid "Failed to apply preset: %s"
+msgstr "प्रीसेट लागू करने में विफल: %s"
+
+#. translators: %s: plugin file path.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:353
+#, fuzzy, php-format
+msgid "Failed to delete plugin \"%s\"."
+msgstr "प्लगइन \"%s\" को हटाने में असफल।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:536
+#, fuzzy
+msgid "Failed to delete post"
+msgstr "पोस्ट हटाने में असफल"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:340
+#, fuzzy, php-format
+msgid "Failed to delete theme \"%s\"."
+msgstr "थीम \"%s\" को हटाने में असफल।"
+
+#. translators: %s: Error message
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:223
+#, fuzzy, php-format
+msgid "Failed to flush cache: %s"
+msgstr "कैश फ्लश करने में विफल: %s"
+
+#. translators: %s: Setting name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:193
+#, fuzzy, php-format
+msgid "Failed to get settings: %s"
+msgstr "सेटिंग्स प्राप्त करने में विफल: %s"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:84
+#, fuzzy
+msgid "Failed to insert container into parent elements"
+msgstr "पैरेंट एलिमेंट्स में कंटेनर डालने में असफल।"
+
+#. translators: %s: plugin slug.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:282
+#, fuzzy, php-format
+msgid "Failed to install plugin \"%s\"."
+msgstr "प्लगइन \"%s\" इंस्टॉल करने में असफल रहा।"
+
+#. translators: %s: theme slug.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:284
+#, fuzzy, php-format
+msgid "Failed to install theme \"%s\"."
+msgstr "थीम \"%s\" इंस्टॉल करने में असफल रहा।"
+
+#. translators: %s: plugin slug.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:303
+#, fuzzy, php-format
+msgid "Failed to locate installed plugin \"%s\"."
+msgstr "इंस्टॉल किए गए प्लगइन \"%s\" को खोजने में असफल।"
+
+#. translators: %s: plugin file path.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:474
+#, fuzzy, php-format
+msgid "Failed to update plugin \"%s\"."
+msgstr "प्लगइन \"%s\" अपडेट करने में असफल रहा।"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:459
+#, fuzzy, php-format
+msgid "Failed to update theme \"%s\"."
+msgstr "थीम \"%s\" अपडेट करने में असफल।"
+
+#. translators: %s: theme slug name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:482
+#, fuzzy, php-format
+msgid "Fallback theme \"%s\" not found."
+msgstr "बैकअप थीम \"%s\" नहीं मिला।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:265
+msgid "File is required"
+msgstr "फाइल आवश्यक है"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:227
+msgid "File not found"
+msgstr "फाइल नहीं मिली"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:102
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:101
+msgid "Filter by author ID"
+msgstr "लेखक ID द्वारा फिल्टर करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:93
+msgid "Filter by media type (image, video, audio, application)"
+msgstr "मीडिया टाइप (इमेज, वीडियो, ऑडियो, ऐप्लिकेशन) द्वारा फिल्टर  करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:97
+msgid "Filter by MIME type (e.g., image/jpeg, video/mp4)"
+msgstr "MIME टाइप द्वारा फिल्टर करें (जैसे, image/jpeg, video/mp4)"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:105
+msgid "Filter by parent post ID"
+msgstr "पेरेंट पोस्ट ID द्वारा फिल्टर करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:28
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:22
+#, fuzzy
+msgid "Filter by post status (publish, draft, any). Default: any"
+msgstr ""
+"पोस्ट स्थिति के अनुसार फ़िल्टर करें (प्रकाशित, मसौदा, कोई भी)। डिफ़ॉल्ट: कोई "
+"भी"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:106
+msgid "Filter by post status (publish, draft, pending, etc.)"
+msgstr "पोस्ट स्टेटस (पब्लिश, ड्राफ्ट, लंबित, आदि) द्वारा फिल्टर करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:22
+#, fuzzy
+msgid "Filter by post type (page, post, any). Default: any"
+msgstr ""
+"पोस्ट प्रकार (पृष्ठ, पोस्ट, कोई भी) द्वारा फ़िल्टर करें। डिफ़ॉल्ट: कोई भी"
+
+#: admin/class-hostinger-ai-assistant-translations.php:151
+msgid "Find and filter posts with pagination options"
+msgstr "पेजिनेशन विकल्पों के साथ पोस्ट खोजें और फिल्टर करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:16
+#, fuzzy
+msgid "Find Elementor Widgets"
+msgstr "एलिमेंटर विजेट्स खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:66
+#, fuzzy
+msgid "Flex direction (row or column). Applies to flex layout."
+msgstr "फ्लेक्स दिशा (पंक्ति या स्तंभ)। फ्लेक्स लेआउट पर लागू होता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:58
+msgid "Flush LiteSpeed Cache"
+msgstr "LiteSpeed कैश को फ्लश करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:274
+msgid "Font Display Optimization"
+msgstr "फॉन्ट डिस्प्ले ऑप्टिमाइज़ेशन"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:76
+#, fuzzy
+msgid "Font family name. Example: \"Arial\", \"Roboto\""
+msgstr "फ़ॉन्ट परिवार का नाम। उदाहरण: \"Arial\", \"Roboto\""
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:80
+#, fuzzy
+msgid "Font size with unit"
+msgstr "इकाई सहित फ़ॉन्ट आकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:150
+#, fuzzy
+msgid "Font style"
+msgstr "फ़ॉन्ट शैली"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:96
+#, fuzzy
+msgid "Font weight. Example: \"400\", \"700\", \"bold\", \"normal\""
+msgstr "फ़ॉन्ट वेट। उदाहरण: \"400\", \"700\", \"बोल्ड\", \"नॉर्मल\""
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:72
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:72
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:132
+msgid "Force category deletion"
+msgstr "श्रेणी डिलिशन को फोर्स करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:77
+msgid "Force HTTPS redirects"
+msgstr "HTTPS रीडायरेक्ट्स को फोर्स करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:199
+msgid "Force HTTPS status"
+msgstr "HTTPS स्टेटस फोर्स करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:266
+msgid "Force Product Brand deletion"
+msgstr "प्रोडक्ट ब्रांड डिलिशन को फोर्स करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:199
+msgid "Force tag deletion"
+msgstr "टैग डिलिशन को फोर्स करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:81
+msgid "Force WWW in URLs"
+msgstr "URL में WWW को फोर्स करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:203
+msgid "Force WWW status"
+msgstr "WWW स्टेटस को फोर्स करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:24
+#: admin/partials/hostinger-ai-assistant-tab-view.php:106
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:89
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:135
+#, fuzzy
+msgid "Formal"
+msgstr "औपचारिक"
+
+#: admin/class-hostinger-ai-assistant-translations.php:26
+#: admin/partials/hostinger-ai-assistant-tab-view.php:108
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:91
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:143
+msgid "Friendly"
+msgstr "फ्रेंडली"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:254
+#, fuzzy
+msgid "Generate new content"
+msgstr "नया कॉन्टेंट जनरेट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:180
+msgid "Generate sales report"
+msgstr "सेल्स रिपोर्ट जनरेट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:182
+msgid "Generate WooCommerce sales report for my store"
+msgstr "मेरे स्टोर के लिए WooCommerce सेल्स रिपोर्ट जनरेट करें"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:264
+#: admin/partials/hostinger-ai-assistant-tab-view.php:267
+#, fuzzy
+msgid "Generating content..."
+msgstr "कॉन्टेंट जनरेट किया जा रहा है..."
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:91
+msgid ""
+"Get a list of all available LiteSpeed Cache optimization presets with their "
+"descriptions, features, risk levels, and requirements."
+msgstr ""
+"विवरण, सुविधाओं, जोखिम स्तर और आवश्यकताओं सहित सभी उपलब्ध LiteSpeed Cache "
+"ऑप्टिमाइज़ेशन प्रीसेट्स की सूची प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:86
+#, fuzzy
+msgid "Get a list of menu items with filtering options."
+msgstr "फ़िल्टरिंग विकल्पों के साथ मेनू आइटम्स की सूची प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:16
+#, fuzzy
+msgid "Get a list of navigation menus."
+msgstr "नेविगेशन मेन्यू की सूची प्राप्त करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:175
+msgid "Get a list of orders"
+msgstr "ऑर्डर्स की सूची प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:21
+#, fuzzy
+msgid "Get a list of Site Editor navigations."
+msgstr "साइट एडिटर नेविगेशन की सूची प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:16
+#, fuzzy
+msgid "Get a list of template parts."
+msgstr "टेम्पलेट भागों की सूची प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:156
+#, fuzzy
+msgid "Get a list of theme menu locations and their assigned menus."
+msgstr "थीम मेनू स्थानों और उनके निर्दिष्ट मेनू की सूची प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:20
+msgid ""
+"Get a list of WooCommerce orders with search and filter capabilities. "
+"Returns a list of orders matching the criteria."
+msgstr ""
+"खोज और फिल्टर सुविधाओं के साथ WooCommerce ऑर्डर्स की सूची प्राप्त करें। यह "
+"मानदंडों से मेल खाने वाले ऑर्डरों की सूची लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:97
+#, fuzzy
+msgid "Get a single menu item by ID."
+msgstr "आईडी के द्वारा एक मेनू आइटम प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:32
+#, fuzzy
+msgid "Get a single navigation by ID."
+msgstr "आईडी द्वारा एकल नेविगेशन प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:27
+#, fuzzy
+msgid "Get a single navigation menu by ID."
+msgstr "आईडी के अनुसार एकल नेविगेशन मेनू प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:27
+#, fuzzy
+msgid "Get a single template part by ID."
+msgstr "आईडी के द्वारा एक टेम्पलेट भाग प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:31
+#, fuzzy
+msgid ""
+"Get a single WooCommerce coupon by ID. Returns the full coupon object with "
+"all fields."
+msgstr ""
+"आईडी के आधार पर एक WooCommerce कूपन प्राप्त करें। सभी फ़ील्ड्स के साथ पूरा "
+"कूपन ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:31
+#, fuzzy
+msgid ""
+"Get a single WooCommerce order by ID. Returns the full order object with all "
+"fields."
+msgstr ""
+"आईडी द्वारा एकल WooCommerce ऑर्डर प्राप्त करें। सभी फ़ील्ड्स के साथ पूरा "
+"ऑर्डर ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:31
+msgid ""
+"Get a single WooCommerce product by ID. Returns the full product object with "
+"all fields."
+msgstr ""
+"ID द्वारा एक WooCommerce उत्पाद प्राप्त करें। यह सभी फील्ड्स के साथ पूरा "
+"उत्पाद ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:29
+msgid ""
+"Get a single WordPress category by ID. Returns the full category object with "
+"all fields."
+msgstr ""
+"ID द्वारा WordPress श्रेणी प्राप्त करें। यह सभी फील्ड्स के साथ पूरा श्रेणी "
+"ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:29
+msgid ""
+"Get a single WordPress page by ID. Returns the full page object with all "
+"fields."
+msgstr ""
+"ID द्वारा एक WordPress पेज प्राप्त करें। यह सभी फील्ड्स के साथ पूरा पेज "
+"ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:29
+msgid ""
+"Get a single WordPress post by ID. Returns the full post object with all "
+"fields."
+msgstr ""
+"ID द्वारा एक WordPress पोस्ट प्राप्त करें। यह सभी फील्ड्स के साथ पूरा पोस्ट "
+"ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:29
+msgid ""
+"Get a single WordPress tag by ID. Returns the full tag object with all "
+"fields."
+msgstr ""
+"ID द्वारा एक WordPress टैग प्राप्त करें। यह सभी फील्ड्स के साथ पूरा टैग "
+"ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:44
+msgid ""
+"Get a single WordPress user by ID. Returns the full user object with all "
+"fields."
+msgstr ""
+"ID द्वारा एक WordPress उपयोगकर्ता प्राप्त करें। यह सभी फील्ड्स के साथ पूरा "
+"उपयोगकर्ता ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:46
+#, fuzzy
+msgid ""
+"Get a specific revision for an item. Provide REST API base and parent ID, "
+"plus the revision ID."
+msgstr ""
+"किसी आइटम के लिए एक विशिष्ट संशोधन प्राप्त करें। REST API बेस और पैरेंट आईडी "
+"के साथ-साथ संशोधन आईडी प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:145
+msgid "Get a WordPress custom post type post by ID"
+msgstr "ID द्वारा एक WordPress कस्टम पोस्ट टाइप पोस्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:32
+msgid ""
+"Get a WordPress media item details by ID. Returns the full media object with "
+"all fields."
+msgstr ""
+"ID द्वारा WordPress मीडिया आइटम का विवरण प्राप्त करें। यह सभी फील्ड्स के साथ "
+"पूरा मीडिया ऑब्जेक्ट लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:28
+#, fuzzy
+msgid "Get Category"
+msgstr "श्रेणी प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:28
+msgid ""
+"Get current Hostinger plugin settings including maintenance mode, XML-RPC, "
+"HTTPS, and other security options."
+msgstr ""
+"रखरखाव मोड, XML-RPC, HTTPS और अन्य सुरक्षा विकल्पों के साथ अपनी वर्तमान "
+"Hostinger प्लगइन सेटिंग्स प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:30
+msgid ""
+"Get current LiteSpeed Cache settings including active preset, cache status, "
+"and key configuration options."
+msgstr ""
+"सक्रिय प्रीसेट, कैश स्टेटस और कुंजी कॉन्फिगरेशन विकल्पों के साथ अपनी वर्तमान "
+"LiteSpeed कैश सेटिंग्स प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:118
+#, fuzzy
+msgid "Get Current User"
+msgstr "वर्तमान उपयोगकर्ता प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:144
+#, fuzzy
+msgid "Get Custom Post Type Post"
+msgstr "कस्टम पोस्ट टाइप पोस्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:14
+#, fuzzy
+msgid "Get Elementor Active Kit"
+msgstr "एलिमेंटोर एक्टिव किट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:14
+#, fuzzy
+msgid "Get Elementor Kit by ID"
+msgstr "ID द्वारा एलिमेंटर किट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:14
+#, fuzzy
+msgid "Get Elementor Page Structure"
+msgstr "एलिमेंटोर पेज संरचना प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:14
+#, fuzzy
+msgid "Get Elementor Widget by ID"
+msgstr "आईडी से एलिमेंटर विजेट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:20
+#, fuzzy
+msgid "Get General Settings"
+msgstr "सामान्य सेटिंग्स प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:27
+msgid "Get Hostinger Plugin Settings"
+msgstr "Hostinger प्लगइन सेटिंग्स प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:29
+msgid "Get LiteSpeed Cache Settings"
+msgstr "LiteSpeed कैश सेटिंग्स प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:31
+#, fuzzy
+msgid "Get Media"
+msgstr "मीडिया प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:142
+#, fuzzy
+msgid "Get Media File"
+msgstr "मीडिया फाइल प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:26
+#, fuzzy
+msgid "Get Menu"
+msgstr "मेनू प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:96
+#, fuzzy
+msgid "Get Menu Item"
+msgstr "मेनू आइटम प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:31
+#, fuzzy
+msgid "Get Navigation"
+msgstr "नेविगेशन प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:28
+msgid "Get Page"
+msgstr "पेज प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:28
+#, fuzzy
+msgid "Get Post"
+msgstr "पोस्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:45
+#, fuzzy
+msgid "Get Revision"
+msgstr "संशोधन प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/SiteInfoTools.php:16
+#, fuzzy
+msgid "Get Site Info"
+msgstr "साइट की जानकारी प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:28
+#, fuzzy
+msgid "Get Tag"
+msgstr "टैग प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:26
+#, fuzzy
+msgid "Get Template Part"
+msgstr "टेम्पलेट भाग प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:143
+msgid "Get the actual file content (blob) of a WordPress media item."
+msgstr "WordPress मीडिया आइटम का वास्तविक फाइल सामग्री (ब्लॉब) प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:119
+msgid "Get the current logged-in user information."
+msgstr "वर्तमान में लॉग इन किए गए उपयोगकर्ता की जानकारी प्राप्त करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:43
+msgid "Get User"
+msgstr "उपयोगकर्ता प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:30
+#, fuzzy
+msgid "Get WooCommerce Coupon"
+msgstr "WooCommerce कूपन प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:87
+msgid "Get WooCommerce Coupons Report"
+msgstr "WooCommerce कूपन रिपोर्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:88
+msgid ""
+"Get WooCommerce coupons totals report. Returns count of coupons by coupon "
+"type."
+msgstr ""
+"WooCommerce कूपन टोटल्स रिपोर्ट प्राप्त करें। यह कूपन प्रकार के अनुसार "
+"कूपनों की संख्या लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:94
+msgid "Get WooCommerce Customers Report"
+msgstr "WooCommerce ग्राहक रिपोर्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:95
+msgid ""
+"Get WooCommerce customers totals report. Returns statistics about customers."
+msgstr ""
+"WooCommerce ग्राहकों की पूरी रिपोर्ट प्राप्त करें। यह ग्राहकों से संबंधित "
+"आंकड़ें प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:30
+#, fuzzy
+msgid "Get WooCommerce Order"
+msgstr "WooCommerce ऑर्डर प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:101
+msgid "Get WooCommerce Orders Report"
+msgstr "WooCommerce ऑर्डर्स की रिपोर्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:102
+msgid "Get WooCommerce orders totals report. Returns statistics about orders."
+msgstr ""
+"WooCommerce कुल ऑर्डर्स की रिपोर्ट प्राप्त करें। यह ऑर्डर्स के आंकड़ें "
+"प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:30
+#, fuzzy
+msgid "Get WooCommerce Product"
+msgstr "WooCommerce उत्पाद प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:108
+#, fuzzy
+msgid "Get WooCommerce Products Report"
+msgstr "WooCommerce उत्पादों की रिपोर्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:109
+msgid ""
+"Get WooCommerce products totals report. Returns statistics about products."
+msgstr ""
+"WooCommerce उत्पादों की कुल रिपोर्ट प्राप्त करें। यह उत्पादों से संबंधित "
+"आंकड़ें प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:115
+msgid "Get WooCommerce Reviews Report"
+msgstr "WooCommerce समीक्षाओं की रिपोर्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:116
+msgid ""
+"Get WooCommerce reviews totals report. Returns statistics about product "
+"reviews."
+msgstr ""
+"WooCommerce समीक्षाओं की कुल रिपोर्ट प्राप्त करें। यह उत्पाद समीक्षाओं से "
+"संबंधित आंकड़ें प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:122
+msgid "Get WooCommerce Sales Report"
+msgstr "WooCommerce सेल्स रिपोर्ट प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:123
+msgid ""
+"Get WooCommerce sales report. Returns detailed sales statistics and revenue "
+"data."
+msgstr ""
+"WooCommerce सेल्स रिपोर्ट प्राप्त करें। यह विस्तृत सेल्स आंकड़ें और राजस्व "
+"डेटा प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:21
+msgid ""
+"Get WordPress general site settings including title, description, timezone, "
+"and other configuration options."
+msgstr ""
+"शीर्षक, विवरण, समय क्षेत्र और अन्य कॉन्फिगरेशन विकल्पों के साथ WordPress "
+"सामान्य सेटिंग्स प्राप्त करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:130
+#, fuzzy
+msgid "Get WordPress site information"
+msgstr "WordPress साइट की जानकारी प्राप्त करें"
+
+#. translators: %s: global color id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:94
+#, fuzzy, php-format
+msgid "Global color with ID '%s' not found in active kit"
+msgstr "सक्रिय किट में आईडी '%s' वाला वैश्विक रंग नहीं मिला"
+
+#: admin/class-hostinger-ai-assistant-translations.php:82
+msgid "Good response"
+msgstr "अच्छा जवाब"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:277
+msgid "Gravatar Cache"
+msgstr "ग्रैवाटर कैश"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:272
+msgid "Guest Mode and Guest Optimization"
+msgstr "अतिथि मोड और अतिथि ऑप्टिमाइज़ेशन"
+
+#: admin/class-hostinger-ai-assistant-translations.php:64
+msgid "Hello 👋"
+msgstr "नमस्ते 🙏🏻"
+
+#: includes-psr4/Nudges/WooCommerceSetupNudge.php:49
+#, fuzzy
+msgid ""
+"Hey! It looks like your WooCommerce store isn't fully set up yet. Complete "
+"the remaining steps to make sure your store is ready to sell."
+msgstr ""
+"अरे! ऐसा लगता है कि आपका WooCommerce स्टोर अभी पूरी तरह से सेटअप नहीं हुआ "
+"है। अपने स्टोर को बेचने के लिए तैयार करने हेतु शेष चरण पूरे करें।"
+
+#. translators: %s: domain expiration date.
+#: includes-psr4/Nudges/DomainRenewalNudge.php:77
+#, fuzzy, php-format
+msgid ""
+"Hey! Just a heads-up — your domain is expiring on %s. Renew it now to keep "
+"your website running without interruption."
+msgstr ""
+"अरे! बस एक सूचना — आपका डोमेन %s को समाप्त हो रहा है। अपनी वेबसाइट को बिना "
+"रुकावट चलाए रखने के लिए इसे अभी नवीनीकृत करें।"
+
+#. translators: %s: hosting plan expiration date.
+#: includes-psr4/Nudges/RenewalNudge.php:81
+#, fuzzy, php-format
+msgid ""
+"Hey! Just a heads-up — your hosting plan is expiring on %s. Renew it now to "
+"keep your website running without interruption."
+msgstr ""
+"हे! बस एक सूचना — आपकी होस्टिंग योजना %s को समाप्त हो रही है। बिना रुकावट "
+"अपनी वेबसाइट चालू रखने के लिए इसे अभी नवीनीकृत करें।"
+
+#: includes-psr4/Nudges/DomainNudge.php:87
+#, fuzzy
+msgid ""
+"Hey! Your site is still running on a temporary domain. Connecting a custom "
+"domain makes your site look more professional and helps visitors find you. "
+"It only takes a few minutes!"
+msgstr ""
+"अरे! आपकी साइट अभी भी एक अस्थायी डोमेन पर चल रही है। एक कस्टम डोमेन जोड़ने "
+"से आपकी साइट अधिक पेशेवर दिखती है और आगंतुक आपको आसानी से ढूंढ पाते हैं। "
+"इसमें केवल कुछ ही मिनट लगते हैं!"
+
+#: admin/class-hostinger-ai-assistant-translations.php:68
+#, fuzzy
+msgid "Hey,"
+msgstr "अरे,"
+
+#: admin/class-hostinger-ai-assistant-translations.php:42
+#, fuzzy
+#| msgid ""
+#| "Hi, I'm your personal AI Assistant. You can ask me any questions you have "
+#| "regarding WordPress. I'm still learning, so sometimes can make mistakes. "
+#| "What questions do you have?"
+msgid ""
+"Hi, I'm Hostinger Agent, your personal AI assistant. You can ask me any questions you "
+"have regarding WordPress. I'm still learning, so sometimes can make mistakes."
+" What questions do you have?"
+msgstr ""
+"नमस्ते। मेरा नाम Hostinger Agent है और मैं आपका पर्सनल AI असिस्टेंट हूं! आप मुझसे "
+"WordPress से जुड़े कोई भी प्रश्न पूछ सकते हैं। मैं अभी भी सीख रहा हूं, इसलिए "
+"मैं कभी-कभी गलतियां कर सकता हूं। आपके क्या प्रश्न हैं?"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:246
+msgid "Higher TTL"
+msgstr "उच्च TTL"
+
+#: admin/class-hostinger-ai-assistant-translations.php:50
+#, fuzzy
+msgid "History"
+msgstr "हिस्ट्री"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:330
+#, fuzzy
+msgid "Horizontal alignment"
+msgstr "क्षैतिज संरेखण"
+
+#. Author of the plugin
+#: hostinger-ai-assistant.php
+#, fuzzy
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-ai-assistant.php
+#, fuzzy
+msgid "Hostinger AI"
+msgstr "Hostinger AI"
+
+#: includes-psr4/Mcp/Abilities/AbilitiesRegistry.php:93
+msgid "Hostinger AI Abilities"
+msgstr "Hostinger AI क्षमताएं"
+
+#. Description of the plugin
+#: hostinger-ai-assistant.php
+#, fuzzy
+msgid "Hostinger AI plugin for WordPress."
+msgstr "WordPress के लिए Hostinger AI"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:124
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:139
+msgid "Hostinger plugin settings option not defined"
+msgstr "Hostinger प्लगइन सेटिंग्स विकल्प परिभाषित नहीं किया गया है"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:62
+#, fuzzy
+msgid "Hover state color"
+msgstr "होवर स्थिति का रंग"
+
+#: admin/class-hostinger-ai-assistant-translations.php:65
+msgid "How can I help you today?"
+msgstr "मैं आज आपकी क्या सहायता कर सकता हूं?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:69
+#, fuzzy
+msgid "How can I help you?"
+msgstr "मैं आपकी कैसे मदद कर सकता हूँ?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:90
+#, fuzzy
+msgid "How can we improve your experience?"
+msgstr "हम आपका अनुभव बेहतर कैसे बना सकते हैं?"
+
+#: includes/class-hostinger-ai-assistant-surveys.php:23
+msgid ""
+"How would you rate your experience using our AI Assistant plugin for content "
+"generation? (Scale 1-10)"
+msgstr ""
+"आप कॉन्टेंट जनरेशन के लिए हमारे AI असिस्टेंट प्लगइन के साथ अपने अनुभव को "
+"कितनी रेटिंग देंगे? (1-10 के बीच)"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hostinger-ai-assistant.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: admin/class-hostinger-ai-assistant-translations.php:116
+msgid ""
+"I'm sorry, I didn't understand your question. Could you please rephrase it "
+"or ask something different?"
+msgstr ""
+"क्षमा करें, मैं आपका प्रश्‍न समझ नहीं पाया। क्या आप कृपया अपना प्रश्‍न अलग "
+"शब्दों में लिख ​​सकते हैं या कुछ अलग पूछ सकते हैं?"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:66
+#, fuzzy
+msgid "Icon color"
+msgstr "आइकन का रंग"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:121
+#, fuzzy
+msgid "ID of the parent item to restore into."
+msgstr "जिस अभिभावक आइटम में पुनर्स्थापित किया जाना है, उसका आईडी।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:125
+#, fuzzy
+msgid "ID of the revision to restore from."
+msgstr "पुनर्स्थापित करने के लिए संशोधन की आईडी।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:138
+#, fuzzy
+msgid "If preserving children, where to place them into remaining columns"
+msgstr ""
+"यदि बच्चों को संरक्षित करना हो, तो उन्हें शेष स्तंभों में कहाँ रखा जाए।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:25
+#, fuzzy
+msgid ""
+"If true, move the container's children into the parent at the same position "
+"instead of deleting them."
+msgstr ""
+"यदि यह सत्य है, तो कंटेनर के बच्चों को हटाने के बजाय उसी स्थिति में पैरेंट "
+"में स्थानांतरित करें।"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:182
+#, fuzzy
+msgid ""
+"If you skip this part, AI will automatically generate keyword suggestions "
+"after you generate the content"
+msgstr ""
+"यदि आप इस भाग को छोड़ देते हैं, तो कॉन्टेंट तैयार करने के बाद AI स्वचालित "
+"रूप से कीवर्ड सुझाव जनरेट करेगा"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:258
+msgid "Image Optimization"
+msgstr "इमेज ऑप्टिमाइज़ेशन"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:105
+#, fuzzy
+msgid "Image URL:"
+msgstr "इमेज URL:"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:32
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:36
+#, fuzzy
+msgid "Include all other kit settings. Default: false"
+msgstr "अन्य सभी किट सेटिंग्स शामिल करें। डिफ़ॉल्ट: false"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:26
+#, fuzzy
+msgid "Include global colors in response. Default: true"
+msgstr "प्रतिक्रिया में वैश्विक रंग शामिल करें। डिफ़ॉल्ट: true"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:27
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:31
+#, fuzzy
+msgid "Include global typography in response. Default: true"
+msgstr "प्रतिक्रिया में वैश्विक टाइपोग्राफी शामिल करें। डिफ़ॉल्ट: true"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:283
+msgid "Includes many optimizations known to improve page speed scores."
+msgstr ""
+"इसमें पेज स्पीड स्कोर में सुधार करने के लिए जाने जाने वाले कई ऑप्टिमाइज़ेशन "
+"शामिल हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:298
+msgid ""
+"Includes many optimizations known to improve page speed scores. Testing "
+"recommended."
+msgstr ""
+"इसमें पेज स्पीड स्कोर में सुधार करने के लिए जाने जाने वाले कई ऑप्टिमाइज़ेशन "
+"शामिल हैं। परीक्षण का सुझाव दिया जाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:262
+msgid ""
+"Includes optimizations known to improve site score in page speed measurement "
+"tools."
+msgstr ""
+"इसमें पेज स्पीड मापन टूल्स में साइट स्कोर में सुधार करने के लिए जाने जाने "
+"वाले ऑप्टिमाइज़ेशन शामिल हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:311
+msgid "Inline CSS added to Combine"
+msgstr "Combine में इनलाइन CSS जोड़ा गया"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:310
+msgid "Inline JS added to Combine"
+msgstr "Combine में इनलाइन JS जोड़ा गया"
+
+#: admin/class-hostinger-ai-assistant-translations.php:37
+msgid "Insert this image inside content"
+msgstr "कॉन्टेंट के अंदर यह इमेज जोड़ें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:42
+#, fuzzy
+msgid ""
+"Insertion position relative to list (start/end), a sibling (before/after) or "
+"a specific index."
+msgstr ""
+"सूची (शुरुआत/अंत), एक सहोदर (पहले/बाद में) या एक विशिष्ट अनुक्रमण संख्या के "
+"सापेक्ष सम्मिलन स्थिति।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:27
+#, fuzzy
+msgid "Install a plugin from WordPress.org by slug."
+msgstr "स्लग के द्वारा WordPress.org से एक प्लगइन इंस्टॉल करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:27
+#, fuzzy
+msgid "Install a theme from WordPress.org by slug."
+msgstr "स्लग के द्वारा WordPress.org से एक थीम इंस्टॉल करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:26
+#, fuzzy
+msgid "Install Plugin"
+msgstr "प्लगइन इंस्टॉल करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:26
+#, fuzzy
+msgid "Install Theme"
+msgstr "थीम स्थापित करें"
+
+#: includes-psr4/Mcp/McpServer.php:73
+msgid "Invalid API key"
+msgstr "अमान्य API कुंजी"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:171
+#, fuzzy
+msgid "Invalid base API, parent, or revision ID."
+msgstr "अमान्य बेस एपीआई, पैरेंट, या संशोधन आईडी।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:275
+#, fuzzy
+msgid "Invalid base64 data"
+msgstr "अमान्य base64 डेटा"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:222
+msgid "Invalid media ID"
+msgstr "अमान्य मीडिया ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:357
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:402
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:426
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:465
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:516
+#, fuzzy
+msgid "Invalid post type"
+msgstr "अमान्य पोस्ट प्रकार"
+
+#. translators: %s: Allowed preset name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:348
+#, fuzzy, php-format
+msgid "Invalid preset. Allowed presets: %s"
+msgstr "अमान्य प्रीसेट। अनुमत प्रीसेट: %s"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:222
+#, fuzzy
+msgid "It was an error processing the request."
+msgstr "अनुरोध को संसाधित करते समय एक त्रुटि हुई।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:70
+#, fuzzy
+msgid "I’m Hostinger Agent – your AI WordPress assistant. I can help you:"
+msgstr "मैं कोडी हूँ – आपका AI वर्डप्रेस सहायक। मैं आपकी मदद कर सकता हूँ:"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:275
+msgid "JS Defer for both external and inline JS"
+msgstr "एक्सटर्नल और इनलाइन JS दोनों के लिए JS Defer"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:309
+msgid "JS Delayed"
+msgstr "JS विलंबित"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:9
+#, fuzzy
+msgid "Keywords"
+msgstr "कीवर्ड्स"
+
+#. translators: %s: kit id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:302
+#, fuzzy, php-format
+msgid "Kit with ID %s not found"
+msgstr "आईडी %s नहीं मिला"
+
+#: admin/class-hostinger-ai-assistant-translations.php:43
+#, fuzzy
+msgid "Hostinger Agent"
+msgstr "Hostinger Agent"
+
+#: admin/class-hostinger-ai-assistant-translations.php:55
+#, fuzzy
+msgid "Hostinger Agent only supports JPEG, JPG, PNG, GIF, HEIC, and DNG files"
+msgstr "Hostinger Agent केवल JPEG, JPG, PNG, GIF, HEIC और DNG फाइल्स सपोर्ट करता है"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:295
+msgid "Lazy Load for Iframes"
+msgstr "Iframes के लिए लेज़ी लोड"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:307
+msgid "Lazy Load for Images"
+msgstr "इमेजेस के लिए लेज़ी लोड"
+
+#: admin/class-hostinger-ai-assistant-translations.php:45
+#: admin/class-hostinger-ai-assistant-translations.php:86
+#, fuzzy
+msgid "Leave feedback"
+msgstr "अपना फीडबैक साझा करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:270
+#, fuzzy
+msgid "Left border width (as string)"
+msgstr "बाएँ बॉर्डर की चौड़ाई (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:221
+#, fuzzy
+msgid "Left margin value (as string)"
+msgstr "बाएँ मार्जिन का मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:183
+#, fuzzy
+msgid "Left padding value (as string)"
+msgstr "बाएँ पैडिंग मान (स्ट्रिंग के रूप में)"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:164
+msgid ""
+"Let us know more about your content idea. For example: Article about how to "
+"use WordPress to dive into website development including tutorials how to "
+"use it in a simple way..."
+msgstr ""
+"हमें अपने कॉन्टेंट आइडिया के बारे में अधिक बताएं। उदाहरण के लिए: वेबसाइट "
+"डेवलपमेंट में WordPress का आसान उपयोग करने के बारे में लेख, जिसमें "
+"ट्यूटोरियल्स भी शामिल हों..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:31
+msgid ""
+"Let us now more about your post idea. Share more details for better results"
+msgstr ""
+"बेहतर परिणामों के लिए हमें अपने पोस्ट आइडिया के बारे में अधिक जानकारी प्रदान "
+"करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:129
+#, fuzzy
+msgid "Letter spacing with unit"
+msgstr "इकाई के साथ अक्षर-अंतर"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:113
+#, fuzzy
+msgid "Line height with unit"
+msgstr "इकाई के साथ रेखा की ऊँचाई"
+
+#. translators: %s: post type names
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:42
+#, php-format
+msgid "List all available WordPress custom post types including %s"
+msgstr "%s सहित सभी उपलब्ध WordPress कस्टम पोस्ट प्रकारों की सूची बनाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:223
+msgid "List all WooCommerce product brands. Returns a list of product brands."
+msgstr ""
+"सभी WooCommerce उत्पाद ब्रांड्स की सूची पाएं। यह उत्पाद ब्रांड्स की एक सूची "
+"प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:89
+msgid ""
+"List all WooCommerce product categories. Returns a list of product "
+"categories."
+msgstr ""
+"सभी WooCommerce उत्पाद श्रेणियों की सूची पाएं। यह उत्पाद श्रेणियों की सूची "
+"प्रदान करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:156
+msgid "List all WooCommerce product tags. Returns a list of product tags."
+msgstr ""
+"सभी WooCommerce उत्पाद टैग्स की सूची पाएं। यह उत्पाद टैग्स की एक सूची प्रदान "
+"करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:18
+msgid "List all WordPress post categories with pagination and filtering."
+msgstr ""
+"पेजिनेशन और फिल्टरिंग के साथ सभी WordPress पोस्ट श्रेणियों की सूची पाएं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:18
+msgid "List all WordPress post tags with pagination and filtering."
+msgstr "पेजिनेशन और फिल्टरिंग के साथ सभी WordPress पोस्ट टैग्स की सूची पाएं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:17
+msgid "List Categories"
+msgstr "श्रेणियों की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:14
+#, fuzzy
+msgid "List Elementor Pages"
+msgstr "एलिमेंटर पेजों की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:14
+#, fuzzy
+msgid "List Elementor Templates"
+msgstr "एलिमेंटर टेम्पलेट्स सूचीबद्ध करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:90
+msgid "List LiteSpeed Cache Presets"
+msgstr "LiteSpeed कैश प्रीसेट्स की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:20
+msgid "List Media"
+msgstr "मीडिया की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:85
+#, fuzzy
+msgid "List Menu Items"
+msgstr "मेनू आइटम सूचीबद्ध करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:155
+#, fuzzy
+msgid "List Menu Locations"
+msgstr "मेनू स्थानों की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:15
+#, fuzzy
+msgid "List Menus"
+msgstr "मेनू सूचीबद्ध करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:20
+#, fuzzy
+msgid "List Navigations"
+msgstr "सूची नेविगेशन"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:166
+#, fuzzy
+msgid "List of coupon IDs to delete"
+msgstr "मिटाने के लिए कूपन आईडी की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:156
+#, fuzzy
+msgid "List of coupon objects to create"
+msgstr "बनाने के लिए कूपन ऑब्जेक्ट्स की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:161
+#, fuzzy
+msgid "List of coupon objects to update (must include id)"
+msgstr ""
+"अपडेट करने के लिए कूपन ऑब्जेक्ट्स की सूची (आईडी शामिल करना अनिवार्य है)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:22
+#, fuzzy
+msgid "List of global color updates"
+msgstr "वैश्विक रंग अपडेट्स की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:49
+#, fuzzy
+msgid "List of typography preset updates"
+msgstr "टाइपोग्राफी प्रीसेट अपडेट्स की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:39
+msgid "List Post Types"
+msgstr "पोस्ट टाइप्स की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:20
+#, fuzzy
+msgid "List Revisions"
+msgstr "संशोधनों की सूची"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:21
+#, fuzzy
+msgid ""
+"List revisions for a specific item. Provide its REST API base (e.g., posts, "
+"pages, templates) and the parent ID."
+msgstr ""
+"किसी विशिष्ट आइटम के संशोधनों की सूची दें। इसका REST API बेस (जैसे पोस्ट्स, "
+"पेज, टेम्पलेट्स) और पैरेंट आईडी प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:17
+msgid "List Tags"
+msgstr "टैग्स की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:15
+#, fuzzy
+msgid "List Template Parts"
+msgstr "सूची टेम्पलेट भाग"
+
+#: admin/class-hostinger-ai-assistant-translations.php:135
+#, fuzzy
+msgid "List users with their roles"
+msgstr "उपयोगकर्ताओं को उनकी भूमिकाओं के साथ सूचीबद्ध करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:222
+msgid "List WooCommerce Product Brands"
+msgstr "WooCommerce उत्पाद ब्रांड्स की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:88
+msgid "List WooCommerce Product Categories"
+msgstr "WooCommerce उत्पाद श्रेणियों की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:155
+msgid "List WooCommerce Product Tags"
+msgstr "WooCommerce उत्पाद टैग्स की सूची पाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:21
+msgid "List WordPress media items with pagination and filtering."
+msgstr "पेजिनेशन और फिल्टरिंग के साथ WordPress मीडिया आइटम्स को सूचीबद्ध करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:159
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:203
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:233
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:327
+msgid "LiteSpeed Cache plugin is not active"
+msgstr "LiteSpeed Cache प्लगइन सक्रिय नहीं है"
+
+#. translators: %s: Preset name
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:365
+#, fuzzy, php-format
+msgid ""
+"LiteSpeed Cache preset \"%s\" has been applied successfully. A backup of "
+"your previous settings was created automatically."
+msgstr ""
+"LiteSpeed Cache प्रीसेट \"%s\" सफलतापूर्वक लागू हो गया है। आपकी पिछली "
+"सेटिंग्स का एक बैकअप स्वचालित रूप से बनाया गया है।"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:143
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:81
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:124
+#, fuzzy
+msgid "Long"
+msgstr "लंबा"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:398
+#, fuzzy
+msgid "Main topic"
+msgstr "मुख्य विषय"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:187
+#, fuzzy
+msgid "Maintenance mode status"
+msgstr "रखरखाव मोड की स्थिति"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:90
+#, fuzzy
+msgid "Main‑axis alignment for flex containers"
+msgstr "फ्लेक्स कंटेनरों के लिए मुख्य-अक्ष संरेखण"
+
+#: admin/class-hostinger-ai-assistant-translations.php:73
+#, fuzzy
+msgid "Manage users and permissions"
+msgstr "उपयोगकर्ताओं और अनुमतियों का प्रबंधन करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:89
+#, fuzzy
+msgid "Margin in px (number for all sides) or object with sides and unit"
+msgstr "px में मार्जिन (सभी ओरों के लिए संख्या) या ओरों और इकाई के साथ वस्तु"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:200
+#, fuzzy
+msgid ""
+"Margin spacing. Set \"reset\" to true to remove margin, or provide dimension "
+"values."
+msgstr ""
+"मार्जिन स्पेसिंग। मार्जिन हटाने के लिए \"reset\" को true पर सेट करें, या "
+"आयाम मान प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:26
+#, fuzzy
+msgid "Maximum recursion depth to display. Default: 10"
+msgstr "प्रदर्शित करने के लिए अधिकतम पुनरावृत्ति गहराई। डिफ़ॉल्ट: 10"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:35
+#, fuzzy
+msgid "Maximum search depth. Default: 10"
+msgstr "अधिकतम खोज गहराई। डिफ़ॉल्ट: 10"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:137
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:80
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:120
+#, fuzzy
+msgid "Medium"
+msgstr "मध्यम"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:177
+#, fuzzy
+msgid "Menu ID to assign to the location."
+msgstr "स्थान को सौंपने के लिए मेनू आईडी।"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:29
+#, fuzzy
+msgid "Meta description"
+msgstr "मेटा डिस्क्रिप्शन"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:30
+msgid ""
+"Meta descriptions offer concise page summaries in search results, aiding "
+"user understanding before clicking."
+msgstr ""
+"मेटा डिस्क्रिप्शन खोज परिणामों में किसी पेज का संक्षिप्त सारांश प्रदान करते "
+"हैं, जिससे क्लिक करने से पहले उपयोगकर्ता को समझने में सहायता मिलती है।"
+
+#. translators: %s is a route parameter name
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:471
+#, fuzzy, php-format
+msgid "Missing required route parameter: %s"
+msgstr "आवश्यक मार्ग पैरामीटर अनुपस्थित है: %s"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:259
+#, fuzzy
+msgid "Mobile Cache"
+msgstr "मोबाइल कैश"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:282
+#, fuzzy
+msgid "Most websites"
+msgstr "अधिकांश वेबसाइटें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:83
+#, fuzzy
+msgid "Navigation (wp_navigation) post ID."
+msgstr "नेविगेशन (wp_navigation) पोस्ट आईडी।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:23
+#: admin/partials/hostinger-ai-assistant-tab-view.php:105
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:88
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:131
+#, fuzzy
+msgid "Neutral"
+msgstr "तटस्थ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:41
+#, fuzzy
+msgid "New color value (e.g. #FF0000 or rgba(255,0,0,1))"
+msgstr "नया रंग मान (उदाहरण के लिए #FF0000 या rgba(255,0,0,1))"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:155
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:66
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:117
+#, fuzzy
+msgid "No active Elementor kit found"
+msgstr "कोई सक्रिय एलिमेंटर किट नहीं मिला"
+
+#: includes-psr4/Cli/JwtCommand.php:97
+#, fuzzy
+msgid ""
+"No administrator found to issue a token for. Pass --user=<id|login|email>."
+msgstr ""
+"टोकन जारी करने के लिए कोई प्रशासक नहीं मिला। पास --user=<id|login|email>।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:38
+#, fuzzy
+msgid "No Elementor data found for this post"
+msgstr "इस पोस्ट के लिए कोई एलिमेंटर डेटा नहीं मिला।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:504
+#, fuzzy
+msgid "No fallback theme available to switch to."
+msgstr "बदलने के लिए कोई वैकल्पिक थीम उपलब्ध नहीं है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:208
+#, fuzzy
+msgid "Nothing was updated"
+msgstr "कुछ भी अपडेट नहीं किया गया"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:116
+#, fuzzy
+msgid "Number of inner columns (containers)"
+msgstr "आंतरिक स्तंभों (कंटेनरों) की संख्या"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:114
+msgid "Number of items per page"
+msgstr "प्रति पेज आइटमों की संख्या"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:34
+#, fuzzy
+msgid "Number of pages to return. Default: 50"
+msgstr "वापस करने के लिए पृष्ठों की संख्या। डिफ़ॉल्ट: 50"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:41
+#, fuzzy
+msgid "Number of pages to skip for pagination. Default: 0"
+msgstr "पृष्ठसंकेतन के लिए छोड़ने वाले पृष्ठों की संख्या। डिफ़ॉल्ट: 0"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:115
+msgid "Number of posts per page"
+msgstr "प्रति पेज पोस्ट्स की संख्या"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:77
+msgid "Number of posts to show per page"
+msgstr "प्रति पेज दिखाने के लिए पोस्ट्स की संख्या"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:28
+#, fuzzy
+msgid "Number of templates to return. Default: 50"
+msgstr "वापस करने के लिए टेम्पलेट्स की संख्या। डिफ़ॉल्ट: 50"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:35
+#, fuzzy
+msgid "Number of templates to skip for pagination. Default: 0"
+msgstr "पृष्ठकरण के लिए छोड़ने वाले टेम्पलेट्स की संख्या। डिफ़ॉल्ट: 0"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:174
+#, fuzzy
+msgid "Opacity (0..1)"
+msgstr "अपारदर्शिता (0..1)"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:29
+#, fuzzy
+msgid "Open guide"
+msgstr "गाइड खोलें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:93
+msgid "Opt-in to MCP"
+msgstr "MCP के लिए ऑप्ट-इन करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:215
+msgid "Opt-in Web2Agent MCP status"
+msgstr "ऑप्ट-इन Web2Agent MCP स्टेटस"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+#, fuzzy
+msgid "Optional"
+msgstr "वैकल्पिक"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:75
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:182
+#, fuzzy
+msgid "Optional CSS class to assign/update on the container"
+msgstr "कंटेनर पर असाइन/अपडेट करने के लिए वैकल्पिक CSS क्लास"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:47
+#, fuzzy
+msgid "Optional CSS class to filter by (e.g., \"hostinger-ai-*\")"
+msgstr ""
+"फ़िल्टर करने के लिए वैकल्पिक CSS क्लास (उदाहरण के लिए, \"hostinger-ai-*\")"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:133
+#, fuzzy
+msgid ""
+"Optional list of fields to restore. Defaults to title, content, and excerpt."
+msgstr ""
+"पुनर्स्थापित करने के लिए फ़ील्ड्स की वैकल्पिक सूची। डिफ़ॉल्ट रूप से शीर्षक, "
+"सामग्री और सारांश।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:64
+#, fuzzy
+msgid "Optional new title/label"
+msgstr "वैकल्पिक नया शीर्षक/लेबल"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:37
+#, fuzzy
+msgid "Optional new title/label for the color"
+msgstr "रंग के लिए वैकल्पिक नया शीर्षक/लेबल"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:36
+#, fuzzy
+msgid ""
+"Optional parent container ID. If omitted, operations happen at the root "
+"level."
+msgstr ""
+"वैकल्पिक अभिभावक कंटेनर आईडी। यदि इसे छोड़ दिया जाए, तो संचालन मूल स्तर पर "
+"होते हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:154
+msgid ""
+"Optional. The size of the image to retrieve (thumbnail, medium, large, full)."
+" Defaults to full/original size."
+msgstr ""
+"वैकल्पिक। रिट्रीव करने के लिए इमेज का साइज़ (थंबनेल, मध्यम, बड़ा, पूर्ण)। "
+"डिफॉल्ट रूप से पूर्ण/मूल साइज़ होता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:41
+#, fuzzy
+msgid "Optional: Add nofollow attribute"
+msgstr "वैकल्पिक: nofollow एट्रिब्यूट जोड़ें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:38
+#, fuzzy
+msgid "Optional: Image alt text for accessibility"
+msgstr "वैकल्पिक: सुलभता के लिए छवि वैकल्पिक पाठ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:36
+#, fuzzy
+msgid "Optional: Open link in new tab"
+msgstr "वैकल्पिक: लिंक को नई टैब में खोलें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:34
+#, fuzzy
+msgid "Optional: WordPress media library ID"
+msgstr "वैकल्पिक: वर्डप्रेस मीडिया लाइब्रेरी आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:95
+#, fuzzy
+msgid "Overall gap between child items (px)"
+msgstr "बच्चों के आइटमों के बीच का कुल अंतर (px)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:69
+#, fuzzy
+msgid "Padding in px (number for all sides) or object with sides and unit"
+msgstr ""
+"px में पैडिंग (सभी ओरों के लिए संख्या) या इकाई के साथ ओरों वाला ऑब्जेक्ट"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:162
+#, fuzzy
+msgid ""
+"Padding spacing. Set \"reset\" to true to remove padding, or provide "
+"dimension values."
+msgstr ""
+"पैडिंग स्पेसिंग। पैडिंग हटाने के लिए \"reset\" को true पर सेट करें, या आयाम "
+"मान प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:109
+msgid "Page number for pagination"
+msgstr "पेजिनेशन के लिए पेज नंबर"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:110
+msgid "Page number for pagination (starts from 1)"
+msgstr "पेजिनेशन के लिए पेज नंबर (1 से शुरू)"
+
+#. translators: %s: parent id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/CreateContainer.php:94
+#, fuzzy, php-format
+msgid "Parent container with ID '%s' not found"
+msgstr "आईडी '%s' वाला पैरेंट कंटेनर नहीं मिला"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:411
+#, fuzzy
+msgid "Personalize your content"
+msgstr "अपनी सामग्री को निजीकृत करें"
+
+#. translators: %s: plugin slug.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:260
+#, fuzzy, php-format
+msgid "Plugin \"%s\" is already installed."
+msgstr "प्लगइन \"%s\" पहले से ही स्थापित है।"
+
+#. translators: %s: plugin file path.
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:335
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:372
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:406
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:436
+#, fuzzy, php-format
+msgid "Plugin \"%s\" not found."
+msgstr "प्लगइन \"%s\" नहीं मिला।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:81
+#, fuzzy
+msgid ""
+"Plugin file path relative to the plugins directory (e.g. "
+"'woocommerce/woocommerce.php')"
+msgstr ""
+"प्लगइन्स डायरेक्टरी के सापेक्ष प्लगइन फ़ाइल का पथ (उदाहरण के लिए "
+"'woocommerce/woocommerce.php')"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:126
+#, fuzzy
+msgid "Plugin file path relative to the plugins directory to activate"
+msgstr "सक्रिय करने के लिए प्लगइन्स निर्देशिका के सापेक्ष प्लगइन फ़ाइल का पथ"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:171
+#, fuzzy
+msgid "Plugin file path relative to the plugins directory to deactivate"
+msgstr ""
+"निष्क्रिय करने के लिए प्लगइन्स निर्देशिका के सापेक्ष प्लगइन फ़ाइल का पथ"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:216
+#, fuzzy
+msgid "Plugin file path relative to the plugins directory to update"
+msgstr "प्लगइन्स निर्देशिका के सापेक्ष अपडेट करने के लिए प्लगइन फ़ाइल का पथ"
+
+#: includes-psr4/Mcp/Abilities/Resources/PluginsInfoResource.php:16
+#, fuzzy
+msgid "Plugins Information"
+msgstr "प्लगइन्स की जानकारी"
+
+#: admin/class-hostinger-ai-assistant-translations.php:91
+#, fuzzy
+msgid "Poor"
+msgstr "खराब"
+
+#. translators: %1$s: kit id, %2$s template type
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:312
+#, fuzzy, php-format
+msgid "Post %1$s is not an Elementor kit (template type: %2$s)"
+msgstr "पोस्ट %1$s एलिमेंटर किट नहीं है (टेम्पलेट प्रकार: %2$s)"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:412
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:475
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:526
+#, fuzzy
+msgid "Post not found"
+msgstr "पोस्ट नहीं मिला"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:38
+msgid "Powered by"
+msgstr "इसके द्वारा संचालित:"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:335
+msgid "Preset parameter is required"
+msgstr "प्रीसेट मापदंड आवश्यक है"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:186
+msgid "Press Enter key to finalize a keyword"
+msgstr "किसी कीवर्ड को फाइनल करने के लिए Enter की दबाएं"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:39
+#, fuzzy
+msgid "Preview site"
+msgstr "साइट का प्रीव्यू देखें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:108
+#, fuzzy
+msgid "Provide colors and/or typography updates to apply."
+msgstr "लागू करने के लिए रंग और/या टाइपोग्राफी अपडेट प्रदान करें।"
+
+#: includes-psr4/Mcp/Abilities/Resources/PluginsInfoResource.php:17
+msgid ""
+"Provides detailed information about active and available WordPress plugins"
+msgstr ""
+"सक्रिय और उपलब्ध WordPress प्लगइन्स के बारे में विस्तृत जानकारी प्रदान करता "
+"है"
+
+#: includes-psr4/Mcp/Abilities/Resources/UsersInfoResource.php:17
+msgid ""
+"Provides detailed information about registered WordPress users and their "
+"roles"
+msgstr ""
+"रजिस्टर्ड WordPress उपयोगकर्ताओं और उनकी भूमिकाओं के बारे में विस्तृत "
+"जानकारी प्रदान करता है"
+
+#: includes-psr4/Mcp/Abilities/Resources/ThemeInfoResource.php:17
+msgid ""
+"Provides detailed information about the active WordPress theme and its "
+"parent theme if applicable"
+msgstr ""
+"सक्रिय WordPress थीम और यदि लागू हो तो उसकी पेरेंट थीम के बारे में विस्तृत "
+"जानकारी प्रदान करता है"
+
+#: includes-psr4/Mcp/Abilities/Tools/SiteInfoTools.php:17
+msgid ""
+"Provides detailed information about the WordPress site like site name, url, "
+"description, admin email, plugins, themes, users, and more."
+msgstr ""
+"WordPress साइट के बारे में विस्तृत जानकारी प्रदान करता है, जैसे साइट का नाम, "
+"URL, विवरण, एडमिन ईमेल, प्लगइन्स, थीम्स, उपयोगकर्ता, आदि।"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteSettingsResource.php:17
+msgid ""
+"Provides detailed information about WordPress site settings including "
+"general, reading, discussion, media, permalink, privacy, and writing settings"
+msgstr ""
+"WordPress साइट सेटिंग्स के बारे में विस्तृत जानकारी प्रदान करता है, जिसमें "
+"सामान्य, रीडिंग, चर्चा, मीडिया, पर्मालिंक, गोपनीयता और राइटिंग सेटिंग्स "
+"शामिल हैं।"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteInfoResource.php:17
+msgid ""
+"Provides general information about the WordPress site including site details,"
+" plugins, themes, and users"
+msgstr ""
+"WordPress साइट के बारे में सामान्य जानकारी प्रदान करता है, जिसमें साइट का "
+"विवरण, प्लगइन्स, थीम्स और उपयोगकर्ता शामिल हैं"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:235
+#, fuzzy
+msgid "Publish"
+msgstr "पब्लिश करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:59
+msgid ""
+"Purge all LiteSpeed caches including LSCache, CSS/JS, localized resources, "
+"object cache, and opcache."
+msgstr ""
+"LSCache, CSS/JS, स्थानीय संसाधन, ऑब्जेक्ट कैश और opcache सहित सभी LiteSpeed "
+"कैश साफ करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:84
+msgid "Rate your conversation"
+msgstr "अपनी बातचीत को रेटिंग दें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:280
+msgid "Remove Noscript Tags"
+msgstr "Noscript टैग्स हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:278
+msgid "Remove Query Strings from Static Files"
+msgstr "स्टैटिक फाइल्स से क्वेरी स्ट्रिंग्स हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:279
+msgid "Remove WordPress Emoji"
+msgstr "WordPress इमोजी हटाएं"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:294
+#, fuzzy
+msgid "Removed Unused CSS for Users"
+msgstr "उपयोगकर्ताओं के लिए अनावश्यक CSS हटाया गया"
+
+#: includes-psr4/Nudges/DomainRenewalNudge.php:88
+#, fuzzy
+msgid "Renew my domain"
+msgstr "मेरा डोमेन नवीनीकृत करें"
+
+#: includes-psr4/Nudges/RenewalNudge.php:100
+#, fuzzy
+msgid "Renew my plan"
+msgstr "मेरी योजना का नवीनीकरण करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:130
+#, fuzzy
+msgid "Report period. Options: week, month, last_month, year."
+msgstr "रिपोर्ट अवधि। विकल्प: सप्ताह, महीना, पिछला_महीना, वर्ष।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:239
+msgid "Requested size not found"
+msgstr "अनुरोधित साइज़ नहीं मिला"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:46
+#, fuzzy
+msgid "Required when position is before/after. The sibling element ID."
+msgstr "जब स्थिति पहले/बाद में हो तो आवश्यक। भाई तत्व का आईडी।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:32
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:57
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:84
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:117
+#, fuzzy
+msgid ""
+"REST API base for the post type (e.g., posts, pages, templates, product, etc."
+")."
+msgstr ""
+"पोस्ट प्रकार के लिए REST API बेस (उदाहरण के लिए, पोस्ट, पेज, टेम्पलेट, "
+"उत्पाद, आदि)।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:46
+msgid "Restart chatbot"
+msgstr "चैटबॉट को रिस्टार्ट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:110
+#, fuzzy
+msgid ""
+"Restore a specific revision for an item by copying its content back to the "
+"parent. Works for any post type using its REST base."
+msgstr ""
+"किसी आइटम के लिए एक विशिष्ट संशोधन को पुनर्स्थापित करने के लिए उसकी सामग्री "
+"को मूल में वापस कॉपी करें। यह किसी भी पोस्ट प्रकार के लिए काम करता है जो "
+"इसके REST बेस का उपयोग करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:109
+#, fuzzy
+msgid "Restore Revision"
+msgstr "संशोधन पुनर्स्थापित करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:176
+msgid "Retrieve a list of WooCommerce orders with filters"
+msgstr "फिल्टर्स के साथ WooCommerce ऑर्डरों की सूची प्राप्त करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:132
+#, fuzzy
+msgid "Retrieve detailed information about my WordPress site"
+msgstr "मेरी WordPress साइट के बारे में विस्तृत जानकारी प्राप्त करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:15
+#, fuzzy
+msgid ""
+"Retrieves a specific Elementor kit by post ID with all settings including "
+"global colors, typography presets, and theme style settings."
+msgstr ""
+"पोस्ट आईडी के आधार पर एक विशिष्ट Elementor किट को सभी सेटिंग्स सहित पुनः "
+"प्राप्त करता है, जिनमें ग्लोबल कलर, टाइपोग्राफी प्रीसेट और थीम स्टाइल "
+"सेटिंग्स शामिल हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListPages.php:15
+#, fuzzy
+msgid ""
+"Retrieves all posts/pages/custom post types that use Elementor builder. "
+"Supports filtering by post type and status with pagination."
+msgstr ""
+"Elementor बिल्डर का उपयोग करने वाले सभी पोस्ट/पेज/कस्टम पोस्ट प्रकार प्राप्त "
+"करता है। पेजिनेशन के साथ पोस्ट प्रकार और स्थिति के अनुसार फ़िल्टरिंग का "
+"समर्थन करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:15
+#, fuzzy
+msgid ""
+"Retrieves complete information about a specific Elementor widget by its "
+"unique ID, including all settings, position, and parent information."
+msgstr ""
+"एक विशिष्ट Elementor विजेट की उसकी अनूठी आईडी के माध्यम से सभी सेटिंग्स, "
+"स्थिति और अभिभावक जानकारी सहित पूरी जानकारी प्राप्त करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ListTemplates.php:15
+#, fuzzy
+msgid ""
+"Retrieves Elementor templates from the elementor_library post type. Results "
+"include the template type and support pagination."
+msgstr ""
+"elementor_library पोस्ट प्रकार से Elementor टेम्प्लेट्स प्राप्त करता है। "
+"परिणामों में टेम्प्लेट प्रकार और पेजिनेशन का समर्थन शामिल है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetActiveKit.php:15
+#, fuzzy
+msgid ""
+"Retrieves the active Elementor kit with all settings including global colors,"
+" typography presets, custom CSS, and theme style settings."
+msgstr ""
+"सक्रिय Elementor किट को सभी सेटिंग्स सहित पुनः प्राप्त करता है, जिनमें "
+"ग्लोबल रंग, टाइपोग्राफी प्रीसेट्स, कस्टम CSS और थीम स्टाइल सेटिंग्स शामिल "
+"हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:139
+msgid "Return sales for a specific end date. Format: YYYY-MM-DD."
+msgstr "एक विशिष्ट समाप्ति तिथि के लिए रिटर्न सेल्स। फॉर्मेट: DD-MM-YYYY."
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:135
+msgid "Return sales for a specific start date. Format: YYYY-MM-DD."
+msgstr "एक विशिष्ट प्रारंभ तिथि के लिए रिटर्न सेल्स। फॉर्मेट: DD-MM-YYYY."
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:15
+#, fuzzy
+msgid ""
+"Returns a readable, hierarchical summary of Elementor page structure without "
+"raw JSON. Shows containers and widgets in a tree view."
+msgstr ""
+"कच्चे JSON के बिना Elementor पेज संरचना का पठनीय, पदानुक्रमित सारांश लौटाता "
+"है। कंटेनरों और विजेट्स को ट्री व्यू में दिखाता है।"
+
+#. translators: %s: revision id
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:189
+#, fuzzy, php-format
+msgid "Revision with ID '%s' not found"
+msgstr "ID '%s' के साथ संशोधन नहीं मिला"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:262
+#, fuzzy
+msgid "Right border width (as string)"
+msgstr "सही बॉर्डर चौड़ाई (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:213
+#, fuzzy
+msgid "Right margin value (as string)"
+msgstr "दाएँ मार्जिन का मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:175
+#, fuzzy
+msgid "Right padding value (as string)"
+msgstr "सही पैडिंग मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:100
+#, fuzzy
+msgid "Row gap for grid or multi‑row flex (px)"
+msgstr "ग्रिड या मल्टी-रो फ्लेक्स के लिए पंक्ति अंतर (px)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:15
+#, fuzzy
+msgid ""
+"Safely removes a container. Optionally preserves children by moving them to "
+"the parent at the same position. Can require confirmation for complex "
+"structures."
+msgstr ""
+"एक कंटेनर को सुरक्षित रूप से हटाता है। वैकल्पिक रूप से, बच्चों को उसी स्थिति "
+"में पैरेंट में स्थानांतरित करके संरक्षित रखता है। जटिल संरचनाओं के लिए "
+"पुष्टि की आवश्यकता हो सकती है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:15
+#, fuzzy
+msgid ""
+"Safely updates text content of Elementor widgets (heading, button, text-"
+"editor). Updates text/title/editor fields while preserving all other "
+"settings."
+msgstr ""
+"Elementor विजेट्स (हेडिंग, बटन, टेक्स्ट-एडिटर) की टेक्स्ट सामग्री को "
+"सुरक्षित रूप से अपडेट करता है। अन्य सभी सेटिंग्स को संरक्षित रखते हुए "
+"टेक्स्ट/शीर्षक/एडिटर फ़ील्ड्स को अपडेट करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:20
+#, fuzzy
+msgid ""
+"Search and filter WooCommerce coupons with pagination. Returns a list of "
+"coupons matching the search criteria."
+msgstr ""
+"पृष्ठानुक्रमण के साथ WooCommerce कूपन खोजें और फ़िल्टर करें। खोज मानदंडों से "
+"मेल खाने वाले कूपनों की एक सूची लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:20
+msgid ""
+"Search and filter WooCommerce products with pagination. Returns a list of "
+"products matching the search criteria."
+msgstr ""
+"पेजिनेशन के साथ WooCommerce उत्पादों को खोजें और फिल्टर करें। यह खोज "
+"मानदंडों से मेल खाने वाले उत्पादों की एक सूची लौटाता है।"
+
+#. translators: %s: post type names
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:85
+#, php-format
+msgid ""
+"Search and filter WordPress custom post types posts including %s with "
+"pagination"
+msgstr ""
+"पेजिनेशन के साथ %s सहित WordPress कस्टम पोस्ट टाइप्स के पोस्ट्स खोजें और "
+"फिल्टर करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:18
+msgid ""
+"Search and filter WordPress pages with pagination. Returns a list of pages "
+"matching the search criteria."
+msgstr ""
+"पेजिनेशन के साथ WordPress पेजों को खोजें और फिल्टर करें। यह खोज मानदंडों से "
+"मेल खाने वाले पेजों की एक सूची लौटाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:18
+msgid ""
+"Search and filter WordPress posts with pagination. Returns a list of posts "
+"matching the search criteria."
+msgstr ""
+"पेजिनेशन के साथ WordPress पोस्ट्स खोजें और फिल्टर करें। यह खोज मानदंडों से "
+"मेल खाने वाले पोस्ट्स की सूची लौटाता है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:136
+msgid "Search and filter WordPress users with pagination"
+msgstr "पेजिनेशन के साथ WordPress उपयोगकर्ताओं को खोजें और फिल्टर करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:18
+msgid ""
+"Search and filter WordPress users with pagination. Returns a list of users "
+"matching the search criteria."
+msgstr ""
+"पेजिनेशन के साथ WordPress उपयोगकर्ताओं को खोजें और फिल्टर करें। यह खोज "
+"मानदंडों से मेल खाने वाले उपयोगकर्ताओं की सूची लौटाता है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:150
+#, fuzzy
+msgid "Search blog posts"
+msgstr "ब्लॉग पोस्ट खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:82
+msgid "Search Custom Post Types Posts"
+msgstr "कस्टम पोस्ट टाइप के पोस्ट खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:81
+#, fuzzy
+msgid "Search Media"
+msgstr "मीडिया खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:17
+msgid "Search Pages"
+msgstr "पेजेस खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:17
+msgid "Search Posts"
+msgstr "पोस्ट खोजें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:152
+msgid "Search posts on my WordPress website"
+msgstr "मेरी WordPress वेबसाइट पर पोस्ट खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:89
+#, fuzzy
+msgid "Search term to look for in media titles, captions, and descriptions"
+msgstr "मीडिया शीर्षकों, कैप्शन और विवरणों में खोजने के लिए खोज शब्द"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:98
+msgid "Search term to look for in post titles and content"
+msgstr "पोस्ट के शीर्षकों और कॉन्टेंट में खोजने के लिए खोज शब्द"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:17
+#, fuzzy
+msgid "Search Users"
+msgstr "उपयोगकर्ताओं को खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:19
+#, fuzzy
+msgid "Search WooCommerce Coupons"
+msgstr "WooCommerce कूपन खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:19
+#, fuzzy
+msgid "Search WooCommerce Orders"
+msgstr "WooCommerce ऑर्डर खोजें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:177
+#, fuzzy
+msgid "Search WooCommerce orders for my store"
+msgstr "मेरे स्टोर के WooCommerce ऑर्डर खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:19
+#, fuzzy
+msgid "Search WooCommerce Products"
+msgstr "WooCommerce उत्पाद खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:82
+msgid ""
+"Search WordPress media items by title, caption, or description with "
+"filtering options."
+msgstr ""
+"शीर्षक, कैप्शन या विवरण के आधार पर फिल्टरिंग विकल्पों के साथ WordPress "
+"मीडिया आइटम खोजें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:137
+msgid "Search WordPress users on my website"
+msgstr "मेरी वेबसाइट पर WordPress उपयोगकर्ताओं को खोजें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:17
+#, fuzzy
+msgid ""
+"Searches for specific widget types in an Elementor page structure. Returns "
+"all widgets matching the criteria with their settings and position."
+msgstr ""
+"Elementor पेज संरचना में विशिष्ट विजेट प्रकारों की खोज करता है। मानदंडों से "
+"मेल खाने वाले सभी विजेट्स को उनकी सेटिंग्स और स्थिति के साथ लौटाता है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:56
+msgid "Selected file type is not supported"
+msgstr "चुना गया फाइल टाइप सपोर्ट नहीं किया जाता है"
+
+#: admin/class-hostinger-ai-assistant-translations.php:94
+#, fuzzy
+msgid "Send"
+msgstr "भेजें"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:10
+msgid ""
+"SEO keywords improve web content visibility on search engines like Google by "
+"being relevant and naturally placed"
+msgstr ""
+"प्रासंगिक और स्वाभाविक रूप से परिनियोजित किए गए SEO कीवर्ड्स Google जैसे "
+"सर्च इंजनों पर वेब कॉन्टेंट की दृश्यता बढ़ाते हैं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:204
+#, fuzzy
+msgid "Set to true to remove margin entirely"
+msgstr "मार्जिन को पूरी तरह हटाने के लिए true पर सेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:166
+#, fuzzy
+msgid "Set to true to remove padding entirely"
+msgstr "पैडिंग को पूरी तरह से हटाने के लिए true पर सेट करें।"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:125
+#: admin/partials/hostinger-ai-assistant-tab-view.php:131
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:79
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:116
+#, fuzzy
+msgid "Short"
+msgstr "संक्षिप्त"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteInfoResource.php:16
+#, fuzzy
+msgid "Site Information"
+msgstr "साइट की जानकारी"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:61
+msgid "Site language"
+msgstr "साइट की भाषा"
+
+#: includes-psr4/Mcp/Abilities/Resources/SiteSettingsResource.php:16
+#, fuzzy
+msgid "Site Settings"
+msgstr "साइट सेटिंग्स"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:41
+msgid "Site tagline/description"
+msgstr "साइट टैगलाइन/विवरण"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:45
+msgid "Site timezone"
+msgstr "साइट का समय क्षेत्र"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:37
+msgid "Site title"
+msgstr "साइट शीर्षक"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:84
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:117
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:133
+#, fuzzy
+msgid "Size value"
+msgstr "आकार मान"
+
+#: admin/class-hostinger-ai-assistant-translations.php:114
+msgid "Sorry, the AI Chatbot is currently unavailable. Please try again later."
+msgstr ""
+"क्षमा करें, इस समय AI चैटबॉट उपलब्ध नहीं है। कृपया थोड़ी देर में दोबारा "
+"प्रयास करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:115
+msgid "Sorry, the AI Chatbot request timed out. Please try again later."
+msgstr ""
+"क्षमा करें, AI चैटबॉट आवेदन का टाइम-आउट हो गया है। कृपया थोड़ी देर में "
+"दोबारा प्रयास करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:48
+#: admin/class-hostinger-ai-assistant-translations.php:103
+#: admin/class-hostinger-ai-assistant-translations.php:105
+msgid "Start new chat"
+msgstr "नई चैट शुरू करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:57
+msgid "Start of week (0 = Sunday, 1 = Monday, etc.)"
+msgstr "सप्ताह की शुरुआत (0 = रविवार, 1 = सोमवार, आदि)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:30
+#, fuzzy
+msgid ""
+"Style properties to update. All properties are optional. Only provide the "
+"properties you want to change."
+msgstr ""
+"अपडेट करने के लिए शैली गुण। सभी गुण वैकल्पिक हैं। केवल वे गुण प्रदान करें "
+"जिन्हें आप बदलना चाहते हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:175
+#, fuzzy
+msgid ""
+"Stylesheet of the theme to activate as a replacement. Defaults to "
+"'twentytwentyfour'."
+msgstr ""
+"थीम की स्टाइलशीट को प्रतिस्थापन के रूप में सक्रिय करने के लिए। डिफ़ॉल्ट "
+"'twentytwentyfour' है।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:74
+#, fuzzy
+msgid "Summarize your store or site performance"
+msgstr "अपने स्टोर या साइट के प्रदर्शन का सारांश दें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:28
+#, fuzzy
+msgid "System color key to update (optional)"
+msgstr "सिस्टम रंग कुंजी अपडेट करें (वैकल्पिक)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:55
+#, fuzzy
+msgid "System typography preset key to update (optional)"
+msgstr "सिस्टम टाइपोग्राफी प्रीसेट कुंजी को अपडेट करें (वैकल्पिक)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:110
+msgid "Talking to Hostinger Agent is in the works, we'll keep you posted once it's out!"
+msgstr ""
+"Hostinger Agent से वॉइस द्वारा बात करने के फीचर पर काम किया जा रहा है। इसके आते ही हम "
+"आपको सूचित करेंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:30
+#, fuzzy
+msgid "Target device for responsive settings"
+msgstr "प्रतिक्रियाशील सेटिंग्स के लिए लक्ष्य डिवाइस"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:189
+#, fuzzy
+msgid "Target global color not found in the active kit"
+msgstr "सक्रिय किट में वैश्विक रंग नहीं मिला"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:127
+#, fuzzy
+msgid "Target number of inner columns (containers)"
+msgstr "आंतरिक स्तंभों (कंटेनरों) की लक्षित संख्या"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:250
+#, fuzzy
+msgid "Target typography preset not found in the active kit"
+msgstr "लक्षित टाइपोग्राफी प्रीसेट सक्रिय किट में नहीं मिला।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:79
+#, fuzzy
+msgid "Template part ID."
+msgstr "टेम्पलेट भाग आईडी।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:335
+#, fuzzy
+msgid "Text alignment"
+msgstr "पाठ संरेखण"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:38
+#, fuzzy
+msgid "Text color. Used for text elements."
+msgstr "टेक्स्ट का रंग। टेक्स्ट तत्वों के लिए उपयोग किया जाता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:155
+#, fuzzy
+msgid "Text decoration"
+msgstr "पाठ सजावट"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:145
+#, fuzzy
+msgid "Text transformation"
+msgstr "पाठ रूपांतरण"
+
+#: admin/class-hostinger-ai-assistant-translations.php:95
+msgid "Thank you for your feedback"
+msgstr "अपना फीडबैक साझा करने के लिए धन्यवाद"
+
+#: admin/class-hostinger-ai-assistant-translations.php:88
+msgid "Thanks for letting us know"
+msgstr "हमें बताने के लिए धन्यवाद"
+
+#: admin/class-hostinger-ai-assistant-translations.php:87
+msgid ""
+"Thanks for letting us know. Click the button below if you want to leave "
+"additional feedback."
+msgstr ""
+"हमें बताने के लिए धन्यवाद। यदि आप अतिरिक्त फीडबैक देना चाहते हैं तो नीचे "
+"दिया बटन दबाएं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:30
+#, fuzzy
+msgid ""
+"The color property to assign. Common properties: title_color (for headings), "
+"text_color (for text), background_color, button_background_color, "
+"button_text_color, border_color, hover_color, icon_color"
+msgstr ""
+"निर्धारित करने के लिए रंग गुण।  सामान्य गुण: title_color (शीर्षकों के लिए), "
+"text_color (पाठ के लिए), background_color, button_background_color, "
+"button_text_color, border_color, hover_color, icon_color"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:200
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:258
+msgid "The content of the post"
+msgstr "पोस्ट का कॉन्टेंट"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:192
+msgid "The custom post type to create"
+msgstr "बनाने के लिए कस्टम पोस्ट प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:304
+msgid "The custom post type to delete"
+msgstr "मिटाने के लिए कस्टम पोस्ट प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:152
+msgid "The custom post type to get"
+msgstr "प्राप्त करने के लिए कस्टम पोस्ट प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:94
+msgid "The custom post type to search"
+msgstr "खोजने के लिए कस्टम पोस्ट प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:246
+msgid "The custom post type to update"
+msgstr "अपडेट करने के लिए कस्टम पोस्ट प्रकार"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:204
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:262
+msgid "The excerpt of the post"
+msgstr "पोस्ट का अंश"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:46
+#, fuzzy
+msgid ""
+"The global color ID from the active kit. Use get_active_kit tool first to "
+"see available color IDs. Common system colors: primary, secondary, text, "
+"accent. Custom colors have unique IDs like \"09cc561\"."
+msgstr ""
+"सक्रिय किट से वैश्विक रंग आईडी। उपलब्ध रंग आईडी देखने के लिए पहले "
+"get_active_kit टूल का उपयोग करें। सामान्य सिस्टम रंग: प्राथमिक, द्वितीयक, "
+"पाठ, उच्चारण। कस्टम रंगों के पास \"09cc561\" जैसी अद्वितीय आईडी होती है।"
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:145
+#, php-format
+msgid "The Hostinger AI plugin requires minimum PHP version of <b>%s</b>. "
+msgstr ""
+"Hostinger AI प्लगइन को न्यूनतम PHP <b>%s</b> संस्करण की आवश्यकता होती है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:150
+msgid "The ID of the media item"
+msgstr "मीडिया आइटम की ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:308
+msgid "The ID of the post to delete"
+msgstr "मिटाने के लिए पोस्ट की ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:156
+msgid "The ID of the post to get"
+msgstr "प्राप्त करने के लिए पोस्ट की ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:250
+msgid "The ID of the post to update"
+msgstr "अपडेट करने के लिए पोस्ट की ID"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:22
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:24
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:22
+#, fuzzy
+msgid "The ID of the post/page containing the widget"
+msgstr "विजेट वाले पोस्ट/पेज की आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:22
+#, fuzzy
+msgid "The ID of the post/page to get structure for"
+msgstr "प्राप्त करने के लिए पोस्ट/पृष्ठ की आईडी संरचना"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:18
+#, fuzzy
+msgid "The ID of the post/page to modify"
+msgstr "संपादित किए जाने वाले पोस्ट/पृष्ठ की आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:24
+#, fuzzy
+msgid "The ID of the post/page to search in"
+msgstr "खोजने के लिए पोस्ट/पृष्ठ की आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:27
+#, fuzzy
+msgid "The ID of the target container"
+msgstr "लक्ष्य कंटेनर की आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:30
+#, fuzzy
+msgid "The new content text"
+msgstr "नई सामग्री का पाठ"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:30
+#, fuzzy
+msgid "The new image URL"
+msgstr "नई छवि का URL"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:32
+#, fuzzy
+msgid "The new link URL"
+msgstr "नया लिंक URL"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:36
+#, fuzzy
+msgid "The parent item ID to list revisions for."
+msgstr "जिस अभिभावक आइटम आईडी के लिए संशोधनों की सूची बनानी है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:61
+#: includes-psr4/Mcp/Abilities/Tools/RevisionsTools.php:88
+#, fuzzy
+msgid "The parent item ID."
+msgstr "माता-पिता आइटम आईडी।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetKitById.php:22
+#, fuzzy
+msgid "The post ID of the Elementor kit"
+msgstr "एलिमेंटर किट का पोस्ट आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:127
+msgid "The preset to apply"
+msgstr "लागू करने के लिए प्रीसेट"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:208
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:266
+msgid "The status of the post (publish, draft, pending, etc.)"
+msgstr "पोस्ट का स्टेटस (पब्लिश, ड्राफ्ट , लंबित, आदि)"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:196
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:254
+msgid "The title of the post"
+msgstr "पोस्ट का शीर्षक"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:26
+#, fuzzy
+msgid "The unique ID of the image widget to update"
+msgstr "अपडेट करने के लिए इमेज विजेट की अनूठी आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetWidgetById.php:26
+#, fuzzy
+msgid "The unique ID of the widget to retrieve"
+msgstr "प्राप्त करने के लिए विजेट की अनूठी आईडी"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:26
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:26
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:28
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:26
+#, fuzzy
+msgid "The unique ID of the widget to update"
+msgstr "अपडेट किए जाने वाले विजेट की अनूठी आईडी"
+
+#. translators: %s: theme slug.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:263
+#, fuzzy, php-format
+msgid "Theme \"%s\" is already installed."
+msgstr "थीम \"%s\" पहले से ही स्थापित है।"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:391
+#, fuzzy, php-format
+msgid "Theme \"%s\" is not the active theme."
+msgstr "थीम \"%s\" सक्रिय नहीं है।"
+
+#. translators: %s: theme stylesheet directory name.
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:322
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:358
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:421
+#, fuzzy, php-format
+msgid "Theme \"%s\" not found."
+msgstr "थीम \"%s\" नहीं मिला।"
+
+#: includes-psr4/Mcp/Abilities/Resources/ThemeInfoResource.php:16
+msgid "Theme Information"
+msgstr "थीम की जानकारी"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:173
+#, fuzzy
+msgid "Theme location slug (e.g., primary, header, footer)."
+msgstr "थीम स्थान स्लग (उदाहरण के लिए, प्राथमिक, हेडर, फुटर)।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:81
+#, fuzzy
+msgid "Theme stylesheet directory name (e.g. 'twentytwentyfour')"
+msgstr "थीम स्टाइलशीट निर्देशिका का नाम (उदाहरण के लिए 'twentytwentyfour')"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:126
+#, fuzzy
+msgid "Theme stylesheet directory name to activate"
+msgstr "सक्रिय करने के लिए थीम स्टाइलशीट निर्देशिका का नाम"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:171
+#, fuzzy
+msgid ""
+"Theme stylesheet directory name to deactivate (will switch to the default "
+"theme)"
+msgstr ""
+"अक्षम करने के लिए थीम स्टाइलशीट निर्देशिका का नाम (डिफ़ॉल्ट थीम पर स्विच हो "
+"जाएगा)"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:221
+#, fuzzy
+msgid "Theme stylesheet directory name to update"
+msgstr "अपडेट करने के लिए थीम स्टाइलशीट निर्देशिका का नाम"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:248
+#, fuzzy
+msgid "There was an error with your request. Please try again."
+msgstr "आपकी अनुरोध में एक त्रुटि हुई। कृपया फिर से प्रयास करें।"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:20
+msgid ""
+"These keywords can help your article and website rank higher in search "
+"engines. You can input up to 5 keywords."
+msgstr ""
+"ये कीवर्ड्स आपके लेख और वेबसाइट को सर्च इंजन पर उच्च रैंक प्राप्त करने में "
+"मदद कर सकते हैं। आप अधिकतम 5 कीवर्ड्स इनपुट कर सकते हैं।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:61
+msgid "Thinking"
+msgstr "सोच रहा है"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/DeleteContainer.php:80
+#, fuzzy
+msgid ""
+"This deletion will remove a complex subtree. Set confirm=true to proceed or "
+"enable preserve_children to keep children."
+msgstr ""
+"यह हटाने से एक जटिल उपवृक्ष हटा दिया जाएगा। आगे बढ़ने के लिए confirm=true "
+"सेट करें या children को संरक्षित रखने के लिए preserve_children सक्षम करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:254
+msgid ""
+"This low-risk preset introduces basic optimizations for speed and user "
+"experience. Appropriate for enthusiastic beginners."
+msgstr ""
+"यह कम-जोखिम वाला प्रीसेट गति और उपयोगकर्ता अनुभव के लिए बुनियादी अनुकूलन पेश "
+"करता है। उत्साही शुरुआती लोगों के लिए उपयुक्त।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:242
+msgid ""
+"This no-risk preset is appropriate for all websites. Good for new users, "
+"simple websites, or cache-oriented development."
+msgstr ""
+"यह जोखिम-मुक्त प्रीसेट सभी वेबसाइटों के लिए उपयुक्त है। नए उपयोगकर्ताओं, सरल "
+"वेबसाइटों या कैश-उन्मुख विकास के लिए अच्छा है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/BaseElementorTool.php:28
+#, fuzzy
+msgid "This post does not use Elementor builder"
+msgstr "इस पोस्ट में Elementor बिल्डर का उपयोग नहीं किया गया है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:303
+msgid ""
+"This preset almost certainly will require testing and exclusions for some "
+"CSS, JS and Lazy Loaded images. Pay special attention to logos, or HTML-"
+"based slider images."
+msgstr ""
+"इस प्रीसेट को लगभग निश्चित रूप से कुछ CSS, JS और लेज़ी-लोडेड इमेजेस के लिए "
+"परीक्षण और अपवादों की आवश्यकता होगी। लोगो या HTML-आधारित स्लाइडर इमेजेस पर "
+"विशेष ध्यान दें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:268
+msgid ""
+"This preset is good for most websites, and is unlikely to cause conflicts. "
+"Any CSS or JS conflicts may be resolved with Page Optimization > Tuning "
+"tools."
+msgstr ""
+"यह प्रीसेट अधिकांश वेबसाइटों के लिए उपयुक्त है और इसके अन्य के साथ समान होने "
+"की संभावना कम है। CSS या JS की कोई भी समानताएं पेज ऑप्टिमाइज़ेशन > ट्यूनिंग "
+"टूल्स के माध्यम से हल की जा सकती हैं।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:288
+msgid ""
+"This preset might work out of the box for some websites, but be sure to test!"
+" Some CSS or JS exclusions may be necessary in Page Optimization > Tuning."
+msgstr ""
+"यह प्रीसेट कुछ वेबसाइटों के लिए पहले से काम कर सकता है, लेकिन इसका परीक्षण "
+"अवश्य करें। पेज ऑप्टिमाइज़ेशन > ट्यूनिंग में कुछ CSS या JS अपवाद आवश्यक हो "
+"सकते हैं।"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:270
+msgid "This will only take a moment"
+msgstr "इसमें थोड़ा ही समय लगेगा"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:53
+msgid "Time format"
+msgstr "टाइम फॉर्मेट"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:42
+#, fuzzy
+msgid "Title/heading color. Used for headings and titles."
+msgstr "शीर्षक/शीर्षक का रंग। शीर्षकों और शीर्षक के लिए उपयोग किया जाता है।"
+
+#: admin/class-hostinger-ai-assistant-notices.php:22
+#| msgid ""
+#| "To unlock the exclusive features of <b>Hostinger AI Assistant</b>, you "
+#| "must possess a unique API token, which is exclusively provided to "
+#| "Hostinger clients"
+msgid ""
+"To unlock the exclusive features of <b>Hostinger AI</b>, you must possess a "
+"unique API token, which is exclusively provided to Hostinger clients"
+msgstr ""
+"<b>Hostinger AI</b> की विशेष सुविधाओं को अनलॉक करने के लिए आपके पास एक यूनिक "
+"API टोकन होना चाहिए, जो विशेष रूप से Hostinger के क्लाइंट्स को प्रदान किया "
+"जाता है"
+
+#: includes-psr4/Cli/JwtCommand.php:130
+#, fuzzy
+msgid "Token expiration (--expires-in) must be an integer number of seconds."
+msgstr "टोकन समाप्ति (--expires-in) सेकंड की पूर्णांक संख्या होनी चाहिए।"
+
+#. translators: 1: minimum expiration in seconds, 2: maximum expiration in seconds
+#: includes-psr4/Cli/JwtCommand.php:140
+#, fuzzy, php-format
+msgid "Token expiration must be between %1$d and %2$d seconds."
+msgstr "टोकन की समाप्ति %1$d और %2$d सेकंड के बीच होनी चाहिए।"
+
+#. translators: 1: minimum expiration time in seconds, 2: maximum expiration time in seconds
+#: includes-psr4/Mcp/Rest/JwtAuth.php:66
+#, php-format
+msgid ""
+"Token expiration must be between %1$d seconds (1 hour) and %2$d seconds (1 "
+"day)"
+msgstr ""
+"टोकन की समाप्ति %1$d सेकंड (1 घंटा) और %2$d सेकंड (1 दिन) के बीच होनी चाहिए"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:34
+msgid "Token expiration time in seconds (3600-86400)"
+msgstr "सेकेंड्स में टोकन समाप्ति समय (3600-86400)"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:81
+msgid "Token ID is required."
+msgstr "टोकन ID आवश्यक है।"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:112
+#, fuzzy
+msgid "Token is invalid, expired, or has been revoked."
+msgstr "टोकन अमान्य, समाप्त हो चुका, या रद्द कर दिया गया है।"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:118
+#, fuzzy
+msgid "Token is malformed: missing user_id."
+msgstr "टोकन अमान्य है: user_id अनुपस्थित है।"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:89
+#, fuzzy
+msgid "Token not found in registry."
+msgstr "रजिस्ट्री में टोकन नहीं मिला।"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:99
+msgid "Token revoked successfully."
+msgstr "टोकन सफलतापूर्वक रद्द कर दिया गया है।"
+
+#. translators: %s: error message from JWT library
+#: includes-psr4/Mcp/Rest/JwtAuth.php:135
+#, php-format
+msgid "Token validation failed: %s"
+msgstr "टोकन सत्यापन विफल रहा: %s"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:100
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:86
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:420
+#, fuzzy
+msgid "Tone of voice"
+msgstr "बोली का लहज़ा"
+
+#: admin/class-hostinger-ai-assistant-translations.php:21
+msgid "tones selected"
+msgstr "चयनित लहज़ा"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:258
+#, fuzzy
+msgid "Top border width (as string)"
+msgstr "शीर्ष सीमा की चौड़ाई (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:209
+#, fuzzy
+msgid "Top margin value (as string)"
+msgstr "शीर्ष मार्जिन मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:171
+#, fuzzy
+msgid "Top padding value (as string)"
+msgstr "शीर्ष पैडिंग मान (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:295
+#, fuzzy
+msgid "Top-left border radius (as string)"
+msgstr "ऊपर-बाएँ बॉर्डर का त्रिज्या (स्ट्रिंग के रूप में)"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:299
+#, fuzzy
+msgid "Top-right border radius (as string)"
+msgstr "ऊपर-दाएँ बॉर्डर रेडियस (स्ट्रिंग के रूप में)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:25
+#: admin/partials/hostinger-ai-assistant-tab-view.php:107
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:90
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:139
+#, fuzzy
+msgid "Trustworthy"
+msgstr "भरोसेमंद"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:72
+#, fuzzy
+msgid "Typography settings for text appearance"
+msgstr "टेक्स्ट की दिखावट के लिए टाइपोग्राफी सेटिंग्स"
+
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:104
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:129
+#: includes-psr4/Mcp/Abilities/Tools/RestEndpointTool.php:140
+msgid "Unique identifier for the resource"
+msgstr "संसाधन के लिए यूनीक पहचानकर्ता"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:225
+#, fuzzy
+msgid "Unit for all margin values"
+msgstr "सभी मार्जिन मानों के लिए इकाई"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:187
+#, fuzzy
+msgid "Unit for all padding values"
+msgstr "सभी पैडिंग मानों के लिए इकाई"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:311
+#, fuzzy
+msgid "Unit for border radius"
+msgstr "सीमा त्रिज्या के लिए इकाई"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:274
+#, fuzzy
+msgid "Unit for border width"
+msgstr "सीमा की चौड़ाई के लिए इकाई"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:137
+#, fuzzy
+msgid "Unit: px, em"
+msgstr "इकाई: px, em"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:88
+#, fuzzy
+msgid "Unit: px, em, rem, %"
+msgstr "इकाई: px, em, rem, %"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:121
+#, fuzzy
+msgid "Unit: px, em, rem, or empty for unitless"
+msgstr "इकाई: px, em, rem, या बिना इकाई के लिए empty"
+
+#: includes/class-hostinger-ai-assistant-errors.php:36
+msgid "Unknown error code."
+msgstr "अज्ञात त्रुटि कोड।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:162
+msgid "Update a post category on my WordPress website"
+msgstr "मेरी WordPress वेबसाइट पर पोस्ट श्रेणी अपडेट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:157
+msgid "Update a post tag on my WordPress website"
+msgstr "मेरी WordPress वेबसाइट पर पोस्ट टैग अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:38
+#, fuzzy
+msgid "Update a template part content or title."
+msgstr "टेम्पलेट भाग की सामग्री या शीर्षक अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:239
+msgid "Update a WordPress custom post type post by ID"
+msgstr "ID द्वारा एक WordPress कस्टम पोस्ट टाइप पोस्ट अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:43
+msgid ""
+"Update a WordPress media item metadata. Only provided fields will be updated."
+msgstr ""
+"WordPress मीडिया आइटम का मेटाडेटा अपडेट करें। केवल प्रदान किए गए फील्ड ही "
+"अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:121
+#, fuzzy
+msgid "Update an existing menu item, including label, URL, parent, and order."
+msgstr "मौजूदा मेनू आइटम को लेबल, URL, पेरेंट और ऑर्डर सहित अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:51
+#, fuzzy
+msgid "Update an existing navigation menu by ID."
+msgstr "आईडी के द्वारा मौजूदा नेविगेशन मेनू को अपडेट करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:127
+msgid "Update an existing page on my WordPress website"
+msgstr "मेरी WordPress वेबसाइट पर मौजूदा पेज को अपडेट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:147
+msgid "Update an existing post on my WordPress site"
+msgstr "मेरी WordPress साइट पर मौजूदा पोस्ट को अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:56
+#, fuzzy
+msgid "Update an existing Site Editor navigation."
+msgstr "मौजूदा साइट एडिटर नेविगेशन को अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:55
+#, fuzzy
+msgid ""
+"Update an existing WooCommerce coupon by ID. Only provided fields will be "
+"updated."
+msgstr ""
+"आईडी के माध्यम से मौजूदा WooCommerce कूपन को अपडेट करें। केवल प्रदान किए गए "
+"फ़ील्ड ही अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:55
+#, fuzzy
+msgid ""
+"Update an existing WooCommerce order by ID. Use this to change status (e.g., "
+"pending, processing, completed, refunded) and other editable fields."
+msgstr ""
+"मौजूदा WooCommerce ऑर्डर को आईडी के माध्यम से अपडेट करें। इसका उपयोग स्थिति "
+"(जैसे लंबित, प्रसंस्करण में, पूरा, धनवापसी) और अन्य संपादन योग्य फ़ील्ड्स को "
+"बदलने के लिए करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:247
+msgid "Update an existing WooCommerce product brand by ID."
+msgstr "एक मौजूदा WooCommerce उत्पाद ब्रांड को ID अनुसार अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:55
+msgid ""
+"Update an existing WooCommerce product by ID. Only provided fields will be "
+"updated."
+msgstr ""
+"एक मौजूदा WooCommerce उत्पाद को ID अनुसार अपडेट करें। केवल प्रदान किए गए "
+"फील्ड ही अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:113
+msgid "Update an existing WooCommerce product category by ID."
+msgstr "एक मौजूदा WooCommerce उत्पाद श्रेणी को ID अनुसार अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:180
+msgid "Update an existing WooCommerce product tag by ID."
+msgstr "एक मौजूदा WooCommerce उत्पाद टैग को ID अनुसार अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:53
+msgid ""
+"Update an existing WordPress category by ID. Only provided fields will be "
+"updated."
+msgstr ""
+"एक मौजूदा WordPress श्रेणी को ID अनुसार अपडेट करें। केवल प्रदान किए गए फील्ड "
+"ही अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:53
+msgid ""
+"Update an existing WordPress page by ID. Only provided fields will be "
+"updated."
+msgstr ""
+"एक मौजूदा WordPress पेज को ID अनुसार अपडेट करें। केवल प्रदान किए गए फील्ड ही "
+"अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:53
+msgid ""
+"Update an existing WordPress post by ID. Only provided fields will be "
+"updated."
+msgstr ""
+"एक मौजूदा WordPress पोस्ट को ID अनुसार अपडेट करें। केवल प्रदान किए गए फील्ड "
+"ही अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:53
+msgid ""
+"Update an existing WordPress tag by ID. Only provided fields will be updated."
+msgstr ""
+"एक मौजूदा WordPress टैग को ID अनुसार अपडेट करें। केवल प्रदान किए गए फील्ड ही "
+"अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:74
+msgid ""
+"Update an existing WordPress user by ID. Only provided fields will be "
+"updated."
+msgstr ""
+"एक मौजूदा WordPress उपयोगकर्ता को ID अनुसार अपडेट करें। केवल प्रदान किए गए "
+"फील्ड ही अपडेट किए जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:208
+#, fuzzy
+msgid "Update an installed plugin to the latest version from WordPress.org."
+msgstr ""
+"WordPress.org से इंस्टॉल किए गए प्लगइन को नवीनतम संस्करण में अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:213
+#, fuzzy
+msgid "Update an installed theme to the latest version from WordPress.org."
+msgstr "WordPress.org से इंस्टॉल किए गए थीम को नवीनतम संस्करण में अपडेट करें।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:145
+#, fuzzy
+msgid "Update blog post"
+msgstr "ब्लॉग पोस्ट अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/CategoriesTools.php:52
+#, fuzzy
+msgid "Update Category"
+msgstr "श्रेणी अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:132
+msgid "Update Current User"
+msgstr "वर्तमान उपयोगकर्ता को अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/CustomPostTypesTools.php:238
+msgid "Update Custom Post Type Post"
+msgstr "कस्टम पोस्ट टाइप पोस्ट को अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:14
+#, fuzzy
+msgid "Update Elementor Container"
+msgstr "एलिमेंटर कंटेनर अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:14
+#, fuzzy
+msgid "Update Elementor Global Styles"
+msgstr "एलिमेंटर ग्लोबल स्टाइल्स अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:14
+#, fuzzy
+msgid "Update Elementor Widget Content"
+msgstr "एलिमेंटर विजेट की सामग्री अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:14
+#, fuzzy
+msgid "Update Elementor Widget Image"
+msgstr "एलिमेंटर विजेट छवि अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:16
+#, fuzzy
+msgid "Update Elementor Widget Link"
+msgstr "एलिमेंटर विजेट लिंक अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:14
+#, fuzzy
+msgid "Update Elementor Widget Styles"
+msgstr "एलिमेंटर विजेट शैलियों को अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:31
+#, fuzzy
+msgid "Update General Settings"
+msgstr "सामान्य सेटिंग्स अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:57
+msgid "Update Hostinger Plugin Settings"
+msgstr "Hostinger प्लगइन सेटिंग्स अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/HostingerPluginTools.php:58
+msgid "Update Hostinger plugin settings. Only provided fields will be updated."
+msgstr ""
+"Hostinger प्लगइन सेटिंग्स अपडेट करें। केवल प्रदान किए गए फील्ड ही अपडेट किए "
+"जाएंगे।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:93
+#, fuzzy
+msgid "Update links is only supported for button widgets"
+msgstr "अपडेट लिंक केवल बटन विजेट्स के लिए ही समर्थित है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/MediaTools.php:42
+#, fuzzy
+msgid "Update Media"
+msgstr "मीडिया अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:50
+#, fuzzy
+msgid "Update Menu"
+msgstr "अपडेट मेनू"
+
+#: includes-psr4/Mcp/Abilities/Tools/MenusTools.php:120
+#, fuzzy
+msgid "Update Menu Item"
+msgstr "मेनू आइटम अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/NavigationTools.php:55
+#, fuzzy
+msgid "Update Navigation"
+msgstr "नेविगेशन अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PagesTools.php:52
+msgid "Update Page"
+msgstr "पेज अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:207
+#, fuzzy
+msgid "Update Plugin"
+msgstr "प्लगइन अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/PostsTools.php:52
+#, fuzzy
+msgid "Update Post"
+msgstr "पोस्ट अपडेट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:160
+#, fuzzy
+msgid "Update post category"
+msgstr "पोस्ट श्रेणी अपडेट करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:155
+#, fuzzy
+msgid "Update post tag"
+msgstr "पोस्ट टैग अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TagsTools.php:52
+msgid "Update Tag"
+msgstr "टैग अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/TemplatePartsTools.php:37
+#, fuzzy
+msgid "Update Template Part"
+msgstr "टेम्पलेट भाग अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:133
+msgid "Update the current logged-in user information."
+msgstr "वर्तमान में लॉगड-इन उपयोगकर्ता की जानकारी अपडेट करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:212
+#, fuzzy
+msgid "Update Theme"
+msgstr "थीम अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/UsersTools.php:73
+#, fuzzy
+msgid "Update User"
+msgstr "उपयोगकर्ता अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooCouponsTools.php:54
+#, fuzzy
+msgid "Update WooCommerce Coupon"
+msgstr "WooCommerce कूपन अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooOrdersTools.php:54
+#, fuzzy
+msgid "Update WooCommerce Order"
+msgstr "WooCommerce ऑर्डर अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:54
+#, fuzzy
+msgid "Update WooCommerce Product"
+msgstr "WooCommerce उत्पाद अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:246
+#, fuzzy
+msgid "Update WooCommerce Product Brand"
+msgstr "WooCommerce उत्पाद ब्रांड अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:112
+#, fuzzy
+msgid "Update WooCommerce Product Category"
+msgstr "WooCommerce उत्पाद श्रेणी अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/WooProductsTools.php:179
+#, fuzzy
+msgid "Update WooCommerce Product Tag"
+msgstr "WooCommerce उत्पाद टैग अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/SettingsTools.php:32
+msgid ""
+"Update WordPress general site settings. Only provided fields will be updated."
+msgstr ""
+"WordPress की सामान्य साइट सेटिंग्स अपडेट करें। केवल प्रदान किए गए फील्ड ही "
+"अपडेट किए जाएंगे।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:125
+#, fuzzy
+msgid "Update WordPress page"
+msgstr "WordPress पेज अपडेट करें"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateContainer.php:15
+#, fuzzy
+msgid ""
+"Updates container layout and structure settings like layout, direction, "
+"content width, alignment, spacing, and number of inner columns."
+msgstr ""
+"कंटेनर के लेआउट और संरचना सेटिंग्स को अपडेट करता है, जैसे लेआउट, दिशा, "
+"सामग्री की चौड़ाई, संरेखण, अंतर, और आंतरिक स्तंभों की संख्या।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:18
+#, fuzzy
+msgid ""
+"Updates container styling: background color, padding/margin, border "
+"(radius/width/color/style), opacity, z-index. Supports responsive device "
+"targeting."
+msgstr ""
+"कंटेनर स्टाइलिंग में अपडेट: पृष्ठभूमि रंग, पैडिंग/मार्जिन, बॉर्डर "
+"(रेडियस/चौड़ाई/रंग/शैली), पारदर्शिता, z-index। उत्तरदायी डिवाइस लक्षित करने "
+"का समर्थन करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateGlobalStyles.php:15
+#, fuzzy
+msgid ""
+"Updates Elementor global colors and/or typography presets in the active kit "
+"in a single call. Intended for intents like \"Change primary color to red\" "
+"and \"Change heading font to Arial\" with one request. Triggers site-wide "
+"CSS regeneration."
+msgstr ""
+"एक ही कॉल में सक्रिय किट में Elementor के ग्लोबल रंगों और/या टाइपोग्राफी "
+"प्रीसेट्स को अपडेट करता है। इसका उद्देश्य एक ही अनुरोध में \"प्राथमिक रंग को "
+"लाल में बदलें\" और \"शीर्षक फ़ॉन्ट को Arial में बदलें\" जैसे इरादों के लिए "
+"है। यह साइट-व्यापी CSS पुनर्जनन को ट्रिगर करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:15
+#, fuzzy
+msgid ""
+"Updates image widget source URLs safely. Supports updating URL, media "
+"library ID, and alt text."
+msgstr ""
+"छवि विजेट के स्रोत URL को सुरक्षित रूप से अपडेट करता है। URL, मीडिया "
+"लाइब्रेरी आईडी और वैकल्पिक पाठ को अपडेट करने का समर्थन करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetLink.php:17
+#, fuzzy
+msgid ""
+"Updates link URLs in buttons and other link-capable Elementor widgets. "
+"Supports external and nofollow attributes."
+msgstr ""
+"बटनों और अन्य लिंक-सक्षम Elementor विजेट्स में लिंक URL अपडेट करता है। बाहरी "
+"और nofollow विशेषताओं का समर्थन करता है।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:15
+#, fuzzy
+msgid ""
+"Updates visual styles of Elementor widgets including colors, typography, "
+"spacing (padding/margin), borders, and alignment. Supports both direct "
+"values and responsive settings."
+msgstr ""
+"एलिमेंटर विजेट्स के दृश्य शैली में रंग, टाइपोग्राफी, स्पेसिंग "
+"(पैडिंग/मार्जिन), बॉर्डर और संरेखण सहित अपडेट करता है। यह प्रत्यक्ष मानों और "
+"प्रतिक्रियाशील सेटिंग्स दोनों का समर्थन करता है।"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:377
+#, fuzzy
+msgid "Use this content"
+msgstr "इस सामग्री का उपयोग करें"
+
+#: admin/class-hostinger-ai-assistant-translations.php:35
+#, fuzzy
+msgid "Use this image as:"
+msgstr "इस इमेज का उपयोग ऐसे करें:"
+
+#. translators: %d: WordPress user ID
+#: includes-psr4/Cli/JwtCommand.php:105
+#, fuzzy, php-format
+msgid "User %d lacks the manage_options capability required to issue a token."
+msgstr ""
+"उपयोगकर्ता %d के पास टोकन जारी करने के लिए आवश्यक manage_options क्षमता नहीं "
+"है।"
+
+#: includes-psr4/Mcp/Rest/JwtAuth.php:125
+#, fuzzy
+msgid "User associated with token no longer exists."
+msgstr "टोकन से जुड़ा उपयोगकर्ता अब मौजूद नहीं है।"
+
+#: includes-psr4/Mcp/Abilities/Resources/UsersInfoResource.php:16
+#, fuzzy
+msgid "Users Information"
+msgstr "उपयोगकर्ताओं की जानकारी"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:133
+msgid "Usually used for video, infographics, or product descriptions"
+msgstr ""
+"आमतौर पर वीडियो, इन्फोग्राफिक्स या उत्पादों के विवरण के लिए उपयोग किया जाता "
+"है"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:145
+msgid "Usually used to make high-ranked articles that will generate more leads"
+msgstr ""
+"आमतौर पर उच्च-रैंक वाले लेख बनाने के लिए उपयोग किया जाता है, जो अधिक लीडस् "
+"जनरेट करते हैं"
+
+#: admin/class-hostinger-ai-assistant-translations.php:131
+msgid ""
+"View site details like name, URL, description, admin email, plugins, themes, "
+"and users"
+msgstr ""
+"साइट का नाम, URL, विवरण, एडमिन ईमेल, प्लगइन्स, थीम्स और उपयोगकर्ताओं जैसी "
+"जानकारी देखें"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:308
+msgid "Viewport Image Generation"
+msgstr "व्यूपोर्ट इमेज जनरेशन"
+
+#: admin/class-hostinger-ai-assistant-translations.php:109
+#, fuzzy
+msgid "Voice feature is coming soon"
+msgstr "वॉइस फीचर जल्द ही आ रहा है"
+
+#: includes/class-hostinger-ai-assistant-errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later."
+msgstr ""
+"असुविधा के लिए खेद है। AI कॉन्टेंट जनरेशन प्रक्रिया में सर्वर त्रुटि पेश आई "
+"है। कृपया थोड़ी देर में दोबारा प्रयास करें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/LiteSpeedCacheTools.php:297
+msgid "Websites willing to test and tune settings"
+msgstr "वेबसाइटें जो सेटिंग्स का परीक्षण और ट्यूनिंग करने के लिए तैयार हैं"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+#, fuzzy
+msgid "What are the focus keywords of your content?"
+msgstr "आपके कॉन्टेंट के फोकस कीवर्ड्स क्या हैं?"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:394
+#, fuzzy
+msgid "What content do you want AI to create today?"
+msgstr "आप आज एआई से कौन सी सामग्री बनवाना चाहते हैं?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:56
+msgid "What do you want to make today?"
+msgstr "आज आप क्या बनाना चाहते हैं?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:157
+msgid "What is your content about?"
+msgstr "आपका कॉन्टेंट किस बारे में है?"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:132
+#, fuzzy
+msgid ""
+"When reducing columns, keep removed columns’ children by moving them into a "
+"remaining column"
+msgstr ""
+"कॉलम घटाते समय, हटाए गए कॉलम के बच्चों को शेष कॉलम में स्थानांतरित करके "
+"उन्हें बनाए रखें।"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:317
+#, fuzzy
+msgid "Whether all corners are linked"
+msgstr "क्या सभी कोने जुड़े हुए हैं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:280
+#, fuzzy
+msgid "Whether all sides are linked"
+msgstr "क्या सभी पक्ष जुड़े हुए हैं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:193
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:231
+#, fuzzy
+msgid "Whether all sides are linked together"
+msgstr "क्या सभी पक्ष एक-दूसरे से जुड़े हुए हैं?"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/GetPageStructure.php:33
+#, fuzzy
+msgid "Whether to include settings. Default: false"
+msgstr "सेटिंग्स शामिल करें या नहीं। डिफ़ॉल्ट: false"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/FindWidgets.php:42
+#, fuzzy
+msgid "Whether to include widget settings. Default: true"
+msgstr "क्या विजेट सेटिंग्स शामिल करनी हैं। डिफ़ॉल्ट: true"
+
+#. translators: %s: widget type
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:109
+#, fuzzy, php-format
+msgid "Widget type '%s' does not support content updates"
+msgstr "विजेट प्रकार '%s' सामग्री अपडेट का समर्थन नहीं करता है।"
+
+#. translators: %s: widget id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetImage.php:120
+#, fuzzy, php-format
+msgid "Widget with ID %s not found"
+msgstr "आईडी %s वाला विजेट नहीं मिला"
+
+#. translators: %s: widget id
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/AssignGlobalColor.php:112
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetContent.php:75
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/UpdateWidgetStyles.php:396
+#, fuzzy, php-format
+msgid "Widget with ID '%s' not found"
+msgstr "आईडी '%s' वाला विजेट नहीं मिला"
+
+#: admin/class-hostinger-ai-assistant-translations.php:27
+#: admin/partials/hostinger-ai-assistant-tab-view.php:109
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:92
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:147
+msgid "Witty"
+msgstr "मज़ेदार"
+
+#: includes-psr4/Mcp/Abilities/Tools/PluginTools.php:35
+#, fuzzy
+msgid "WordPress.org plugin slug (e.g. 'woocommerce')"
+msgstr "WordPress.org प्लगइन स्लग (उदाहरण के लिए 'woocommerce')"
+
+#: includes-psr4/Mcp/Abilities/Tools/ThemeTools.php:35
+#, fuzzy
+msgid "WordPress.org theme slug (e.g. 'twentytwentyfour')"
+msgstr "WordPress.org थीम स्लग (उदाहरण के लिए 'twentytwentyfour')"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:220
+msgid "words"
+msgstr "शब्द"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:154
+#, fuzzy
+msgid "Write a motivational post about..."
+msgstr "...के बारे में एक प्रेरक पोस्ट लिखें।"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:153
+#, fuzzy
+msgid "Write a recommendation list of..."
+msgstr "की सिफारिशों की सूची लिखें..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:152
+#, fuzzy
+msgid "Write a step-by-step tutorial about..."
+msgstr "...के बारे में एक चरण-दर-चरण ट्यूटोरियल लिखें।"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:157
+#, fuzzy
+msgid "Write a summary of..."
+msgstr "...का सारांश लिखें।"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:156
+#: gutenberg-block/src/edit.js:399
+#, fuzzy
+msgid "Write an article about ..."
+msgstr "... के बारे में एक लेख लिखें।"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:155
+#, fuzzy
+msgid "Write promotional content about..."
+msgstr "के बारे में प्रचार सामग्री लिखें..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:93
+msgid "Write your feedback (optional)"
+msgstr "अपना फीडबैक लिखें (वैकल्पिक)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:51
+msgid "Write your question"
+msgstr "अपना सवाल लिखें"
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:149
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "आप PHP <b>%s</b> संस्करण चला रहे हैं।"
+
+#: admin/class-hostinger-ai-assistant-translations.php:57
+msgid "You can only upload up to 6 files"
+msgstr "आप केवल 6 फाइल ही अपलोड कर सकते हैं"
+
+# The translation would be different if it's followed by a rating (number).
+#: admin/class-hostinger-ai-assistant-translations.php:89
+msgid "You rated your conversation"
+msgstr "आप अपनी बातचीत को रेटिंग दे चुके हैं"
+
+#: admin/class-hostinger-ai-assistant-translations.php:32
+msgid "You're good to go, but you can share more details for better results"
+msgstr ""
+"आप आगे बढ़ने के लिए तैयार हैं, लेकिन बेहतर परिणाम पाने के लिए आप अधिक जानकारी "
+"साझा कर सकते हैं"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/EditContainer.php:178
+#, fuzzy
+msgid "Z-index"
+msgstr "ज़ेड-इंडेक्स"
+
+#: includes-psr4/Mcp/Abilities/Tools/Elementor/ContainerTool.php:51
+#, fuzzy
+msgid "Zero-based index to insert at when position is index."
+msgstr ""
+"शून्य-आधारित अनुक्रमणिका, जब स्थिति अनुक्रमणिका हो तब सम्मिलित करने के लिए।"

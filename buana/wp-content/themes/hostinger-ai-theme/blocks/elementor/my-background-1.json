@@ -1,0 +1,218 @@
+[
+  {
+    "id": "60ff81f",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 2,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "presetTitle": "Grid",
+      "presetIcon": "eicon-container-grid",
+      "css_classes": "hostinger-ai-resume-1",
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "86dfb2c",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Container",
+          "presetIcon": "eicon-container"
+        },
+        "elements": [
+          {
+            "id": "dee8047",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0.avif",
+                "id": 18,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-image"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "4603b83",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_justify_content": "center"
+        },
+        "elements": [
+          {
+            "id": "576a6b9",
+            "elType": "widget",
+            "settings": {
+              "title": "Work Experience",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e839eff",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>As a web developer, I have crafted numerous resumes showcasing my skills and projects effectively.</p>",
+              "link_color": "#0D141A",
+              "_css_classes": "hostinger-ai-description",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "link_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              },
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_margin_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_margin_mobile": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "text_shadow_text_shadow_type": "yes"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "c4d6792",
+            "elType": "widget",
+            "settings": {
+              "title": "Portfolio",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title hostinger-index-1",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "2097d3a",
+            "elType": "widget",
+            "settings": {
+              "title": "My Professional Journey\nExplore my work experience and projects that highlight my web development expertise.",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-description hostinger-index-1",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              },
+              "header_size": "p",
+              "title_color": "#0D141A"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "9d1fba9",
+            "elType": "widget",
+            "settings": {
+              "title": "Skills and Projects\nExperience. With our intuitive design and user-friendly interface, your website will captivate visitors.",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-subtitle hostinger-index-2",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              },
+              "header_size": "p",
+              "title_color": "#0D141A"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

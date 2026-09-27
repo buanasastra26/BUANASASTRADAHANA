@@ -1,0 +1,521 @@
+[
+  {
+    "id": "d1fbb62",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "8e8ba73",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "_title": "Container"
+        },
+        "elements": [
+          {
+            "id": "b092fdf",
+            "elType": "widget",
+            "settings": {
+              "title": "Our projects",
+              "align": "left",
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1.5",
+                "left": "0",
+                "isLinked": false
+              },
+              "_margin_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_margin_mobile": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "typography_typography": "globals/typography?id=c83476d",
+                "title_color": "globals/colors?id=b1c2d3e"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "e881ca1",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid"
+        },
+        "elements": [
+          {
+            "id": "69fdf7a",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "1c0d911",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                    "id": "",
+                    "size": "",
+                    "source": "url"
+                  },
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_flex_align_self": "center",
+                  "_css_classes": "hostinger-ai-project-image",
+                  "image_size": "full",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              },
+              {
+                "id": "b670b29",
+                "elType": "widget",
+                "settings": {
+                  "title": "Title 1",
+                  "header_size": "p",
+                  "align": "center",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-title hostinger-ai-font-bold",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "05530be",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Experience luxurious accommodation in the breathtaking Alps, perfect for your ski getaway.</p>",
+                  "_css_classes": "hostinger-ai-project-description",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "link_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "align": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "34c1c46",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "0a265e5",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                    "id": "",
+                    "size": "",
+                    "source": "url"
+                  },
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_flex_align_self": "center",
+                  "_css_classes": "hostinger-ai-project-image",
+                  "image_size": "full",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              },
+              {
+                "id": "14b4a45",
+                "elType": "widget",
+                "settings": {
+                  "title": "Title 1",
+                  "header_size": "p",
+                  "align": "center",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-title hostinger-index-1 hostinger-ai-font-bold",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "4e40a8a",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Experience luxurious accommodation in the breathtaking Alps, perfect for your ski getaway.</p>",
+                  "_css_classes": "hostinger-ai-project-description hostinger-index-1",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "link_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "align": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "d22dc9d",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "881510a",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                    "id": "",
+                    "size": "",
+                    "source": "url"
+                  },
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_flex_align_self": "center",
+                  "_css_classes": "hostinger-ai-project-image",
+                  "image_size": "full",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              },
+              {
+                "id": "eddbbb6",
+                "elType": "widget",
+                "settings": {
+                  "title": "Title 1",
+                  "header_size": "p",
+                  "align": "center",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-title hostinger-index-2 hostinger-ai-font-bold",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "856527c",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Experience luxurious accommodation in the breathtaking Alps, perfect for your ski getaway.</p>",
+                  "_css_classes": "hostinger-ai-project-description hostinger-index-2",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "link_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "align": "center"
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

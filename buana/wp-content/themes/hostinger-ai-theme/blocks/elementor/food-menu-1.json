@@ -1,0 +1,698 @@
+[
+  {
+    "id": "a63acb1",
+    "elType": "container",
+    "settings": {
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "css_classes": "hostinger-ai-menu-block",
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "8521d11",
+        "elType": "container",
+        "settings": {
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "890f40f",
+            "elType": "widget",
+            "settings": {
+              "title": "Menu Selection",
+              "align": "center",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "title_hover_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1c5eff2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Savor our exquisite Italian pasta, perfectly cooked and served with rich sauces.</p>",
+              "align": "center",
+              "paragraph_spacing": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "_element_width": "initial",
+              "_element_custom_width": {
+                "unit": "px",
+                "size": 700,
+                "sizes": []
+              },
+              "_flex_align_self": "center",
+              "_css_classes": "hostinger-ai-description",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "link_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              },
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "rem",
+                "size": 1,
+                "sizes": []
+              },
+              "typography_font_weight": "400",
+              "text_color": "#000000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "d73ced6",
+    "elType": "container",
+    "settings": {
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": "2"
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 3
+      },
+      "grid_rows_grid_mobile": {
+        "unit": "fr",
+        "size": "1"
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "0",
+        "right": "0",
+        "bottom": "2.25",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "d0b253a",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "3fr 1fr",
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": "1fr",
+            "sizes": []
+          }
+        },
+        "elements": [
+          {
+            "id": "f039b66",
+            "elType": "widget",
+            "settings": {
+              "title": "Delicious Pasta",
+              "_css_classes": "hostinger-ai-card-title hostinger-index-0",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "3544b90",
+            "elType": "widget",
+            "settings": {
+              "title": "15 $",
+              "align": "center",
+              "align_mobile": "left",
+              "_css_classes": "hostinger-ai-card-price hostinger-index-0",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "2c21f46",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Authentic Italian pasta made with fresh ingredients and traditional recipes.</p>",
+              "_css_classes": "hostinger-ai-card-description hostinger-index-0",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "0ee4f9b",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "3fr 1fr",
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": "1fr",
+            "sizes": []
+          }
+        },
+        "elements": [
+          {
+            "id": "a9f6937",
+            "elType": "widget",
+            "settings": {
+              "title": "Flavorful Antipasto",
+              "_css_classes": "hostinger-ai-card-title hostinger-index-1",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1044cf6",
+            "elType": "widget",
+            "settings": {
+              "title": "8 $",
+              "align": "center",
+              "align_mobile": "left",
+              "_css_classes": "hostinger-ai-card-price hostinger-index-1",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e0f6c2b",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>A delightful platter of cured meats, cheeses, and marinated vegetables.</p>",
+              "_css_classes": "hostinger-ai-card-description hostinger-index-1",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "a9570f9",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "3fr 1fr",
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": "1fr",
+            "sizes": []
+          }
+        },
+        "elements": [
+          {
+            "id": "509692d",
+            "elType": "widget",
+            "settings": {
+              "title": "Crispy Pizza",
+              "_css_classes": "hostinger-ai-card-title hostinger-index-2",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "44b4297",
+            "elType": "widget",
+            "settings": {
+              "title": "12 $",
+              "align": "center",
+              "align_mobile": "left",
+              "_css_classes": "hostinger-ai-card-price hostinger-index-2",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "b4cd8d4",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Freshly baked pizza with a variety of toppings and homemade tomato sauce.</p>",
+              "_css_classes": "hostinger-ai-card-description hostinger-index-2",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "863a718",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "3fr 1fr",
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": "1fr",
+            "sizes": []
+          }
+        },
+        "elements": [
+          {
+            "id": "44c5cfa",
+            "elType": "widget",
+            "settings": {
+              "title": "Sweet Dessert",
+              "_css_classes": "hostinger-ai-card-title hostinger-index-3",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "9e4926b",
+            "elType": "widget",
+            "settings": {
+              "title": "7 $",
+              "align": "center",
+              "align_mobile": "left",
+              "_css_classes": "hostinger-ai-card-price hostinger-index-3",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "a5a4fef",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>End your meal with our homemade desserts like Tiramisu and Panna Cotta.</p>",
+              "_css_classes": "hostinger-ai-card-description hostinger-index-3",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              },
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "rem",
+                "size": 1,
+                "sizes": []
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "3c788cf",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "3fr 1fr",
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": "1fr",
+            "sizes": []
+          }
+        },
+        "elements": [
+          {
+            "id": "1bb9a65",
+            "elType": "widget",
+            "settings": {
+              "title": "Tasty Risotto",
+              "_css_classes": "hostinger-ai-card-title hostinger-index-4",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "5609e8e",
+            "elType": "widget",
+            "settings": {
+              "title": "13 $",
+              "align": "center",
+              "align_mobile": "left",
+              "_css_classes": "hostinger-ai-card-price hostinger-index-4",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "073a5a9",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Creamy risotto cooked to perfection with seasonal vegetables and Parmesan cheese.</p>",
+              "_css_classes": "hostinger-ai-card-description hostinger-index-4",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "2c8232f",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "3fr 1fr",
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": "1fr",
+            "sizes": []
+          }
+        },
+        "elements": [
+          {
+            "id": "9728138",
+            "elType": "widget",
+            "settings": {
+              "title": "Refreshing Salad",
+              "_css_classes": "hostinger-ai-card-title hostinger-index-5",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "c92e908",
+            "elType": "widget",
+            "settings": {
+              "title": "9 $",
+              "align": "center",
+              "align_mobile": "left",
+              "_css_classes": "hostinger-ai-card-price hostinger-index-5",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=2142591"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "d51278c",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Crisp seasonal greens tossed with homemade dressing and topped with fresh ingredients.</p>",
+              "_css_classes": "hostinger-ai-card-description hostinger-index-5",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a950f10",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "padding": {
+        "unit": "rem",
+        "top": "0",
+        "right": "0",
+        "bottom": "2.25",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "5d3c7f2",
+        "elType": "widget",
+        "settings": {
+          "image": {
+            "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/10/photo-1622547748225-3fc4abd2cca0-5-1.jpg",
+            "id": 424,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "image_border_radius": {
+            "unit": "px",
+            "top": "20",
+            "right": "20",
+            "bottom": "20",
+            "left": "20",
+            "isLinked": true
+          },
+          "_padding": {
+            "unit": "rem",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "_padding_tablet": {
+            "unit": "rem",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "_padding_mobile": {
+            "unit": "rem",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "_css_classes": "hostinger-ai-image",
+          "align": "left",
+          "align_tablet": "center"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  }
+]

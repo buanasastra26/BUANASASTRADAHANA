@@ -1,0 +1,181 @@
+[
+  {
+    "id": "36a0b95",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 2,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "presetTitle": "Grid",
+      "presetIcon": "eicon-container-grid",
+      "css_classes": "hostinger-ai-about-us-2",
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "9b3a7c8",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_justify_content": "center"
+        },
+        "elements": [
+          {
+            "id": "9f7db66",
+            "elType": "widget",
+            "settings": {
+              "title": "About business section",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1de8563",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Syrup oozed slowly from the bottle, forming a sweet, sticky puddle n the tabletop. The room was filled with a warm, inviting aroma, adn the packages sizzled.</p>",
+              "link_color": "#0D141A",
+              "_css_classes": "hostinger-ai-description",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "link_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "c87d969",
+            "elType": "widget",
+            "settings": {
+              "text": "Click here",
+              "link": {
+                "url": "https://hostinger-wp-blocks.com/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "50",
+                "right": "50",
+                "bottom": "50",
+                "left": "50",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-cta-button hostinger-index-0",
+              "__globals__": {
+                "background_color": "",
+                "button_text_color": "globals/colors?id=b1c2d3e",
+                "border_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=6e52843"
+              },
+              "background_color": "#FFFFFF00",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "2",
+                "left": "2",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "f2b9264",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Container",
+          "presetIcon": "eicon-container"
+        },
+        "elements": [
+          {
+            "id": "fddd938",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0.avif",
+                "id": 18,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-image hostinger-index-1"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

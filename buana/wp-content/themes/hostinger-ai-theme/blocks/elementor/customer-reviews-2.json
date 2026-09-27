@@ -1,0 +1,316 @@
+[
+  {
+    "id": "36b762c",
+    "elType": "container",
+    "settings": {
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "flex_justify_content": "center",
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      },
+      "__globals__": {
+        "background_color": "globals/colors?id=b5aeb33"
+      },
+      "css_classes": "hostinger-ai-customer-reviews-2"
+    },
+    "elements": [
+      {
+        "id": "384b9be",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "row",
+          "container_type": "grid",
+          "content_width": "full",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "27f457a",
+            "elType": "container",
+            "settings": {
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 2
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": "1"
+              },
+              "grid_rows_grid_mobile": {
+                "unit": "fr",
+                "size": "1"
+              },
+              "content_width": "full",
+              "boxed_width": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "boxed_width_tablet": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "boxed_width_mobile": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "flex_direction": "row",
+              "flex_justify_content": "center",
+              "flex_align_items": "center",
+              "grid_columns_grid_tablet": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "grid_columns_grid_mobile": {
+                "unit": "custom",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_justify_items": "center",
+              "grid_align_items": "center",
+              "presetTitle": "Container",
+              "presetIcon": "eicon-container"
+            },
+            "elements": [
+              {
+                "id": "96fd1f1",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/11/400x450.png",
+                    "id": 715,
+                    "size": "",
+                    "source": "library",
+                    "alt": ""
+                  },
+                  "image_size": "full",
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-testimonial-image hostinger-index-2"
+                },
+                "elements": [],
+                "widgetType": "image"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "c47ee61",
+            "elType": "container",
+            "settings": {
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 1
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": 2
+              },
+              "grid_rows_grid_mobile": {
+                "unit": "fr",
+                "size": "1"
+              },
+              "content_width": "full",
+              "boxed_width": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "boxed_width_tablet": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "boxed_width_mobile": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "flex_justify_content": "center",
+              "grid_columns_grid_tablet": {
+                "unit": "custom",
+                "size": "",
+                "sizes": []
+              },
+              "grid_columns_grid_mobile": {
+                "unit": "custom",
+                "size": 1,
+                "sizes": []
+              },
+              "presetTitle": "Container",
+              "presetIcon": "eicon-container",
+              "grid_auto_flow": "column"
+            },
+            "elements": [
+              {
+                "id": "839cc74",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                  },
+                  "_flex_align_self": "center",
+                  "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                  },
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "706a5dd",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Our customer review</p>",
+                      "_css_classes": "hostinger-ai-subtitle",
+                      "__globals__": {
+                        "text_color": "globals/colors?id=09cc561",
+                        "link_color": "globals/colors?id=09cc561",
+                        "typography_typography": "globals/typography?id=2142591"
+                      },
+                      "align": "left",
+                      "link_color": "#0D141A",
+                      "_margin": {
+                        "unit": "rem",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0.44",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_tablet": {
+                        "unit": "rem",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_margin_mobile": {
+                        "unit": "rem",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "b45648b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Syrup oozed slowly from the bottle, forming a sweet, sticky puddle n the tabletop. The room was filled with a warm, inviting aroma, adn the packages sizzled.</p>",
+                      "_css_classes": "hostinger-ai-testimonial-text hostinger-ai-font-bold hostinger-index-2",
+                      "__globals__": {
+                        "text_color": "globals/colors?id=09cc561",
+                        "link_color": "globals/colors?id=09cc561",
+                        "typography_typography": "globals/typography?id=887fca2"
+                      },
+                      "align": "left",
+                      "link_color": "#0D141A",
+                      "_margin": {
+                        "unit": "rem",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "1.5",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_tablet": {
+                        "unit": "rem",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_margin_mobile": {
+                        "unit": "rem",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

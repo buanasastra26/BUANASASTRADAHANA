@@ -1,0 +1,141 @@
+[
+  {
+    "id": "40901d4",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 2,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "presetTitle": "Grid",
+      "presetIcon": "eicon-container-grid",
+      "css_classes": "hostinger-ai-our-services-3",
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "38aeb5a",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_justify_content": "center"
+        },
+        "elements": [
+          {
+            "id": "413aa67",
+            "elType": "widget",
+            "settings": {
+              "title": "About business section",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-service-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "83b1a7f",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Syrup oozed slowly from the bottle, forming a sweet, sticky puddle n the tabletop. The room was filled with a warm, inviting aroma, adn the packages sizzled.</p>",
+              "link_color": "#0D141A",
+              "_css_classes": "hostinger-ai-service-description",
+              "__globals__": {
+                "text_color": "globals/colors?id=b1c2d3e",
+                "link_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "9793990",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Container",
+          "presetIcon": "eicon-container"
+        },
+        "elements": [
+          {
+            "id": "245f164",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/11/700x500.png",
+                "id": 542,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-service-image hostinger-index-3"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "id": "83589cf",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 2,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": true
+      },
+      "presetTitle": "Container",
+      "presetIcon": "eicon-container",
+      "css_classes": "hostinger-ai-faq-1",
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "58509ed",
+        "elType": "widget",
+        "settings": {
+          "title": "FAQs",
+          "align": "left",
+          "text_stroke_text_stroke_type": "yes",
+          "_css_classes": "hostinger-ai-title",
+          "__globals__": {
+            "title_color": "globals/colors?id=b1c2d3e",
+            "typography_typography": "globals/typography?id=c83476d"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "9ad70ad",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_justify_content": "center",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "container_type": "grid",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "faq0001",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1.5",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "q000001",
+                "elType": "widget",
+                "settings": {
+                  "title": "What services do you offer?",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-question hostinger-index-0",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "a000001",
+                "elType": "widget",
+                "settings": {
+                  "title": "I provide quick interior design fixes and consultations to make your home cozy.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-answer hostinger-index-0",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "faq0002",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1.5",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "q000002",
+                "elType": "widget",
+                "settings": {
+                  "title": "How long is a consultation?",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-question hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "a000002",
+                "elType": "widget",
+                "settings": {
+                  "title": "You can easily book your first consultation online through the booking section on this site.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-answer hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "faq0003",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1.5",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "q000003",
+                "elType": "widget",
+                "settings": {
+                  "title": "Do you offer virtual consultations?",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-question hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "a000003",
+                "elType": "widget",
+                "settings": {
+                  "title": "Absolutely! I specialize in affordable solutions that bring big impact without breaking the bank.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-answer hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "faq0004",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1.5",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "q000004",
+                "elType": "widget",
+                "settings": {
+                  "title": "How do I book a consultation?",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-question hostinger-index-3",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "a000004",
+                "elType": "widget",
+                "settings": {
+                  "title": "Yes, virtual consultations are available for your convenience and safety.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-answer hostinger-index-3",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "faq0005",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "q000005",
+                "elType": "widget",
+                "settings": {
+                  "title": "Can you work with small budgets?",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-question hostinger-index-4",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "a000005",
+                "elType": "widget",
+                "settings": {
+                  "title": "Consultations usually last about one hour, focused on practical tips.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-answer hostinger-index-4",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "66cf7c7",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "8e2ff57",
+                "elType": "widget",
+                "settings": {
+                  "title": "Can anyone apply?",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-question hostinger-index-5",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "1fc7bfd",
+                "elType": "widget",
+                "settings": {
+                  "title": "Yes. Anyone can apply",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-answer hostinger-index-5",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

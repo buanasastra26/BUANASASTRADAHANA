@@ -1,0 +1,72 @@
+{
+  "name": "hostinger/hostinger-ai-theme",
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:hostinger/hostinger-wp-helper.git",
+      "no-api": true
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:hostinger/hostinger-wp-menu-manager.git",
+      "no-api": true
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:hostinger/hostinger-wp-surveys.git",
+      "no-api": true
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:hostinger/hostinger-wp-amplitude.git",
+      "no-api": true
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "yahnis-elsts/plugin-update-checker": "^5.4",
+    "hostinger/hostinger-wp-helper": "^1.0",
+    "hostinger/hostinger-wp-menu-manager": "^1.2",
+    "hostinger/hostinger-wp-surveys": "^1.1",
+    "hostinger/hostinger-wp-amplitude": "^1.0",
+    "alleyinteractive/wp-block-converter": "^1.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hostinger\\AiTheme\\": "includes/",
+      "Hostinger\\AiTheme\\GutenbergBlocks\\": "gutenberg-blocks/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Hostinger\\AiTheme\\Tests\\": "tests/phpunit"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6",
+    "yoast/phpunit-polyfills": "^2.0",
+    "squizlabs/php_codesniffer": "^3.7",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.7",
+    "phpcompatibility/phpcompatibility-wp": "*",
+    "wp-coding-standards/wpcs": "^3.0",
+    "phpunit/php-code-coverage": "^9.2"
+  },
+  "scripts": {
+    "phpunit": "phpunit",
+    "phpcs": "./vendor/bin/phpcs",
+    "post-install-cmd": "bash bin/cleanup-hostinger-vendor.sh",
+    "post-update-cmd": "bash bin/cleanup-hostinger-vendor.sh"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "alleyinteractive/composer-wordpress-autoloader": true
+    },
+    "platform-check": false,
+    "preferred-install": {
+      "*": "dist"
+    },
+    "github-protocols": ["ssh"]
+  }
+}

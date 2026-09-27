@@ -1,0 +1,65 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "hostinger-ai-theme/booking-block",
+    "version": "1.0.0",
+    "title": "Booking Block",
+    "category": "widgets",
+    "icon": "calendar",
+    "description": "A block with booking form integration",
+    "supports": {
+        "html": false,
+        "anchor": true,
+        "align": true,
+        "customClassName": true
+    },
+    "attributes": {
+        "formFields": {
+            "type": "array",
+            "default": [
+                {
+                    "label": "Name",
+                    "type": "text",
+                    "required": true,
+                    "placeholder": "Enter your name..."
+                },
+                {
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Enter your email..."
+                },
+                {
+                    "label": "Date",
+                    "type": "date",
+                    "required": true,
+                    "placeholder": "Select date..."
+                },
+                {
+                    "label": "Message",
+                    "type": "textarea",
+                    "required": false,
+                    "placeholder": "Enter your message..."
+                },
+                {
+                    "label": "Privacy Policy",
+                    "type": "privacy",
+                    "required": true,
+                    "consentText": "I consent to use of provided personal data for the purpose of responding to the request as described in Privacy Policy which I have read. I may withdraw my consent at any time.",
+                    "policyUrl": "/privacy-policy",
+                    "policyLinkText": "Privacy Policy"
+                }
+            ]
+        },
+        "buttonText": {
+            "type": "string",
+            "default": "Submit"
+        }
+    },
+    "textdomain": "hostinger-ai-theme",
+    "editorScript": "file:./build/index.js",
+    "editorStyle": "file:./build/index.css",
+    "style": "file:./build/style-index.css",
+    "viewScript": "file:./build/view.js",
+    "render": "file:./render.php"
+}

@@ -1,0 +1,573 @@
+[
+  {
+    "id": "8794a9b",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "05fb189",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid"
+        },
+        "elements": [
+          {
+            "id": "2a77e92",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "css_classes": "project-item-content project-item-content",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "72018bd",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0.avif",
+                    "id": 18,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "image_size": "full",
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-image hostinger-index-3",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "61e1449",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "20",
+                "isLinked": false
+              },
+              "padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "63c4ffa",
+                "elType": "widget",
+                "settings": {
+                  "title": "Project name 1",
+                  "align": "left",
+                  "_padding": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0.44",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_padding_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-title",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=c83476d"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "51a4c56",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Syrup oozed slowly from the bottle, forming a sweet, sticky puddle n the tabletop. The room was filled with a warm, inviting aroma, adn the packages sizzled.</p>",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-description",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  }
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "2f8f975",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid"
+        },
+        "elements": [
+          {
+            "id": "35c73b7",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "css_classes": "project-item-content project-item-content",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "c56165b",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0.avif",
+                    "id": 18,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "image_size": "full",
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-image hostinger-index-4",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "0b84e3f",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "20",
+                "isLinked": false
+              },
+              "padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "9f9772a",
+                "elType": "widget",
+                "settings": {
+                  "title": "Project name 2",
+                  "align": "left",
+                  "_padding": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0.44",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_padding_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-title hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=c83476d"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "331bbd4",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Syrup oozed slowly from the bottle, forming a sweet, sticky puddle n the tabletop. The room was filled with a warm, inviting aroma, adn the packages sizzled.</p>",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-description hostinger-index-1",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  }
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "3de66f3",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid"
+        },
+        "elements": [
+          {
+            "id": "dea812f",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "css_classes": "project-item-content project-item-content",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "982dacf",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0.avif",
+                    "id": 18,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "image_size": "full",
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-image hostinger-index-5",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "image"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "e5693d4",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "20",
+                "isLinked": false
+              },
+              "padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "3c6a428",
+                "elType": "widget",
+                "settings": {
+                  "title": "Project name 3",
+                  "align": "left",
+                  "_padding": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0.44",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_padding_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-title hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=c83476d"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "f091445",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Syrup oozed slowly from the bottle, forming a sweet, sticky puddle n the tabletop. The room was filled with a warm, inviting aroma, adn the packages sizzled.</p>",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-project-description hostinger-index-2",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  }
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

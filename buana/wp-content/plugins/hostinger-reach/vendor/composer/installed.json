@@ -1,0 +1,345 @@
+{
+    "packages": [
+        {
+            "name": "automattic/jetpack-autoloader",
+            "version": "v5.0.23",
+            "version_normalized": "5.0.23.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Automattic/jetpack-autoloader.git",
+                "reference": "d11b2d621035dcb920abce8ae09bebd5da5f9ff8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Automattic/jetpack-autoloader/zipball/d11b2d621035dcb920abce8ae09bebd5da5f9ff8",
+                "reference": "d11b2d621035dcb920abce8ae09bebd5da5f9ff8",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^2.2",
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "automattic/phpunit-select-config": "^1.0.9",
+                "composer/composer": "^2.2",
+                "yoast/phpunit-polyfills": "^4.0.0"
+            },
+            "time": "2026-08-11T18:32:06+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin",
+                "autotagger": true,
+                "mirror-repo": "Automattic/jetpack-autoloader",
+                "branch-alias": {
+                    "dev-trunk": "5.0.x-dev"
+                },
+                "changelogger": {
+                    "link-template": "https://github.com/Automattic/jetpack-autoloader/compare/v${old}...v${new}"
+                },
+                "version-constants": {
+                    "::VERSION": "src/AutoloadGenerator.php"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Automattic\\Jetpack\\Autoloader\\": "src"
+                },
+                "classmap": [
+                    "src/AutoloadGenerator.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Creates a custom autoloader for a plugin or theme.",
+            "keywords": [
+                "autoload",
+                "autoloader",
+                "composer",
+                "jetpack",
+                "plugin",
+                "wordpress"
+            ],
+            "support": {
+                "source": "https://github.com/Automattic/jetpack-autoloader/tree/v5.0.23"
+            },
+            "install-path": "../automattic/jetpack-autoloader"
+        },
+        {
+            "name": "hostinger/hostinger-wp-amplitude",
+            "version": "1.0.22",
+            "version_normalized": "1.0.22.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-amplitude.git",
+                "reference": "5c16a3251270e0de104fabc9d680b9d15fa6d64d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-amplitude/zipball/5c16a3251270e0de104fabc9d680b9d15fa6d64d",
+                "reference": "5c16a3251270e0de104fabc9d680b9d15fa6d64d",
+                "shasum": ""
+            },
+            "require": {
+                "hostinger/hostinger-wp-helper": "^1.0",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6.33",
+                "squizlabs/php_codesniffer": "^3.11",
+                "yoast/phpunit-polyfills": "^4.0"
+            },
+            "time": "2026-09-22T05:54:41+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\Amplitude\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Hostinger\\Amplitude\\Tests\\": "tests/phpunit"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "A PHP package with amplitude events for WordPress plugins",
+            "install-path": "../hostinger/hostinger-wp-amplitude"
+        },
+        {
+            "name": "hostinger/hostinger-wp-helper",
+            "version": "1.0.17",
+            "version_normalized": "1.0.17.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-helper.git",
+                "reference": "2e008591625276b76a0113ff442cfcf04e94007f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-helper/zipball/2e008591625276b76a0113ff442cfcf04e94007f",
+                "reference": "2e008591625276b76a0113ff442cfcf04e94007f",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "10up/wp_mock": "^1.1",
+                "phpunit/phpunit": "^9.6.33",
+                "squizlabs/php_codesniffer": "^4.0",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2026-09-16T16:50:27+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\WpHelper\\": "src/",
+                    "Hostinger\\Tests\\": "tests/phpunit"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "A PHP package with core functions for Hostinger WordPress plugins.",
+            "install-path": "../hostinger/hostinger-wp-helper"
+        },
+        {
+            "name": "hostinger/hostinger-wp-menu-manager",
+            "version": "1.2.33",
+            "version_normalized": "1.2.33.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-menu-manager.git",
+                "reference": "56f440c35c5ee7c0e543159153966705dcf05cb4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-menu-manager/zipball/56f440c35c5ee7c0e543159153966705dcf05cb4",
+                "reference": "56f440c35c5ee7c0e543159153966705dcf05cb4",
+                "shasum": ""
+            },
+            "require": {
+                "hostinger/hostinger-wp-helper": "^1.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6",
+                "squizlabs/php_codesniffer": "^3.0",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2026-09-17T07:03:40+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\WpMenuManager\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Hostinger\\WpMenuManager\\Tests\\": "tests/phpunit"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "Package for managing Hostinger WordPress menus and pages.",
+            "install-path": "../hostinger/hostinger-wp-menu-manager"
+        },
+        {
+            "name": "hostinger/hostinger-wp-surveys",
+            "version": "1.1.24",
+            "version_normalized": "1.1.24.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hostinger/hostinger-wp-surveys.git",
+                "reference": "316cfc58960f336ffad44c00d29b582b2f7762a6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hostinger/hostinger-wp-surveys/zipball/316cfc58960f336ffad44c00d29b582b2f7762a6",
+                "reference": "316cfc58960f336ffad44c00d29b582b2f7762a6",
+                "shasum": ""
+            },
+            "require": {
+                "hostinger/hostinger-wp-helper": "^1.0",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "10up/wp_mock": "^1.0",
+                "brain/monkey": "^2.6",
+                "phpunit/phpunit": "^9.6",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "time": "2026-08-18T07:19:08+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hostinger\\Surveys\\": "src/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Hostinger\\Surveys\\Tests\\": "tests/phpunit"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "A PHP package with surveys for WordPress plugins",
+            "install-path": "../hostinger/hostinger-wp-surveys"
+        },
+        {
+            "name": "psr/container",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/container.git",
+                "reference": "707984727bd5b2b670e59559d3ed2500240cf875"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/707984727bd5b2b670e59559d3ed2500240cf875",
+                "reference": "707984727bd5b2b670e59559d3ed2500240cf875",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4.0"
+            },
+            "time": "2023-09-22T11:11:30+00:00",
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Container\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common Container Interface (PHP FIG PSR-11)",
+            "homepage": "https://github.com/php-fig/container",
+            "keywords": [
+                "PSR-11",
+                "container",
+                "container-interface",
+                "container-interop",
+                "psr"
+            ],
+            "support": {
+                "issues": "https://github.com/php-fig/container/issues",
+                "source": "https://github.com/php-fig/container"
+            },
+            "install-path": "../psr/container"
+        },
+        {
+            "name": "woocommerce/action-scheduler",
+            "version": "3.9.3",
+            "version_normalized": "3.9.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/woocommerce/action-scheduler.git",
+                "reference": "c58cdbab17651303d406cd3b22cf9d75c71c986c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/woocommerce/action-scheduler/zipball/c58cdbab17651303d406cd3b22cf9d75c71c986c",
+                "reference": "c58cdbab17651303d406cd3b22cf9d75c71c986c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8.5",
+                "woocommerce/woocommerce-sniffs": "0.1.0",
+                "wp-cli/wp-cli": "~2.5.0",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2025-07-15T09:32:30+00:00",
+            "type": "wordpress-plugin",
+            "extra": {
+                "scripts-description": {
+                    "test": "Run unit tests",
+                    "phpcs": "Analyze code against the WordPress coding standards with PHP_CodeSniffer",
+                    "phpcbf": "Fix coding standards warnings/errors automatically with PHP Code Beautifier"
+                }
+            },
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "description": "Action Scheduler for WordPress and WooCommerce",
+            "homepage": "https://actionscheduler.org/",
+            "support": {
+                "issues": "https://github.com/woocommerce/action-scheduler/issues",
+                "source": "https://github.com/woocommerce/action-scheduler/tree/3.9.3"
+            },
+            "install-path": "../woocommerce/action-scheduler"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

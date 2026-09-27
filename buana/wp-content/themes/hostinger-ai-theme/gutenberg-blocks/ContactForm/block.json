@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "hostinger-ai-theme/contact-form-block",
+    "version": "1.0.0",
+    "title": "Contact Form",
+    "category": "widgets",
+    "icon": "email",
+    "description": "A customizable contact form for your website",
+    "supports": {
+        "html": false,
+        "anchor": true,
+        "align": true,
+        "customClassName": true
+    },
+    "attributes": {
+        "title": {
+            "type": "string",
+            "default": ""
+        },
+        "description": {
+            "type": "string",
+            "default": ""
+        },
+        "showTitle": {
+            "type": "boolean",
+            "default": true
+        },
+        "showDescription": {
+            "type": "boolean",
+            "default": true
+        },
+        "buttonText": {
+            "type": "string",
+            "default": "Send Message"
+        },
+        "nameLabel": {
+            "type": "string",
+            "default": "Name"
+        },
+        "emailLabel": {
+            "type": "string",
+            "default": "Email"
+        },
+        "messageLabel": {
+            "type": "string",
+            "default": "Message"
+        },
+        "namePlaceholder": {
+            "type": "string",
+            "default": "What's your name?"
+        },
+        "emailPlaceholder": {
+            "type": "string",
+            "default": "What's your email?"
+        },
+        "messagePlaceholder": {
+            "type": "string",
+            "default": "Write your message..."
+        },
+        "privacyPolicyText": {
+            "type": "string",
+            "default": ""
+        }
+    },
+    "textdomain": "hostinger-ai-theme",
+    "editorScript": "hostinger-contact-form-block-editor-script",
+    "editorStyle": "file:./build/index.css",
+    "style": "file:./build/style-index.css",
+    "viewScript": "file:./build/view.js",
+    "render": "file:./render.php"
+} 

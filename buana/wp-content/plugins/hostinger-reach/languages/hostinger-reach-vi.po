@@ -1,0 +1,1175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Reach 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-reach\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-31T11:19:40+03:00\n"
+"PO-Revision-Date: 2026-09-16 14:07+0000\n"
+"Language: vi\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-reach\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.8.1; wp-6.9; php-8.2.29\n"
+
+#: src/Setup/Assets.php:157
+#, fuzzy
+msgid "(Draft)"
+msgstr "(Bản nháp)"
+
+#: src/Setup/Assets.php:227
+msgid "(no title)"
+msgstr "(Không có tiêu đề)"
+
+#: src/Setup/Assets.php:250
+msgid "-"
+msgstr "-"
+
+#: src/Setup/Assets.php:110
+#, fuzzy
+msgid "<strong>Copy</strong> your new API token and <strong>paste it below</strong>"
+msgstr "<strong>Sao chép</strong> mã thông báo API mới của bạn và <strong>dán vào ô bên dưới</strong>"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:124
+#, fuzzy
+msgid "Abandoned Carts"
+msgstr "Giỏ hàng bị bỏ quên"
+
+#: src/Setup/Assets.php:271
+#, fuzzy
+msgid "Abandoned carts"
+msgstr "Giỏ hàng bị bỏ quên"
+
+#: src/Setup/Assets.php:213
+#: src/Setup/Assets.php:230
+msgid "Active"
+msgstr "Hoạt động"
+
+#: src/Admin/Notices/AddFormNotice.php:83
+#: src/Setup/Assets.php:151
+#: src/Setup/Assets.php:219
+#: src/Setup/Assets.php:233
+msgid "Add form"
+msgstr "Thêm biểu mẫu"
+
+#: src/Setup/Assets.php:153
+#: src/Setup/Assets.php:198
+msgid "Add form or plugin"
+msgstr "Thêm biểu mẫu hoặc plugin"
+
+#: src/Admin/Notices/AddFormNotice.php:78
+#, fuzzy
+msgid "Add form to start sending campaigns with Hostinger Reach"
+msgstr "Thêm biểu mẫu để bắt đầu gửi các chiến dịch với Hostinger Reach"
+
+#: src/Setup/Assets.php:148
+#, fuzzy
+msgid "Add new form"
+msgstr "Thêm biểu mẫu mới"
+
+#: src/Setup/Assets.php:146
+#, fuzzy
+msgid "Add or connect a form to start sending campaigns"
+msgstr "Thêm hoặc kết nối biểu mẫu để bắt đầu gửi các chiến dịch"
+
+#: src/Setup/Assets.php:285
+#, fuzzy
+msgid "Add Reach form"
+msgstr "Thêm biểu mẫu Reach"
+
+#: src/Setup/Assets.php:268
+#, fuzzy
+msgid "Adds a marketing consent checkbox at checkout and syncs contacts to Reach."
+msgstr "Thêm hộp chọn đồng ý tiếp thị tại trang thanh toán và đồng bộ hóa danh bạ với Reach."
+
+#: src/Admin/Surveys/SatisfactionSurvey.php:26
+msgid "Any ideas or feedback to help us improve Hostinger Reach?"
+msgstr "Bạn có ý kiến hoặc phản hồi nào để giúp chúng tôi cải thiện Hostinger Reach không?"
+
+#: src/Setup/Assets.php:114
+#, fuzzy
+msgid "API Token field is required"
+msgstr "Trường “API Token” là trường bắt buộc"
+
+#: src/Setup/Assets.php:248
+#, fuzzy
+msgid "are ready to import to Reach. Any new contacts you’ll collect with these forms will sync automatically."
+msgstr "đã sẵn sàng đồng bộ với Reach. Tất cả các liên hệ mới mà bạn thu thập qua các biểu mẫu này sẽ được đồng bộ tự động."
+
+#: hostinger-reach.php:53
+msgid "Attention:"
+msgstr "Lưu ý:"
+
+#: src/Setup/Assets.php:251
+#, fuzzy
+msgid "Auto-sync off"
+msgstr "Tắt đồng bộ tự động"
+
+#: src/Setup/Assets.php:273
+#, fuzzy
+msgid "Automation"
+msgstr "Tự động hóa"
+
+#: src/Setup/Assets.php:132
+msgid "Average CTOR"
+msgstr "CTOR trung bình"
+
+#: src/Setup/Assets.php:95
+msgid "Back"
+msgstr "Quay lại"
+
+#: src/Setup/Assets.php:177
+msgid "Background image for"
+msgstr "Hình nền cho"
+
+#: src/Setup/Assets.php:176
+msgid "Banner background image for"
+msgstr "Hình nền cho banner"
+
+#: frontend/blocks/subscription-block/block.json
+msgctxt "block description"
+msgid "Subscription form for Hostinger Reach"
+msgstr "Biểu mẫu đăng ký Hostinger Reach"
+
+#: frontend/blocks/subscription-block/block.json
+msgctxt "block title"
+msgid "Reach Subscription Form"
+msgstr "Biểu mẫu đăng ký Reach"
+
+#: src/Integrations/Brave/BraveIntegration.php:29
+#, fuzzy
+msgid "Brave Popup Builder"
+msgstr "Trình tạo cửa sổ popup dũng cảm"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:124
+#: src/Setup/Assets.php:190
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:65
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:171
+#, fuzzy
+msgid "Build your first form in Hostinger Reach and add it to any page on your site."
+msgstr "Tạo biểu mẫu đầu tiên của bạn trên Hostinger Reach và thêm nó vào bất kỳ trang nào trên trang web của bạn."
+
+#: src/Setup/Assets.php:130
+msgid "Campaigns"
+msgstr "Chiến dịch"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:117
+#: src/Setup/Assets.php:116
+#: src/Setup/Assets.php:187
+#: src/Setup/Assets.php:196
+#: src/Setup/Assets.php:201
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:222
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:328
+#, fuzzy
+msgid "Cancel"
+msgstr "Hủy"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:112
+#: src/Setup/Assets.php:194
+#: frontend/blocks/subscription-block/src/edit.js:299
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:635
+#, fuzzy
+msgid "Change the selection"
+msgstr "Thay đổi lựa chọn"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:116
+#: src/Setup/Assets.php:267
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#. translators: %s: "Learn more" link.
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:67
+#, fuzzy,php-format
+msgid "Choose a Reach Form Builder template to embed instead. The Reach script loads it automatically. %s"
+msgstr "Hãy chọn một mẫu của Reach Form Builder để nhúng vào. Tập lệnh Reach sẽ tự động tải mẫu đó. %s"
+
+#: src/Setup/Assets.php:108
+#, fuzzy
+msgid "Click <strong>Generate API Token</strong>"
+msgstr "Nhấp vào <strong>Tạo mã thông báo API</strong>"
+
+#: src/Setup/Assets.php:179
+msgid "Click-to-open rate tells you what percent of opens resulted in a click too. A good CTOR is 6-17%, depending on your industry."
+msgstr "Tỷ lệ nhấp để mở (CTOR) cho biết tỷ lệ phần trăm số lần mở email dẫn đến nhấp chuột. Một CTOR tốt dao động từ 6% đến 17%, tùy thuộc vào ngành nghề của bạn."
+
+#: src/Setup/Assets.php:225
+msgid "Collapse {pluginName} details"
+msgstr "Thu gọn chi tiết {pluginName}"
+
+#: src/Setup/Assets.php:143
+#, fuzzy
+msgid "Collect contacts at checkout, send automated emails after purchases, and recover abandoned carts to drive more sales with Reach"
+msgstr "Thu thập thông tin liên hệ tại bước thanh toán, gửi email tự động sau khi mua hàng và khôi phục giỏ hàng bị bỏ quên để tăng doanh số bán hàng với Reach"
+
+#: src/Setup/Assets.php:197
+#, fuzzy
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: src/Admin/Notices/ConnectionNotice.php:100
+#: src/Setup/Assets.php:115
+#: src/Setup/Assets.php:240
+msgid "Connect"
+msgstr "Kết nối"
+
+#: src/Admin/Notices/ConnectionNotice.php:95
+msgid "Connect Hostinger Reach to start Email Marketing"
+msgstr "Kết nối Hostinger Reach để bắt đầu Tiếp thị qua email"
+
+#: src/Setup/Assets.php:152
+#, fuzzy
+msgid "Connect plugin"
+msgstr "Kết nối plugin"
+
+#: src/Setup/Assets.php:102
+msgid "Connect site"
+msgstr "Kết nối trang web"
+
+#: src/Setup/Assets.php:103
+#, fuzzy
+msgid "Connect with API token"
+msgstr "Kết nối bằng mã thông báo API"
+
+#: src/Setup/Assets.php:144
+msgid "Connect WooCommerce"
+msgstr "Kết nối WooCommerce"
+
+#: src/Setup/Assets.php:142
+#, fuzzy
+msgid "Connect WooCommerce to boost sales with email automations"
+msgstr "Kết nối WooCommerce để tăng doanh số bán hàng thông qua tự động hóa email"
+
+#: src/Setup/Assets.php:104
+#, fuzzy
+msgid "Connect your website to Hostinger Reach"
+msgstr "Kết nối trang web của bạn với Hostinger Reach"
+
+#: src/Setup/Assets.php:113
+#, fuzzy
+msgid "Connection failed. Check if your API Token is correct or contact Hostinger Reach support."
+msgstr "Kết nối không thành công. Vui lòng kiểm tra xem API Token của bạn có chính xác không hoặc liên hệ với bộ phận hỗ trợ của Hostinger Reach."
+
+#: src/Integrations/ContactForm7/ContactForm7Integration.php:111
+#: src/Setup/Assets.php:221
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: src/Setup/Assets.php:124
+#: src/Setup/Assets.php:208
+#: src/Setup/Assets.php:242
+msgid "Contacts"
+msgstr "Danh bạ"
+
+#: src/Setup/Assets.php:247
+msgid "contacts"
+msgstr "liên hệ"
+
+#: src/Setup/Assets.php:246
+#, fuzzy
+msgid "Contacts to Import"
+msgstr "Danh bạ cần nhập"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:118
+#: src/Setup/Assets.php:188
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:225
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:331
+#, fuzzy
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: src/Admin/Notices/ConnectionNotice.php:76
+msgid "Could not generate auth URL"
+msgstr "Không thể tạo URL xác thực"
+
+#: src/Setup/Assets.php:264
+#, fuzzy
+msgid "Create a Form"
+msgstr "Tạo biểu mẫu"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:125
+#: src/Setup/Assets.php:191
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:84
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:190
+#, fuzzy
+msgid "Create a form in Reach"
+msgstr "Tạo biểu mẫu trong Reach"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:115
+#: src/Setup/Assets.php:185
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:204
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:310
+#, fuzzy
+msgid "Create a new form"
+msgstr "Tạo biểu mẫu mới"
+
+#: src/Setup/Assets.php:147
+#, fuzzy
+msgid "Create a new form or connect a plugin to grow your contact list and start sending campaigns with Reach."
+msgstr "Tạo một biểu mẫu mới hoặc kết nối plugin để mở rộng danh sách liên hệ của bạn và bắt đầu gửi các chiến dịch với Reach."
+
+#: src/Setup/Assets.php:195
+#, fuzzy
+msgid "Create a new page"
+msgstr "Tạo một trang mới"
+
+#: src/Setup/Assets.php:137
+msgid "Create campaign"
+msgstr "Tạo chiến dịch"
+
+#: src/Setup/Assets.php:263
+#, fuzzy
+msgid "Create fully custom forms in Reach and easily embed them on your WordPress site using this plugin."
+msgstr "Tạo các biểu mẫu tùy chỉnh hoàn toàn trong Reach và dễ dàng nhúng chúng vào trang web WordPress của bạn bằng plugin này. Hãy theo dõi!"
+
+#: src/Setup/Assets.php:138
+msgid "Create template"
+msgstr "Tạo mẫu"
+
+#: src/Setup/Assets.php:202
+#: src/Setup/Assets.php:239
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: src/Setup/Assets.php:100
+msgid "Disconnect it to link this site instead."
+msgstr "Ngắt kết nối để liên kết trang web này thay thế."
+
+#: src/Setup/Assets.php:218
+msgid "Disconnect plugin"
+msgstr "Ngắt kết nối plugin"
+
+#: src/Setup/Assets.php:199
+msgid "Disconnect plugin?"
+msgstr "Ngắt kết nối plugin?"
+
+#: src/Setup/Assets.php:200
+msgid "Disconnecting will stop new contacts from being collected. You can reconnect or use a different form anytime."
+msgstr "Ngắt kết nối sẽ ngừng thu thập các liên hệ mới. Bạn có thể kết nối lại hoặc sử dụng biểu mẫu khác bất cứ lúc nào."
+
+#: src/Setup/Assets.php:258
+#, fuzzy
+msgid "Don't see your plugin?"
+msgstr "Không thấy plugin của bạn?"
+
+#: src/Setup/Assets.php:141
+msgid "E-Commerce"
+msgstr "Thương mại điện tử"
+
+#: src/Admin/Notices/AddFormNotice.php:79
+#, fuzzy
+msgid "Easily add or connect existing forms, automate WooCommerce, and sync contacts to start building campaigns and grow your business."
+msgstr "Dễ dàng thêm hoặc kết nối các biểu mẫu hiện có, tự động hóa WooCommerce và đồng bộ hóa danh bạ để bắt đầu xây dựng các chiến dịch và phát triển doanh nghiệp của bạn."
+
+#: src/Setup/Assets.php:216
+msgid "Edit form"
+msgstr "Chỉnh sửa biểu mẫu"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:113
+#: frontend/blocks/subscription-block/src/edit.js:310
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:646
+#, fuzzy
+msgid "Edit in Reach"
+msgstr "Chỉnh sửa trong Reach"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:249
+#: src/Setup/Assets.php:223
+msgid "Elementor"
+msgstr "Elementor"
+
+#: src/Blocks/SubscriptionFormBlock.php:132
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:199
+msgid "Email"
+msgstr "Email"
+
+#: src/Setup/Assets.php:120
+msgid "Email marketing background with gradient design"
+msgstr "Nền email tiếp thị với thiết kế gradient"
+
+#: src/Setup/Assets.php:121
+msgid "Email marketing illustration featuring envelopes and communication icons"
+msgstr "Hình minh họa về email tiếp thị với phong bì và biểu tượng giao tiếp"
+
+#: src/Setup/Assets.php:98
+#, fuzzy
+msgid "Email marketing that doesn't need an expert: Let AI write, design, and send your campaigns - your brand, your colors, applied automatically. No coding, no complexity."
+msgstr "Tiếp thị qua email mà không cần chuyên gia: Hãy để AI viết, thiết kế và gửi các chiến dịch của bạn – thương hiệu và màu sắc của bạn sẽ được áp dụng tự động. Không cần lập trình, không phức tạp."
+
+#: src/Setup/Assets.php:127
+msgid "Emails"
+msgstr "Email"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:107
+#, fuzzy
+msgid "Enter template ID manually"
+msgstr "Nhập ID mẫu theo cách thủ công"
+
+#: src/Api/Handlers/ReachApiHandler.php:274
+#, fuzzy
+msgid "Error connecting your site"
+msgstr "Lỗi khi kết nối với trang web của bạn"
+
+#: src/Setup/Assets.php:224
+msgid "Expand {pluginName} details"
+msgstr "Mở rộng chi tiết {pluginName}"
+
+#: src/Setup/Assets.php:158
+msgid "FAQ"
+msgstr "Câu hỏi thường gặp"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:50
+msgid "Form"
+msgstr "Biểu mẫu"
+
+#: src/Setup/Assets.php:262
+#, fuzzy
+msgid "Form Builder"
+msgstr "Trình tạo biểu mẫu"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:82
+#, fuzzy
+msgid "Form Builder Template"
+msgstr "Mẫu công cụ tạo biểu mẫu"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:120
+#, fuzzy
+msgid "Form Builder Template ID"
+msgstr "ID mẫu Trình tạo biểu mẫu"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:58
+msgid "Form ID"
+msgstr "ID biểu mẫu"
+
+#: src/Integrations/Forminator/ForminatorIntegration.php:34
+msgid "Forminator"
+msgstr "Forminator"
+
+#: src/Setup/Assets.php:145
+msgid "Forms"
+msgstr "Biểu mẫu"
+
+#: src/Setup/Assets.php:209
+#, fuzzy
+msgid "Forms syncing with Reach"
+msgstr "Đồng bộ hóa biểu mẫu với Reach"
+
+#: src/Setup/Assets.php:105
+#, fuzzy
+msgid "Generate an API token"
+msgstr "Tạo mã thông báo API"
+
+#: src/Setup/Assets.php:106
+#, fuzzy
+msgid "Go to"
+msgstr "Truy cập"
+
+#: src/Setup/Assets.php:217
+msgid "Go to plugin"
+msgstr "Đi đến plugin"
+
+#: src/Setup/Assets.php:118
+#: frontend/blocks/subscription-block/src/Components/Dialog.js:42
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:87
+msgid "Go to Reach"
+msgstr "Đi đến Reach"
+
+#. Author of the plugin
+#: hostinger-reach.php
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-reach.php
+#: src/Admin/Notices/AddFormNotice.php:90
+#: src/Admin/Notices/ConnectionNotice.php:110
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:20
+#: src/Integrations/Reach/ReachFormIntegration.php:74
+#: src/Setup/Assets.php:119
+#: src/Setup/Assets.php:220
+msgid "Hostinger Reach"
+msgstr "Hostinger Reach"
+
+#: src/Setup/Assets.php:107
+#, fuzzy
+msgid "Hostinger Reach Integrations → API Tokens"
+msgstr "Hostinger → Tích hợp Reach → Mã thông báo API"
+
+#: src/Setup/Assets.php:166
+#, fuzzy
+msgid "Hostinger Reach is a Hostinger service that helps you create and send branded email campaigns in minutes with smart AI tools. Hostinger Reach WordPress Plugin allows you to connect and sync contacts from your favorite WordPress plugins into Reach."
+msgstr "Hostinger Reach là một dịch vụ của Hostinger giúp bạn tạo và gửi các chiến dịch email mang thương hiệu chỉ trong vài phút nhờ các công cụ AI thông minh. Plugin Hostinger Reach cho WordPress cho phép bạn kết nối và đồng bộ danh bạ từ các plugin WordPress yêu thích của bạn vào Reach."
+
+#: src/Setup/Assets.php:160
+msgid "Hostinger Reach is an AI-powered email marketing tool for small businesses and creators. It supports your entire email marketing journey—from building contact lists to sending campaigns and tracking results."
+msgstr "Hostinger Reach là công cụ tiếp thị email được hỗ trợ bởi AI dành cho doanh nghiệp nhỏ và người sáng tạo. Nó hỗ trợ toàn bộ quy trình tiếp thị email - từ xây dựng danh sách liên hệ, gửi chiến dịch cho đến theo dõi kết quả."
+
+#: src/Setup/Assets.php:162
+msgid "Hostinger Reach is built for simplicity, speed, and results – no design or marketing experience needed. Unlike most email tools, at the core of Reach is its AI-powered template creator. Whether it is a product launch, special offer, or newsletter update, it instantly crafts a professional, mobile-friendly email. It not only writes the content for you; it also suggests the best layout for your message and saves your style settings so you're never starting from scratch.<br><br>Every template is customizable, so your emails reflect your brand's look, feel, and voice. And because the templates are built using proven best practices, they're optimized for readability, accessibility, and reader engagement."
+msgstr "Hostinger Reach được thiết kế cho sự đơn giản, tốc độ và hiệu quả – không cần kinh nghiệm thiết kế hay tiếp thị. Khác với hầu hết các công cụ email khác, cốt lõi của Reach là trình tạo mẫu email được hỗ trợ bởi AI. Dù là ra mắt sản phẩm, ưu đãi đặc biệt hay cập nhật bản tin, Reach sẽ ngay lập tức tạo ra một email chuyên nghiệp, tương thích với thiết bị di động. Không chỉ viết nội dung cho bạn, nó còn đề xuất bố cục tối ưu cho thông điệp và lưu lại cài đặt phong cách, giúp bạn không bao giờ phải bắt đầu từ đầu.<br><br>Mỗi mẫu email đều có thể tùy chỉnh, giúp email phản ánh đúng phong cách, cảm nhận và giọng điệu của thương hiệu. Và vì các mẫu được xây dựng dựa trên các thực tế tốt nhất đã được kiểm chứng, chúng được tối ưu hóa cho khả năng đọc, truy cập và tương tác của người đọc."
+
+#. translators: %s: PHP version
+#: hostinger-reach.php:55
+#, php-format
+msgid "Hostinger Reach requires minimum PHP version of <b>%s</b>. "
+msgstr "Hostinger Reach yêu cầu phiên bản PHP tối thiểu là <b>%s</b>."
+
+#: src/Setup/Assets.php:171
+#, fuzzy
+msgid "How are segments and tags created?"
+msgstr "Các phân đoạn và thẻ được tạo ra như thế nào?"
+
+#: src/Setup/Assets.php:167
+#, fuzzy
+msgid "How does contact syncing work?"
+msgstr "Cách đồng bộ hóa danh bạ hoạt động như thế nào?"
+
+#: src/Setup/Assets.php:161
+msgid "How is Hostinger Reach different from other email marketing apps?"
+msgstr "Hostinger Reach khác biệt so với các ứng dụng tiếp thị email khác như thế nào?"
+
+#: src/Setup/Assets.php:163
+msgid "How much does it cost to use Hostinger Reach?"
+msgstr "Chi phí sử dụng Hostinger Reach là bao nhiêu?"
+
+#: src/Admin/Surveys/SatisfactionSurvey.php:22
+msgid "How would you rate your experience with Hostinger Reach so far?"
+msgstr "Bạn đánh giá thế nào về trải nghiệm của mình với Hostinger Reach cho đến nay?"
+
+#. Plugin URI of the plugin
+#: hostinger-reach.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.vn"
+
+#. Author URI of the plugin
+#: hostinger-reach.php
+msgid "https://www.hostinger.com/email-marketing"
+msgstr "https://www.hostinger.com/vn/email-marketing"
+
+#: src/Setup/Assets.php:174
+#, fuzzy
+msgid "If the integration is interrupted, syncing pauses automatically. Once the connection is restored, syncing resumes, so you can continue collecting contacts without losing data."
+msgstr "Nếu quá trình tích hợp bị gián đoạn, việc đồng bộ hóa sẽ tự động tạm dừng. Khi kết nối được khôi phục, việc đồng bộ hóa sẽ tiếp tục, giúp bạn có thể tiếp tục thu thập danh bạ mà không mất dữ liệu."
+
+#: src/Setup/Assets.php:278
+#, fuzzy
+msgid "If your store isn’t ready yet, complete the setup to start selling and collecting contacts"
+msgstr "Nếu cửa hàng của bạn chưa sẵn sàng, hãy hoàn tất quá trình thiết lập để bắt đầu bán hàng và thu thập thông tin liên hệ"
+
+#: src/Setup/Assets.php:245
+#, fuzzy
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: src/Setup/Assets.php:241
+#, fuzzy
+msgid "Import Contacts"
+msgstr "Nhập danh bạ"
+
+#: src/Setup/Assets.php:203
+#, fuzzy
+msgid "Import contacts"
+msgstr "Nhập danh bạ"
+
+#: src/Setup/Assets.php:243
+#, fuzzy
+msgid "Import your existing contacts to Reach"
+msgstr "Nhập danh bạ hiện có của bạn vào Reach"
+
+#: src/Setup/Assets.php:253
+#, fuzzy
+msgid "Imported"
+msgstr "Nhập khẩu"
+
+#: src/Api/Handlers/IntegrationsApiHandler.php:145
+msgid "Importing is not available for this integration"
+msgstr "Chức năng nhập không khả dụng cho tích hợp này"
+
+#: src/Setup/Assets.php:255
+#, fuzzy
+msgid "Importing..."
+msgstr "Đang nhập..."
+
+#: src/Setup/Assets.php:214
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: src/Setup/Assets.php:237
+#, fuzzy
+msgid "Install"
+msgstr "Cài đặt"
+
+#: src/Setup/Assets.php:238
+msgid "Install and connect"
+msgstr "Cài đặt và kết nối"
+
+#: src/Setup/Assets.php:236
+msgid "Installed plugins"
+msgstr "Các plugin đã cài đặt"
+
+#. Description of the plugin
+#: hostinger-reach.php
+msgid "Integrate your WordPress site with Hostinger Reach."
+msgstr "Tích hợp trang web WordPress với Hostinger Reach."
+
+#: src/Setup/Assets.php:140
+msgid "Integrations"
+msgstr "Tích hợp"
+
+#: src/Setup/Assets.php:283
+#, fuzzy
+msgid "is connected!"
+msgstr "đã được kết nối!"
+
+#: src/Setup/Assets.php:259
+#, fuzzy
+msgid "It may not be supported yet. You can upload contacts as a CSV or use another plugin"
+msgstr "Có thể tính năng này chưa được hỗ trợ. Bạn có thể tải lên danh bạ dưới dạng tệp CSV hoặc sử dụng plugin khác"
+
+#: src/Setup/Assets.php:257
+#, fuzzy
+msgid "It was an error importing your contacts to Reach."
+msgstr "Đã xảy ra lỗi khi đồng bộ hóa danh bạ của bạn với Reach."
+
+#: src/Admin/Notices/ConnectionNotice.php:103
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:68
+#: src/Setup/Assets.php:275
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:120
+#: frontend/blocks/subscription-block/src/edit.js:79
+#, fuzzy
+msgid "Loading…"
+msgstr "Đang tải…"
+
+#: src/Setup/Assets.php:231
+msgid "Make sure the people you contact expect your emails and are okay with receiving them."
+msgstr "Đảm bảo rằng những người bạn liên hệ đã biết trước về email của bạn và đồng ý nhận chúng."
+
+#: src/Setup/Assets.php:101
+msgid "Manage"
+msgstr "Quản lý"
+
+#: src/Setup/Assets.php:274
+#, fuzzy
+msgid "Manage automations"
+msgstr "Quản lý tự động hóa"
+
+#: src/Setup/Assets.php:154
+#: src/Setup/Assets.php:276
+#, fuzzy
+msgid "Manage plugin"
+msgstr "Quản lý plugin"
+
+#: src/Setup/Assets.php:150
+#, fuzzy
+msgid "More plugins"
+msgstr "Nhiều plugin hơn"
+
+#: src/Blocks/SubscriptionFormBlock.php:140
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:207
+msgid "Name"
+msgstr "Tên"
+
+#: src/Setup/Assets.php:109
+#, fuzzy
+msgid "Name your token, then click <strong>Generate token</strong>"
+msgstr "Đặt tên cho mã thông báo của bạn, sau đó nhấp vào <strong>Tạo mã thông báo</strong>"
+
+#: src/Setup/Assets.php:261
+#, fuzzy
+msgid "New"
+msgstr "Mới"
+
+#: src/Setup/Assets.php:232
+msgid "New contact form"
+msgstr "Biểu mẫu liên hệ mới"
+
+#: src/Setup/Assets.php:155
+msgid "New page"
+msgstr "Trang mới"
+
+#: src/Setup/Assets.php:134
+msgid "New subscribers"
+msgstr "Người đăng ký mới"
+
+#: src/Integrations/NinjaForms/NinjaFormsIntegration.php:45
+msgid "Ninja Forms"
+msgstr "Biểu mẫu Ninja"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:110
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:152
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:165
+msgid "No"
+msgstr "Không"
+
+#: src/Setup/Assets.php:226
+msgid "No forms found for this integration."
+msgstr "Không tìm thấy biểu mẫu nào cho tích hợp này."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:122
+#: src/Setup/Assets.php:184
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:145
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:251
+#, fuzzy
+msgid "No forms match your search."
+msgstr "Không có biểu mẫu nào phù hợp với tìm kiếm của bạn."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:123
+#: src/Setup/Assets.php:189
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:62
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:168
+#, fuzzy
+msgid "No forms yet"
+msgstr "Chưa có biểu mẫu nào"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:119
+#, fuzzy
+msgid "No forms yet. Create your first form in Hostinger Reach."
+msgstr "Chưa có biểu mẫu nào. Hãy tạo biểu mẫu đầu tiên của bạn trên Hostinger Reach."
+
+#: src/Setup/Assets.php:156
+msgid "No pages available. Create a new page to get started."
+msgstr "Không có trang nào khả dụng. Tạo một trang mới để bắt đầu."
+
+#: src/Setup/Assets.php:254
+#, fuzzy
+msgid "Not imported"
+msgstr "Không nhập khẩu"
+
+#: src/Setup/Assets.php:205
+#, fuzzy
+msgid "Not needed"
+msgstr "Không cần thiết"
+
+#: src/Setup/Assets.php:211
+msgid "of"
+msgstr "của"
+
+#: src/Setup/Assets.php:168
+#, fuzzy
+msgid "Once you connect a form plugin you use on WordPress (such as Elementor or Contact Form 7), the plugin automatically forwards all the new form submissions and subscriber data to your Reach account, so your contacts are collected and updated without manual exports on each form submission"
+msgstr "Khi bạn kết nối plugin biểu mẫu mà bạn sử dụng trên WordPress (chẳng hạn như Elementor hoặc Contact Form 7), plugin sẽ tự động chuyển tất cả các biểu mẫu mới được gửi và dữ liệu người đăng ký đến tài khoản Reach của bạn, do đó các liên hệ của bạn sẽ được thu thập và cập nhật mà không cần xuất dữ liệu thủ công cho mỗi lần gửi biểu mẫu"
+
+#: src/Setup/Assets.php:182
+#, fuzzy
+msgid "Only active forms created with Reach are displayed below. Select one or create a new one."
+msgstr "Chỉ các biểu mẫu đang hoạt động được tạo bằng Reach mới được hiển thị bên dưới. Hãy chọn một biểu mẫu hoặc tạo biểu mẫu mới."
+
+#: src/Setup/Assets.php:281
+#, fuzzy
+msgid "Only subscribed contacts can receive automated emails. Customers must opt in to marketing and be synced to Reach before store automations can email them."
+msgstr "Chỉ những liên hệ đã đăng ký mới có thể nhận được email tự động. Khách hàng phải đồng ý nhận thông tin tiếp thị và được đồng bộ hóa với Reach thì hệ thống tự động hóa của cửa hàng mới có thể gửi email cho họ."
+
+#: src/Setup/Assets.php:175
+msgid "opens in new tab"
+msgstr "mở trong tab mới"
+
+#: src/Integrations/OptInMonster/OptInMonsterIntegration.php:48
+#, fuzzy
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: src/Setup/Assets.php:149
+#, fuzzy
+msgid "or connect a form plugin"
+msgstr "hoặc kết nối plugin biểu mẫu"
+
+#: src/Setup/Assets.php:252
+#, fuzzy
+msgid "Partially imported"
+msgstr "Nhập khẩu một phần"
+
+#: src/Setup/Assets.php:112
+#, fuzzy
+msgid "Paste your API token here"
+msgstr "Dán mã thông báo API của bạn vào đây"
+
+#: src/Setup/Assets.php:123
+#, fuzzy
+msgid "Plan & Limits"
+msgstr "Kế hoạch & Giới hạn"
+
+#: src/Setup/Assets.php:207
+msgid "Plugin"
+msgstr "Plugin"
+
+#: src/Setup/Assets.php:228
+msgid "Plugin connected successfully"
+msgstr "Plugin đã được kết nối thành công"
+
+#: src/Setup/Assets.php:229
+msgid "Plugin disconnected successfully"
+msgstr "Plugin đã được ngắt kết nối thành công"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:123
+#: src/Setup/Assets.php:269
+#, fuzzy
+msgid "Purchases"
+msgstr "Mua hàng"
+
+#: src/Admin/Menus.php:109
+#, fuzzy
+msgid "Reach"
+msgstr "Phạm vi"
+
+#: src/Setup/Assets.php:172
+#, fuzzy
+msgid "Reach automatically tags synced contacts using the form name and also creates a segment for easier targeting. If the form doesn’t have a title, it uses the form location title. As a final fallback, the tag title will be the plugin name.If you create a form using Hostinger Reach option, you can also assign multiple existing or new tags to subscribers. Each form will automatically generate its own segment in Reach dashboard, making it easy to send campaigns to specific audiences — and you can fully manage or create additional segments anytime in Reach."
+msgstr "Reach tự động gắn thẻ các liên hệ đồng bộ hóa dựa trên tên biểu mẫu và cũng tạo một phân đoạn để dễ dàng nhắm mục tiêu. Nếu biểu mẫu không có tiêu đề, nó sẽ sử dụng tiêu đề vị trí của biểu mẫu. Trong trường hợp cuối cùng, tiêu đề thẻ sẽ là tên plugin. Nếu bạn tạo biểu mẫu bằng tùy chọn Hostinger Reach, bạn cũng có thể gán nhiều thẻ hiện có hoặc mới cho người đăng ký. Mỗi biểu mẫu sẽ tự động tạo phân đoạn riêng của mình trong bảng điều khiển Reach, giúp dễ dàng gửi chiến dịch đến các đối tượng cụ thể — và bạn có thể quản lý hoàn toàn hoặc tạo thêm phân đoạn bất cứ lúc nào trong Reach."
+
+#: src/Setup/Assets.php:99
+msgid "Reach is already connected to another site."
+msgstr "Reach đã được kết nối với một trang web khác."
+
+#: src/Setup/Assets.php:164
+msgid "Reach offers a <b>free plan</b> for one year– perfect for getting started. Paid plans are based on how many unique contacts you aim to reach and how many emails you send monthly. As your audience grows, you can upgrade to a plan that fits your needs. Reach does not limit your contact list, so you don't need to worry about lost data and can consistently grow your audience."
+msgstr "Reach cung cấp <b>gói miễn phí</b> trong một năm – hoàn hảo để bắt đầu. Các gói trả phí được tính dựa trên số lượng liên hệ riêng biệt mà bạn muốn tiếp cận và số lượng email gửi hàng tháng. Khi đối tượng tăng lên, bạn có thể nâng cấp lên gói phù hợp với nhu cầu. Reach không giới hạn danh sách liên hệ, vì vậy bạn không cần lo lắng về việc mất dữ liệu và có thể phát triển đối tượng một cách liên tục."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:116
+#: src/Setup/Assets.php:186
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:103
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:209
+#, fuzzy
+msgid "Refresh forms"
+msgstr "Làm mới biểu mẫu"
+
+#: src/Setup/Assets.php:129
+msgid "Remaining"
+msgstr "Còn lại"
+
+#: src/Setup/Assets.php:117
+#, fuzzy
+msgid "Review domain"
+msgstr "Xem xét tên miền"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:121
+#: src/Setup/Assets.php:183
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:138
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:139
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:244
+#: frontend/dist/blocks/subscription.js:245
+#, fuzzy
+msgid "Search a template"
+msgstr "Tìm kiếm mẫu"
+
+#: src/Setup/Assets.php:125
+#, fuzzy
+msgid "Segments"
+msgstr "Các phân đoạn"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:114
+#: src/Setup/Assets.php:181
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:114
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:185
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:220
+#: frontend/dist/blocks/subscription.js:291
+#, fuzzy
+msgid "Select a form"
+msgstr "Chọn một biểu mẫu"
+
+#: src/Setup/Assets.php:180
+msgid "Select page"
+msgstr "Chọn trang"
+
+#: src/Setup/Assets.php:192
+#, fuzzy
+msgid "Select page for your form"
+msgstr "Chọn trang cho biểu mẫu của bạn"
+
+#: src/Admin/Notices/ConnectionNotice.php:96
+#, fuzzy
+msgid "Send newsletters with professionally designed templates, automate campaigns, and build AI-powered segments. With Hostinger Reach, growing your audience is easy."
+msgstr "Gửi bản tin với các mẫu thiết kế chuyên nghiệp, tự động hóa các chiến dịch và tạo các phân đoạn được hỗ trợ bởi trí tuệ nhân tạo (AI). Với Hostinger Reach, việc mở rộng đối tượng của bạn trở nên dễ dàng."
+
+#: src/Setup/Assets.php:128
+#: src/Setup/Assets.php:131
+msgid "Sent"
+msgstr "Đã gửi"
+
+#: src/Setup/Assets.php:279
+#, fuzzy
+msgid "Set up WooCommerce"
+msgstr "Cài đặt WooCommerce"
+
+#: src/Setup/Assets.php:139
+#: frontend/blocks/subscription-block/src/edit.js:279
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:615
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:149
+msgid "Show Name"
+msgstr "Hiển thị tên"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:162
+msgid "Show Surname"
+msgstr "Hiển thị họ"
+
+#: src/Setup/Assets.php:284
+#, fuzzy
+msgid "So how do you want to collect and sync contacts from your site to Reach?"
+msgstr "Vậy bạn muốn thu thập và đồng bộ danh bạ từ trang web của mình sang Reach như thế nào?"
+
+#: src/Setup/Assets.php:96
+msgid "Something went wrong"
+msgstr "Có sự cố xảy ra"
+
+#: src/Api/Handlers/ApiHandler.php:36
+#: src/Blocks/SubscriptionFormBlock.php:51
+msgid "Something went wrong. Please try again."
+msgstr "Có sự cố xảy ra. Vui lòng thử lại."
+
+#: src/Setup/Assets.php:212
+#: src/Setup/Assets.php:266
+msgid "Status"
+msgstr "Trạng thái"
+
+#: src/Setup/Assets.php:265
+#, fuzzy
+msgid "Store Events"
+msgstr "Sự kiện tại cửa hàng"
+
+#: src/Blocks/SubscriptionFormBlock.php:156
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:223
+msgid "Subscribe"
+msgstr "Đăng ký"
+
+#: templates/optin-checkbox.php:28
+msgid "Subscribe to our Newsletter"
+msgstr "Đăng ký nhận bản tin của chúng tôi"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:73
+msgid "Subscribe to our newsletter"
+msgstr "Đăng ký nhận bản tin của chúng tôi"
+
+#: src/Setup/Assets.php:133
+msgid "Subscribers"
+msgstr "Người đăng ký"
+
+#: src/Blocks/SubscriptionFormBlock.php:186
+#, fuzzy
+msgid "Subscription form is not available at the moment"
+msgstr "Hiện tại, biểu mẫu đăng ký chưa khả dụng"
+
+#: src/Setup/Assets.php:234
+msgid "Supported plugins"
+msgstr "Các plugin được hỗ trợ"
+
+#: src/Integrations/SureForms/SureFormsIntegration.php:35
+msgid "Sure Forms"
+msgstr "Các biểu mẫu chắc chắn"
+
+#: src/Blocks/SubscriptionFormBlock.php:148
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:215
+msgid "Surname"
+msgstr "Họ"
+
+#: src/Setup/Assets.php:206
+msgid "Sync"
+msgstr "Đồng bộ hóa"
+
+#: src/Blocks/SubscriptionFormBlock.php:50
+msgid "Thanks for subscribing."
+msgstr "Cảm ơn bạn đã đăng ký."
+
+#: src/Setup/Assets.php:256
+#, fuzzy
+msgid "The selected contacts are being imported to Reach."
+msgstr "Các liên hệ đã chọn đang được đồng bộ với Reach."
+
+#: src/Integrations/Integration.php:178
+msgid "This form has not an email field. Create an email field in the form to allow it to be synced with Reach"
+msgstr "Biểu mẫu này không có trường email. Hãy tạo một trường email trong biểu mẫu để cho phép nó được đồng bộ hóa với Reach"
+
+#: src/Setup/Assets.php:280
+#, fuzzy
+msgid "This form is a Reach native form inserted directly in your page. For disabling it remove the Form directly from the page using the editor."
+msgstr "Biểu mẫu này là biểu mẫu gốc của Reach được chèn trực tiếp vào trang của bạn. Để tắt biểu mẫu này, hãy xóa biểu mẫu trực tiếp khỏi trang bằng trình chỉnh sửa."
+
+#: src/Setup/Assets.php:122
+msgid "This month"
+msgstr "Tháng này"
+
+#: src/Integrations/ThriveLeads/ThriveLeadsIntegration.php:72
+#: src/Integrations/ThriveLeads/ThriveLeadsIntegration.php:88
+#, fuzzy
+msgid "Thrive Leads"
+msgstr "Phát triển khách hàng tiềm năng"
+
+#: src/Setup/Assets.php:136
+msgid "Total subscribers"
+msgstr "Tổng số người đăng ký"
+
+#: src/Setup/Assets.php:272
+#, fuzzy
+msgid "Tracks abandoned carts so you can trigger email automations in Reach when enabled."
+msgstr "Theo dõi các giỏ hàng bị bỏ quên để bạn có thể kích hoạt các quy trình tự động hóa email trong Reach khi tính năng này được bật."
+
+#: src/Setup/Assets.php:270
+#, fuzzy
+msgid "Tracks purchases so you can trigger email automations in Reach when enabled."
+msgstr "Theo dõi các giao dịch mua hàng để bạn có thể kích hoạt các quy trình tự động hóa email trong Reach khi tính năng này được bật."
+
+#: src/Setup/Assets.php:135
+msgid "Unsubscribes"
+msgstr "Hủy đăng ký"
+
+#: src/Setup/Assets.php:126
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: src/Setup/Assets.php:260
+#, fuzzy
+msgid "Upload as CSV"
+msgstr "Tải lên dưới dạng CSV"
+
+#: src/Setup/Assets.php:178
+msgid "usage statistics"
+msgstr "thống kê sử dụng"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:111
+#, fuzzy
+msgid "Use classic Reach block"
+msgstr "Sử dụng khối Reach cổ điển"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:110
+#: frontend/blocks/subscription-block/src/edit.js:323
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:659
+#, fuzzy
+msgid "Use Form builder template"
+msgstr "Sử dụng mẫu Trình tạo biểu mẫu"
+
+#: src/Setup/Assets.php:282
+#, fuzzy
+msgid "View contacts"
+msgstr "Xem danh bạ"
+
+#: src/Setup/Assets.php:215
+msgid "View form"
+msgstr "Xem biểu mẫu"
+
+#: src/Setup/Assets.php:235
+msgid "View more supported plugins"
+msgstr "Xem thêm các plugin được hỗ trợ"
+
+#: src/Setup/Assets.php:97
+msgid "Welcome to Reach"
+msgstr "Chào mừng đến với Reach"
+
+#: src/Setup/Assets.php:173
+#, fuzzy
+msgid "What happens if the connection breaks?"
+msgstr "Nếu kết nối bị gián đoạn thì sao?"
+
+#: src/Setup/Assets.php:159
+msgid "What is Hostinger Reach email marketing service?"
+msgstr "Dịch vụ tiếp thị email Hostinger Reach là gì?"
+
+#: src/Setup/Assets.php:165
+#, fuzzy
+msgid "What's the difference between Hostinger Reach and Hostinger Reach WordPress Plugin?"
+msgstr "Sự khác biệt giữa Hostinger Reach và plugin Hostinger Reach WordPress là gì?"
+
+#: src/Setup/Assets.php:210
+#, fuzzy
+msgid "When syncing is off, collected Contacts will not be sent to Reach."
+msgstr "Khi tính năng đồng bộ hóa bị tắt, các Danh bạ đã thu thập sẽ không được gửi đến Reach."
+
+#: src/Setup/Assets.php:193
+#, fuzzy
+msgid "Will be added to the selected page"
+msgstr "Sẽ được thêm vào trang đã chọn"
+
+#: src/Setup/Assets.php:169
+#, fuzzy
+msgid "Will contacts be added to my email list automatically?"
+msgstr "Các liên hệ có được tự động thêm vào danh sách email của tôi không?"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:192
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:211
+msgid "WooCommerce Customers"
+msgstr "Khách hàng WooCommerce"
+
+#: src/Setup/Assets.php:277
+#, fuzzy
+msgid "WooCommerce Plugin Connected"
+msgstr "Plugin WooCommerce đã được kết nối"
+
+#: src/Setup/Assets.php:204
+#, fuzzy
+msgid "Would you like to import contacts collected while sync was disabled?"
+msgstr "Bạn có muốn đồng bộ hóa các liên hệ đã thu thập trong khi tính năng đồng bộ hóa bị tắt không?"
+
+#: src/Integrations/WPFormsLite/WpFormsLiteIntegration.php:29
+#: src/Setup/Assets.php:222
+msgid "WP Forms Lite"
+msgstr "WP Forms Lite"
+
+#. translators: %s - form id.
+#: src/Integrations/WPFormsLite/WpFormsLiteIntegration.php:63
+#, php-format
+msgid "WP Forms Lite %s"
+msgstr "WP Forms Lite %s"
+
+#: src/Integrations/WSForms/WSFormsIntegration.php:22
+msgid "WS Form"
+msgstr "WS Form"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:109
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:151
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:164
+msgid "Yes"
+msgstr "Có"
+
+#: src/Setup/Assets.php:170
+#, fuzzy
+msgid "Yes — new subscribers are added automatically based on your setup. Some integrations may also support importing previously collected contacts (historical data), depending on the plugin and connection flow. You’ll be able to review the available options during setup. You can manage subscriber settings like double opt-in, and adjust or organize segments directly in your Reach dashboard."
+msgstr "Đúng vậy — người đăng ký mới sẽ được thêm tự động dựa trên cài đặt của bạn. Một số tích hợp cũng có thể hỗ trợ nhập danh sách liên hệ đã thu thập trước đó (dữ liệu lịch sử), tùy thuộc vào plugin và quy trình kết nối. Bạn có thể xem xét các tùy chọn có sẵn trong quá trình cài đặt. Bạn có thể quản lý cài đặt người đăng ký như xác nhận đăng ký hai bước (double opt-in) và điều chỉnh hoặc tổ chức các phân đoạn trực tiếp trên bảng điều khiển Reach của mình."
+
+#. translators: %s: PHP version
+#: hostinger-reach.php:59
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Bạn đang sử dụng phiên bản PHP <b>%s</b>."
+
+#: src/Setup/Assets.php:244
+#, fuzzy
+msgid "You can import existing contacts into Reach now to use them for your email campaigns. New contacts will be synced automatically to Reach."
+msgstr "Bạn có thể nhập danh bạ hiện có vào Reach ngay bây giờ để sử dụng cho các chiến dịch email của mình. Danh bạ mới sẽ được đồng bộ hóa tự động với Reach."
+
+#: src/Setup/Assets.php:249
+#, fuzzy
+msgid "You have not selected any forms to import. Select which forms you want to import and then click on the Import button below."
+msgstr "Bạn chưa chọn bất kỳ biểu mẫu nào để đồng bộ hóa. Hãy chọn các biểu mẫu mà bạn muốn đồng bộ hóa và sau đó nhấp vào nút Đồng bộ hóa bên dưới."
+
+#: src/Setup/Assets.php:111
+#, fuzzy
+msgid "Your API token"
+msgstr "Mã thông báo API của bạn"
+
+#: src/Api/Handlers/ReachApiHandler.php:36
+#: src/Blocks/SubscriptionFormBlock.php:184
+#, fuzzy
+msgid "Your site is not connected to Reach. Connect to Reach and try again."
+msgstr "Trang web của bạn chưa được kết nối với Reach. Vui lòng kết nối với Reach và thử lại."

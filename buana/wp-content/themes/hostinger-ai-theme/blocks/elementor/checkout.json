@@ -1,0 +1,55 @@
+[
+  {
+    "id": "2079009",
+    "elType": "container",
+    "settings": {
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "829f892",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "83b0fa0",
+            "elType": "widget",
+            "settings": {
+              "shortcode": "[woocommerce_checkout]"
+            },
+            "elements": [],
+            "widgetType": "shortcode"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

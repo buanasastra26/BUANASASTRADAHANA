@@ -1,0 +1,1067 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Reach 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-reach\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-31T11:19:40+03:00\n"
+"PO-Revision-Date: 2026-09-16 14:03+0000\n"
+"Language: de_DE\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-reach\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.8.8; wp-7.1; php-8.2.30\n"
+
+#: src/Setup/Assets.php:157
+#, fuzzy
+msgid "(Draft)"
+msgstr "(Entwurf)"
+
+#: src/Setup/Assets.php:227
+msgid "(no title)"
+msgstr "(kein Titel)"
+
+#: src/Setup/Assets.php:250
+msgid "-"
+msgstr "-"
+
+#: src/Setup/Assets.php:110
+msgid "<strong>Copy</strong> your new API token and <strong>paste it below</strong>"
+msgstr "<strong>Kopieren</strong> Sie Ihren neuen API-Token und <strong>fügen Sie ihn unten ein</strong>"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:124
+msgid "Abandoned Carts"
+msgstr "Abgebrochene Warenkörbe"
+
+#: src/Setup/Assets.php:271
+msgid "Abandoned carts"
+msgstr "Abgebrochene Warenkörbe"
+
+#: src/Setup/Assets.php:213
+#: src/Setup/Assets.php:230
+msgid "Active"
+msgstr "Aktiv"
+
+#: src/Admin/Notices/AddFormNotice.php:83
+#: src/Setup/Assets.php:151
+#: src/Setup/Assets.php:219
+#: src/Setup/Assets.php:233
+msgid "Add form"
+msgstr "Formular hinzufügen"
+
+#: src/Setup/Assets.php:153
+#: src/Setup/Assets.php:198
+msgid "Add form or plugin"
+msgstr "Formular oder Plugin hinzufügen"
+
+#: src/Admin/Notices/AddFormNotice.php:78
+msgid "Add form to start sending campaigns with Hostinger Reach"
+msgstr "Formular hinzufügen, um Kampagnen mit Hostinger Reach zu versenden"
+
+#: src/Setup/Assets.php:148
+msgid "Add new form"
+msgstr "Neues Formular hinzufügen"
+
+#: src/Setup/Assets.php:146
+msgid "Add or connect a form to start sending campaigns"
+msgstr "Fügen Sie ein Formular hinzu oder verbinden Sie eines, um Kampagnen zu versenden"
+
+#: src/Setup/Assets.php:285
+msgid "Add Reach form"
+msgstr "Reach-Formular hinzufügen"
+
+# Changed “Kasse” to “Checkout” to align with the established e-commerce terminology, and changed “Zustimmung zum Marketing” to the more natural and concise “Marketing-Einwilligung”.
+#: src/Setup/Assets.php:268
+msgid "Adds a marketing consent checkbox at checkout and syncs contacts to Reach."
+msgstr "Fügt beim Checkout ein Kontrollkästchen für die Marketing-Einwilligung hinzu und synchronisiert Kontakte mit Reach."
+
+#: src/Admin/Surveys/SatisfactionSurvey.php:26
+msgid "Any ideas or feedback to help us improve Hostinger Reach?"
+msgstr "Haben Sie Vorschläge oder Feedback, wie wir Hostinger Reach verbessern können?"
+
+#: src/Setup/Assets.php:114
+msgid "API Token field is required"
+msgstr "Das Feld „API-Token“ ist ein Pflichtfeld"
+
+#: src/Setup/Assets.php:248
+msgid "are ready to import to Reach. Any new contacts you’ll collect with these forms will sync automatically."
+msgstr "können in Reach importiert werden. Alle neuen Kontakte, die Sie mit diesen Formularen erfassen, werden automatisch synchronisiert."
+
+#: hostinger-reach.php:53
+msgid "Attention:"
+msgstr "Achtung:"
+
+#: src/Setup/Assets.php:251
+msgid "Auto-sync off"
+msgstr "Automatische Synchronisierung aus"
+
+#: src/Setup/Assets.php:273
+msgid "Automation"
+msgstr "Automatisierung"
+
+#: src/Setup/Assets.php:132
+msgid "Average CTOR"
+msgstr "Durchschnittliche CTOR"
+
+#: src/Setup/Assets.php:95
+msgid "Back"
+msgstr "Zurück"
+
+#: src/Setup/Assets.php:177
+msgid "Background image for"
+msgstr "Hintergrundbild für"
+
+#: src/Setup/Assets.php:176
+msgid "Banner background image for"
+msgstr "Banner-Hintergrundbild für"
+
+#: frontend/blocks/subscription-block/block.json
+msgctxt "block description"
+msgid "Subscription form for Hostinger Reach"
+msgstr "Abonnementformular für Hostinger Reach"
+
+#: frontend/blocks/subscription-block/block.json
+msgctxt "block title"
+msgid "Reach Subscription Form"
+msgstr "Reach-Abonnementformular"
+
+#: src/Integrations/Brave/BraveIntegration.php:29
+msgid "Brave Popup Builder"
+msgstr "Brave Popup Builder"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:124
+#: src/Setup/Assets.php:190
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:65
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:171
+msgid "Build your first form in Hostinger Reach and add it to any page on your site."
+msgstr "Erstellen Sie Ihr erstes Formular in Hostinger Reach und fügen Sie es auf einer beliebigen Seite Ihrer Website ein."
+
+#: src/Setup/Assets.php:130
+msgid "Campaigns"
+msgstr "Kampagnen"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:117
+#: src/Setup/Assets.php:116
+#: src/Setup/Assets.php:187
+#: src/Setup/Assets.php:196
+#: src/Setup/Assets.php:201
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:222
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:328
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:112
+#: src/Setup/Assets.php:194
+#: frontend/blocks/subscription-block/src/edit.js:299
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:635
+msgid "Change the selection"
+msgstr "Auswahl ändern"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:116
+#: src/Setup/Assets.php:267
+msgid "Checkout"
+msgstr "Kasse"
+
+#. translators: %s: "Learn more" link.
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:67
+#, php-format
+msgid "Choose a Reach Form Builder template to embed instead. The Reach script loads it automatically. %s"
+msgstr "Wählen Sie stattdessen eine Vorlage aus dem Reach Form Builder zum Einbetten aus. Das Reach-Skript lädt sie automatisch. %s"
+
+#: src/Setup/Assets.php:108
+msgid "Click <strong>Generate API Token</strong>"
+msgstr "Klicken Sie auf <strong>API-Token generieren</strong>"
+
+#: src/Setup/Assets.php:179
+msgid "Click-to-open rate tells you what percent of opens resulted in a click too. A good CTOR is 6-17%, depending on your industry."
+msgstr "Die Click-to-Open-Rate gibt an, wie viel Prozent der geöffneten E-Mails auch zu einem Klick geführt haben. Eine gute CTOR liegt je nach Branche zwischen 6-17 %."
+
+#: src/Setup/Assets.php:225
+msgid "Collapse {pluginName} details"
+msgstr "Details von {pluginName} ausblenden"
+
+#: src/Setup/Assets.php:143
+msgid "Collect contacts at checkout, send automated emails after purchases, and recover abandoned carts to drive more sales with Reach"
+msgstr "Erfassen Sie Kontakte beim Checkout, versenden Sie automatisierte E-Mails nach Käufen und stellen Sie abgebrochene Warenkörbe wieder her, um mit Reach mehr Verkäufe zu erzielen"
+
+#: src/Setup/Assets.php:197
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: src/Admin/Notices/ConnectionNotice.php:100
+#: src/Setup/Assets.php:115
+#: src/Setup/Assets.php:240
+msgid "Connect"
+msgstr "Verbinden"
+
+#: src/Admin/Notices/ConnectionNotice.php:95
+msgid "Connect Hostinger Reach to start Email Marketing"
+msgstr "Verbinden Sie Hostinger Reach, um E-Mail Marketing zu starten"
+
+#: src/Setup/Assets.php:152
+msgid "Connect plugin"
+msgstr "Plugin verbinden"
+
+#: src/Setup/Assets.php:102
+msgid "Connect site"
+msgstr "Website verbinden"
+
+#: src/Setup/Assets.php:103
+msgid "Connect with API token"
+msgstr "Mit API-Token verbinden"
+
+#: src/Setup/Assets.php:144
+msgid "Connect WooCommerce"
+msgstr "WooCommerce verbinden"
+
+#: src/Setup/Assets.php:142
+msgid "Connect WooCommerce to boost sales with email automations"
+msgstr "Verbinden Sie WooCommerce, um mit E-Mail-Automatisierungen den Umsatz zu steigern"
+
+#: src/Setup/Assets.php:104
+msgid "Connect your website to Hostinger Reach"
+msgstr "Verbinden Sie Ihre Website mit Hostinger Reach"
+
+#: src/Setup/Assets.php:113
+msgid "Connection failed. Check if your API Token is correct or contact Hostinger Reach support."
+msgstr "Die Verbindung ist fehlgeschlagen. Überprüfen Sie, ob Ihr API-Token korrekt ist, oder wenden Sie sich an den Hostinger Reach-Support."
+
+#: src/Integrations/ContactForm7/ContactForm7Integration.php:111
+#: src/Setup/Assets.php:221
+msgid "Contact Form 7"
+msgstr "Kontakt-Formular 7"
+
+#: src/Setup/Assets.php:124
+#: src/Setup/Assets.php:208
+#: src/Setup/Assets.php:242
+msgid "Contacts"
+msgstr "Kontakte"
+
+#: src/Setup/Assets.php:247
+msgid "contacts"
+msgstr "Kontakte"
+
+#: src/Setup/Assets.php:246
+msgid "Contacts to Import"
+msgstr "Zu importierende Kontakte"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:118
+#: src/Setup/Assets.php:188
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:225
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:331
+msgid "Continue"
+msgstr "Weiter"
+
+#: src/Admin/Notices/ConnectionNotice.php:76
+msgid "Could not generate auth URL"
+msgstr "Konnte keine Auth-URL generieren"
+
+#: src/Setup/Assets.php:264
+msgid "Create a Form"
+msgstr "Formular erstellen"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:125
+#: src/Setup/Assets.php:191
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:84
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:190
+msgid "Create a form in Reach"
+msgstr "Formular in Reach erstellen"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:115
+#: src/Setup/Assets.php:185
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:204
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:310
+msgid "Create a new form"
+msgstr "Neues Formular erstellen"
+
+#: src/Setup/Assets.php:147
+msgid "Create a new form or connect a plugin to grow your contact list and start sending campaigns with Reach."
+msgstr "Erstellen Sie ein neues Formular oder verbinden Sie ein Plugin, um Ihre Kontaktliste zu erweitern und Kampagnen mit Reach zu versenden."
+
+#: src/Setup/Assets.php:195
+msgid "Create a new page"
+msgstr "Neue Seite erstellen"
+
+#: src/Setup/Assets.php:137
+msgid "Create campaign"
+msgstr "Kampagne erstellen"
+
+#: src/Setup/Assets.php:263
+msgid "Create fully custom forms in Reach and easily embed them on your WordPress site using this plugin."
+msgstr "Erstellen Sie mit diesem Plugin vollständig benutzerdefinierte Formulare in Reach und betten Sie sie ganz einfach in Ihre WordPress-Website ein."
+
+#: src/Setup/Assets.php:138
+msgid "Create template"
+msgstr "Vorlage erstellen"
+
+#: src/Setup/Assets.php:202
+#: src/Setup/Assets.php:239
+msgid "Disconnect"
+msgstr "Trennen"
+
+#: src/Setup/Assets.php:100
+msgid "Disconnect it to link this site instead."
+msgstr "Trennen, um stattdessen diese Website zu verlinken."
+
+#: src/Setup/Assets.php:218
+msgid "Disconnect plugin"
+msgstr "Plugin trennen"
+
+#: src/Setup/Assets.php:199
+msgid "Disconnect plugin?"
+msgstr "Plugin trennen?"
+
+#: src/Setup/Assets.php:200
+msgid "Disconnecting will stop new contacts from being collected. You can reconnect or use a different form anytime."
+msgstr "Durch Trennung der Verbindung werden keine neuen Kontakte mehr gesammelt. Sie können die Verbindung jederzeit wiederherstellen oder ein anderes Formular verwenden."
+
+#: src/Setup/Assets.php:258
+msgid "Don't see your plugin?"
+msgstr "Wird Ihr Plugin nicht angezeigt?"
+
+#: src/Setup/Assets.php:141
+msgid "E-Commerce"
+msgstr "E-Commerce"
+
+#: src/Admin/Notices/AddFormNotice.php:79
+msgid "Easily add or connect existing forms, automate WooCommerce, and sync contacts to start building campaigns and grow your business."
+msgstr "Fügen Sie ganz einfach Formulare hinzu oder verbinden Sie bestehende Formulare, automatisieren Sie WooCommerce und synchronisieren Sie Kontakte, um Kampagnen zu erstellen und Ihr Geschäft auszubauen."
+
+#: src/Setup/Assets.php:216
+msgid "Edit form"
+msgstr "Formular bearbeiten"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:113
+#: frontend/blocks/subscription-block/src/edit.js:310
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:646
+msgid "Edit in Reach"
+msgstr "In Reach bearbeiten"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:249
+#: src/Setup/Assets.php:223
+msgid "Elementor"
+msgstr "Elementor"
+
+#: src/Blocks/SubscriptionFormBlock.php:132
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:199
+msgid "Email"
+msgstr "E-Mail"
+
+#: src/Setup/Assets.php:120
+msgid "Email marketing background with gradient design"
+msgstr "E-Mail-Marketing-Hintergrund mit Farbverlaufsdesign"
+
+#: src/Setup/Assets.php:121
+msgid "Email marketing illustration featuring envelopes and communication icons"
+msgstr "E-Mail-Marketing-Illustration mit Briefumschlägen und Kommunikationssymbolen"
+
+#: src/Setup/Assets.php:98
+msgid "Email marketing that doesn't need an expert: Let AI write, design, and send your campaigns - your brand, your colors, applied automatically. No coding, no complexity."
+msgstr "E-Mail-Marketing, für das Sie keinen Experten brauchen: Lassen Sie Ihre Kampagnen von KI schreiben, gestalten und versenden – mit Ihrer Marke und Ihren Farben, automatisch angewendet. Keine Programmierung, keine Komplexität."
+
+#: src/Setup/Assets.php:127
+msgid "Emails"
+msgstr "E-Mails"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:107
+msgid "Enter template ID manually"
+msgstr "Vorlagen-ID manuell eingeben"
+
+#: src/Api/Handlers/ReachApiHandler.php:274
+msgid "Error connecting your site"
+msgstr "Fehler beim Verbinden Ihrer Website"
+
+#: src/Setup/Assets.php:224
+msgid "Expand {pluginName} details"
+msgstr "{pluginName}-Details erweitern"
+
+#: src/Setup/Assets.php:158
+msgid "FAQ"
+msgstr "Häufig gestellte Fragen (FAQ)"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:50
+msgid "Form"
+msgstr "Formular"
+
+#: src/Setup/Assets.php:262
+msgid "Form Builder"
+msgstr "Form Builder"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:82
+msgid "Form Builder Template"
+msgstr "Form Builder-Vorlage"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:120
+msgid "Form Builder Template ID"
+msgstr "Form Builder-Vorlagen-ID"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:58
+msgid "Form ID"
+msgstr "Formular-ID"
+
+#: src/Integrations/Forminator/ForminatorIntegration.php:34
+msgid "Forminator"
+msgstr "Forminator"
+
+#: src/Setup/Assets.php:145
+msgid "Forms"
+msgstr "Formulare"
+
+#: src/Setup/Assets.php:209
+msgid "Forms syncing with Reach"
+msgstr "Mit Reach synchronisierte Formulare"
+
+#: src/Setup/Assets.php:105
+msgid "Generate an API token"
+msgstr "API-Token generieren"
+
+#: src/Setup/Assets.php:106
+msgid "Go to"
+msgstr "Weiter zu"
+
+#: src/Setup/Assets.php:217
+msgid "Go to plugin"
+msgstr "Zum Plugin gehen"
+
+#: src/Setup/Assets.php:118
+#: frontend/blocks/subscription-block/src/Components/Dialog.js:42
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:87
+msgid "Go to Reach"
+msgstr "Zu Reach gehen"
+
+#. Author of the plugin
+#: hostinger-reach.php
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-reach.php
+#: src/Admin/Notices/AddFormNotice.php:90
+#: src/Admin/Notices/ConnectionNotice.php:110
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:20
+#: src/Integrations/Reach/ReachFormIntegration.php:74
+#: src/Setup/Assets.php:119
+#: src/Setup/Assets.php:220
+msgid "Hostinger Reach"
+msgstr "Hostinger Reach"
+
+#: src/Setup/Assets.php:107
+msgid "Hostinger Reach Integrations → API Tokens"
+msgstr "Hostinger Reach Integrationen → API-Token"
+
+#: src/Setup/Assets.php:166
+msgid "Hostinger Reach is a Hostinger service that helps you create and send branded email campaigns in minutes with smart AI tools. Hostinger Reach WordPress Plugin allows you to connect and sync contacts from your favorite WordPress plugins into Reach."
+msgstr "Hostinger Reach ist ein Service von Hostinger, mit dem Sie mithilfe intelligenter KI-Tools in wenigen Minuten E-Mail-Kampagnen für Ihre Marke erstellen und versenden können. Mit dem Hostinger Reach WordPress-Plugin können Sie Kontakte aus Ihren bevorzugten WordPress-Plugins mit Reach verbinden und synchronisieren."
+
+#: src/Setup/Assets.php:160
+msgid "Hostinger Reach is an AI-powered email marketing tool for small businesses and creators. It supports your entire email marketing journey—from building contact lists to sending campaigns and tracking results."
+msgstr "Hostinger Reach ist ein KI-gestütztes E-Mail-Marketing-Tool für Kleinunternehmen und Kreative. Es unterstützt Sie bei Ihrer gesamten E-Mail-Marketing-Journey – vom Erstellen der Kontaktlisten über das Versenden von Kampagnen bis hin zur Leistungsverfolgung."
+
+#: src/Setup/Assets.php:162
+msgid "Hostinger Reach is built for simplicity, speed, and results – no design or marketing experience needed. Unlike most email tools, at the core of Reach is its AI-powered template creator. Whether it is a product launch, special offer, or newsletter update, it instantly crafts a professional, mobile-friendly email. It not only writes the content for you; it also suggests the best layout for your message and saves your style settings so you're never starting from scratch.<br><br>Every template is customizable, so your emails reflect your brand's look, feel, and voice. And because the templates are built using proven best practices, they're optimized for readability, accessibility, and reader engagement."
+msgstr "Hostinger Reach ist auf Einfachheit, Geschwindigkeit und Ergebnisse ausgelegt – Design- oder Marketing-Erfahrung ist nicht erforderlich. Im Gegensatz zu den meisten E-Mail-Tools basiert Reach auf einem KI-gestützten Vorlagen-Editor. Ob Produkteinführung, Sonderangebot oder Newsletter-Neuigkeiten – Reach erstellt im Handumdrehen eine professionelle, mobilfreundliche E-Mail. Es schreibt nicht nur den Inhalt für Sie, sondern schlägt auch das optimale Layout für Ihre Nachricht vor und speichert Ihre Stileinstellungen, sodass Sie nie wieder bei Null anfangen müssen.<br><br>Jede Vorlage ist anpassbar, sodass Ihre E-Mails den Look, die Stimmung und den Ton Ihrer Marke widerspiegeln. Da die Vorlagen nach bewährten Praktiken erstellt werden, sind sie für Lesbarkeit, Zugänglichkeit und Leserbindung optimiert."
+
+#. translators: %s: PHP version
+#: hostinger-reach.php:55
+#, php-format
+msgid "Hostinger Reach requires minimum PHP version of <b>%s</b>. "
+msgstr "Hostinger Reach benötigt mindestens eine PHP-Version von <b>%s</b>."
+
+#: src/Setup/Assets.php:171
+msgid "How are segments and tags created?"
+msgstr "Wie werden Segmente und Tags erstellt?"
+
+#: src/Setup/Assets.php:167
+msgid "How does contact syncing work?"
+msgstr "Wie funktioniert die Kontaktsynchronisierung?"
+
+#: src/Setup/Assets.php:161
+msgid "How is Hostinger Reach different from other email marketing apps?"
+msgstr "Wie unterscheidet sich Hostinger Reach von anderen E-Mail-Marketing-Apps?"
+
+#: src/Setup/Assets.php:163
+msgid "How much does it cost to use Hostinger Reach?"
+msgstr "Wie viel kostet die Nutzung von Hostinger Reach?"
+
+#: src/Admin/Surveys/SatisfactionSurvey.php:22
+msgid "How would you rate your experience with Hostinger Reach so far?"
+msgstr "Wie würden Sie Ihre bisherigen Erfahrungen mit Hostinger Reach bewerten?"
+
+#. Plugin URI of the plugin
+#: hostinger-reach.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com/de"
+
+#. Author URI of the plugin
+#: hostinger-reach.php
+msgid "https://www.hostinger.com/email-marketing"
+msgstr "https://www.hostinger.com/de/email-marketing"
+
+#: src/Setup/Assets.php:174
+msgid "If the integration is interrupted, syncing pauses automatically. Once the connection is restored, syncing resumes, so you can continue collecting contacts without losing data."
+msgstr "Wenn die Integration unterbrochen wird, wird die Synchronisierung automatisch angehalten. Sobald die Verbindung wiederhergestellt ist, wird die Synchronisierung fortgesetzt, sodass Sie weiterhin Kontakte erfassen können, ohne Daten zu verlieren."
+
+#: src/Setup/Assets.php:278
+msgid "If your store isn’t ready yet, complete the setup to start selling and collecting contacts"
+msgstr "Wenn Ihr Shop noch nicht bereit ist, schließen Sie die Einrichtung ab, um mit dem Verkauf und Erfassen von Kontakten zu beginnen"
+
+#: src/Setup/Assets.php:245
+msgid "Import"
+msgstr "Importieren"
+
+#: src/Setup/Assets.php:241
+msgid "Import Contacts"
+msgstr "Kontakte importieren"
+
+#: src/Setup/Assets.php:203
+msgid "Import contacts"
+msgstr "Kontakte importieren"
+
+#: src/Setup/Assets.php:243
+msgid "Import your existing contacts to Reach"
+msgstr "Bestehende Kontakte in Reach importieren"
+
+#: src/Setup/Assets.php:253
+msgid "Imported"
+msgstr "Importiert"
+
+#: src/Api/Handlers/IntegrationsApiHandler.php:145
+msgid "Importing is not available for this integration"
+msgstr "Importieren ist für diese Integration nicht möglich"
+
+#: src/Setup/Assets.php:255
+msgid "Importing..."
+msgstr "Wird importiert..."
+
+#: src/Setup/Assets.php:214
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: src/Setup/Assets.php:237
+msgid "Install"
+msgstr "Installieren"
+
+#: src/Setup/Assets.php:238
+msgid "Install and connect"
+msgstr "Installieren und verbinden"
+
+#: src/Setup/Assets.php:236
+msgid "Installed plugins"
+msgstr "Installierte Plugins"
+
+#. Description of the plugin
+#: hostinger-reach.php
+msgid "Integrate your WordPress site with Hostinger Reach."
+msgstr "Integrieren Sie Ihre WordPress-Website mit Hostinger Reach."
+
+#: src/Setup/Assets.php:140
+msgid "Integrations"
+msgstr "Integrationen"
+
+#: src/Setup/Assets.php:283
+msgid "is connected!"
+msgstr "ist verbunden!"
+
+#: src/Setup/Assets.php:259
+msgid "It may not be supported yet. You can upload contacts as a CSV or use another plugin"
+msgstr "Möglicherweise wird es noch nicht unterstützt. Sie können Kontakte als CSV hochladen oder ein anderes Plugin verwenden"
+
+#: src/Setup/Assets.php:257
+msgid "It was an error importing your contacts to Reach."
+msgstr "Beim Importieren Ihrer Kontakte in Reach ist ein Fehler aufgetreten."
+
+#: src/Admin/Notices/ConnectionNotice.php:103
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:68
+#: src/Setup/Assets.php:275
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:120
+#: frontend/blocks/subscription-block/src/edit.js:79
+msgid "Loading…"
+msgstr "Wird geladen…"
+
+#: src/Setup/Assets.php:231
+msgid "Make sure the people you contact expect your emails and are okay with receiving them."
+msgstr "Stellen Sie sicher, dass die zu kontaktierenden Personen mit dem Empfang Ihrer E-Mails einverstanden sind."
+
+#: src/Setup/Assets.php:101
+msgid "Manage"
+msgstr "Verwalten"
+
+#: src/Setup/Assets.php:274
+msgid "Manage automations"
+msgstr "Automatisierungen verwalten"
+
+#: src/Setup/Assets.php:154
+#: src/Setup/Assets.php:276
+msgid "Manage plugin"
+msgstr "Plugin verwalten"
+
+#: src/Setup/Assets.php:150
+msgid "More plugins"
+msgstr "Weitere Plugins"
+
+#: src/Blocks/SubscriptionFormBlock.php:140
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:207
+msgid "Name"
+msgstr "Name"
+
+#: src/Setup/Assets.php:109
+msgid "Name your token, then click <strong>Generate token</strong>"
+msgstr "Geben Sie Ihrem Token einen Namen und klicken Sie dann auf <strong>Token generieren</strong>"
+
+#: src/Setup/Assets.php:261
+msgid "New"
+msgstr "Neu"
+
+#: src/Setup/Assets.php:232
+msgid "New contact form"
+msgstr "Neues Kontaktformular"
+
+#: src/Setup/Assets.php:155
+msgid "New page"
+msgstr "Neue Seite"
+
+#: src/Setup/Assets.php:134
+msgid "New subscribers"
+msgstr "Neue Abonnenten"
+
+#: src/Integrations/NinjaForms/NinjaFormsIntegration.php:45
+msgid "Ninja Forms"
+msgstr "Ninja-Formulare"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:110
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:152
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:165
+msgid "No"
+msgstr "Nein"
+
+#: src/Setup/Assets.php:226
+msgid "No forms found for this integration."
+msgstr "Für diese Integration wurden keine Formulare gefunden."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:122
+#: src/Setup/Assets.php:184
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:145
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:251
+#, fuzzy
+msgid "No forms match your search."
+msgstr "Es wurden keine Formulare gefunden, die deiner Suche entsprechen."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:123
+#: src/Setup/Assets.php:189
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:62
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:168
+msgid "No forms yet"
+msgstr "Noch keine Formulare"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:119
+msgid "No forms yet. Create your first form in Hostinger Reach."
+msgstr "Noch keine Formulare. Erstellen Sie Ihr erstes Formular in Hostinger Reach."
+
+#: src/Setup/Assets.php:156
+msgid "No pages available. Create a new page to get started."
+msgstr "Keine Seiten verfügbar. Erstellen Sie eine neue Seite, um loszulegen."
+
+#: src/Setup/Assets.php:254
+msgid "Not imported"
+msgstr "Nicht importiert"
+
+#: src/Setup/Assets.php:205
+msgid "Not needed"
+msgstr "Nicht erforderlich"
+
+#: src/Setup/Assets.php:211
+msgid "of"
+msgstr "von"
+
+#: src/Setup/Assets.php:168
+msgid "Once you connect a form plugin you use on WordPress (such as Elementor or Contact Form 7), the plugin automatically forwards all the new form submissions and subscriber data to your Reach account, so your contacts are collected and updated without manual exports on each form submission"
+msgstr "Sobald Sie ein in WordPress verwendetes Formular-Plugin (z. B. Elementor oder Contact Form 7) verbinden, leitet das Plugin automatisch alle neuen Formularübermittlungen und Abonnentendaten an Ihr Reach-Konto weiter. So werden Ihre Kontakte erfasst und aktualisiert, ohne dass Sie sie bei jeder Formularübermittlung manuell exportieren müssen."
+
+#: src/Setup/Assets.php:182
+#, fuzzy
+msgid "Only active forms created with Reach are displayed below. Select one or create a new one."
+msgstr "Unten werden nur aktive Formulare angezeigt, die mit Reach erstellt wurden. Wähle eines aus oder erstelle ein neues."
+
+#: src/Setup/Assets.php:281
+msgid "Only subscribed contacts can receive automated emails. Customers must opt in to marketing and be synced to Reach before store automations can email them."
+msgstr "Nur abonnierte Kontakte können automatisierte E-Mails erhalten. Kunden müssen dem Marketing zustimmen und mit Reach synchronisiert sein, bevor die Shop-Automatisierungen ihnen E-Mails senden können."
+
+#: src/Setup/Assets.php:175
+msgid "opens in new tab"
+msgstr "wird in einem neuen Tab geöffnet"
+
+#: src/Integrations/OptInMonster/OptInMonsterIntegration.php:48
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: src/Setup/Assets.php:149
+msgid "or connect a form plugin"
+msgstr "oder ein Formular-Plugin verbinden"
+
+#: src/Setup/Assets.php:252
+msgid "Partially imported"
+msgstr "Teilweise importiert"
+
+#: src/Setup/Assets.php:112
+msgid "Paste your API token here"
+msgstr "Fügen Sie Ihren API-Token hier ein"
+
+#: src/Setup/Assets.php:123
+msgid "Plan & Limits"
+msgstr "Plan und Limits"
+
+#: src/Setup/Assets.php:207
+msgid "Plugin"
+msgstr "Plugin"
+
+#: src/Setup/Assets.php:228
+msgid "Plugin connected successfully"
+msgstr "Plugin erfolgreich verbunden"
+
+#: src/Setup/Assets.php:229
+msgid "Plugin disconnected successfully"
+msgstr "Plugin erfolgreich getrennt"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:123
+#: src/Setup/Assets.php:269
+msgid "Purchases"
+msgstr "Käufe"
+
+#: src/Admin/Menus.php:109
+msgid "Reach"
+msgstr "Reach"
+
+#: src/Setup/Assets.php:172
+msgid "Reach automatically tags synced contacts using the form name and also creates a segment for easier targeting. If the form doesn’t have a title, it uses the form location title. As a final fallback, the tag title will be the plugin name.If you create a form using Hostinger Reach option, you can also assign multiple existing or new tags to subscribers. Each form will automatically generate its own segment in Reach dashboard, making it easy to send campaigns to specific audiences — and you can fully manage or create additional segments anytime in Reach."
+msgstr "Reach versieht synchronisierte Kontakte automatisch anhand des Formularnamens mit Tags und erstellt außerdem ein Segment für eine einfachere Zielgruppenansprache. Wenn das Formular keinen Titel hat, wird der Titel des Formularorts verwendet. Wenn Sie ein Formular mit der Hostinger Reach-Option erstellen, können Sie Abonnenten außerdem mehrere bestehende oder neue Tags zuweisen. Jedes Formular erstellt automatisch ein eigenes Segment im Reach-Dashboard. So können Sie Kampagnen ganz einfach an bestimmte Zielgruppen senden und jederzeit weitere Segmente in Reach verwalten oder erstellen."
+
+#: src/Setup/Assets.php:99
+msgid "Reach is already connected to another site."
+msgstr "Reach ist bereits mit einer anderen Website verbunden."
+
+#: src/Setup/Assets.php:164
+msgid "Reach offers a <b>free plan</b> for one year– perfect for getting started. Paid plans are based on how many unique contacts you aim to reach and how many emails you send monthly. As your audience grows, you can upgrade to a plan that fits your needs. Reach does not limit your contact list, so you don't need to worry about lost data and can consistently grow your audience."
+msgstr "Reach bietet einen <b>kostenlosen Plan</b> für ein Jahr – perfekt für den Einstieg. Bezahlte Pläne basieren darauf, wie viele eindeutige Kontakte Sie erreichen möchten und wie viele E-Mails Sie monatlich versenden. Wenn Ihr Publikum wächst, können Sie auf einen Plan upgraden, der Ihren Bedürfnissen entspricht. Reach begrenzt Ihre Kontaktliste nicht, daher müssen Sie sich keine Sorgen über verlorene Daten machen und können Ihr Publikum stetig vergrößern."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:116
+#: src/Setup/Assets.php:186
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:103
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:209
+msgid "Refresh forms"
+msgstr "Formulare aktualisieren"
+
+#: src/Setup/Assets.php:129
+msgid "Remaining"
+msgstr "Verblieben"
+
+#: src/Setup/Assets.php:117
+msgid "Review domain"
+msgstr "Domain überprüfen"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:121
+#: src/Setup/Assets.php:183
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:138
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:139
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:244
+#: frontend/dist/blocks/subscription.js:245
+#, fuzzy
+msgid "Search a template"
+msgstr "Eine Vorlage suchen"
+
+#: src/Setup/Assets.php:125
+msgid "Segments"
+msgstr "Segmente"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:114
+#: src/Setup/Assets.php:181
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:114
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:185
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:220
+#: frontend/dist/blocks/subscription.js:291
+msgid "Select a form"
+msgstr "Formular auswählen"
+
+#: src/Setup/Assets.php:180
+msgid "Select page"
+msgstr "Seite auswählen"
+
+#: src/Setup/Assets.php:192
+msgid "Select page for your form"
+msgstr "Seite für Ihr Formular auswählen"
+
+#: src/Admin/Notices/ConnectionNotice.php:96
+msgid "Send newsletters with professionally designed templates, automate campaigns, and build AI-powered segments. With Hostinger Reach, growing your audience is easy."
+msgstr "Versenden Sie Newsletter mit professionell gestalteten Vorlagen, automatisieren Sie Kampagnen und erstellen Sie KI-gestützte Segmente. Mit Hostinger Reach können Sie Ihre Zielgruppe ganz einfach vergrößern."
+
+#: src/Setup/Assets.php:128
+#: src/Setup/Assets.php:131
+msgid "Sent"
+msgstr "Gesendet"
+
+#: src/Setup/Assets.php:279
+msgid "Set up WooCommerce"
+msgstr "WooCommerce einrichten"
+
+#: src/Setup/Assets.php:139
+#: frontend/blocks/subscription-block/src/edit.js:279
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:615
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:149
+msgid "Show Name"
+msgstr "Name anzeigen"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:162
+msgid "Show Surname"
+msgstr "Nachname anzeigen"
+
+#: src/Setup/Assets.php:284
+msgid "So how do you want to collect and sync contacts from your site to Reach?"
+msgstr "Wie möchten Sie Kontakte von Ihrer Website erfassen und mit Reach synchronisieren?"
+
+#: src/Setup/Assets.php:96
+msgid "Something went wrong"
+msgstr "Es ist ein Fehler aufgetreten"
+
+#: src/Api/Handlers/ApiHandler.php:36
+#: src/Blocks/SubscriptionFormBlock.php:51
+msgid "Something went wrong. Please try again."
+msgstr "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+
+#: src/Setup/Assets.php:212
+#: src/Setup/Assets.php:266
+msgid "Status"
+msgstr "Status"
+
+#: src/Setup/Assets.php:265
+msgid "Store Events"
+msgstr "Shop-Ereignisse"
+
+#: src/Blocks/SubscriptionFormBlock.php:156
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:223
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: templates/optin-checkbox.php:28
+msgid "Subscribe to our Newsletter"
+msgstr "Abonnieren Sie unseren Newsletter"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:73
+msgid "Subscribe to our newsletter"
+msgstr "Abonnieren Sie unseren Newsletter"
+
+#: src/Setup/Assets.php:133
+msgid "Subscribers"
+msgstr "Abonnenten"
+
+#: src/Blocks/SubscriptionFormBlock.php:186
+msgid "Subscription form is not available at the moment"
+msgstr "Das Anmeldeformular ist derzeit nicht verfügbar"
+
+#: src/Setup/Assets.php:234
+msgid "Supported plugins"
+msgstr "Unterstützte Plugins"
+
+#: src/Integrations/SureForms/SureFormsIntegration.php:35
+msgid "Sure Forms"
+msgstr "Sure-Formulare"
+
+#: src/Blocks/SubscriptionFormBlock.php:148
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:215
+msgid "Surname"
+msgstr "Nachname"
+
+#: src/Setup/Assets.php:206
+msgid "Sync"
+msgstr ""
+"Synchronisieren\n"
+""
+
+#: src/Blocks/SubscriptionFormBlock.php:50
+msgid "Thanks for subscribing."
+msgstr "Danke für Ihr Abonnement."
+
+#: src/Setup/Assets.php:256
+msgid "The selected contacts are being imported to Reach."
+msgstr "Die ausgewählten Kontakte werden in Reach importiert."
+
+#: src/Integrations/Integration.php:178
+msgid "This form has not an email field. Create an email field in the form to allow it to be synced with Reach"
+msgstr "Dieses Formular hat kein E-Mail-Feld. Erstellen Sie ein E-Mail-Feld im Formular, damit es mit Reach synchronisiert werden kann."
+
+#: src/Setup/Assets.php:280
+msgid "This form is a Reach native form inserted directly in your page. For disabling it remove the Form directly from the page using the editor."
+msgstr "Dieses Formular ist ein natives Reach-Formular, das direkt in Ihre Seite eingefügt wird. Um es zu deaktivieren, entfernen Sie das Formular mit dem Editor direkt von der Seite."
+
+#: src/Setup/Assets.php:122
+msgid "This month"
+msgstr "Diesen Monat"
+
+#: src/Integrations/ThriveLeads/ThriveLeadsIntegration.php:72
+#: src/Integrations/ThriveLeads/ThriveLeadsIntegration.php:88
+msgid "Thrive Leads"
+msgstr "Thrive Leads"
+
+#: src/Setup/Assets.php:136
+msgid "Total subscribers"
+msgstr "Abonnenten insgesamt"
+
+#: src/Setup/Assets.php:272
+msgid "Tracks abandoned carts so you can trigger email automations in Reach when enabled."
+msgstr "Verfolgt abgebrochene Warenkörbe, damit Sie bei aktivierter Funktion E-Mail-Automatisierungen in Reach auslösen können."
+
+#: src/Setup/Assets.php:270
+msgid "Tracks purchases so you can trigger email automations in Reach when enabled."
+msgstr "Verfolgt Käufe, damit Sie bei aktivierter Funktion E-Mail-Automatisierungen in Reach auslösen können."
+
+#: src/Setup/Assets.php:135
+msgid "Unsubscribes"
+msgstr "Abmeldungen"
+
+#: src/Setup/Assets.php:126
+msgid "Upgrade"
+msgstr "Upgraden"
+
+#: src/Setup/Assets.php:260
+msgid "Upload as CSV"
+msgstr "Als CSV hochladen"
+
+#: src/Setup/Assets.php:178
+msgid "usage statistics"
+msgstr "Nutzungsstatistiken"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:111
+msgid "Use classic Reach block"
+msgstr "Klassischen Reach-Block verwenden"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:110
+#: frontend/blocks/subscription-block/src/edit.js:323
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:659
+msgid "Use Form builder template"
+msgstr "Form Builder-Vorlage verwenden"
+
+#: src/Setup/Assets.php:282
+msgid "View contacts"
+msgstr "Kontakte anzeigen"
+
+#: src/Setup/Assets.php:215
+msgid "View form"
+msgstr "Formular ansehen"
+
+#: src/Setup/Assets.php:235
+msgid "View more supported plugins"
+msgstr "Weitere unterstützte Plugins anzeigen"
+
+#: src/Setup/Assets.php:97
+msgid "Welcome to Reach"
+msgstr "Willkommen bei Reach"
+
+#: src/Setup/Assets.php:173
+msgid "What happens if the connection breaks?"
+msgstr "Was passiert, wenn die Verbindung unterbrochen wird?"
+
+#: src/Setup/Assets.php:159
+msgid "What is Hostinger Reach email marketing service?"
+msgstr "Was ist der E-Mail-Marketing-Dienst Hostinger Reach?"
+
+#: src/Setup/Assets.php:165
+msgid "What's the difference between Hostinger Reach and Hostinger Reach WordPress Plugin?"
+msgstr "Was ist der Unterschied zwischen Hostinger Reach und dem Hostinger Reach WordPress-Plugin?"
+
+#: src/Setup/Assets.php:210
+msgid "When syncing is off, collected Contacts will not be sent to Reach."
+msgstr "Wenn die Synchronisierung deaktiviert ist, werden erfasste Kontakte nicht an Reach gesendet."
+
+#: src/Setup/Assets.php:193
+msgid "Will be added to the selected page"
+msgstr "Wird zur ausgewählten Seite hinzugefügt"
+
+#: src/Setup/Assets.php:169
+msgid "Will contacts be added to my email list automatically?"
+msgstr "Werden die Kontakte automatisch zu meiner E-Mail-Liste hinzugefügt?"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:192
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:211
+msgid "WooCommerce Customers"
+msgstr "WooCommerce-Kunden"
+
+#: src/Setup/Assets.php:277
+msgid "WooCommerce Plugin Connected"
+msgstr "WooCommerce-Plugin verbunden"
+
+#: src/Setup/Assets.php:204
+msgid "Would you like to import contacts collected while sync was disabled?"
+msgstr "Möchten Sie die Kontakte importieren, die erfasst wurden, während die Synchronisierung deaktiviert war?"
+
+#: src/Integrations/WPFormsLite/WpFormsLiteIntegration.php:29
+#: src/Setup/Assets.php:222
+msgid "WP Forms Lite"
+msgstr "WP Forms Lite"
+
+#. translators: %s - form id.
+#: src/Integrations/WPFormsLite/WpFormsLiteIntegration.php:63
+#, php-format
+msgid "WP Forms Lite %s"
+msgstr "WP Forms Lite %s"
+
+#: src/Integrations/WSForms/WSFormsIntegration.php:22
+msgid "WS Form"
+msgstr "WS-Formular"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:109
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:151
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:164
+msgid "Yes"
+msgstr "Ja"
+
+#: src/Setup/Assets.php:170
+msgid "Yes — new subscribers are added automatically based on your setup. Some integrations may also support importing previously collected contacts (historical data), depending on the plugin and connection flow. You’ll be able to review the available options during setup. You can manage subscriber settings like double opt-in, and adjust or organize segments directly in your Reach dashboard."
+msgstr "Ja – neue Abonnenten werden je nach Ihren Einstellungen automatisch hinzugefügt. Einige Integrationen unterstützen möglicherweise auch den Import zuvor erfasster Kontakte (historische Daten), abhängig vom Plugin und Verbindungsablauf. Während der Einrichtung können Sie die verfügbaren Optionen prüfen. Sie können Abonnenteneinstellungen wie Double-Opt-in verwalten und Segmente direkt in Ihrem Reach-Dashboard anpassen oder organisieren."
+
+#. translators: %s: PHP version
+#: hostinger-reach.php:59
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Sie nutzen <b>%s</b> PHP-Version."
+
+#: src/Setup/Assets.php:244
+msgid "You can import existing contacts into Reach now to use them for your email campaigns. New contacts will be synced automatically to Reach."
+msgstr "Sie können jetzt bestehende Kontakte in Reach importieren und für Ihre E-Mail-Kampagnen verwenden. Neue Kontakte werden automatisch mit Reach synchronisiert."
+
+#: src/Setup/Assets.php:249
+msgid "You have not selected any forms to import. Select which forms you want to import and then click on the Import button below."
+msgstr "Sie haben keine Formulare zum Importieren ausgewählt. Wählen Sie die Formulare aus, die Sie importieren möchten, und klicken Sie dann unten auf „Importieren“."
+
+#: src/Setup/Assets.php:111
+msgid "Your API token"
+msgstr "Ihr API-Token"
+
+#: src/Api/Handlers/ReachApiHandler.php:36
+#: src/Blocks/SubscriptionFormBlock.php:184
+msgid "Your site is not connected to Reach. Connect to Reach and try again."
+msgstr "Ihre Website ist nicht mit Reach verbunden. Verbinden Sie sie mit Reach und versuchen Sie es erneut."

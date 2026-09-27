@@ -1,0 +1,198 @@
+[
+  {
+    "id": "d3111dd",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "3ae9a29",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "row",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "padding": {
+            "unit": "custom",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": false
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "css_classes": "hostinger-ai-contact-form-2",
+          "padding_tablet": {
+            "unit": "custom",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "unit": "custom",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": false
+          },
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "28d18f8",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "b2a0b14",
+                "elType": "widget",
+                "settings": {
+                  "title": "Heading",
+                  "_css_classes": "hostinger-ai-title",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "95ecea1",
+                "elType": "widget",
+                "settings": {
+                  "_css_classes": "hostinger-ai-description",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "link_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  }
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "5211450",
+                "elType": "widget",
+                "settings": {
+                  "show_title": "",
+                  "title": "",
+                  "show_description": "",
+                  "description": "",
+                  "button_text": "Book now",
+                  "name_label": "Name",
+                  "name_placeholder": "What's your name?",
+                  "email_label": "Email",
+                  "email_placeholder": "What's your email?",
+                  "message_label": "Message",
+                  "message_placeholder": "Write your message...",
+                  "recipient_email": "info@hostinger.com",
+                  "show_date": "yes",
+                  "date_label": "Date",
+                  "date_placeholder": "Select a date"
+                },
+                "elements": [],
+                "widgetType": "hostinger-contact-form"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "9aa380d",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "873cd9d",
+                "elType": "widget",
+                "settings": {
+                  "image": {
+                    "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                    "id": "",
+                    "size": "",
+                    "source": "url"
+                  },
+                  "image_size": "full",
+                  "image_border_radius": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-image"
+                },
+                "elements": [],
+                "widgetType": "image"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

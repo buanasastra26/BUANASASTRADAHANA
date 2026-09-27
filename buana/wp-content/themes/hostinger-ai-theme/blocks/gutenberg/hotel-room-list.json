@@ -1,0 +1,440 @@
+[
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 424,
+      "height": 397,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "1",
+    "max_words": 5,
+    "image_size": {
+      "width": 212,
+      "height": 205,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "2",
+    "max_words": 5,
+    "image_size": {
+      "width": 212,
+      "height": 205,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "hotel room title",
+    "max_words": 4,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Description",
+    "max_words": 30,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "hotel room price per night",
+    "max_words": 2,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 0,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "3",
+    "max_words": 5,
+    "image_size": {
+      "width": 424,
+      "height": 397,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "4",
+    "max_words": 5,
+    "image_size": {
+      "width": 212,
+      "height": 205,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "5",
+    "max_words": 5,
+    "image_size": {
+      "width": 212,
+      "height": 205,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "hotel room title",
+    "max_words": 4,
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Description",
+    "max_words": 30,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "hotel room price per night",
+    "max_words": 2,
+    "index": "3"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 0,
+    "index": "1"
+  },
+
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "6",
+    "max_words": 5,
+    "image_size": {
+      "width": 424,
+      "height": 397,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "7",
+    "max_words": 5,
+    "image_size": {
+      "width": 212,
+      "height": 205,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "8",
+    "max_words": 5,
+    "image_size": {
+      "width": 212,
+      "height": 205,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "hotel room title",
+    "max_words": 4,
+    "index": "4"
+  },
+  {
+    "class": "hostinger-ai-subtitle",
+    "type": "Description",
+    "max_words": 30,
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-title",
+    "type": "hotel room price per night",
+    "max_words": 2,
+    "index": "5"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 0,
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "9",
+    "max_words": 5,
+    "image_size": {
+      "width": 759,
+      "height": 465,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "10",
+    "max_words": 5,
+    "image_size": {
+      "width": 325,
+      "height": 225,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "11",
+    "max_words": 5,
+    "image_size": {
+      "width": 325,
+      "height": 225,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "12",
+    "max_words": 5,
+    "image_size": {
+      "width": 759,
+      "height": 465,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "13",
+    "max_words": 5,
+    "image_size": {
+      "width": 325,
+      "height": 225,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "14",
+    "max_words": 5,
+    "image_size": {
+      "width": 325,
+      "height": 225,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "15",
+    "max_words": 5,
+    "image_size": {
+      "width": 759,
+      "height": 465,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "16",
+    "max_words": 5,
+    "image_size": {
+      "width": 325,
+      "height": 225,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "17",
+    "max_words": 5,
+    "image_size": {
+      "width": 325,
+      "height": 225,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "18",
+    "max_words": 5,
+    "image_size": {
+      "width": 542,
+      "height": 441,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "19",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "20",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "21",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "22",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "23",
+    "max_words": 5,
+    "image_size": {
+      "width": 542,
+      "height": 441,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "24",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "25",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "26",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "27",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "28",
+    "max_words": 5,
+    "image_size": {
+      "width": 542,
+      "height": 441,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "29",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "30",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "31",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-image",
+    "type": "Image",
+    "index": "32",
+    "max_words": 5,
+    "image_size": {
+      "width": 211,
+      "height": 213,
+      "crop": true
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 3,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "Secondary CTA Button",
+    "max_words": 0,
+    "index": "0"
+  }
+]

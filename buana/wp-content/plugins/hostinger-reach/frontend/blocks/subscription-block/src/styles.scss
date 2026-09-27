@@ -1,0 +1,195 @@
+.hostinger-reach-block-subscription-form {
+
+	.hostinger-reach-block-form-fields {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+
+		&--inline {
+			flex-direction: row;
+			justify-content: flex-start;
+			align-items: end;
+			width: 100%;
+			gap: 0.5rem;
+
+			.hostinger-reach-block-form-field {
+				min-width: 70%
+			}
+
+			.hostinger-reach-block-submit {
+				min-width: 30%;
+			}
+		}
+	}
+
+	.hostinger-reach-block-submit {
+		border-width: 0;
+		margin-top: var(--wp--preset--spacing--20);
+		align-content: center;
+		box-sizing: border-box;
+		cursor: pointer;
+		display: inline-block;
+		height: 100%;
+		text-align: center;
+		width: 100%;
+		word-break: break-word;
+		font-weight: 500;
+		min-height: 40px;
+		border-radius: 50px;
+	}
+
+	.hostinger-reach-block-form-field {
+		margin-top: 8px;
+	}
+
+	label {
+		display: block;
+		font-size: 11px;
+		font-weight: 500;
+		line-height: 1.4;
+		text-transform: uppercase;
+		margin-bottom: calc(8px);
+		padding: 0;
+	}
+
+	input {
+		display: block;
+		width: 100%;
+		padding: 3px 10px;
+		min-height: 40px;
+		box-shadow: 0 0 0 transparent;
+		border-radius: 4px;
+		border: 1px solid #8c8f94;
+		background-color: #fff;
+		color: #2c3338;
+		box-sizing: border-box;
+	}
+}
+
+.hostinger-reach-block-use-template {
+	width: 100%;
+	justify-content: center;
+	margin-bottom: 16px;
+}
+
+.hostinger-reach-block-selected-form {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 12px;
+	margin-bottom: 16px;
+	padding: 12px;
+	border: 2px solid transparent;
+	border-radius: 8px;
+	background:
+		linear-gradient(#fff, #fff) padding-box,
+		linear-gradient(90deg, rgba(58, 176, 255, 1), rgba(103, 61, 230, 1), rgba(229, 54, 219, 1)) border-box;
+
+	&__title {
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		max-width: 100%;
+
+		svg {
+			flex-shrink: 0;
+		}
+	}
+
+	&__name {
+		font-weight: 700;
+		font-size: 13px;
+		color: #1e1e1e;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+
+	&__image {
+		width: 100%;
+		height: auto;
+		object-fit: cover;
+		border-radius: 8px;
+		background: #f0f0f0;
+	}
+
+	&__edit {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 8px;
+		width: 100%;
+		height: auto;
+		padding: 8px 12px;
+		border: 1px solid rgba(0, 0, 0, 0.1);
+		border-radius: 8px;
+		background: #fff;
+		color: #673de6;
+
+		&:hover,
+		&:focus {
+			background: #fff;
+			color: #673de6;
+		}
+
+		svg {
+			flex-shrink: 0;
+		}
+	}
+
+	&__edit-text {
+		color: #673de6;
+	}
+
+	&__change.components-button {
+		align-self: center;
+		color: #673de6;
+
+		&:hover,
+		&:focus,
+		&:active {
+			color: #673de6;
+		}
+	}
+
+}
+
+.hostinger-reach-block-classic-form {
+	width: 100%;
+	justify-content: center;
+	margin-bottom: 16px;
+}
+
+.hostinger-reach-block-tags {
+	margin-left: -6px;
+	margin-top: 10px;
+	max-height: 14em;
+	overflow: auto;
+	padding-left: 6px;
+	padding-top: 6px;
+	margin-bottom: 20px;
+}
+
+.components-button.is-link.hostinger-reach-block-toggler {
+	margin-bottom: 20px;
+}
+
+.hostinger-reach-block-newtag {
+	margin-bottom: 20px;
+}
+
+.reach-subscription-message {
+	font-weight: bold;
+	padding: 1em;
+	gap: 10px;
+	margin-top: 10px;
+}
+
+.reach-subscription-message.is-success {
+	background: #009E5B1A;
+}
+
+.reach-subscription-message.is-error {
+	background: #EA47681A;
+}
+

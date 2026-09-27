@@ -1,0 +1,558 @@
+[
+  {
+    "id": "44a3224",
+    "elType": "container",
+    "settings": {
+      "padding": {
+        "unit": "rem",
+        "top": "5",
+        "right": "0",
+        "bottom": "5",
+        "left": "0",
+        "isLinked": false
+      },
+      "css_classes": "hostinger-ai-product-category-6",
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "6bae177",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_align_items": "center",
+          "margin": {
+            "unit": "rem",
+            "top": "0",
+            "right": "0",
+            "bottom": "3",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "3d79a00",
+            "elType": "widget",
+            "settings": {
+              "title": "Feel Retro",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14,
+                "sizes": []
+              },
+              "typography_font_weight": "500",
+              "typography_text_transform": "uppercase",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              },
+              "align": "center",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e"
+              },
+              "_css_classes": "hostinger-ai-subtitle hostinger-index-16"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "fd29929",
+            "elType": "widget",
+            "settings": {
+              "title": "Vintage Tees",
+              "typography_font_size": {
+                "unit": "rem",
+                "size": 2.5,
+                "sizes": []
+              },
+              "typography_font_weight": "bold",
+              "align": "center",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              },
+              "_css_classes": "hostinger-ai-title hostinger-index-15 hostinger-ai-font-title",
+              "typography_typography": "custom",
+              "typography_font_size_mobile": {
+                "unit": "rem",
+                "size": 1.9,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "52d8acc",
+        "elType": "container",
+        "settings": {
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 3
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1
+          },
+          "grid_gap": {
+            "column": "20",
+            "row": "20",
+            "isLinked": true,
+            "unit": "px",
+            "size": 20
+          },
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "5fc4b40",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "flex_justify_content": "flex-end",
+              "flex_gap": {
+                "unit": "px",
+                "size": 0,
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+              },
+              "background_background": "classic",
+              "background_image": {
+                "id": "",
+                "url": "https://hostinger-wp-blocks.com/wp-content/plugins/elementor/assets/images/placeholder.png"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "24",
+                "right": "24",
+                "bottom": "24",
+                "left": "24",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "2",
+                "bottom": "3",
+                "left": "2",
+                "isLinked": false
+              },
+              "css_classes": "hostinger-ai-cover-image hostinger-index-16",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              }
+            },
+            "elements": [
+              {
+                "id": "f39e3fb",
+                "elType": "widget",
+                "settings": {
+                  "title": "Vintage Tees",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 24,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "600",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-title hostinger-index-16",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "94c8a33",
+                "elType": "widget",
+                "settings": {
+                  "title": "Soft cotton tees with bold prints from the 60s to 80s.",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "300",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-description hostinger-index-16",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "d050abb",
+                "elType": "widget",
+                "settings": {
+                  "text": "Shop Now",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "400",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "__globals__": {
+                    "border_color": "globals/colors?id=58be983",
+                    "button_text_color": "globals/colors?id=58be983"
+                  },
+                  "background_color": "#FFFFFF00",
+                  "_css_classes": "hostinger-ai-cta-button hostinger-index-16",
+                  "link": {
+                    "url": "https://wp.ddev.site/product-category/classic-denim/"
+                  }
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "09880bb",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "flex_justify_content": "flex-end",
+              "background_background": "classic",
+              "flex_gap": {
+                "unit": "px",
+                "size": 0,
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+              },
+              "background_image": {
+                "id": "",
+                "url": "https://hostinger-wp-blocks.com/wp-content/plugins/elementor/assets/images/placeholder.png"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "24",
+                "right": "24",
+                "bottom": "24",
+                "left": "24",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "2",
+                "bottom": "3",
+                "left": "2",
+                "isLinked": false
+              },
+              "css_classes": "hostinger-ai-cover-image hostinger-index-17",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              }
+            },
+            "elements": [
+              {
+                "id": "e407866",
+                "elType": "widget",
+                "settings": {
+                  "title": "Retro Jackets",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 24,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "600",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-title hostinger-index-17",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "6cee049",
+                "elType": "widget",
+                "settings": {
+                  "title": "Cozy jackets in mustard yellow and burnt orange hues.",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "300",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-description hostinger-index-17",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "25c678b",
+                "elType": "widget",
+                "settings": {
+                  "text": "Browse",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "400",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "__globals__": {
+                    "border_color": "globals/colors?id=58be983",
+                    "button_text_color": "globals/colors?id=58be983"
+                  },
+                  "background_color": "#FFFFFF00",
+                  "_css_classes": "hostinger-ai-cta-button hostinger-index-17",
+                  "link": {
+                    "url": "https://wp.ddev.site/product-category/retro-jackets/"
+                  }
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "7b0c07c",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "flex_justify_content": "flex-end",
+              "flex_gap": {
+                "unit": "px",
+                "size": 0,
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+              },
+              "background_background": "classic",
+              "background_image": {
+                "id": "",
+                "url": "https://hostinger-wp-blocks.com/wp-content/plugins/elementor/assets/images/placeholder.png"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "24",
+                "right": "24",
+                "bottom": "24",
+                "left": "24",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "2",
+                "bottom": "3",
+                "left": "2",
+                "isLinked": false
+              },
+              "css_classes": "hostinger-ai-cover-image hostinger-index-18",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              }
+            },
+            "elements": [
+              {
+                "id": "b0c0453",
+                "elType": "widget",
+                "settings": {
+                  "title": "Funky Accessories",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 24,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "600",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-title hostinger-index-18",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "e8e3dea",
+                "elType": "widget",
+                "settings": {
+                  "title": "Vintage belts, hats, and scarves to complete your look.",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "300",
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1.5",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-description hostinger-index-18",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "83f2869",
+                "elType": "widget",
+                "settings": {
+                  "text": "View",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "400",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "__globals__": {
+                    "border_color": "globals/colors?id=58be983",
+                    "button_text_color": "globals/colors?id=58be983"
+                  },
+                  "background_color": "#FFFFFF00",
+                  "_css_classes": "hostinger-ai-cta-button hostinger-index-18",
+                  "link": {
+                    "url": "https://wp.ddev.site/product-category/funky-accessories/"
+                  }
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

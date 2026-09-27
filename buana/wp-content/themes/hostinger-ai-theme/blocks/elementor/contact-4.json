@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bf67571",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "presetTitle": "Grid",
+      "presetIcon": "eicon-container-grid",
+      "background_background": "classic",
+      "css_classes": "hostinger-ai-contact-form-4",
+      "__globals__": {
+        "background_color": "globals/colors?id=b5aeb33"
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "472d24e",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_justify_content": "center"
+        },
+        "elements": [
+          {
+            "id": "df01ac4",
+            "elType": "widget",
+            "settings": {
+              "title": "Get in touch",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=09cc561",
+                "typography_typography": "globals/typography?id=c83476d"
+              },
+              "align": "center",
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "2.25",
+                "left": "0",
+                "isLinked": false
+              },
+              "_margin_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_margin_mobile": {
+                "unit": "rem",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "06045b1",
+            "elType": "widget",
+            "settings": {
+              "show_title": "",
+              "title": "",
+              "show_description": "",
+              "description": "",
+              "button_text": "trans-button_text",
+              "name_label": "trans-name_label",
+              "name_placeholder": "trans-name_placeholder",
+              "email_label": "trans-email_label",
+              "email_placeholder": "trans-email_placeholder",
+              "message_label": "trans-message_label",
+              "message_placeholder": "trans-message_placeholder",
+              "recipient_email": "trans-contact_email",
+              "date_label": "trans-date_label",
+              "date_placeholder": "trans-date_placeholder",
+              "show_date": "yes",
+              "_css_classes": "elementor-hts-contact-details-color1-background"
+            },
+            "elements": [],
+            "widgetType": "hostinger-contact-form"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

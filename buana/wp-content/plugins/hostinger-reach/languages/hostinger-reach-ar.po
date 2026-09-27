@@ -1,0 +1,1175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Reach 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-reach\n"
+"Last-Translator: Maher Souilah\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-31T11:19:40+03:00\n"
+"PO-Revision-Date: 2026-09-16 14:02+0000\n"
+"Language: ar\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-reach\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 && n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Loco-Version: 2.8.1; wp-6.9; php-8.2.29\n"
+
+#: src/Setup/Assets.php:157
+#, fuzzy
+msgid "(Draft)"
+msgstr "(مسودة)"
+
+#: src/Setup/Assets.php:227
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: src/Setup/Assets.php:250
+msgid "-"
+msgstr "-"
+
+#: src/Setup/Assets.php:110
+#, fuzzy
+msgid "<strong>Copy</strong> your new API token and <strong>paste it below</strong>"
+msgstr "<strong>انسخ</strong> رمز API الجديد الخاص بك و<strong>الصقه أدناه</strong>"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:124
+#, fuzzy
+msgid "Abandoned Carts"
+msgstr "العربات المهجورة"
+
+#: src/Setup/Assets.php:271
+#, fuzzy
+msgid "Abandoned carts"
+msgstr "العربات المهجورة"
+
+#: src/Setup/Assets.php:213
+#: src/Setup/Assets.php:230
+msgid "Active"
+msgstr "نشط"
+
+#: src/Admin/Notices/AddFormNotice.php:83
+#: src/Setup/Assets.php:151
+#: src/Setup/Assets.php:219
+#: src/Setup/Assets.php:233
+msgid "Add form"
+msgstr "إضافة نموذج"
+
+#: src/Setup/Assets.php:153
+#: src/Setup/Assets.php:198
+msgid "Add form or plugin"
+msgstr "إضافة نموذج أو إضافة"
+
+#: src/Admin/Notices/AddFormNotice.php:78
+#, fuzzy
+msgid "Add form to start sending campaigns with Hostinger Reach"
+msgstr "إضافة نموذج لبدء إرسال الحملات باستخدام Hostinger Reach"
+
+#: src/Setup/Assets.php:148
+#, fuzzy
+msgid "Add new form"
+msgstr "إضافة نموذج جديد"
+
+#: src/Setup/Assets.php:146
+#, fuzzy
+msgid "Add or connect a form to start sending campaigns"
+msgstr "إضافة أو توصيل نموذج لبدء إرسال الحملات"
+
+#: src/Setup/Assets.php:285
+#, fuzzy
+msgid "Add Reach form"
+msgstr "إضافة نموذج «Reach»"
+
+#: src/Setup/Assets.php:268
+#, fuzzy
+msgid "Adds a marketing consent checkbox at checkout and syncs contacts to Reach."
+msgstr "إضافة خانة اختيار الموافقة التسويقية عند الدفع ومزامنة جهات الاتصال مع Reach."
+
+#: src/Admin/Surveys/SatisfactionSurvey.php:26
+msgid "Any ideas or feedback to help us improve Hostinger Reach?"
+msgstr "هل لديك أي أفكار أو ملاحظات لمساعدتنا في تحسين الوصول إلى Hostinger Reach؟"
+
+#: src/Setup/Assets.php:114
+#, fuzzy
+msgid "API Token field is required"
+msgstr "حقل «رمز API» مطلوب"
+
+#: src/Setup/Assets.php:248
+#, fuzzy
+msgid "are ready to import to Reach. Any new contacts you’ll collect with these forms will sync automatically."
+msgstr "جاهزة للمزامنة مع Reach. ستتم مزامنة أي جهات اتصال جديدة ستجمعها مع هذه النماذج تلقائيًا."
+
+#: hostinger-reach.php:53
+msgid "Attention:"
+msgstr "انتباه:"
+
+#: src/Setup/Assets.php:251
+#, fuzzy
+msgid "Auto-sync off"
+msgstr "إيقاف المزامنة التلقائية"
+
+#: src/Setup/Assets.php:273
+#, fuzzy
+msgid "Automation"
+msgstr "الأتمتة"
+
+#: src/Setup/Assets.php:132
+msgid "Average CTOR"
+msgstr "متوسط سعر الفائدة المقطوعة"
+
+#: src/Setup/Assets.php:95
+msgid "Back"
+msgstr "رجوع"
+
+#: src/Setup/Assets.php:177
+msgid "Background image for"
+msgstr "صورة الخلفية لـ"
+
+#: src/Setup/Assets.php:176
+msgid "Banner background image for"
+msgstr "صورة خلفية الشعار لـ"
+
+#: frontend/blocks/subscription-block/block.json
+msgctxt "block description"
+msgid "Subscription form for Hostinger Reach"
+msgstr "استمارة الاشتراك في Hostinger Reach"
+
+#: frontend/blocks/subscription-block/block.json
+msgctxt "block title"
+msgid "Reach Subscription Form"
+msgstr "استمارة اشتراك Reach"
+
+#: src/Integrations/Brave/BraveIntegration.php:29
+#, fuzzy
+msgid "Brave Popup Builder"
+msgstr "منشئ النوافذ المنبثقة الشجاع"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:124
+#: src/Setup/Assets.php:190
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:65
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:171
+#, fuzzy
+msgid "Build your first form in Hostinger Reach and add it to any page on your site."
+msgstr "أنشئ أول نموذج لك في Hostinger Reach وأضفه إلى أي صفحة في موقعك."
+
+#: src/Setup/Assets.php:130
+msgid "Campaigns"
+msgstr "الحملات"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:117
+#: src/Setup/Assets.php:116
+#: src/Setup/Assets.php:187
+#: src/Setup/Assets.php:196
+#: src/Setup/Assets.php:201
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:222
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:328
+#, fuzzy
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:112
+#: src/Setup/Assets.php:194
+#: frontend/blocks/subscription-block/src/edit.js:299
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:635
+#, fuzzy
+msgid "Change the selection"
+msgstr "تغيير التحديد"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:116
+#: src/Setup/Assets.php:267
+msgid "Checkout"
+msgstr "تسجيل الخروج"
+
+#. translators: %s: "Learn more" link.
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:67
+#, fuzzy,php-format
+msgid "Choose a Reach Form Builder template to embed instead. The Reach script loads it automatically. %s"
+msgstr "اختر قالبًا من «Reach Form Builder» لتضمينه بدلاً من ذلك. سيقوم برنامج Reach بتحميله تلقائيًا. %s"
+
+#: src/Setup/Assets.php:108
+#, fuzzy
+msgid "Click <strong>Generate API Token</strong>"
+msgstr "انقر على <strong>إنشاء رمز API</strong>"
+
+#: src/Setup/Assets.php:179
+msgid "Click-to-open rate tells you what percent of opens resulted in a click too. A good CTOR is 6-17%, depending on your industry."
+msgstr "يخبرك معدل النقرات إلى الفتح بالنسبة المئوية لفتح الإعلانات التي نتج عنها نقرة أيضًا. نسبة النقر إلى الفتح الجيدة هي 6-17%، حسب مجال عملك."
+
+#: src/Setup/Assets.php:225
+msgid "Collapse {pluginName} details"
+msgstr "طي تفاصيل {pluginName}"
+
+#: src/Setup/Assets.php:143
+#, fuzzy
+msgid "Collect contacts at checkout, send automated emails after purchases, and recover abandoned carts to drive more sales with Reach"
+msgstr "اجمع جهات الاتصال عند السداد، وأرسل رسائل بريد إلكتروني تلقائية بعد عمليات الشراء، واسترجع العربات المتروكة لزيادة المبيعات باستخدام Reach"
+
+#: src/Setup/Assets.php:197
+#, fuzzy
+msgid "Confirm"
+msgstr "تأكيد"
+
+#: src/Admin/Notices/ConnectionNotice.php:100
+#: src/Setup/Assets.php:115
+#: src/Setup/Assets.php:240
+msgid "Connect"
+msgstr "اتصال"
+
+#: src/Admin/Notices/ConnectionNotice.php:95
+msgid "Connect Hostinger Reach to start Email Marketing"
+msgstr "ربط Hostinger Reach لبدء التسويق عبر البريد الإلكتروني"
+
+#: src/Setup/Assets.php:152
+#, fuzzy
+msgid "Connect plugin"
+msgstr "توصيل المكون الإضافي"
+
+#: src/Setup/Assets.php:102
+msgid "Connect site"
+msgstr "وصل الموقع"
+
+#: src/Setup/Assets.php:103
+#, fuzzy
+msgid "Connect with API token"
+msgstr "التوصيل باستخدام رمز API"
+
+#: src/Setup/Assets.php:144
+msgid "Connect WooCommerce"
+msgstr "ربط WooCommerce"
+
+#: src/Setup/Assets.php:142
+#, fuzzy
+msgid "Connect WooCommerce to boost sales with email automations"
+msgstr "ربط WooCommerce لتعزيز المبيعات باستخدام أتمتة البريد الإلكتروني"
+
+#: src/Setup/Assets.php:104
+#, fuzzy
+msgid "Connect your website to Hostinger Reach"
+msgstr "اربط موقعك الإلكتروني بـ Hostinger Reach"
+
+#: src/Setup/Assets.php:113
+#, fuzzy
+msgid "Connection failed. Check if your API Token is correct or contact Hostinger Reach support."
+msgstr "فشل الاتصال. تحقق من صحة رمز API الخاص بك أو اتصل بدعم Hostinger Reach."
+
+#: src/Integrations/ContactForm7/ContactForm7Integration.php:111
+#: src/Setup/Assets.php:221
+msgid "Contact Form 7"
+msgstr "نموذج الاتصال 7"
+
+#: src/Setup/Assets.php:124
+#: src/Setup/Assets.php:208
+#: src/Setup/Assets.php:242
+msgid "Contacts"
+msgstr "جهات الاتصال"
+
+#: src/Setup/Assets.php:247
+msgid "contacts"
+msgstr "جهات الاتصال"
+
+#: src/Setup/Assets.php:246
+#, fuzzy
+msgid "Contacts to Import"
+msgstr "جهات الاتصال المراد استيرادها"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:118
+#: src/Setup/Assets.php:188
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:225
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:331
+#, fuzzy
+msgid "Continue"
+msgstr "تابع"
+
+#: src/Admin/Notices/ConnectionNotice.php:76
+msgid "Could not generate auth URL"
+msgstr "تعذر إنشاء عنوان URL للمصادقة"
+
+#: src/Setup/Assets.php:264
+#, fuzzy
+msgid "Create a Form"
+msgstr "إنشاء نموذج"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:125
+#: src/Setup/Assets.php:191
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:84
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:190
+#, fuzzy
+msgid "Create a form in Reach"
+msgstr "إنشاء نموذج في Reach"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:115
+#: src/Setup/Assets.php:185
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:204
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:310
+#, fuzzy
+msgid "Create a new form"
+msgstr "إنشاء نموذج جديد"
+
+#: src/Setup/Assets.php:147
+#, fuzzy
+msgid "Create a new form or connect a plugin to grow your contact list and start sending campaigns with Reach."
+msgstr "أنشئ نموذجًا جديدًا أو قم بتوصيل مكون إضافي لتنمية قائمة جهات الاتصال الخاصة بك وابدأ في إرسال الحملات باستخدام Reach."
+
+#: src/Setup/Assets.php:195
+#, fuzzy
+msgid "Create a new page"
+msgstr "إنشاء صفحة جديدة"
+
+#: src/Setup/Assets.php:137
+msgid "Create campaign"
+msgstr "إنشاء حملة"
+
+#: src/Setup/Assets.php:263
+#, fuzzy
+msgid "Create fully custom forms in Reach and easily embed them on your WordPress site using this plugin."
+msgstr "أنشئ نماذج مخصصة بالكامل في Reach وقم بتضمينها بسهولة على موقع WordPress الخاص بك باستخدام هذه الإضافة. ترقبوا!"
+
+#: src/Setup/Assets.php:138
+msgid "Create template"
+msgstr "إنشاء نموذج"
+
+#: src/Setup/Assets.php:202
+#: src/Setup/Assets.php:239
+msgid "Disconnect"
+msgstr "قطع الاتصال"
+
+#: src/Setup/Assets.php:100
+msgid "Disconnect it to link this site instead."
+msgstr "افصله لربط هذا الموقع بدلاً من ذلك."
+
+#: src/Setup/Assets.php:218
+msgid "Disconnect plugin"
+msgstr "قطع الاتصال بالإضافة"
+
+#: src/Setup/Assets.php:199
+msgid "Disconnect plugin?"
+msgstr "هل تريد قطع الاتصال بالإضافة؟"
+
+#: src/Setup/Assets.php:200
+msgid "Disconnecting will stop new contacts from being collected. You can reconnect or use a different form anytime."
+msgstr "سيؤدي قطع الاتصال إلى إيقاف جمع جهات الاتصال الجديدة. يمكنك إعادة الاتصال أو استخدام نموذج مختلف في أي وقت."
+
+#: src/Setup/Assets.php:258
+#, fuzzy
+msgid "Don't see your plugin?"
+msgstr "ألا ترى المكون الإضافي الخاص بك؟"
+
+#: src/Setup/Assets.php:141
+msgid "E-Commerce"
+msgstr "التجارة الإلكترونية"
+
+#: src/Admin/Notices/AddFormNotice.php:79
+#, fuzzy
+msgid "Easily add or connect existing forms, automate WooCommerce, and sync contacts to start building campaigns and grow your business."
+msgstr "قم بإضافة النماذج الموجودة أو ربطها بسهولة، وأتمتة WooCommerce، ومزامنة جهات الاتصال لبدء إنشاء الحملات وتنمية أعمالك."
+
+#: src/Setup/Assets.php:216
+msgid "Edit form"
+msgstr "تحرير النموذج"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:113
+#: frontend/blocks/subscription-block/src/edit.js:310
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:646
+#, fuzzy
+msgid "Edit in Reach"
+msgstr "التحرير في Reach"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:249
+#: src/Setup/Assets.php:223
+msgid "Elementor"
+msgstr "Elementor"
+
+#: src/Blocks/SubscriptionFormBlock.php:132
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:199
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: src/Setup/Assets.php:120
+msgid "Email marketing background with gradient design"
+msgstr "خلفية التسويق عبر البريد الإلكتروني مع تصميم متدرج"
+
+#: src/Setup/Assets.php:121
+msgid "Email marketing illustration featuring envelopes and communication icons"
+msgstr "رسم توضيحي للتسويق عبر البريد الإلكتروني يضم مظاريف وأيقونات التواصل"
+
+#: src/Setup/Assets.php:98
+#, fuzzy
+msgid "Email marketing that doesn't need an expert: Let AI write, design, and send your campaigns - your brand, your colors, applied automatically. No coding, no complexity."
+msgstr "تسويق عبر البريد الإلكتروني لا يحتاج إلى خبير: دع الذكاء الاصطناعي يكتب حملاتك ويصممها ويرسلها - علامتك التجارية وألوانك وتطبقها تلقائيًا. لا ترميز ولا تعقيد."
+
+#: src/Setup/Assets.php:127
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:107
+#, fuzzy
+msgid "Enter template ID manually"
+msgstr "أدخل معرّف القالب يدويًّا"
+
+#: src/Api/Handlers/ReachApiHandler.php:274
+#, fuzzy
+msgid "Error connecting your site"
+msgstr "حدث خطأ أثناء الاتصال بموقعك"
+
+#: src/Setup/Assets.php:224
+msgid "Expand {pluginName} details"
+msgstr "توسيع تفاصيل {pluginName}"
+
+#: src/Setup/Assets.php:158
+msgid "FAQ"
+msgstr "الأسئلة الشائعة"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:50
+msgid "Form"
+msgstr "نموذج"
+
+#: src/Setup/Assets.php:262
+#, fuzzy
+msgid "Form Builder"
+msgstr "منشئ النماذج"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:82
+#, fuzzy
+msgid "Form Builder Template"
+msgstr "قالب منشئ النماذج"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:120
+#, fuzzy
+msgid "Form Builder Template ID"
+msgstr "معرّف قالب أداة إنشاء النماذج"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:58
+msgid "Form ID"
+msgstr "معرّف النموذج"
+
+#: src/Integrations/Forminator/ForminatorIntegration.php:34
+msgid "Forminator"
+msgstr "فورميناتور"
+
+#: src/Setup/Assets.php:145
+msgid "Forms"
+msgstr "النماذج"
+
+#: src/Setup/Assets.php:209
+#, fuzzy
+msgid "Forms syncing with Reach"
+msgstr "مزامنة النماذج مع Reach"
+
+#: src/Setup/Assets.php:105
+#, fuzzy
+msgid "Generate an API token"
+msgstr "إنشاء رمز API"
+
+#: src/Setup/Assets.php:106
+#, fuzzy
+msgid "Go to"
+msgstr "انتقل إلى"
+
+#: src/Setup/Assets.php:217
+msgid "Go to plugin"
+msgstr "انتقل إلى الإضافة"
+
+#: src/Setup/Assets.php:118
+#: frontend/blocks/subscription-block/src/Components/Dialog.js:42
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:87
+msgid "Go to Reach"
+msgstr "انتقل إلى Reach"
+
+#. Author of the plugin
+#: hostinger-reach.php
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-reach.php
+#: src/Admin/Notices/AddFormNotice.php:90
+#: src/Admin/Notices/ConnectionNotice.php:110
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:20
+#: src/Integrations/Reach/ReachFormIntegration.php:74
+#: src/Setup/Assets.php:119
+#: src/Setup/Assets.php:220
+msgid "Hostinger Reach"
+msgstr "Hostinger Reach"
+
+#: src/Setup/Assets.php:107
+#, fuzzy
+msgid "Hostinger Reach Integrations → API Tokens"
+msgstr "Hostinger → التكاملات → رموز API"
+
+#: src/Setup/Assets.php:166
+#, fuzzy
+msgid "Hostinger Reach is a Hostinger service that helps you create and send branded email campaigns in minutes with smart AI tools. Hostinger Reach WordPress Plugin allows you to connect and sync contacts from your favorite WordPress plugins into Reach."
+msgstr "Hostinger Reach هي خدمة Hostinger التي تساعدك على إنشاء وإرسال حملات بريد إلكتروني ذات علامة تجارية في دقائق باستخدام أدوات الذكاء الاصطناعي الذكية. يسمح لك Hostinger Reach WordPress Plugin بتوصيل ومزامنة جهات الاتصال من إضافات WordPress المفضلة لديك في Reach."
+
+#: src/Setup/Assets.php:160
+msgid "Hostinger Reach is an AI-powered email marketing tool for small businesses and creators. It supports your entire email marketing journey—from building contact lists to sending campaigns and tracking results."
+msgstr "Hostinger Reach هي أداة تسويق عبر البريد الإلكتروني مدعومة بالـAI للشركات الصغيرة والمبدعين. وهي تدعم رحلة التسويق عبر البريد الإلكتروني بالكامل، من إنشاء قوائم جهات الاتصال إلى إرسال الحملات وتتبع النتائج."
+
+#: src/Setup/Assets.php:162
+msgid "Hostinger Reach is built for simplicity, speed, and results – no design or marketing experience needed. Unlike most email tools, at the core of Reach is its AI-powered template creator. Whether it is a product launch, special offer, or newsletter update, it instantly crafts a professional, mobile-friendly email. It not only writes the content for you; it also suggests the best layout for your message and saves your style settings so you're never starting from scratch.<br><br>Every template is customizable, so your emails reflect your brand's look, feel, and voice. And because the templates are built using proven best practices, they're optimized for readability, accessibility, and reader engagement."
+msgstr "تم تصميم Hostinger Reach من أجل البساطة والسرعة والنتائج. لا حاجة إلى خبرة في التصميم أو التسويق. على عكس معظم أدوات البريد الإلكتروني، فإن جوهر Reach هو منشئ القوالب المدعوم بالـAI. سواء كان إطلاق منتج أو عرضًا خاصًا أو تحديثًا للرسائل الإخبارية، فإنه يصمم على الفور بريدًا إلكترونيًا احترافيًا متوافقًا مع الجوّال. فهو لا يكتب المحتوى نيابةً عنك فحسب، بل يقترح أيضًا أفضل تخطيط لرسالتك ويحفظ إعدادات أسلوبك حتى لا تبدأ من الصفر. <br><br>كل قالب قابل للتخصيص، بحيث تعكس رسائلك الإلكترونية شكل علامتك التجارية ومظهرها وصوتها. ونظرًا لأن القوالب مصممة باستخدام أفضل الممارسات التي أثبتت جدواها، فقد تم تحسينها من أجل سهولة القراءة وسهولة الوصول إليها وتفاعل القارئ."
+
+#. translators: %s: PHP version
+#: hostinger-reach.php:55
+#, php-format
+msgid "Hostinger Reach requires minimum PHP version of <b>%s</b>. "
+msgstr "يتطلب Hostinger Reach الإصدار <b>%s</b> من PHP كحد أدنى."
+
+#: src/Setup/Assets.php:171
+#, fuzzy
+msgid "How are segments and tags created?"
+msgstr "كيف يتم إنشاء الشرائح والعلامات؟"
+
+#: src/Setup/Assets.php:167
+#, fuzzy
+msgid "How does contact syncing work?"
+msgstr "كيف تعمل مزامنة جهات الاتصال؟"
+
+#: src/Setup/Assets.php:161
+msgid "How is Hostinger Reach different from other email marketing apps?"
+msgstr "كيف يختلف Hostinger Reach عن تطبيقات التسويق عبر البريد الإلكتروني الأخرى؟"
+
+#: src/Setup/Assets.php:163
+msgid "How much does it cost to use Hostinger Reach?"
+msgstr "ما هي تكلفة استخدام Hostinger Reach؟"
+
+#: src/Admin/Surveys/SatisfactionSurvey.php:22
+msgid "How would you rate your experience with Hostinger Reach so far?"
+msgstr "كيف تقيم تجربتك مع Hostinger Reach حتى الآن؟"
+
+#. Plugin URI of the plugin
+#: hostinger-reach.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#. Author URI of the plugin
+#: hostinger-reach.php
+msgid "https://www.hostinger.com/email-marketing"
+msgstr "https://www.hostinger.com/email-marketing"
+
+#: src/Setup/Assets.php:174
+#, fuzzy
+msgid "If the integration is interrupted, syncing pauses automatically. Once the connection is restored, syncing resumes, so you can continue collecting contacts without losing data."
+msgstr "في حالة انقطاع التكامل، تتوقف المزامنة تلقائياً. بمجرد استعادة الاتصال، تستأنف المزامنة، بحيث يمكنك متابعة جمع جهات الاتصال دون فقدان البيانات."
+
+#: src/Setup/Assets.php:278
+#, fuzzy
+msgid "If your store isn’t ready yet, complete the setup to start selling and collecting contacts"
+msgstr "إذا لم يكن متجرك جاهزاً بعد، أكمل الإعداد لبدء البيع وجمع جهات الاتصال"
+
+#: src/Setup/Assets.php:245
+#, fuzzy
+msgid "Import"
+msgstr "الاستيراد"
+
+#: src/Setup/Assets.php:241
+#, fuzzy
+msgid "Import Contacts"
+msgstr "استيراد جهات الاتصال"
+
+#: src/Setup/Assets.php:203
+#, fuzzy
+msgid "Import contacts"
+msgstr "استيراد جهات الاتصال"
+
+#: src/Setup/Assets.php:243
+#, fuzzy
+msgid "Import your existing contacts to Reach"
+msgstr "استيراد جهات اتصالك الحالية إلى Reach"
+
+#: src/Setup/Assets.php:253
+#, fuzzy
+msgid "Imported"
+msgstr "مستورد"
+
+#: src/Api/Handlers/IntegrationsApiHandler.php:145
+msgid "Importing is not available for this integration"
+msgstr "الاستيراد غير متاح لهذا التكامل"
+
+#: src/Setup/Assets.php:255
+#, fuzzy
+msgid "Importing..."
+msgstr "استيراد..."
+
+#: src/Setup/Assets.php:214
+msgid "Inactive"
+msgstr "غير نشط"
+
+#: src/Setup/Assets.php:237
+#, fuzzy
+msgid "Install"
+msgstr "التثبيت"
+
+#: src/Setup/Assets.php:238
+msgid "Install and connect"
+msgstr "التثبيت والتوصيل"
+
+#: src/Setup/Assets.php:236
+msgid "Installed plugins"
+msgstr "الإضافات المثبتة"
+
+#. Description of the plugin
+#: hostinger-reach.php
+msgid "Integrate your WordPress site with Hostinger Reach."
+msgstr "ادمج موقع ووردبريس الخاص بك مع Hostinger Reach."
+
+#: src/Setup/Assets.php:140
+msgid "Integrations"
+msgstr "عمليات الدمج"
+
+#: src/Setup/Assets.php:283
+#, fuzzy
+msgid "is connected!"
+msgstr "تم توصيله!"
+
+#: src/Setup/Assets.php:259
+#, fuzzy
+msgid "It may not be supported yet. You can upload contacts as a CSV or use another plugin"
+msgstr "قد لا تكون مدعومة بعد. يمكنك تحميل جهات الاتصال كملف CSV أو استخدام مكون إضافي آخر"
+
+#: src/Setup/Assets.php:257
+#, fuzzy
+msgid "It was an error importing your contacts to Reach."
+msgstr "لقد حدث خطأ في مزامنة جهات اتصالك مع Reach."
+
+#: src/Admin/Notices/ConnectionNotice.php:103
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:68
+#: src/Setup/Assets.php:275
+msgid "Learn more"
+msgstr "اعرف المزيد"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:120
+#: frontend/blocks/subscription-block/src/edit.js:79
+#, fuzzy
+msgid "Loading…"
+msgstr "جاري التحميل…"
+
+#: src/Setup/Assets.php:231
+msgid "Make sure the people you contact expect your emails and are okay with receiving them."
+msgstr "تأكّد من أن الأشخاص الذين تتواصل معهم يتوقعون رسائلك الإلكترونية ولا يمانعون تلقيها."
+
+#: src/Setup/Assets.php:101
+msgid "Manage"
+msgstr "الإدارة"
+
+#: src/Setup/Assets.php:274
+#, fuzzy
+msgid "Manage automations"
+msgstr "إدارة الأتمتة"
+
+#: src/Setup/Assets.php:154
+#: src/Setup/Assets.php:276
+#, fuzzy
+msgid "Manage plugin"
+msgstr "إدارة المكوّن الإضافي"
+
+#: src/Setup/Assets.php:150
+#, fuzzy
+msgid "More plugins"
+msgstr "المزيد من الإضافات"
+
+#: src/Blocks/SubscriptionFormBlock.php:140
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:207
+msgid "Name"
+msgstr "الاسم"
+
+#: src/Setup/Assets.php:109
+#, fuzzy
+msgid "Name your token, then click <strong>Generate token</strong>"
+msgstr "قم بتسمية الرمز الخاص بك، ثم انقر على <strong>إنشاء رمز</strong>"
+
+#: src/Setup/Assets.php:261
+#, fuzzy
+msgid "New"
+msgstr "جديد"
+
+#: src/Setup/Assets.php:232
+msgid "New contact form"
+msgstr "نموذج الاتصال الجديد"
+
+#: src/Setup/Assets.php:155
+msgid "New page"
+msgstr "صفحة جديدة"
+
+#: src/Setup/Assets.php:134
+msgid "New subscribers"
+msgstr "المشتركون الجدد"
+
+#: src/Integrations/NinjaForms/NinjaFormsIntegration.php:45
+msgid "Ninja Forms"
+msgstr "نماذج النينجا"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:110
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:152
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:165
+msgid "No"
+msgstr "لا"
+
+#: src/Setup/Assets.php:226
+msgid "No forms found for this integration."
+msgstr "لم يتم العثور على نماذج لهذا التكامل."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:122
+#: src/Setup/Assets.php:184
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:145
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:251
+#, fuzzy
+msgid "No forms match your search."
+msgstr "لا توجد نماذج تتطابق مع بحثك."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:123
+#: src/Setup/Assets.php:189
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:62
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:168
+#, fuzzy
+msgid "No forms yet"
+msgstr "لا توجد نماذج حتى الآن"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:119
+#, fuzzy
+msgid "No forms yet. Create your first form in Hostinger Reach."
+msgstr "لا توجد نماذج حتى الآن. أنشئ نموذجك الأول في Hostinger Reach."
+
+#: src/Setup/Assets.php:156
+msgid "No pages available. Create a new page to get started."
+msgstr "لا توجد صفحات متاحة. أنشئ صفحة جديدة للبدء."
+
+#: src/Setup/Assets.php:254
+#, fuzzy
+msgid "Not imported"
+msgstr "غير مستورد"
+
+#: src/Setup/Assets.php:205
+#, fuzzy
+msgid "Not needed"
+msgstr "غير مطلوب"
+
+#: src/Setup/Assets.php:211
+msgid "of"
+msgstr "من"
+
+#: src/Setup/Assets.php:168
+#, fuzzy
+msgid "Once you connect a form plugin you use on WordPress (such as Elementor or Contact Form 7), the plugin automatically forwards all the new form submissions and subscriber data to your Reach account, so your contacts are collected and updated without manual exports on each form submission"
+msgstr "بمجرد توصيل مكون إضافي للنماذج تستخدمه على ووردبريس (مثل Elementor أو نموذج الاتصال 7)، يقوم المكون الإضافي تلقائيًا بإعادة توجيه جميع عمليات إرسال النماذج الجديدة وبيانات المشتركين إلى حساب Reach الخاص بك، بحيث يتم جمع جهات الاتصال الخاصة بك وتحديثها دون الحاجة إلى التصدير اليدوي في كل عملية إرسال نموذج"
+
+#: src/Setup/Assets.php:182
+#, fuzzy
+msgid "Only active forms created with Reach are displayed below. Select one or create a new one."
+msgstr "يتم عرض النماذج النشطة التي تم إنشاؤها باستخدام Reach فقط أدناه. اختر نموذجًا أو أنشئ نموذجًا جديدًا."
+
+#: src/Setup/Assets.php:281
+#, fuzzy
+msgid "Only subscribed contacts can receive automated emails. Customers must opt in to marketing and be synced to Reach before store automations can email them."
+msgstr "لا يمكن إلا لجهات الاتصال المشتركة في الخدمة تلقي رسائل البريد الإلكتروني التلقائية. يجب على العملاء الموافقة على تلقي الرسائل التسويقية ومزامنتهم مع Reach قبل أن تتمكن عمليات التشغيل التلقائي للمتجر من إرسال رسائل البريد الإلكتروني إليهم."
+
+#: src/Setup/Assets.php:175
+msgid "opens in new tab"
+msgstr "يفتح في علامة تبويب جديدة"
+
+#: src/Integrations/OptInMonster/OptInMonsterIntegration.php:48
+#, fuzzy
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: src/Setup/Assets.php:149
+#, fuzzy
+msgid "or connect a form plugin"
+msgstr "أو توصيل مكون إضافي للنماذج"
+
+#: src/Setup/Assets.php:252
+#, fuzzy
+msgid "Partially imported"
+msgstr "مستورد جزئياً"
+
+#: src/Setup/Assets.php:112
+#, fuzzy
+msgid "Paste your API token here"
+msgstr "الصق رمز API الخاص بك هنا"
+
+#: src/Setup/Assets.php:123
+#, fuzzy
+msgid "Plan & Limits"
+msgstr "الخطة والحدود"
+
+#: src/Setup/Assets.php:207
+msgid "Plugin"
+msgstr "الإضافة"
+
+#: src/Setup/Assets.php:228
+msgid "Plugin connected successfully"
+msgstr "تم توصيل الإضافة بنجاح"
+
+#: src/Setup/Assets.php:229
+msgid "Plugin disconnected successfully"
+msgstr "تم فصل الإضافة بنجاح"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:123
+#: src/Setup/Assets.php:269
+#, fuzzy
+msgid "Purchases"
+msgstr "المشتريات"
+
+#: src/Admin/Menus.php:109
+#, fuzzy
+msgid "Reach"
+msgstr "الوصول"
+
+#: src/Setup/Assets.php:172
+#, fuzzy
+msgid "Reach automatically tags synced contacts using the form name and also creates a segment for easier targeting. If the form doesn’t have a title, it uses the form location title. As a final fallback, the tag title will be the plugin name.If you create a form using Hostinger Reach option, you can also assign multiple existing or new tags to subscribers. Each form will automatically generate its own segment in Reach dashboard, making it easy to send campaigns to specific audiences — and you can fully manage or create additional segments anytime in Reach."
+msgstr "يقوم برنامج Reach تلقائيًا بوضع علامات على جهات الاتصال التي تمت مزامنتها باستخدام اسم النموذج، كما ينشئ أيضًا شريحة لتسهيل الاستهداف. إذا لم يكن للنموذج عنوان، فإنه يستخدم عنوان موقع النموذج. وكإجراء احتياطي أخير، سيكون عنوان العلامة هو اسم المكون الإضافي.إذا قمت بإنشاء نموذج باستخدام خيار Hostinger Reach، يمكنك أيضًا تعيين علامات متعددة حالية أو جديدة للمشتركين. سينشئ كل نموذج تلقائيًا شريحة خاصة به في لوحة معلومات Reach، مما يسهل إرسال الحملات إلى جماهير محددة - ويمكنك إدارة أو إنشاء شرائح إضافية بالكامل في أي وقت في Reach."
+
+#: src/Setup/Assets.php:99
+msgid "Reach is already connected to another site."
+msgstr "Reach متصل سلفًا بموقع آخر."
+
+#: src/Setup/Assets.php:164
+msgid "Reach offers a <b>free plan</b> for one year– perfect for getting started. Paid plans are based on how many unique contacts you aim to reach and how many emails you send monthly. As your audience grows, you can upgrade to a plan that fits your needs. Reach does not limit your contact list, so you don't need to worry about lost data and can consistently grow your audience."
+msgstr "يقدم Reach خطة مجانية مثالية للبدء لمدة سنة كاملة. تعتمد الخطط المدفوعة على عدد جهات الاتصال الفريدة التي تهدف إلى الوصول إليها وعدد رسائل البريد الإلكتروني التي ترسلها شهريًا. ومع نمو جمهورك، يمكنك الترقية إلى خطة تناسب احتياجاتك. لا تحد باقة Reach من قائمة جهات اتصالك، لذلك لا داعي للقلق بشأن البيانات المفقودة ويمكنك زيادة جمهورك باستمرار."
+
+#: src/Integrations/Elementor/ElementorIntegration.php:116
+#: src/Setup/Assets.php:186
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:103
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:209
+#, fuzzy
+msgid "Refresh forms"
+msgstr "تحديث النماذج"
+
+#: src/Setup/Assets.php:129
+msgid "Remaining"
+msgstr "المتبقية"
+
+#: src/Setup/Assets.php:117
+#, fuzzy
+msgid "Review domain"
+msgstr "مجال المراجعة"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:121
+#: src/Setup/Assets.php:183
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:138
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:139
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:244
+#: frontend/dist/blocks/subscription.js:245
+#, fuzzy
+msgid "Search a template"
+msgstr "البحث عن قالب"
+
+#: src/Setup/Assets.php:125
+#, fuzzy
+msgid "Segments"
+msgstr "الشرائح"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:114
+#: src/Setup/Assets.php:181
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:114
+#: frontend/blocks/subscription-block/src/Components/SelectFormModal.js:185
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:220
+#: frontend/dist/blocks/subscription.js:291
+#, fuzzy
+msgid "Select a form"
+msgstr "اختر نموذجًا"
+
+#: src/Setup/Assets.php:180
+msgid "Select page"
+msgstr "اختر الصفحة"
+
+#: src/Setup/Assets.php:192
+#, fuzzy
+msgid "Select page for your form"
+msgstr "اختر الصفحة التي تريد إضافة النموذج إليها"
+
+#: src/Admin/Notices/ConnectionNotice.php:96
+#, fuzzy
+msgid "Send newsletters with professionally designed templates, automate campaigns, and build AI-powered segments. With Hostinger Reach, growing your audience is easy."
+msgstr "أرسل رسائل إخبارية باستخدام قوالب مصممة بشكل احترافي، وقم بأتمتة الحملات، وأنشئ شرائح مدعومة بالذكاء الاصطناعي. مع Hostinger Reach، أصبح من السهل زيادة جمهورك مع Hostinger Reach."
+
+#: src/Setup/Assets.php:128
+#: src/Setup/Assets.php:131
+msgid "Sent"
+msgstr "تم الإرسال"
+
+#: src/Setup/Assets.php:279
+#, fuzzy
+msgid "Set up WooCommerce"
+msgstr "إعداد WooCommerce"
+
+#: src/Setup/Assets.php:139
+#: frontend/blocks/subscription-block/src/edit.js:279
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:615
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:149
+msgid "Show Name"
+msgstr "إظهار الاسم"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:162
+msgid "Show Surname"
+msgstr "إظهار اللقب"
+
+#: src/Setup/Assets.php:284
+#, fuzzy
+msgid "So how do you want to collect and sync contacts from your site to Reach?"
+msgstr "إذن، كيف تريد جمع جهات الاتصال ومزامنتها من موقعك إلى Reach؟"
+
+#: src/Setup/Assets.php:96
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+#: src/Api/Handlers/ApiHandler.php:36
+#: src/Blocks/SubscriptionFormBlock.php:51
+msgid "Something went wrong. Please try again."
+msgstr "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+
+#: src/Setup/Assets.php:212
+#: src/Setup/Assets.php:266
+msgid "Status"
+msgstr "الحالة"
+
+#: src/Setup/Assets.php:265
+#, fuzzy
+msgid "Store Events"
+msgstr "أحداث المتجر"
+
+#: src/Blocks/SubscriptionFormBlock.php:156
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:223
+msgid "Subscribe"
+msgstr "اشتراك"
+
+#: templates/optin-checkbox.php:28
+msgid "Subscribe to our Newsletter"
+msgstr "اشترك في نشرتنا الإخبارية"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:73
+msgid "Subscribe to our newsletter"
+msgstr "اشترك في نشرتنا الإخبارية"
+
+#: src/Setup/Assets.php:133
+msgid "Subscribers"
+msgstr "المشتركون"
+
+#: src/Blocks/SubscriptionFormBlock.php:186
+#, fuzzy
+msgid "Subscription form is not available at the moment"
+msgstr "نموذج الاشتراك غير متاح في الوقت الحالي"
+
+#: src/Setup/Assets.php:234
+msgid "Supported plugins"
+msgstr "الإضافات المدعومة"
+
+#: src/Integrations/SureForms/SureFormsIntegration.php:35
+msgid "Sure Forms"
+msgstr "النماذج المؤكدة"
+
+#: src/Blocks/SubscriptionFormBlock.php:148
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:215
+msgid "Surname"
+msgstr "اللقب"
+
+#: src/Setup/Assets.php:206
+msgid "Sync"
+msgstr "مزامنة"
+
+#: src/Blocks/SubscriptionFormBlock.php:50
+msgid "Thanks for subscribing."
+msgstr "شكراً لاشتراكك."
+
+#: src/Setup/Assets.php:256
+#, fuzzy
+msgid "The selected contacts are being imported to Reach."
+msgstr "يتم الآن مزامنة جهات الاتصال المحددة مع Reach."
+
+#: src/Integrations/Integration.php:178
+msgid "This form has not an email field. Create an email field in the form to allow it to be synced with Reach"
+msgstr "لا يحتوي هذا النموذج على حقل بريد إلكتروني. قم بإنشاء حقل بريد إلكتروني في النموذج للسماح بمزامنته مع Reach."
+
+#: src/Setup/Assets.php:280
+#, fuzzy
+msgid "This form is a Reach native form inserted directly in your page. For disabling it remove the Form directly from the page using the editor."
+msgstr "هذا النموذج هو نموذج Reach أصلي مدرج مباشرة في صفحتك. لتعطيله قم بإزالة النموذج مباشرة من الصفحة باستخدام المحرر."
+
+#: src/Setup/Assets.php:122
+msgid "This month"
+msgstr "هذا الشهر"
+
+#: src/Integrations/ThriveLeads/ThriveLeadsIntegration.php:72
+#: src/Integrations/ThriveLeads/ThriveLeadsIntegration.php:88
+#, fuzzy
+msgid "Thrive Leads"
+msgstr "ثرايف ليدز"
+
+#: src/Setup/Assets.php:136
+msgid "Total subscribers"
+msgstr "إجمالي المشتركين"
+
+#: src/Setup/Assets.php:272
+#, fuzzy
+msgid "Tracks abandoned carts so you can trigger email automations in Reach when enabled."
+msgstr "تتبع العربات المهجورة حتى تتمكن من تشغيل أتمتة البريد الإلكتروني في Reach عند تمكينه."
+
+#: src/Setup/Assets.php:270
+#, fuzzy
+msgid "Tracks purchases so you can trigger email automations in Reach when enabled."
+msgstr "تتبّع عمليات الشراء حتى تتمكن من تشغيل عمليات التشغيل التلقائي للبريد الإلكتروني في Reach عند تمكينها."
+
+#: src/Setup/Assets.php:135
+msgid "Unsubscribes"
+msgstr "إلغاء اشتراك"
+
+#: src/Setup/Assets.php:126
+msgid "Upgrade"
+msgstr "الترقية"
+
+#: src/Setup/Assets.php:260
+#, fuzzy
+msgid "Upload as CSV"
+msgstr "التحميل بتنسيق CSV"
+
+#: src/Setup/Assets.php:178
+msgid "usage statistics"
+msgstr "إحصائيات الاستخدام"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:111
+#, fuzzy
+msgid "Use classic Reach block"
+msgstr "استخدم كتلة «Reach» الكلاسيكية"
+
+#: src/Integrations/Elementor/ElementorIntegration.php:110
+#: frontend/blocks/subscription-block/src/edit.js:323
+#: frontend/dist/blocks/subscription.js:1
+#: frontend/dist/blocks/subscription.js:659
+#, fuzzy
+msgid "Use Form builder template"
+msgstr "استخدام قالب «منشئ النماذج»"
+
+#: src/Setup/Assets.php:282
+#, fuzzy
+msgid "View contacts"
+msgstr "عرض جهات الاتصال"
+
+#: src/Setup/Assets.php:215
+msgid "View form"
+msgstr "عرض النموذج"
+
+#: src/Setup/Assets.php:235
+msgid "View more supported plugins"
+msgstr "عرض المزيد من الإضافات المدعومة"
+
+#: src/Setup/Assets.php:97
+msgid "Welcome to Reach"
+msgstr "مرحباً بك في Reach"
+
+#: src/Setup/Assets.php:173
+#, fuzzy
+msgid "What happens if the connection breaks?"
+msgstr "ماذا يحدث إذا انقطع الاتصال؟"
+
+#: src/Setup/Assets.php:159
+msgid "What is Hostinger Reach email marketing service?"
+msgstr "ما هي خدمة Hostinger Reach للتسويق عبر البريد الإلكتروني؟"
+
+#: src/Setup/Assets.php:165
+#, fuzzy
+msgid "What's the difference between Hostinger Reach and Hostinger Reach WordPress Plugin?"
+msgstr "ما هو الفرق بين Hostinger Reach و Hostinger Reach WordPress Plugin؟"
+
+#: src/Setup/Assets.php:210
+#, fuzzy
+msgid "When syncing is off, collected Contacts will not be sent to Reach."
+msgstr "عند إيقاف المزامنة، لن يتم إرسال جهات الاتصال المجمّعة إلى Reach."
+
+#: src/Setup/Assets.php:193
+#, fuzzy
+msgid "Will be added to the selected page"
+msgstr "سيتم إضافتها إلى الصفحة المحددة"
+
+#: src/Setup/Assets.php:169
+#, fuzzy
+msgid "Will contacts be added to my email list automatically?"
+msgstr "هل ستتم إضافة جهات الاتصال إلى قائمة بريدي الإلكتروني تلقائياً؟"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:192
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: src/Integrations/WooCommerce/WooCommerceIntegration.php:211
+msgid "WooCommerce Customers"
+msgstr "عملاء WooCommerce"
+
+#: src/Setup/Assets.php:277
+#, fuzzy
+msgid "WooCommerce Plugin Connected"
+msgstr "مكون WooCommerce الإضافي المتصل"
+
+#: src/Setup/Assets.php:204
+#, fuzzy
+msgid "Would you like to import contacts collected while sync was disabled?"
+msgstr "هل ترغب في مزامنة جهات الاتصال التي تم جمعها أثناء تعطيل المزامنة؟"
+
+#: src/Integrations/WPFormsLite/WpFormsLiteIntegration.php:29
+#: src/Setup/Assets.php:222
+msgid "WP Forms Lite"
+msgstr "نماذج WP Forms Lite"
+
+#. translators: %s - form id.
+#: src/Integrations/WPFormsLite/WpFormsLiteIntegration.php:63
+#, php-format
+msgid "WP Forms Lite %s"
+msgstr "نماذج WP Forms Lite %s"
+
+#: src/Integrations/WSForms/WSFormsIntegration.php:22
+msgid "WS Form"
+msgstr "استمارة WS"
+
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:109
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:151
+#: src/Integrations/Elementor/SubscriptionFormElementorWidget.php:164
+msgid "Yes"
+msgstr "نعم"
+
+#: src/Setup/Assets.php:170
+#, fuzzy
+msgid "Yes — new subscribers are added automatically based on your setup. Some integrations may also support importing previously collected contacts (historical data), depending on the plugin and connection flow. You’ll be able to review the available options during setup. You can manage subscriber settings like double opt-in, and adjust or organize segments directly in your Reach dashboard."
+msgstr "نعم - تتم إضافة المشتركين الجدد تلقائيًا بناءً على الإعداد الخاص بك. قد تدعم بعض عمليات التكامل أيضًا استيراد جهات الاتصال التي تم جمعها مسبقًا (البيانات التاريخية)، اعتمادًا على المكون الإضافي وتدفق الاتصال. ستتمكن من مراجعة الخيارات المتاحة أثناء الإعداد. يمكنك إدارة إعدادات المشتركين مثل الاشتراك المزدوج، وتعديل الشرائح أو تنظيمها مباشرةً في لوحة معلومات Reach."
+
+#. translators: %s: PHP version
+#: hostinger-reach.php:59
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "أنت تقوم بتشغيل PHP إصدار <b>%s</b>."
+
+#: src/Setup/Assets.php:244
+#, fuzzy
+msgid "You can import existing contacts into Reach now to use them for your email campaigns. New contacts will be synced automatically to Reach."
+msgstr "يمكنك استيراد جهات الاتصال الحالية إلى Reach الآن لاستخدامها في حملات البريد الإلكتروني الخاصة بك. ستتم مزامنة جهات الاتصال الجديدة تلقائيًا مع Reach."
+
+#: src/Setup/Assets.php:249
+#, fuzzy
+msgid "You have not selected any forms to import. Select which forms you want to import and then click on the Import button below."
+msgstr "لم تقم بتحديد أي نماذج للمزامنة. حدّد النماذج التي تريد مزامنتها ثم انقر على زرّ مزامنة أدناه."
+
+#: src/Setup/Assets.php:111
+#, fuzzy
+msgid "Your API token"
+msgstr "رمز API الخاص بك"
+
+#: src/Api/Handlers/ReachApiHandler.php:36
+#: src/Blocks/SubscriptionFormBlock.php:184
+#, fuzzy
+msgid "Your site is not connected to Reach. Connect to Reach and try again."
+msgstr "موقعك غير متصل بـ Reach. اتصل بـ Reach وحاول مرة أخرى."

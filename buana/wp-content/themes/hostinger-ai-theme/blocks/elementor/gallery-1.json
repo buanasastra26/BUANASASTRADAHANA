@@ -1,0 +1,374 @@
+[
+  {
+    "id": "8ce6fe8",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "flex_align_items": "center",
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "1deaee3",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_align_items": "center",
+          "flex_align_items_mobile": "flex-start"
+        },
+        "elements": [
+          {
+            "id": "bc678af",
+            "elType": "widget",
+            "settings": {
+              "title": "Photography Gallery",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              },
+              "_padding": {
+                "unit": "rem",
+                "top": "0",
+                "right": "1",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_padding_mobile": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "align_mobile": "left"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "c93cf7e",
+            "elType": "widget",
+            "settings": {
+              "title": "Explore my collection of stunning photographs showcasing diverse moments.",
+              "header_size": "p",
+              "title_color": "#0D141A",
+              "_css_classes": "hostinger-ai-description",
+              "__globals__": {
+                "typography_typography": "globals/typography?id=887fca2",
+                "title_color": "globals/colors?id=b1c2d3e"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "1e6c799",
+    "elType": "container",
+    "settings": {
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 2,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "custom",
+        "size": "2",
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "presetTitle": "Container",
+      "presetIcon": "eicon-container",
+      "css_classes": "hostinger-ai-about-us-1",
+      "grid_rows_grid_tablet": {
+        "unit": "custom",
+        "size": "",
+        "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+        "unit": "custom",
+        "size": "",
+        "sizes": []
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "0",
+        "right": "1.5",
+        "bottom": "2.5",
+        "left": "1.5",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "06c9ee1",
+        "elType": "container",
+        "settings": {
+          "css_classes": "image-row",
+          "content_width": "full",
+          "padding": {
+            "unit": "px",
+            "top": "30",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "grid_column": "2",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "1fr 2fr",
+            "sizes": []
+          },
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": 1,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Container",
+          "presetIcon": "eicon-container",
+          "grid_justify_content": "space-between",
+          "flex_direction": "row",
+          "flex_justify_content_mobile": "center"
+        },
+        "elements": [
+          {
+            "id": "13a03ec",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/11/300x400.jpg",
+                "id": 503,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-image",
+              "_flex_align_self": "flex-start",
+              "align": "left",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "717f166",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/11/800x400.jpg",
+                "id": 504,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-image hostinger-index-1",
+              "_flex_align_self": "flex-start",
+              "align": "right",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "145730b",
+        "elType": "container",
+        "settings": {
+          "css_classes": "image-row",
+          "content_width": "full",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "grid_column": "2",
+          "_flex_size": "shrink",
+          "grid_columns_grid": {
+            "unit": "custom",
+            "size": "2fr 1fr",
+            "sizes": []
+          },
+          "grid_columns_grid_tablet": {
+            "unit": "custom",
+            "size": "",
+            "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+            "unit": "custom",
+            "size": 1,
+            "sizes": []
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Container",
+          "presetIcon": "eicon-container",
+          "grid_justify_content": "space-between",
+          "padding_mobile": {
+            "unit": "rem",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "flex_direction": "row",
+          "flex_justify_content_mobile": "center"
+        },
+        "elements": [
+          {
+            "id": "4a91f72",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/11/800x400.jpg",
+                "id": 504,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-image hostinger-index-2",
+              "_flex_align_self": "flex-start",
+              "align": "left",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "bb9a1fc",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/11/300x400.jpg",
+                "id": 503,
+                "size": "",
+                "source": "library",
+                "alt": ""
+              },
+              "image_size": "full",
+              "image_border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-image hostinger-index-3",
+              "_flex_align_self": "flex-start",
+              "align": "right",
+              "align_mobile": "center"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

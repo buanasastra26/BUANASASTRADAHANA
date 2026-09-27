@@ -1,0 +1,19 @@
+RewriteEngine On
+DirectoryIndex index.php
+
+# Block direct web access to application internals and sensitive files.
+RewriteRule ^(?:app|config|database|docs|routes|scripts|storage)(?:/|$) - [F,L,NC]
+RewriteRule ^(?:AGENTS\.md|CODEX_START_HERE\.md|README\.md|\.env|\.env\.example|\.gitignore)$ - [F,L,NC]
+RewriteRule ^(?:output|tmp|tests)(?:/|$) - [F,L,NC]
+RewriteRule \.(?:zip|sql|log|bak|ini)$ - [F,L,NC]
+
+# Serve existing public files/directories directly.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+
+Options -Indexes
+
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>

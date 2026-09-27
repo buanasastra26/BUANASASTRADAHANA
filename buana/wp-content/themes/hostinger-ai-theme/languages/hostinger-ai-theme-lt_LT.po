@@ -1,0 +1,2734 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Lithuanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2026-09-08 13:34+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.2.30"
+
+#. translators: 1: current page count, 2: maximum number of pages
+#: includes/Admin/AdminTranslations.php:226
+#, fuzzy, php-format
+msgid "%1$s/%2$s pages"
+msgstr "%1$s/%2$s puslapių"
+
+#: includes/Admin/AdminTranslations.php:47
+#, php-format
+msgid "%s characters left"
+msgstr "liko %s simbolių"
+
+#. translators: %s: plugin name
+#: includes/Builder/AbstractPluginBuilder.php:49
+#, php-format
+msgid "%s is not active after installation."
+msgstr "%s nėra aktyvus po įdiegimo."
+
+#. translators: %s: social network name, e.g. Instagram
+#: includes/Admin/AdminTranslations.php:242
+#: includes/Admin/AdminTranslations.php:243
+#: includes/Admin/AdminTranslations.php:244
+#, php-format
+msgid "%s link or username"
+msgstr "%s nuoroda arba vartotojo vardas"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+msgid "A customizable booking form for your website"
+msgstr "Redaguojama užsakymo forma tavo svetainėje"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:9
+msgid "A customizable contact form for your website"
+msgstr "Redaguojama svetainės kontaktų forma"
+
+#: includes/Versions/Restore/Preflight.php:47
+#, fuzzy
+msgid "A website generation is currently running."
+msgstr "Šiuo metu vyksta svetainės kūrimas."
+
+#: includes/Admin/AdminTranslations.php:208
+#: includes/Admin/AdminTranslations.php:213
+msgid "Actions"
+msgstr "Veiksmai"
+
+#: includes/Admin/AdminTranslations.php:221
+msgid "Add"
+msgstr "Pridėti"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:40
+msgid "Add a Google Maps embed URL in the block settings to preview the map."
+msgstr ""
+"Bloko nustatymuose pridėk Google Maps įterptą URL adresą ir peržiūrėk "
+"žemėlapį."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Add an image"
+msgstr "Įkelti paveikslėlį"
+
+#: includes/Admin/AdminTranslations.php:255
+msgid "Add contacts"
+msgstr "Pridėti kontaktus"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+msgid "Add text..."
+msgstr "Pridėti tekstą..."
+
+#: includes/Admin/AdminTranslations.php:254
+#: includes/Admin/AdminTranslations.php:257
+msgid "Add WhatsApp button to my site"
+msgstr "Įdėti WhatsApp mygtuką į savo svetainę"
+
+#: includes/Admin/AdminTranslations.php:259 includes/Builder/Translator.php:66
+msgid "Address"
+msgstr "Adresas"
+
+#: includes/Settings/Theme.php:97
+msgid "Adjust how elements are displayed on your website:"
+msgstr "Nustatyk, kaip elementai rodomi tavo svetainėje:"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Affiliate marketing site"
+msgstr "Partnerysčių rinkodara"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/AiContent/src/index.js:10
+msgid "AI Content Generator"
+msgstr "DI turinio generatorius"
+
+#: includes/Admin/AdminTranslations.php:253
+msgid "AI website assistant"
+msgstr "DI svetainės asistentas"
+
+#: includes/Admin/AdminTranslations.php:10 includes/Admin/Menu.php:25
+#: includes/Admin/Menu.php:26
+msgid "AI Website Builder"
+msgstr "DI svetainių kūrėjas"
+
+#: includes/Builder/Translator.php:63
+msgid "All rights reserved."
+msgstr "Visos teisės saugomos."
+
+#: includes/Admin/AdminTranslations.php:155
+msgid "Almost ready to build"
+msgstr "Beveik paruošta kurti"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:78
+#: includes/Elementor/WidgetManager.php:55
+msgid "An error occurred. Please try again later."
+msgstr "Įvyko klaida. Prašome pabandyti vėliau."
+
+#: includes/Admin/AdminTranslations.php:287
+#, fuzzy
+msgid "Apply changes"
+msgstr "Taikyti pakeitimus"
+
+#: includes/Admin/AdminTranslations.php:236
+msgid "At least one page is needed for the website"
+msgstr "Svetainei reikia bent vieno puslapio"
+
+#: includes/Rest/LogoRoutes.php:44
+msgid "Attachment file not found on disk."
+msgstr "Priedo failo diske nerasta."
+
+#: includes/Rest/LogoRoutes.php:26
+msgid "Attachment not found."
+msgstr "Priedas nerastas."
+
+#. translators: %s php version
+#: functions.php:56
+msgid "Attention:"
+msgstr "Dėmesio:"
+
+#: includes/Admin/AdminTranslations.php:165
+msgid ""
+"Awesome! I'm now building your site – just give me a few moments until it's "
+"done and ready!"
+msgstr ""
+"Nuostabu! Aš dabar kuriu tavo svetainę - luktelk keletą akimirkų, kol ji bus "
+"baigta ir paruošta!"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "Atgal"
+
+#: includes/Admin/AdminTranslations.php:137
+#, fuzzy
+msgid "Background"
+msgstr "Aplinkybės"
+
+#: includes/Admin/AdminTranslations.php:290
+#, fuzzy
+msgid "Best"
+msgstr "Geriausias"
+
+#: gutenberg-blocks/AiContent/block.json
+msgctxt "block description"
+msgid "A block for AI-powered content generation and regeneration"
+msgstr "Blokas, skirtas DI paremtam turinio kūrimui ir regeneravimui"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "Blokas su užsakymo formos integracija"
+
+#: gutenberg-blocks/ContactForm/block.json
+msgctxt "block description"
+msgid "A customizable contact form for your website"
+msgstr "Redaguojama svetainės kontaktų forma"
+
+#: gutenberg-blocks/Map/block.json
+msgctxt "block description"
+msgid "Embeds a Google Maps iframe with an editor preview."
+msgstr "Įterpiamas Google Maps iframe su redaktoriaus peržiūra."
+
+#: includes/Admin/AdminTranslations.php:53
+msgid "Block editor"
+msgstr "Bloko redaktorius"
+
+#: gutenberg-blocks/AiContent/block.json
+msgctxt "block title"
+msgid "AI Content Generator"
+msgstr "DI turinio generatorius"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "Užsakymų blokas"
+
+#: gutenberg-blocks/ContactForm/block.json
+msgctxt "block title"
+msgid "Contact Form"
+msgstr "Kontaktinė forma"
+
+#: gutenberg-blocks/Map/block.json
+msgctxt "block title"
+msgid "Map"
+msgstr "Žemėlapis"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "Tinklaraštis"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:18
+msgid "Blog Posts"
+msgstr "Tinklaraščio įrašai"
+
+#: includes/Admin/AdminTranslations.php:21
+msgid "Booking"
+msgstr "Užsakymas"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+msgid "Booking Form"
+msgstr "Užsakymo forma"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+msgid "Bookings"
+msgstr "Užsakymai"
+
+#: includes/Admin/AdminTranslations.php:136
+#, fuzzy
+msgid "Brand"
+msgstr "Prekės ženklas"
+
+#: includes/Rest/BuilderRoutes.php:452
+msgid "Brand data not found."
+msgstr "Prekės ženklo duomenų nerasta."
+
+#: includes/Admin/AdminTranslations.php:12
+#: includes/Admin/AdminTranslations.php:238
+msgid "Brand name"
+msgstr "Prekės ženklo pavadinimas"
+
+#: includes/Admin/AdminTranslations.php:239
+msgid "Brand name is required"
+msgstr "Būtina nurodyti prekės ženklą"
+
+#: includes/Admin/AdminTranslations.php:281
+#, fuzzy
+msgid "Browse files"
+msgstr "Naršyti failus"
+
+#: includes/Admin/AdminTranslations.php:97
+msgid ""
+"Build a blog for \"Wanderlust Lens,\" featuring travel photography and "
+"destination guides. Use adventurous colors like blue, orange, and white. "
+"Include gallery sections and a newsletter signup for travel tips."
+msgstr ""
+"Sukurk tinklaraštį \"Wanderlust Lens\", kuriame būtų pateikiamos kelionių "
+"fotografijos ir paskirties vietų vadovai. Naudok drąsias spalvas, pavyzdžiui,"
+" mėlyną, oranžinę ir baltą. Įtrauk galerijos skiltis ir naujienlaiškio "
+"prenumeratą, kad gautum kelionių patarimų."
+
+#: includes/Admin/AdminTranslations.php:129
+msgid ""
+"Build a calming landing page for \"Calm Mind,\" a meditation and mindfulness "
+"app. Use soothing colors like lavender, soft blue, and white. Design should "
+"be serene and minimal with clear app features."
+msgstr ""
+"Sukurk raminantį meditacijos ir sąmoningumo programėlės \"Calm Mind\" "
+"nukreipimo puslapį. Naudok raminančias spalvas, pavyzdžiui, levandų, "
+"švelniai mėlyną ir baltą. Dizainas turėtų būti ramus ir minimalus, su "
+"aiškiomis programėlės funkcijomis."
+
+#: includes/Admin/AdminTranslations.php:107
+msgid ""
+"Build a calming website for \"Zen Flow Yoga,\" a boutique yoga studio "
+"offering individual classes and group workshops. Use peaceful colors like "
+"sage green and beige. Keep the design minimal and serene"
+msgstr ""
+"Sukurk raminančią svetainę \"Zen Flow Yoga\" - \"boutique\" jogos studijai, "
+"siūlančiai individualius užsiėmimus ir grupinius seminarus. Naudok ramias "
+"spalvas, pavyzdžiui, šalavijo žalią ir smėlio. Dizainas turi būti minimalus "
+"ir ramus"
+
+#: includes/Admin/AdminTranslations.php:115
+msgid ""
+"Build a cozy website for \"Morning Crumb Bakery & Cafe,\" a neighborhood "
+"spot serving fresh pastries and coffee. Use warm, appetizing colors like "
+"golden brown and cream."
+msgstr ""
+"Sukurk jaukią \"Morning Crumb Bakery & Cafe\", kaimynystėje įsikūrusios "
+"kepyklėlės ir kavinės, kurioje siūlomi švieži pyragaičiai ir kava, svetainę. "
+"Naudok šiltas, apetitą žadinančias spalvas, pavyzdžiui, auksinę rudą ir "
+"kreminę."
+
+#: includes/Admin/AdminTranslations.php:127
+msgid ""
+"Build a modern landing page for \"CloudMail,\" a SaaS startup launching new "
+"AI based email app. Use tech-forward colors like electric blue, purple, and "
+"white. Design should be minimal with waitlist signup and feature highlights."
+msgstr ""
+"Sukurk modernų \"CloudMail\", SaaS startuolio, pristatančio naują DI paremtą "
+"el. pašto programėlę, nukreipimo puslapį. Naudok technologiškai pažangias "
+"spalvas, pavyzdžiui, elektrinę mėlyną, violetinę ir baltą. Dizainas turėtų "
+"būti minimalus, su laukimo sąrašo registracija ir funkcijų akcentais."
+
+#: includes/Admin/AdminTranslations.php:101
+msgid ""
+"Build a portfolio site for wedding photographers \"Frames Photography.\" "
+"Keep design elegant and minimal. Use color palette of black, white, and "
+"beige. Add a blog page to share valuable wedding tips with couples."
+msgstr ""
+"Sukurk vestuvių fotografų \"Frames Photography\" portfolio svetainę Išlaikyk "
+"elegantišką ir minimalų dizainą. Naudok juodos, baltos ir smėlio spalvų "
+"paletę. Įtrauk tinklaraščio puslapį, kad galėtum dalytis vertingais vestuvių "
+"patarimais su poromis."
+
+#: includes/Admin/AdminTranslations.php:117
+msgid ""
+"Build a professional site for \"Pixel Growth,\" a digital marketing agency "
+"for small businesses. Use modern, confident colors like navy blue, bright "
+"orange, and white. Keep design clean and minimal with clear service sections."
+"."
+msgstr ""
+"Sukurki profesionalią \"Pixel Growth\", skaitmeninės rinkodaros agentūros, "
+"skirtos mažoms įmonėms, svetainę. Naudok modernias, užtikrintas spalvas, "
+"pavyzdžiui, tamsiai mėlyną, ryškiai oranžinę ir baltą. Dizainas turi būti "
+"švarus ir minimalus, su aiškiais paslaugų skyriais."
+
+#: includes/Admin/AdminTranslations.php:133
+msgid ""
+"Build a whimsical page for\"Emma Stories\" showcasing published books and "
+"upcoming releases for children books. Use cheerful colors like pink, yellow, "
+"and light blue. Design should be playful and fun with colorful images."
+msgstr ""
+"Sukurk nuotaikingą puslapį \"Emma Stories\", kuriame būtų pristatomos "
+"išleistos knygos ir būsimi vaikų knygų leidiniai. Naudok linksmas spalvas, "
+"pavyzdžiui, rožinę, geltoną ir šviesiai mėlyną. Dizainas turėtų būti "
+"žaismingas ir linksmas, su spalvingais vaizdais."
+
+#: includes/Admin/AdminTranslations.php:125
+msgid ""
+"Build an elegant site for \"Valley Vista Vineyard,\" offering wine tastings, "
+"tours, and bottle sales. Use rich, earthy colors like burgundy, deep green, "
+"and cream. Design should feel rustic yet refined with event calendar and "
+"wine collection showcase."
+msgstr ""
+"Sukurk elegantišką \"Valley Vista Vineyard\" svetainę, kurioje siūloma "
+"degustuoti vyną, rengti ekskursijas ir pardavinėti butelius. Naudok sodrias, "
+"žemiškas spalvas, pavyzdžiui, bordo, tamsiai žalią ir kreminę. Dizainas "
+"turėtų būti kaimiškas, bet rafinuotas, su renginių kalendoriumi ir vyno "
+"kolekcijos vitrina."
+
+#: includes/Admin/AdminTranslations.php:87
+msgid ""
+"Build an online store for \"Retro Revival,\" selling curated vintage "
+"clothing from the 60s-90s. Use nostalgic colors like mustard yellow, burnt "
+"orange, and brown. Design should feel fun and energetic with retro vibe."
+msgstr ""
+"Sukurk internetinę parduotuvę \"Retro Revival\", kurioje būtų parduodami "
+"rinktiniai 60-90-ųjų vintažiniai drabužiai. Naudok nostalgiškas spalvas, "
+"tokias kaip garstyčių geltona, deginta oranžinė ir ruda. Dizainas turėtų "
+"būti linksmas ir energingas, su retro stiliumi."
+
+#: includes/Admin/AdminTranslations.php:52
+msgid "Builder type"
+msgstr "Kūrimo tipas"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Building content"
+msgstr "Turinio kūrimas"
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Business and services"
+msgstr "Verslas"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+msgid "Button Settings"
+msgstr "Mygtukų nustatymai"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:120
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:96
+msgid "Button Text"
+msgstr "Mygtuko tekstas"
+
+#: includes/Admin/AdminTranslations.php:39
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: includes/Admin/AdminTranslations.php:88
+msgid "Candle shop"
+msgstr "Žvakių parduotuvė"
+
+#: includes/Admin/AdminTranslations.php:122
+msgid "Car repair services"
+msgstr "Automobilių remonto paslaugos"
+
+#: includes/Builder/SiteApplier.php:1289
+#: includes/Builder/WebsiteBuilder.php:509
+#: includes/Shortcodes/ShortcodesManager.php:28
+msgid "Cart"
+msgstr "Krepšelis"
+
+#. translators: %d: generated product category number.
+#: includes/Builder/ProductCategoryManager.php:218
+#, php-format
+msgid "Category %d"
+msgstr "Kategorija %d"
+
+#: includes/Admin/AdminTranslations.php:207
+#: includes/Admin/AdminTranslations.php:212
+msgid "Chat"
+msgstr "Pokalbiai"
+
+#: includes/Admin/AdminTranslations.php:175
+msgid "Check that your file is in one of these formats: PNG, JPG."
+msgstr "Patikrink, ar tavo failas yra vieno iš šių formatų: PNG, JPG."
+
+#: includes/Settings/Theme.php:113
+msgid "Check this box to hide the header element on all pages"
+msgstr ""
+"Pažymėk šį langelį, jei nori paslėpti antraštės elementą visuose puslapiuose"
+
+#: includes/Admin/Hooks.php:159
+msgid ""
+"Check this box to hide the page title on the frontend. This is useful when "
+"your page content already includes a heading."
+msgstr ""
+"Pažymėk šį langelį, jei nor paslėpti puslapio pavadinimą priekinėje dalyje. "
+"Tai naudinga, kai puslapio turinyje jau yra antraštė."
+
+#: includes/Builder/SiteApplier.php:1294
+#: includes/Builder/WebsiteBuilder.php:518
+msgid "Checkout"
+msgstr "Užsakymo apmokėjimas"
+
+#: includes/Admin/AdminTranslations.php:132
+msgid "Children's book author page"
+msgstr "Vaikų knygų autoriaus puslapis"
+
+#: includes/Admin/AdminTranslations.php:49
+msgid "Choose your site’s language"
+msgstr "Pasirink svetainės kalbą"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Close AI Generator"
+msgstr "Uždaryti DI generatorių"
+
+#: includes/Admin/AdminTranslations.php:120
+msgid "Coffee roastery site"
+msgstr "Kavos gamybos svetainė"
+
+#: includes/Admin/AdminTranslations.php:140
+msgid "Color code"
+msgstr "Spalvų kodas"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Button text"
+msgstr "Mygtuko tekstas"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "1 spalva (skyriaus fonas)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "2 spalva (skyriaus fonas)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "3 spalva (mygtuko fonas)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "Tamsus (tekstas šviesoje ir spalva 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "Pilka (formos ribos)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "Šviesi (2 spalvos tekstas ir perėjimas)"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Page background"
+msgstr "Puslapio fonas"
+
+#: theme.json
+#, fuzzy
+msgctxt "Color name"
+msgid "Page text"
+msgstr "Puslapio tekstas"
+
+#: includes/Admin/AdminTranslations.php:145
+msgid "Colors"
+msgstr "Spalvos"
+
+#: includes/Rest/BuilderRoutes.php:962
+msgid "Colors data with color_palette is required."
+msgstr "Reikalingi spalvų duomenys su color_palette."
+
+#: includes/Admin/AdminTranslations.php:235
+msgid "Confirm"
+msgstr "Patvirtinti"
+
+#: includes/Admin/AdminTranslations.php:149
+msgid "Confirm site details"
+msgstr "Patvirtinti svetainės informaciją"
+
+#: includes/Admin/AdminTranslations.php:249
+msgid "Connect"
+msgstr "Prisijungti"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+msgid "Consent Text"
+msgstr "Sutikimo tekstas"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:17
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:8
+msgid "Contact Form"
+msgstr "Kontaktinė forma"
+
+#: includes/Builder/Translator.php:45
+msgid "Contacts"
+msgstr "Kontaktai"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:37
+#: includes/Elementor/Widgets/ContactFormWidget.php:50
+msgid "Content"
+msgstr "Turinys"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Content generated but could not be inserted. Please try again."
+msgstr ""
+"Turinys buvo sukurtas, tačiau jo nepavyko įterpti. Prašome bandyti dar kartą."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Content generated successfully!"
+msgstr "Turinys sėkmingai sukurtas!"
+
+#: includes/Rest/BlockTypeRoutes.php:284
+msgid "Content generation failed"
+msgstr "Turinio generavimas nepavyko"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Content generation failed. Please try again."
+msgstr "Turinio sukūrimas nepavyko. Prašome bandyti dar kartą."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Content length"
+msgstr "Turinio ilgis"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "Continue"
+msgstr "Tęsti"
+
+#: includes/Admin/AdminTranslations.php:142
+#: includes/Admin/AdminTranslations.php:153
+msgid "Continue to setup"
+msgstr "Tęsti nustatymą"
+
+#: includes/Admin/AdminTranslations.php:80
+msgid "Couldn’t create your site this time"
+msgstr "Šį kartą nepavyko sukurti tavo svetainės"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Country"
+msgstr "Šalis"
+
+#: includes/Admin/AdminTranslations.php:24
+#: includes/Admin/AdminTranslations.php:269
+msgid "Create"
+msgstr "Sukurti"
+
+#: includes/Admin/AdminTranslations.php:215
+msgid "Create a blog about..."
+msgstr "Sukurk tinklaraštį apie..."
+
+#: includes/Admin/AdminTranslations.php:93
+msgid ""
+"Create a blog called “Mindful Money\" sharing tips on budgeting, investing, "
+"and financial freedom. Use trustworthy colors like dark blue, light gray, "
+"and white. Design should be clean and professional with easy navigation and "
+"newsletter signup."
+msgstr ""
+"Sukurk tinklaraštį \"Mindful Money\", kuriame dalinsiesi patarimais apie "
+"biudžeto sudarymą, investavimą ir finansinę laisvę. Naudok patikimas spalvas,"
+" pavyzdžiui, tamsiai mėlyną, šviesiai pilką ir baltą. Dizainas turėtų būti "
+"švarus ir profesionalus, su lengva navigacija ir naujienlaiškio registracija."
+
+#: includes/Admin/AdminTranslations.php:103
+msgid ""
+"Create a portfolio for a freelance graphic designer \"GrapicVibe\" "
+"specializing in branding and visual identity. Use bold, modern colors like "
+"black, neon green, and white. Design should be minimal yet striking with "
+"large project showcases."
+msgstr ""
+"Sukurk laisvai samdomo grafikos dizainerio \"GrapicVibe\", kurio "
+"specializacija - prekės ženklo kūrimas ir vizualinis identitetas, portfolio. "
+"Naudok drąsias, modernias spalvas, pavyzdžiui, juodą, neoninę žalią ir baltą."
+" Dizainas turėtų būti minimalus, bet ryškus, su didelėmis projektų "
+"vitrinomis."
+
+#: includes/Admin/AdminTranslations.php:123
+msgid ""
+"Create a site for \"Pette’s Auto Care,\" a local mechanic shop offering "
+"honest repairs and maintenance. Use professional colors like orange, black, "
+"and gray. Include our services list, contact form and a blog about cars."
+msgstr ""
+"Sukurk \"Pette's Auto Care\" - vietinės mechanikos dirbtuvės, kurioje "
+"atliekami sąžiningi remonto ir techninės priežiūros darbai, - svetainę. "
+"Naudok profesionalias spalvas, pavyzdžiui, oranžinę, juodą ir pilką. Įtrauk "
+"paslaugų sąrašą, kontaktų formą ir tinklaraštį apie automobilius."
+
+#: includes/Admin/AdminTranslations.php:121
+msgid ""
+"Create a website for \"Dark Bean Roasters,\" an artisan coffee roastery. Use "
+"rich, earthy tones like dark brown, copper, and cream. Design should be warm "
+"and inviting. Include a blog page about coffee culture and brewing tips."
+msgstr ""
+"Sukurk \"Dark Bean Roasters\", amatininkų kavos skrudinimo įmonės, svetainę. "
+"Naudok sodrius, žemiškus tonus, pavyzdžiui, tamsiai rudą, vario ir kreminę "
+"spalvas. Dizainas turėtų būti šiltas ir kviečiantis. Įtrauk tinklaraščio "
+"puslapį apie kavos kultūrą ir kavos ruošimo patarimus."
+
+#: includes/Admin/AdminTranslations.php:214
+msgid "Create a website for my business..."
+msgstr "Sukurti savo verslo svetainę..."
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Create again"
+msgstr "Sukurti iš naujo"
+
+#: includes/Admin/AdminTranslations.php:99
+msgid ""
+"Create an affiliate marketing blog called \"Glow Guide\" reviewing and "
+"recommending skincare products. Use fresh colors like white, light gray and "
+"green."
+msgstr ""
+"Sukurk partnerių rinkodaros tinklaraštį \"Glow Guide\", kuriame apžvelgiami "
+"ir rekomenduojami odos priežiūros produktai. Naudok gaivias spalvas, "
+"pavyzdžiui, baltą, šviesiai pilką ir žalią."
+
+#: includes/Admin/AdminTranslations.php:95
+msgid ""
+"Create an affiliate marketing blog called \"Smart Reviews\" featuring in-"
+"depth reviews of smartphones and laptops and other home gadgets. Use modern, "
+"tech-inspired colors like dark blue, silver, and white. Add newsletter "
+"signup section."
+msgstr ""
+"Sukurk partnerių rinkodaros tinklaraštį \"Smart Reviews\", kuriame "
+"pateikiamos išsamios išmaniųjų telefonų, nešiojamųjų kompiuterių ir kitų "
+"namų įtaisų apžvalgos. Naudok modernias, technologijų įkvėptas spalvas, "
+"pavyzdžiui, tamsiai mėlyną, sidabrinę ir baltą. Pridėk naujienlaiškio "
+"registracijos skiltį."
+
+#: includes/Admin/AdminTranslations.php:218
+msgid "Create an affiliate marketing site for..."
+msgstr "Sukurk partnerių rinkodaros svetainę, skirtą..."
+
+#: includes/Admin/AdminTranslations.php:85
+msgid ""
+"Create an e-commerce website selling handmade macrame and knitted goods "
+"called \"Cozy Knot”. Use warm and light tones like white, beige, light green."
+msgstr ""
+"Sukurk e. parduotuvės svetainę, kurioje prekiaujama rankų darbo makrame ir "
+"mezginiais, pavadinimu \"Cozy Knot\". Naudok šiltus ir šviesius tonus, "
+"pavyzdžiui, baltą, smėlio, šviesiai žalią."
+
+#: includes/Admin/AdminTranslations.php:105
+msgid ""
+"Create an elegant portfolio for \"Morning Interiors,\" showcasing "
+"residential design projects. Use sophisticated colors like black, light "
+"brown. Design should be minimal and luxurious with large project images."
+msgstr ""
+"Sukurk elegantišką \"Morning Interiors\" portfolio, kuriame pristatomi "
+"gyvenamųjų namų dizaino projektai. Naudok rafinuotas spalvas, pavyzdžiui, "
+"juodą, šviesiai rudą. Dizainas turėtų būti minimalus ir prabangus, su "
+"didelėmis projektų nuotraukomis."
+
+#: includes/Admin/AdminTranslations.php:119
+msgid ""
+"Create an elegant website for \"Wanderlux Travel,\" offering curated luxury "
+"tours to exotic destinations. Use sophisticated tones of blues and greens. "
+"Design should feel inspiring with stunning exotic destination photography "
+"and package details."
+msgstr ""
+"Sukurk elegantišką \"Wanderlux Travel\", siūlančios rinktines prabangias "
+"keliones į egzotiškas šalis, svetainę. Naudok rafinuotus mėlynus ir žalius "
+"tonus. Dizainas turėtų būti įkvepiantis, jame turėtų būti puikių egzotiškų "
+"vietų nuotraukų ir paketo detalių."
+
+#: includes/Admin/AdminTranslations.php:216
+msgid "Create an online store selling..."
+msgstr "Sukurk internetinę parduotuvę, kurioje prekiaujama..."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Create content section"
+msgstr "Sukurti turinio skyrių"
+
+#: includes/Admin/AdminTranslations.php:217
+msgid "Create portfolio showcasing my..."
+msgstr "Sukurti portfolio, kuriame..."
+
+#: includes/Admin/AdminTranslations.php:219
+msgid "Create..."
+msgstr "Sukurti..."
+
+#: includes/Admin/AdminTranslations.php:274
+#, fuzzy
+msgid "Creating a new version will replace the oldest one"
+msgstr "Sukūrus naują versiją, seniausia versija bus pakeista"
+
+#: includes/Admin/AdminTranslations.php:202
+#, fuzzy
+msgid "Creating your logo"
+msgstr "Logotipo kūrimas"
+
+#: includes/Admin/AdminTranslations.php:196
+msgid "Creating your site"
+msgstr "Svetainės kūrimas"
+
+#: includes/Admin/AdminTranslations.php:286
+#, fuzzy
+msgid "Custom"
+msgstr "Pagal užsakymą"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "Nėra pavadinimo"
+
+#: includes/Admin/AdminTranslations.php:160
+#: includes/Admin/AdminTranslations.php:170
+msgid "Customize again"
+msgstr "Redaguok ir vėl"
+
+#: includes/Admin/AdminTranslations.php:151
+msgid "Customize style"
+msgstr "Redaguoti stilių"
+
+#: includes/Admin/AdminTranslations.php:166
+msgid "Customize your colors, fonts, and logo."
+msgstr "Pritaikyti spalvas, šriftus ir logotipą."
+
+#: gutenberg-blocks/Booking/Booking.php:85 includes/Builder/Translator.php:59
+#: includes/Elementor/Widgets/ContactFormWidget.php:210
+msgid "Date"
+msgstr "Data"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:208
+msgid "Date Label"
+msgstr "Datos etiketė"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:220
+msgid "Date Placeholder"
+msgstr "Datos pakaitinis žymuo"
+
+#: includes/Admin/AdminTranslations.php:278
+#, fuzzy
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: includes/Admin/AdminTranslations.php:276
+#, fuzzy
+msgid "Delete this version?"
+msgstr "Ištrinti šią versiją?"
+
+#: includes/Admin/AdminTranslations.php:275
+#, fuzzy
+msgid "Delete version"
+msgstr "Ištrinti versiją"
+
+#: includes/Admin/AdminTranslations.php:71
+msgid "Describe your website idea..."
+msgstr "Apibūdink savo svetainės idėją..."
+
+#: includes/Admin/AdminTranslations.php:22
+#: includes/Admin/AdminTranslations.php:57
+#: includes/Elementor/Widgets/ContactFormWidget.php:107
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:53
+msgid "Description"
+msgstr "Aprašymas"
+
+#: includes/Rest/GenerationRoutes.php:194
+#: includes/Rest/GenerationRoutes.php:427
+#, fuzzy
+msgid "Description and brand name are required."
+msgstr "Būtina nurodyti aprašymą ir prekės ženklą."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Description is required"
+msgstr "Reikia įvesti aprašymą"
+
+#: includes/Rest/BlockTypeRoutes.php:118 includes/Rest/BlockTypeRoutes.php:368
+#: includes/Rest/BuilderRoutes.php:277
+msgid "Description is required."
+msgstr "Būtinas aprašymas."
+
+#: includes/Admin/AdminTranslations.php:46
+#| msgid ""
+#| "Description is too long. Please shorten it to 2000 characters or less."
+msgid "Description is too long. Please shorthen it to 2000 or  less"
+msgstr "Aprašymas yra per ilgas. Sutrumpink jį iki 2000 ar mažiau simbolių."
+
+#: includes/Admin/AdminTranslations.php:109
+msgid ""
+"Design a friendly service website for \"Pawsitive Grooming,\" a local pet "
+"grooming business. Use playful, warm colors like green, light blue, and "
+"yellow. The design should feel welcoming and trustworthy for pet owners."
+msgstr ""
+"Sukurk draugišką paslaugų svetainę vietinei gyvūnų kirpyklai \"Pawsitive "
+"Grooming\". Naudok žaismingas, šiltas spalvas, pavyzdžiui, žalią, šviesiai "
+"mėlyną ir geltoną. Dizainas turėtų būti jaukus ir patikimas augintinių "
+"savininkams."
+
+#: includes/Admin/AdminTranslations.php:111
+msgid ""
+"Design a motivating website for fitness coach \"Power Path\" offering "
+"personal training and nutrition plans. Use energetic colors like red, black, "
+"and white. The design should feel bold and inspiring with clear service "
+"packages."
+msgstr ""
+"Sukurk motyvuojančią svetainę fitneso treneriui \"Power Path\", siūlančiam "
+"asmeninių treniruočių ir mitybos planus. Naudok energingas spalvas, "
+"pavyzdžiui, raudoną, juodą ir baltą. Dizainas turėtų būti drąsus ir "
+"įkvepiantis, su aiškiais paslaugų paketais."
+
+#: includes/Admin/AdminTranslations.php:131
+msgid ""
+"Design a site for \"Second Chance Paws,\" a non-profit rescuing and rehoming "
+"abandoned dogs, cats and other pets. Use warm colors like orange, beige, "
+"light brown. Include adoption listings and volunteer signup section.."
+msgstr ""
+"Sukurk ne pelno siekiančios ne pelno organizacijos \"Second Chance Paws\", "
+"kuri gelbsti ir grąžina į namus apleistus šunis, kates ir kitus naminius "
+"gyvūnus, svetainę. Naudok šiltas spalvas, pavyzdžiui, oranžinę, smėlio, "
+"šviesiai rudą. Įtrauk įvaikinimo sąrašus ir savanorių registracijos skiltį."
+
+#: includes/Admin/AdminTranslations.php:113
+msgid ""
+"Design a stylish site for corporate events, and parties company \"This "
+"Moment\" . Use bright colors like purple, black, lime green. Showcase our "
+"service, include portfolio gallery, and contact form for inquiries."
+msgstr ""
+"Sukurk stilingą svetainę, skirtą įmonių renginiams ir vakarėliams, įmonei "
+"\"This Moment\" . Naudok ryškias spalvas, pavyzdžiui, violetinę, juodą, "
+"laimo žalią. Pristatyk paslaugas, įtrauk portfolio galeriją ir kontaktinę "
+"formą užklausoms."
+
+#: includes/Admin/AdminTranslations.php:91
+msgid ""
+"Design a vibrant food blog named \"Green Plate\" focusing on plant-based, "
+"healthy recipes. Use fresh, bright colors like lime green, yellow, and white."
+" Include the subscribe section."
+msgstr ""
+"Sukurk energingą maisto tinklaraštį \"Green Plate\", kuriame daugiausia "
+"dėmesio skiriama augalinės kilmės sveikiems receptams. Naudok gaivias, "
+"ryškias spalvas, pavyzdžiui, laimo žalią, geltoną ir baltą. Įtrauk "
+"prenumeratos skiltį."
+
+#: includes/Admin/AdminTranslations.php:200
+#, fuzzy
+msgid "Designing your layout"
+msgstr "Maketo kūrimas"
+
+#: includes/Admin/AdminTranslations.php:116
+msgid "Digital marketing agency"
+msgstr "Skaitmeninės rinkodaros agentūra"
+
+#: includes/Settings/Theme.php:56
+msgid "Display Settings"
+msgstr "Rodymo nustatymai"
+
+#: includes/Admin/AdminTranslations.php:62
+msgid "Do you have any comments/suggestions to improve created site?"
+msgstr ""
+"Ar turi pastabų ir (arba) pasiūlymų, kaip patobulinti sukurtą svetainę?"
+
+#: includes/Admin/Surveys/WebsiteBuilderExperience.php:33
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr ""
+"Ar turi pastabų ir (arba) pasiūlymų, kaip patobulinti mūsų DI įrankius?"
+
+#: includes/Admin/AdminTranslations.php:283
+#, fuzzy
+msgid "Drag & drop or browse your files"
+msgstr "Pervilkite failus arba juos suraskite"
+
+#: includes/Admin/AdminTranslations.php:84
+msgid "E-shop for handmade crafts"
+msgstr "Rankdarbių elektroninė parduotuvė"
+
+#: includes/Admin/AdminTranslations.php:72
+msgid "Easy drag-and-drop builder for fast, no-code design"
+msgstr "Intuityvus redaktorius greitam projektavimui be programavimo"
+
+#: includes/Admin/AdminTranslations.php:32 includes/Hooks.php:155
+msgid "Edit site"
+msgstr "Redaguoti svetainę"
+
+#: includes/Admin/AdminTranslations.php:187
+msgid "Edit site design and content"
+msgstr "Redaguoti svetainės dizainą ir turinį"
+
+#: includes/Admin/AdminTranslations.php:74
+#| msgid "Editor: "
+msgid "Editor"
+msgstr "Redaktorius:"
+
+#: includes/Admin/AdminTranslations.php:189
+msgid "editor"
+msgstr "redaktorius"
+
+#: includes/Admin/AdminTranslations.php:78
+msgid "Editor is required"
+msgstr "Reikalingas redaktorius"
+
+#: includes/Admin/AdminTranslations.php:54
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/Admin/AdminTranslations.php:56
+msgid ""
+"Elementor is an easy drag-and-drop builder, while the WordPress Block Editor "
+"gives pros more flexibility"
+msgstr ""
+"Elementor yra paprastas, bet intuityvus įrankis, o WordPress blokų "
+"redaktorius profesionalams suteikia daugiau lankstumo"
+
+#: includes/Admin/AdminTranslations.php:258 includes/Builder/Translator.php:55
+#: includes/Elementor/Widgets/ContactFormWidget.php:174
+#: includes/Shortcodes/ShortcodesManager.php:42
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:40
+msgid "Email"
+msgstr "El. paštas"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:135
+msgid ""
+"Email address where form submissions will be sent. Defaults to WordPress "
+"admin email."
+msgstr ""
+"El. pašto adresas, kuriuo bus siunčiami formos pateikimai. Numatytoji "
+"reikšmė - WordPress administratoriaus el. paštas."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:172
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:74
+msgid "Email Label"
+msgstr "El. pašto etiketė"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:181
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:79
+msgid "Email Placeholder"
+msgstr "El. pašto pakaitinis žymuo"
+
+#: includes/Elementor/ScrollAnimation.php:37
+msgid "Enable fade-up animation when this section scrolls into view."
+msgstr "Įjungti animaciją \"fade-up\", kai šis skyrius rodomas."
+
+#: includes/Elementor/ScrollAnimation.php:36
+msgid "Enable Scroll Animation"
+msgstr "Įjungti slinkties animaciją"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Enabling plugins"
+msgstr "Įjungti įskiepius"
+
+#: includes/Admin/AdminTranslations.php:83
+msgid "Enhance with AI"
+msgstr "Patobulinti naudojant DI"
+
+#: includes/Admin/AdminTranslations.php:251
+msgid "Enter a correct email address"
+msgstr "Įvesk teisingą el. pašto adresą"
+
+#: includes/Admin/AdminTranslations.php:246
+msgid "Enter a correct Facebook link or Username"
+msgstr "Įvesk teisingą Facebook nuorodą arba vartotojo vardą"
+
+#: includes/Admin/AdminTranslations.php:245
+msgid "Enter a correct Instagam link or Username"
+msgstr "Įvesk teisingą Instagram nuorodą arba vartotojo vardą"
+
+#: includes/Admin/AdminTranslations.php:252
+msgid "Enter a correct phone number"
+msgstr "Įvesk teisingą telefono numerį"
+
+#: includes/Admin/AdminTranslations.php:247
+msgid "Enter a correct TikTok link or Username"
+msgstr "Įvesk teisingą TikTok nuorodą arba vartotojo vardą"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Enter at least 11 characters"
+msgstr "Įvesk bent 11 simbolių"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:123
+msgid "Enter button text"
+msgstr "Įvesk mygtuko tekstą"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:110
+msgid "Enter form description"
+msgstr "Įvesk formos aprašymą"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:56
+msgid "Enter form description..."
+msgstr "Įvesk formos aprašymą..."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:73
+msgid "Enter form title"
+msgstr "Įvesk formos pavadinimą"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:41
+msgid "Enter form title..."
+msgstr "Įvesk formos pavadinimą..."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:134
+msgid "Enter recipient email address"
+msgstr "Įvesk gavėjo el. pašto adresą"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+msgid "Enter your email..."
+msgstr "Įvesk savo el. pašto adresą..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+msgid "Enter your message..."
+msgstr "Įvesk savo žinutę..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+msgid "Enter your name..."
+msgstr "Įvesk savo vardą ir pavardę..."
+
+#: includes/Admin/AdminTranslations.php:112
+msgid "Event planning services"
+msgstr "Renginių planavimo paslaugos"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid ""
+"Example: article about the benefits of drop-shipping with included tips & "
+"tricks."
+msgstr ""
+"Pavyzdys: straipsnis apie „drop-shipping“ privalumus, kuriame pateikiami "
+"patarimai ir gudrybės."
+
+#: includes/Admin/AdminTranslations.php:64
+msgid "Excellent"
+msgstr "Puikus"
+
+#: includes/Admin/AdminTranslations.php:37
+msgid "Existing content will be deleted"
+msgstr "Esamas turinys bus ištrintas"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "Išorinis vaizdas gali būti naudojamas rodomam vaizdui rodyti."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "Išorinio vaizdo URL"
+
+#. translators: %s: plugin name
+#: includes/Builder/PluginInstaller.php:38
+#: includes/Builder/PluginInstaller.php:205
+#, php-format
+msgid "Failed to activate %s. Please try activating it manually."
+msgstr "Nepavyko aktyvuoti %s. Pabandyk jį aktyvuoti rankiniu būdu."
+
+#. translators: %s: plugin name
+#: includes/Builder/PluginInstaller.php:76
+#, php-format
+msgid ""
+"Failed to download %s after multiple attempts. Please try again later or "
+"install the plugin manually."
+msgstr ""
+"Po kelių bandymų nepavyko atsisiųsti %s. Prašome bandyti vėliau arba įdiegti "
+"įskiepį rankiniu būdu."
+
+#: includes/Rest/BlockTypeRoutes.php:233
+msgid ""
+"Failed to generate content. Please try again with a different description."
+msgstr "Nepavyko sukurti turinio. Bandyk dar kartą su kitu aprašymu."
+
+#: includes/Rest/BlockTypeRoutes.php:150
+msgid "Failed to generate page content."
+msgstr "Nepavyko sukurti puslapio turinio."
+
+#: includes/Rest/BlockTypeRoutes.php:186
+msgid ""
+"Failed to generate page content. Please try again with a different "
+"description."
+msgstr ""
+"Nepavyko sukurti puslapio turinio. Pabandyk dar kartą su kitu aprašymu."
+
+#: includes/Rest/BlockTypeRoutes.php:142
+msgid "Failed to generate page structure."
+msgstr "Nepavyko sukurti puslapio struktūros."
+
+#: includes/Rest/BuilderRoutes.php:465
+msgid "Failed to generate pages list."
+msgstr "Nepavyko sukurti puslapių sąrašo."
+
+#: includes/Rest/BlockTypeRoutes.php:428
+msgid "Failed to generate section content."
+msgstr "Nepavyko sukurti skyriaus turinio."
+
+#: includes/Rest/BlockTypeRoutes.php:105
+msgid ""
+"Failed to generate section content. Please try again with a different "
+"description."
+msgstr ""
+"Nepavyko sukurti skyriaus turinio. Pabandyk dar kartą su kitu aprašymu."
+
+#: includes/Rest/BuilderRoutes.php:606 includes/Rest/BuilderRoutes.php:622
+msgid "Failed to generate structure."
+msgstr "Nepavyko sukurti struktūros."
+
+#: includes/Rest/BlockTypeRoutes.php:434
+msgid "Failed to merge content with structure."
+msgstr "Nepavyko sujungti turinio su struktūra."
+
+#: includes/Admin/AdminTranslations.php:178
+msgid "Failed to remove logo. Please try again."
+msgstr "Nepavyko pašalinti logotipo. Bandyk dar kartą."
+
+#: includes/Admin/AdminTranslations.php:179
+#, fuzzy
+msgid "Failed to restore generated logo. Please try again."
+msgstr "Nepavyko atkurti sugeneruoto logotipo. Prašome bandyti dar kartą."
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:143
+#: includes/Elementor/Widgets/ContactFormWidget.php:385
+msgid "Failed to send email. Please try again later."
+msgstr "Nepavyko išsiųsti el. laiško. Prašome pabandyti vėliau."
+
+#: includes/Admin/AdminTranslations.php:177
+msgid "Failed to upload logo. Please try again."
+msgstr "Nepavyko įkelti logotipo. Bandyk dar kartą."
+
+#: includes/Admin/Hooks.php:39
+msgid "Featured Image with URL"
+msgstr "Rekomenduojamas paveikslėlis su URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+msgid "Field Settings"
+msgstr "Lauko nustatymai"
+
+#: includes/Admin/AdminTranslations.php:176 includes/Hooks.php:428
+#: includes/Rest/LogoRoutes.php:52
+msgid "File size exceeds the 2 MB limit."
+msgstr "Failo dydis viršija 2 MB ribą."
+
+#: includes/Admin/AdminTranslations.php:143
+#: includes/Admin/AdminTranslations.php:158
+msgid "Finish customization"
+msgstr "Apdailos pritaikymas"
+
+#: includes/Admin/AdminTranslations.php:162
+msgid ""
+"First, I just want to make sure I got this right – what's your brand name?"
+msgstr ""
+"Pirmiausia noriu įsitikinti, ar teisingai supratau - koks tavo prekės ženklo "
+"pavadinimas?"
+
+#: includes/Admin/AdminTranslations.php:110
+msgid "Fitness coaching services"
+msgstr "Sveikatingumo mokymo paslaugos"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Catamaran"
+msgstr "Katamaranas"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Caudex"
+msgstr "Caudex"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Cormorant"
+msgstr "Kormoranai"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Serif Display"
+msgstr "DM Serif ekranas"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Sans"
+msgstr "Fira Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Gruppo"
+msgstr "Gruppo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "IBM Plex Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Junge"
+msgstr "Junge"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr "Lato"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito Sans"
+msgstr "Nunito Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair ekranas"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prata"
+msgstr "Prata"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prompt"
+msgstr "Užklausa"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Prosto One"
+msgstr "Prosto One"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "Sistema"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Titillium Web"
+msgstr "Titillium web"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Trirong"
+msgstr "Trirong"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Didelis"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Vidutinis"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mažas"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:147
+#: includes/Admin/AdminTranslations.php:284
+msgid "Fonts"
+msgstr "Šriftai"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:146
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:61
+msgid "Form Fields"
+msgstr "Formos laukai"
+
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:29
+msgid "Form Settings"
+msgstr "Formos nustatymai"
+
+#: includes/Admin/AdminTranslations.php:295
+#, fuzzy
+msgid "Game over"
+msgstr "Žaidimas baigtas"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Generate"
+msgstr "Sukurti"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+#: gutenberg-blocks/AiContent/src/index.js:11
+msgid "Generate and regenerate content using AI"
+msgstr "Kurk ir regeneruok turinį su DI"
+
+#: includes/Rest/LogoRoutes.php:106
+#, fuzzy
+msgid "Generated logo file not found."
+msgstr "Nerastas sugeneruotas logotipo failas."
+
+#: includes/Rest/LogoRoutes.php:97
+#, fuzzy
+msgid "Generated logo not found."
+msgstr "Sukurto logotipo nerasta."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid ""
+"Generating a full page will delete all existing content on this page and "
+"replace it with new AI-generated content."
+msgstr ""
+"Sukūrus visą puslapį, visas esamas šio puslapio turinys bus ištrintas ir "
+"pakeistas nauju, DI sukurtu turiniu."
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "Spalvų generavimas"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Generating content"
+msgstr "Turinio kūrimas"
+
+#: includes/Admin/AdminTranslations.php:203
+#, fuzzy
+msgid "Generating images"
+msgstr "Vaizdų generavimas"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating structure"
+msgstr "Struktūros generavimas"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Generating..."
+msgstr "Kuriama..."
+
+#: includes/Builder/Translator.php:50
+#: includes/Elementor/Widgets/ContactFormWidget.php:72
+msgid "Get in Touch"
+msgstr "Susisiek su mumis"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Give us a minute"
+msgstr "Tai šiek tiek užtruks"
+
+#: includes/Admin/AdminTranslations.php:195
+msgid "Go to WordPress"
+msgstr "Eiti į WordPress"
+
+#: includes/Admin/AdminTranslations.php:210
+msgid "Go to WordPress admin"
+msgstr "Eiti į WordPress administratorių"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:17
+msgid "Google Maps embed URL"
+msgstr "Google žemėlapių įterpimo URL"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "Skyriaus fono perėjimas"
+
+#: includes/Admin/AdminTranslations.php:102
+msgid "Graphic designer portfolio"
+msgstr "Grafikos dizainerio portfolio"
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Great description! Feel free to add more details"
+msgstr "Puikus aprašymas! Nedvejodamas pridėk daugiau informacijos"
+
+#: includes/Admin/AdminTranslations.php:154
+msgid "Head to WP admin or your chosen editor"
+msgstr "Eiti į WP administratorių arba pasirinktą redaktorių"
+
+#: includes/Admin/AdminTranslations.php:90
+msgid "Healthy food blog"
+msgstr "Sveiko maisto dienoraštis"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:23
+msgid "Height (px)"
+msgstr "Aukštis (px)"
+
+#: includes/Admin/AdminTranslations.php:58
+msgid "Help us improve"
+msgstr "Padėk mums tobulėti"
+
+#: includes/Admin/AdminTranslations.php:161
+msgid ""
+"Hi 👋 I'm your AI assistant. Your site is on the way.\\n\\nHere is the plan:"
+msgstr ""
+"Labas 👋 Esu tavo DI asistentas. Tavo svetainė jau pakeliui.\\n\\nToliau "
+"pateikiamas planas:"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:48
+#: includes/Elementor/Widgets/ContactFormWidget.php:61
+#: includes/Elementor/Widgets/ContactFormWidget.php:86
+#: includes/Elementor/Widgets/ContactFormWidget.php:98
+#| msgid "Ehime"
+msgid "Hide"
+msgstr "Ehime"
+
+#: includes/Settings/Theme.php:63
+msgid "Hide Header"
+msgstr "Paslėpti antraštę"
+
+#: includes/Admin/Hooks.php:155
+msgid "Hide page title"
+msgstr "Paslėpti puslapio pavadinimą"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Hostinger DI tema"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"Hostinger DI tema, sukurta atsižvelgiant į SEO ir mobiliesiems įrenginiams "
+"pritaikytas funkcijas, užtikrina optimalų veikimą ir geresnį pasirodymą "
+"internete."
+
+#: includes/Admin/AdminTranslations.php:262
+#, fuzzy
+msgid "Hostinger Ecommerce setup"
+msgstr "„Hostinger“ elektroninės prekybos svetainės konfigūravimas"
+
+#: includes/Builder/Translator.php:67
+msgid "Hours"
+msgstr "Darbo laikas"
+
+#: includes/Admin/Surveys/WebsiteBuilderExperience.php:29
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"Kaip įvertintum savo patirtį naudojant mūsų DI svetainių kūrimo įrankį "
+"svetainei sukurti? (skalėje nuo 1 iki 10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Admin/AdminTranslations.php:89
+msgid ""
+"I am creating luxury handmade soy wax candles under the brand name “Bliss "
+"Candles\". I need a warm and inviting online store for it. The design should "
+"emphasize relaxation and luxury. Use soft, muted colors: lavender, light "
+"gray, and beige."
+msgstr ""
+"Kuriu prabangias rankų darbo sojų vaško žvakes, kurių prekės ženklas yra "
+"\"Bliss Candles\". Man reikia šiltos ir patrauklios internetinės parduotuvės."
+" Dizainas turėtų pabrėžti atsipalaidavimą ir prabangą. Naudok švelnias, "
+"prislopintas spalvas: levandų, šviesiai pilką ir smėlio."
+
+#: gutenberg-blocks/ContactForm/render.php:18
+#: includes/Elementor/Widgets/ContactFormWidget.php:263
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"Sutinku, kad pateikti asmens duomenys būtų naudojami atsakymo į užklausą "
+"tikslu, kaip aprašyta"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"Sutinku, kad pateikti asmens duomenys būtų naudojami atsakant į užklausą, "
+"kaip aprašyta Privatumo politikoje, su kuria susipažinau. Savo sutikimą "
+"galiu bet kada atšaukti."
+
+#: includes/Admin/AdminTranslations.php:168
+msgid ""
+"If there's anything you'd still like to change, you can customize your site "
+"again. If you're done, simply continue to setup and I'll guide you through "
+"the rest! "
+msgstr ""
+"Jei vis dar nori ką nors pakeisti, gali dar kartą redaguoti svetainę. Jei "
+"baigei, tiesiog tęsk nustatymą ir aš padėsiu atlikti likusius veiksmus!"
+
+#: includes/Admin/AdminTranslations.php:174
+msgid ""
+"If you believe this is a mistake, please revise the description and try "
+"again."
+msgstr "Jei manai, kad tai klaida, pataisyk aprašymą ir bandyk dar kartą."
+
+#: includes/Admin/AdminTranslations.php:250
+msgid ""
+"If you like, we can add your contacts straight away, what do you say? "
+"(Optional)"
+msgstr ""
+"Jei nori, galime iš karto įtraukti tavo kontaktus, ką manai? (Neprivaloma)"
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "Improve description"
+msgstr "Pagerinti aprašymą"
+
+#: includes/Admin/AdminTranslations.php:104
+msgid "Interior design portfolio"
+msgstr "Interjero dizaino portfolio"
+
+#: includes/Rest/BlockTypeRoutes.php:389
+msgid "Invalid block type response."
+msgstr "Neteisingas bloko tipo atsakymas."
+
+#: includes/Rest/BuilderRoutes.php:160
+msgid "Invalid body font."
+msgstr "Netinkamas pagrindinės dalies šriftas."
+
+#: includes/Admin/AdminTranslations.php:139
+msgid "Invalid color code"
+msgstr "Netinkamas spalvos kodas"
+
+#: includes/Hooks.php:421 includes/Rest/LogoRoutes.php:35
+msgid "Invalid file type. Allowed types: jpg, png, svg."
+msgstr "Netinkamas failo tipas. Leidžiami tipai: jpg, png, svg."
+
+#: includes/Rest/BuilderRoutes.php:152
+msgid "Invalid heading font."
+msgstr "Netinkamas antraštės šriftas."
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Atrodo, kad šioje vietoje nieko nerasta. Gal pabandyk atlikti paiešką?"
+
+#: includes/Admin/AdminTranslations.php:156
+msgid "Just confirm a few details in the chat to get your site up and running"
+msgstr ""
+"Kad svetainė būtų paleista ir veiktų, pokalbyje tereikia patvirtinti kelias "
+"detales"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+msgid "Label"
+msgstr "Etiketė"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "Reklaminis puslapis"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:247
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:107
+msgid "Leave empty to use default privacy policy text"
+msgstr "Palik tuščią, jei nori naudoti numatytąjį privatumo politikos tekstą"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:248
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:108
+msgid ""
+"Leave empty to use the default privacy policy text with automatic link "
+"generation."
+msgstr ""
+"Palik tuščią, jei nori naudoti numatytąjį privatumo politikos tekstą su "
+"automatiškai generuojama nuoroda."
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Let us know more about your website to get the best result"
+msgstr ""
+"Suteik mums daugiau informacijos apie savo svetainę, kad gautum geriausią "
+"rezultatą"
+
+#: includes/Admin/AdminTranslations.php:265
+#, fuzzy
+msgid "Let's give it another go"
+msgstr "Pabandykime dar kartą"
+
+#: includes/Admin/AdminTranslations.php:70
+msgid "Let's start with your website idea"
+msgstr "Pradėkime nuo tavo svetainės idėjos"
+
+#: includes/Admin/AdminTranslations.php:150
+msgid "Like brand name, pages or contact information"
+msgstr ""
+"Pavyzdžiui, prekės ženklo pavadinimas, puslapiai ar kontaktinė informacija"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+msgid "Link to your privacy policy page"
+msgstr "Nuoroda į privatumo politikos puslapį"
+
+#: includes/Admin/AdminTranslations.php:157
+msgid "Loading website preview"
+msgstr "Svetainės peržiūros įkėlimas"
+
+#: includes/Admin/AdminTranslations.php:291
+#, fuzzy
+msgid "Loading..."
+msgstr "Įkeliama..."
+
+#: includes/Admin/AdminTranslations.php:114
+msgid "Local bakery site"
+msgstr "Vietos kepyklos svetainė"
+
+#: includes/Admin/AdminTranslations.php:124
+msgid "Local wine tasting page"
+msgstr "Vietinio vyno degustacijos puslapis"
+
+#: includes/Admin/AdminTranslations.php:146
+msgid "Logo"
+msgstr "Logotipas"
+
+#: includes/Admin/AdminTranslations.php:183
+msgid "Logo preview"
+msgstr "Logotipo peržiūra"
+
+#: includes/Admin/AdminTranslations.php:167
+msgid "Looks like your site is done! 😊 "
+msgstr "Atrodo, kad tavo svetainė jau baigta! 😊"
+
+#: includes/Builder/NavigationBuilder.php:45
+#, fuzzy
+msgid "Main menu"
+msgstr "Pagrindinis meniu"
+
+#: includes/Admin/AdminTranslations.php:186
+msgid "Manage your site, add plugins, domain and adjust other settings"
+msgstr "Tvarkyk svetainę, pridėk įskiepių, domeną ir koreguok kitus nustatymus"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:39
+msgid "Map"
+msgstr "Žemėlapis"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:15
+msgid "Map settings"
+msgstr "Žemėlapio nustatymai"
+
+#: includes/Admin/AdminTranslations.php:169
+msgid "Maximum attempts reached. Please try later."
+msgstr "Pasiektas maksimalus bandymų skaičius. Prašome bandyti vėliau."
+
+#: includes/Admin/AdminTranslations.php:128
+msgid "Meditation app landing page"
+msgstr "Meditacijos programėlės nukreipimo puslapis"
+
+#: includes/Builder/Translator.php:44
+msgid "Menu"
+msgstr "Meniu"
+
+#: includes/Builder/Translator.php:57
+#: includes/Elementor/Widgets/ContactFormWidget.php:192
+#: includes/Shortcodes/ShortcodesManager.php:43
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:44
+msgid "Message"
+msgstr "Žinutė"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:190
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:85
+msgid "Message Label"
+msgstr "Pranešimo etiketė"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:199
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:90
+msgid "Message Placeholder"
+msgstr "Pranešimo pakaitinis žymeklis"
+
+#: includes/Admin/AdminTranslations.php:260
+msgid "mobile phone"
+msgstr "mobilusis telefonas"
+
+#: includes/Builder/SiteApplier.php:1299
+#: includes/Builder/WebsiteBuilder.php:527
+msgid "My Account"
+msgstr "Mano paskyra"
+
+#: includes/Builder/Translator.php:53
+#: includes/Elementor/Widgets/ContactFormWidget.php:156
+#: includes/Shortcodes/ShortcodesManager.php:41
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:36
+msgid "Name"
+msgstr "Vardas"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:154
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:63
+msgid "Name Label"
+msgstr "Pavadinimas Etiketė"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:163
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:68
+msgid "Name Placeholder"
+msgstr "Pavadinimo pakaitinis žymuo"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:108
+#: includes/Elementor/Widgets/ContactFormWidget.php:362
+msgid "New Contact Form Submission"
+msgstr "Naujas kontaktų formos užpildymas"
+
+#: includes/Admin/AdminTranslations.php:223
+msgid "New page name"
+msgstr "Naujas puslapio pavadinimas"
+
+#: includes/Elementor/ScrollAnimation.php:39
+msgid "No"
+msgstr "Ne"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+msgid "No bookings yet."
+msgstr "Kol kas užsakymų nėra."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "No content was generated. Please try again."
+msgstr "Turinys nebuvo sukurtas. Prašome bandyti dar kartą."
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:72
+msgid "No posts found. Please create some blog posts."
+msgstr "Pranešimų nerasta. Prašome sukurti keletą tinklaraščio įrašų."
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "Rezultatų nerasta."
+
+#: includes/Rest/GenerationRoutes.php:280
+#, fuzzy
+msgid "No website generation has been started."
+msgstr "Svetainės kūrimas dar nepradėtas."
+
+#: includes/Admin/AdminTranslations.php:130
+msgid "Non-profit animal rescue organization"
+msgstr "Ne pelno siekianti gyvūnų gelbėjimo organizacija"
+
+#: includes/Admin/AdminTranslations.php:144
+#: includes/Admin/AdminTranslations.php:159
+msgid "Not now"
+msgstr "Ne dabar"
+
+#: includes/Admin/AdminTranslations.php:66
+msgid "of"
+msgstr "iš"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Online store"
+msgstr "Internetinė parduotuvė"
+
+#: includes/Admin/AdminTranslations.php:148
+#, fuzzy
+msgid "Original"
+msgstr "Originalas"
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Other"
+msgstr "Kita"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "Puslapis nerastas"
+
+#: includes/Admin/Hooks.php:138
+msgid "Page Title Display"
+msgstr "Puslapio antraštės rodymas"
+
+#: includes/Admin/AdminTranslations.php:222
+#, fuzzy
+msgid "Pages"
+msgstr "Puslapiai"
+
+#: includes/Rest/BuilderRoutes.php:491 includes/Rest/BuilderRoutes.php:511
+msgid "Pages must be a non-empty array."
+msgstr "Puslapiai turi būti netuščias masyvas."
+
+#: includes/Rest/GenerationRoutes.php:720
+#, fuzzy
+msgid ""
+"Pages must contain a home page and up to eight unique page slugs with names."
+msgstr ""
+"Puslapiuose turi būti pagrindinis puslapis ir ne daugiau kaip aštuoni "
+"unikalūs puslapių slugai su pavadinimais."
+
+#: includes/Admin/AdminTranslations.php:135
+#, fuzzy
+msgid "Palette"
+msgstr "Paletė"
+
+#: includes/Admin/AdminTranslations.php:285
+#, fuzzy
+msgid "Palettes"
+msgstr "Paletės"
+
+#: gutenberg-blocks/Map/build/index.js:1 gutenberg-blocks/Map/src/index.js:20
+msgid ""
+"Paste the URL from a Google Maps embed iframe (the value of its src "
+"attribute)."
+msgstr "Įkelk Google Maps įterpto iframe URL adresą (src atributo reikšmę)."
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "Paslėptas įrašo meta"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Užklausa"
+
+#: includes/Admin/AdminTranslations.php:92
+msgid "Personal finance blog"
+msgstr "Asmeninių finansų tinklaraštis"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Personalize your content"
+msgstr "Pritaikyti turinį pagal savo poreikius"
+
+#: includes/Admin/AdminTranslations.php:108
+msgid "Pet grooming services"
+msgstr "Gyvūnų kirpimo paslaugos"
+
+#: includes/Admin/AdminTranslations.php:152
+#, fuzzy
+#| msgid "Pick your colors and logo"
+msgid "Pick your colors, fonts and logo"
+msgstr "Pasirink spalvas ir logotipą"
+
+#: includes/Admin/AdminTranslations.php:198
+#, fuzzy
+msgid "Picking colors and fonts"
+msgstr "Spalvų ir šriftų pasirinkimas"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+msgid "Placeholder"
+msgstr "Vietoj"
+
+#: includes/Admin/AdminTranslations.php:199
+#, fuzzy
+msgid "Planning your pages"
+msgstr "Puslapių planavimas"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:101
+#: includes/Elementor/Widgets/ContactFormWidget.php:355
+msgid "Please agree with privacy policy."
+msgstr "Prašome sutikti su privatumo politika."
+
+#: includes/Admin/AdminTranslations.php:237
+msgid "Please confirm the essentials first:"
+msgstr "Pirmiausia patvirtink svarbiausius dalykus:"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:105
+#: includes/Elementor/Widgets/ContactFormWidget.php:359
+msgid "Please enter a valid email address."
+msgstr "Prašome įvesti galiojantį el. pašto adresą."
+
+#: includes/Rest/BuilderRoutes.php:428
+msgid "Plugin installation failed."
+msgstr "Įskiepio įdiegti nepavyko."
+
+#: includes/Admin/AdminTranslations.php:185
+msgid "PNG, JPG (max 2MB)"
+msgstr "PNG, JPG (ne daugiau kaip 2 MB)"
+
+#: includes/Admin/AdminTranslations.php:63
+msgid "Poor"
+msgstr "Prastas"
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Powered by Hostinger"
+msgstr "Svetainę palaiko Hostinger"
+
+#: includes/Admin/AdminTranslations.php:209
+msgid "Prefer to start from scratch?"
+msgstr "Nori pradėti nuo pradžių?"
+
+#: gutenberg-blocks/ContactForm/render.php:20
+#: includes/Elementor/Widgets/ContactFormWidget.php:236
+#: includes/Elementor/Widgets/ContactFormWidget.php:265
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:102
+msgid "Privacy Policy"
+msgstr "Privatumo politika"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+msgid "Privacy Policy Link Text"
+msgstr "Privatumo politikos nuorodos tekstas"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:244
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:104
+#| msgid "Privacy Policy URL"
+msgid "Privacy Policy Text"
+msgstr "Privatumo politikos URL adresas"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+msgid "Privacy Policy URL"
+msgstr "Privatumo politikos URL adresas"
+
+#: includes/Rest/BuilderRoutes.php:738
+msgid "Problem building content."
+msgstr "Turinio kūrimo problema."
+
+#: includes/Rest/BuilderRoutes.php:691
+msgid "Problem generating content."
+msgstr "Turinio generavimo problema."
+
+#: includes/Rest/BuilderRoutes.php:1002
+msgid "Problem setting colors."
+msgstr "Problema nustatant spalvas."
+
+#: includes/Admin/AdminTranslations.php:204
+#, fuzzy
+msgid "Putting it all together"
+msgstr "Viską sudėjus"
+
+#: includes/Admin/AdminTranslations.php:65
+msgid "Question"
+msgstr "Klausimas"
+
+#: includes/Admin/AdminTranslations.php:59
+msgid "Rate"
+msgstr "Įvertink"
+
+#: includes/Admin/AdminTranslations.php:60
+msgid "Rate site"
+msgstr "Įvertink svetainę"
+
+#: includes/Admin/AdminTranslations.php:61
+msgid "Rate the site AI created for you"
+msgstr "Įvertink tau sukurtą DI svetainę"
+
+#: includes/Admin/AdminTranslations.php:190
+msgid "Rate your site"
+msgstr "Įvertink savo svetainę"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:130
+msgid "Recipient Email Address"
+msgstr "Gavėjo el. pašto adresas"
+
+#: includes/Admin/AdminTranslations.php:181
+#, fuzzy
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: includes/Admin/AdminTranslations.php:182
+#, fuzzy
+msgid "Replace"
+msgstr "Pakeisti"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Replace All Content"
+msgstr "Pakeisti visą turinį"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Replace All Content?"
+msgstr "Pakeisti visą turinį?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+msgid "Required"
+msgstr "Reikalinga"
+
+#: includes/Admin/AdminTranslations.php:180
+#, fuzzy
+msgid "Restore generated logo"
+msgstr "Atkurti sukurtą logotipą"
+
+#: includes/Admin/AdminTranslations.php:289
+#, fuzzy
+msgid "Score"
+msgstr "Rezultatas"
+
+#: includes/Elementor/ScrollAnimation.php:28
+msgid "Scroll Animation"
+msgstr "Slinkimo animacija"
+
+#: includes/Admin/AdminTranslations.php:138
+#, fuzzy
+msgid "Section"
+msgstr "Skyrius"
+
+#: includes/Builder/Translator.php:60
+#: includes/Elementor/Widgets/ContactFormWidget.php:222
+msgid "Select a date"
+msgstr "Pasirink datą"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+msgid "Select date..."
+msgstr "Pasirink datą..."
+
+#: includes/Admin/AdminTranslations.php:55
+msgid "Select editor"
+msgstr "Pasirink redaktorių"
+
+#: includes/Builder/Translator.php:52
+#: includes/Elementor/Widgets/ContactFormWidget.php:122
+#: includes/Shortcodes/ShortcodesManager.php:40
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:32
+msgid "Send Message"
+msgstr "Siųsti žinutę"
+
+#: includes/Admin/AdminTranslations.php:263
+msgid "Set up your store details and products"
+msgstr "Įvesk savo parduotuvės duomenis ir prekes"
+
+#: includes/Admin/AdminTranslations.php:171
+msgid "Setup in WP admin"
+msgstr "Nustatymas WP administratoriuje"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Extra Large"
+msgstr "Ypač didelis"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Huge"
+msgstr "Milžiniškas"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Large"
+msgstr "Didelis"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Medium"
+msgstr "Vidutinis"
+
+#: theme.json
+#, fuzzy
+msgctxt "Shadow name"
+msgid "Small"
+msgstr "Mažas"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:47
+#: includes/Elementor/Widgets/ContactFormWidget.php:60
+#: includes/Elementor/Widgets/ContactFormWidget.php:85
+#: includes/Elementor/Widgets/ContactFormWidget.php:97
+msgid "Show"
+msgstr "Rodyti"
+
+#: includes/Elementor/Widgets/BlogPostsWidget.php:45
+#: includes/Elementor/Widgets/ContactFormWidget.php:95
+msgid "Show Date"
+msgstr "Rodyti datą"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:83
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:46
+msgid "Show Description"
+msgstr "Rodyti Aprašymą"
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:58
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:31
+msgid "Show Title"
+msgstr "Rodyti pavadinimą"
+
+#: includes/Admin/AdminTranslations.php:79
+msgid "Site couldn’t be created"
+msgstr "Svetainės nepavyko sukurti"
+
+#: includes/Admin/AdminTranslations.php:48
+msgid "Site Language"
+msgstr "Svetainės kalba"
+
+#: includes/Admin/AdminTranslations.php:75
+#| msgid "Site language: "
+msgid "Site language"
+msgstr "Svetainės kalba:"
+
+#: includes/Admin/AdminTranslations.php:206
+#: includes/Admin/AdminTranslations.php:211
+msgid "Site preview"
+msgstr "Svetainės peržiūra"
+
+#: includes/Admin/AdminTranslations.php:173
+msgid "Site request not allowed"
+msgstr "Svetainės užklausa neleidžiama"
+
+#: includes/Admin/AdminTranslations.php:98
+msgid "Skincare affiliate site"
+msgstr "Odos priežiūros partnerių svetainė"
+
+#: includes/Admin/AdminTranslations.php:256
+msgid "Skip contacts"
+msgstr "Praleisti kontaktus"
+
+#: includes/Admin/AdminTranslations.php:248
+msgid "Skip socials"
+msgstr "Praleisti socialinius tinklus"
+
+#: includes/Builder/Translator.php:46
+msgid "Socials"
+msgstr "Socialiniai tinklai"
+
+#: includes/Admin/AdminTranslations.php:163
+msgid "Sorry, I didn't understand your answer. What\\u2019s your brand name?"
+msgstr "Atsiprašau, nesupratau atsakymo. Koks tavo prekės ženklo pavadinimas?"
+
+#: includes/Rest/BuilderRoutes.php:331
+msgid "Sorry, something wrong with data."
+msgstr "Atsiprašome, kažkas negerai su duomenimis."
+
+#: includes/Admin/AdminTranslations.php:220
+msgid ""
+"Sounds great 🚀 Next, based on what you shared so far, I'm thinking these "
+"pages would work well for your site.\\n\\nFeel free to remove or add pages "
+"as you like – then hit confirm when you're ready!"
+msgstr ""
+"Skamba puikiai 🚀 Toliau, remdamasis tuo, kuo pasidalijai iki šiol, manau, "
+"kad šie puslapiai puikiai tiktų tavo svetainei.\\n\\nDrąsiai pašalink arba "
+"pridėk puslapius, kaip tau patinka - tada paspausk \"Patvirtinti\", kai "
+"viskas bus paruošta!"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+#, fuzzy
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: includes/Admin/AdminTranslations.php:293
+#, fuzzy
+msgid "Start the game"
+msgstr "Pradėti žaidimą"
+
+#: includes/Admin/AdminTranslations.php:77
+#| msgid "Location is required"
+msgid "Store location is required"
+msgstr "Būtina vieta"
+
+#: includes/Admin/AdminTranslations.php:76
+msgid "Store location: "
+msgstr "Parduotuvės vieta:"
+
+#: includes/Admin/AdminTranslations.php:67
+msgid "Submit"
+msgstr "Pateikti"
+
+#: includes/Admin/AdminTranslations.php:68
+msgid "Submitting..."
+msgstr "Pateikimas..."
+
+#: includes/Builder/Translator.php:47
+msgid "Subscribe to our newsletter"
+msgstr "Prenumeruok mūsų naujienlaiškį"
+
+#: gutenberg-blocks/ContactForm/ContactForm.php:141
+#: includes/Elementor/Widgets/ContactFormWidget.php:383
+msgid "Successfully submitted!"
+msgstr "Sėkmingai pateikta!"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "Suggest a description"
+msgstr "Pasiūlyk aprašymą"
+
+#: includes/Admin/AdminTranslations.php:267
+#, fuzzy
+msgid "Switched to {version}"
+msgstr "Perėjo prie {versija}"
+
+#: includes/Admin/AdminTranslations.php:273
+#, fuzzy
+msgid "Switching version..."
+msgstr "Versijos keitimas..."
+
+#: includes/Admin/AdminTranslations.php:294
+#, fuzzy
+msgid "Tap or click start to play"
+msgstr "Paspauskite arba spustelėkite „Pradėti“, kad pradėtumėte žaisti"
+
+#: includes/Admin/AdminTranslations.php:296
+#, fuzzy
+msgid "Tap the screen to restart"
+msgstr "Bakstelėkite ekraną, kad paleistumėte iš naujo"
+
+#: includes/Admin/AdminTranslations.php:94
+msgid "Tech gadgets affiliate site"
+msgstr "Technikos dalykėlių filialo svetainė"
+
+#: includes/Admin/AdminTranslations.php:126
+msgid "Tech startup landing page"
+msgstr "Technologijų startuolio nukreipimo puslapis"
+
+#: includes/Admin/AdminTranslations.php:11
+msgid "Tell us about your site"
+msgstr "Papasakok apie savo svetainę"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Paraštė"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antraštė"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+msgid "Text to display for the privacy policy link"
+msgstr "Tekstas, rodomas privatumo politikos nuorodoje"
+
+#: includes/Admin/AdminTranslations.php:192
+msgid "Thank you!"
+msgstr "Ačiū!"
+
+#: includes/Admin/AdminTranslations.php:69
+msgid "Thanks for your feedback"
+msgstr "Ačiū už atsiliepimus"
+
+#: includes/Admin/AdminTranslations.php:264
+#, fuzzy
+msgid "That didn't quite land..."
+msgstr "Tai nelabai pavyko..."
+
+#: includes/Rest/VersionRoutes.php:91
+#, fuzzy
+msgid "The active version cannot be deleted."
+msgstr "Aktyvi versija negali būti ištrinta."
+
+#: includes/Admin/AdminTranslations.php:82
+msgid ""
+"The AI builder is experiencing high demand right now. Try again in a few "
+"minutes."
+msgstr ""
+"Šiuo metu DI įrankis turi daug darbo. Bandyk dar kartą po kelių minučių."
+
+#: includes/Admin/AdminTranslations.php:266
+#, fuzzy
+msgid ""
+"The build didn't finish this time, but it's usually a quick fix. One more "
+"try should do it."
+msgstr ""
+"Šįkart kompiliavimas nebaigtas, bet paprastai tai greitai išsprendžiama. "
+"Turėtų pakakti dar vieno bandymo."
+
+#: includes/Admin/AdminTranslations.php:292
+#, fuzzy
+msgid "The game could not be loaded"
+msgstr "Žaidimo nepavyko įkelti"
+
+#: includes/Rest/GenerationRoutes.php:208
+#, fuzzy
+msgid "The generated website is currently being applied."
+msgstr "Šiuo metu sukurtas tinklalapis yra diegiamas."
+
+#. translators: %s php version
+#: functions.php:56
+#, php-format
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"Hostinger įskiepiui Easy Onboarding reikia minimalios PHP versijos <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:277
+#, fuzzy
+msgid ""
+"The saved copy of {version} from {date} will be removed for good. Your live "
+"site stays exactly as it is."
+msgstr ""
+"{version} versijos kopija, išsaugota {date} dieną, bus visam laikui "
+"pašalinta. Jūsų veikianti svetainė liks tokia, kokia yra dabar."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+msgid "The text shown with the privacy policy checkbox"
+msgstr "Tekstas, rodomas su privatumo politikos žymimuoju langeliu"
+
+#: includes/Admin/AdminTranslations.php:280
+#, fuzzy
+msgid "The version your site is currently using can't be deleted."
+msgstr "Versijos, kurią šiuo metu naudoja jūsų svetainė, negalima ištrinti."
+
+#: includes/Rest/GenerationRoutes.php:940
+#, fuzzy
+msgid "The website generation service is temporarily unavailable."
+msgstr "Svetainių kūrimo paslauga laikinai neveikia."
+
+#: includes/Settings/Theme.php:32 includes/Settings/Theme.php:33
+#: includes/Settings/Theme.php:125
+msgid "Theme Settings"
+msgstr "Temos nustatymai"
+
+#: includes/Admin/AdminTranslations.php:205
+msgid "Thinking..."
+msgstr "Galvoju..."
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "Šio veiksmo atšaukti negalima. Ar tikrai nori tęsti?"
+
+#: includes/Admin/AdminTranslations.php:43
+msgid "This field is required"
+msgstr "Šis laukas yra privalomas"
+
+#: includes/Admin/AdminTranslations.php:45
+#| msgid "This field should not be longer than 1024 symbols."
+msgid "This field should not be longer than 1500 symbols."
+msgstr "Šis laukas neturėtų būti ilgesnis nei 1 024 simboliai."
+
+#: includes/Admin/AdminTranslations.php:44
+msgid "This field should not be longer than 255 symbols."
+msgstr "Šis laukas neturėtų būti ilgesnis nei 255 simboliai."
+
+#: includes/Admin/AdminTranslations.php:81
+msgid ""
+"This issue is on our side. We’re working on it — please try again shortly."
+msgstr "Problema mūsų pusėje. Dirbame prie jos – netrukus pabandyk dar kartą."
+
+#: includes/Versions/Restore/Preflight.php:55
+#, fuzzy
+msgid "This version contains no pages."
+msgstr "Šioje versijoje nėra jokių puslapių."
+
+#: includes/Admin/AdminTranslations.php:272
+#: includes/Versions/Restore/Preflight.php:40
+#, fuzzy
+msgid ""
+"This version was saved in an older format and can no longer be restored."
+msgstr ""
+"Ši versija buvo išsaugota senesniu formatu ir jos jau nebegalima atkurti."
+
+#: includes/Elementor/Widgets/ContactFormWidget.php:70
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/edit.js:38
+#| msgid "Tete"
+msgid "Title"
+msgstr "Tete"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "Tone of voice"
+msgstr "Kalbos stilius"
+
+#: includes/Builder/Translator.php:61
+msgid "Top rated by 100+ clients"
+msgstr "Geriausiai įvertintas 100+ klientų"
+
+#: includes/Admin/AdminTranslations.php:118
+msgid "Travel agency for luxury tours"
+msgstr "Prabangių kelionių agentūra"
+
+#: includes/Admin/AdminTranslations.php:96
+msgid "Travel photography blog"
+msgstr "Kelionių fotografijos tinklaraštis"
+
+#: includes/Admin/AdminTranslations.php:231
+#, fuzzy
+msgid "Try again"
+msgstr "Pabandyk dar kartą"
+
+#: includes/Admin/AdminTranslations.php:172
+msgid "Type your answer..."
+msgstr "Įvesk atsakymą..."
+
+#: includes/Admin/AdminTranslations.php:197
+#, fuzzy
+msgid "Understanding your brand identity"
+msgstr "Savo prekės ženklo tapatybės supratimas"
+
+#: includes/Admin/AdminTranslations.php:141
+msgid "Update site colors"
+msgstr "Atnaujinti svetainės spalvas"
+
+#: includes/Admin/AdminTranslations.php:232
+msgid "Update site fonts"
+msgstr "Atnaujinti svetainės šriftus"
+
+#: includes/Admin/AdminTranslations.php:184
+msgid "Upload"
+msgstr "Įkelti"
+
+#: includes/Admin/AdminTranslations.php:282
+#, fuzzy
+msgid "Upload a logo"
+msgstr "Įkelkite logotipą"
+
+#. translators: %d: version number
+#: includes/Rest/VersionRoutes.php:133
+#, fuzzy, php-format
+msgid "Version %d"
+msgstr "Versija %d"
+
+#: includes/Rest/VersionRoutes.php:153
+#: includes/Versions/Restore/Preflight.php:34
+#: includes/Versions/Restore/SnapshotRestorer.php:39
+#, fuzzy
+msgid "Version not found."
+msgstr "Versija nerasta."
+
+#: includes/Admin/AdminTranslations.php:270
+#, fuzzy
+msgid "Versions"
+msgstr "Versijos"
+
+#: includes/Admin/AdminTranslations.php:86
+msgid "Vintage clothing e-shop"
+msgstr "Vontažinių drabužių el. parduotuvė"
+
+#: includes/Admin/AdminTranslations.php:279
+#, fuzzy
+msgid "We couldn't delete this version. Please try again."
+msgstr "Mums nepavyko ištrinti šios versijos. Prašome bandyti dar kartą."
+
+#: includes/Admin/AdminTranslations.php:271
+#, fuzzy
+msgid "We couldn't switch to this version. Please try again."
+msgstr "Mums nepavyko pereiti prie šios versijos. Prašome bandyti dar kartą."
+
+#: includes/Admin/AdminTranslations.php:224
+#, fuzzy
+msgid "We couldn’t suggest pages"
+msgstr "Negalėjome pasiūlyti puslapių"
+
+#: includes/Builder/Translator.php:51
+#: includes/Elementor/Widgets/ContactFormWidget.php:109
+msgid ""
+"We'd love to hear from you. Send us a message and we'll respond as soon as "
+"possible."
+msgstr ""
+"Norėtume išgirsti tavo nuomonę. Siųsk mums žinutę ir mes kuo greičiau "
+"atsakysime."
+
+#. translators: 1: number of pages kept, 2: number of pages the AI suggested
+#: includes/Admin/AdminTranslations.php:230
+#, fuzzy, php-format
+msgid "We've added the %1$s most relevant of %2$s suggested pages."
+msgstr "Pridėjome %1$s labiausiai tinkamus iš %2$s pasiūlytų puslapių."
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Website type"
+msgstr "Svetainės tipas"
+
+#: includes/Admin/AdminTranslations.php:100
+msgid "Wedding photography website"
+msgstr "Vestuvių fotografijos svetainė"
+
+#: includes/Admin/AdminTranslations.php:240
+msgid "What about socials? (Optional)"
+msgstr "O kaip dėl socialinių tinklų? (Neprivaloma)"
+
+#: gutenberg-blocks/AiContent/build/index.js:1
+msgid "What do you want AI to create?"
+msgstr "Ką norėtum, kad DI sukurtų?"
+
+#: includes/Builder/Translator.php:56
+#: includes/Elementor/Widgets/ContactFormWidget.php:183
+#: includes/Shortcodes/ShortcodesManager.php:45
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:52
+msgid "What's your email?"
+msgstr "Koks tavo el. pašto adresas?"
+
+#: includes/Builder/Translator.php:54
+#: includes/Elementor/Widgets/ContactFormWidget.php:165
+#: includes/Shortcodes/ShortcodesManager.php:44
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:48
+msgid "What's your name?"
+msgstr "Koks tavo vardas?"
+
+#: gutenberg-blocks/ContactForm/render.php:22
+#: includes/Elementor/Widgets/ContactFormWidget.php:267
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "kurią perskaičiau. Savo sutikimą galiu bet kada atšaukti."
+
+#: includes/Admin/AdminTranslations.php:191
+msgid "Why did you give this rating?"
+msgstr "Kodėl davei tokį įvertinimą?"
+
+#: includes/Admin/AdminTranslations.php:261
+msgid "WooCommerce setup"
+msgstr "WooCommerce aktyvavimas"
+
+#: includes/Admin/AdminTranslations.php:73
+msgid ""
+"WordPress's built-in block editor with powerful flexibility for advanced "
+"users"
+msgstr ""
+"WordPress integruotas blokų redaktorius su galingu lankstumu pažengusiems "
+"naudotojams"
+
+#: includes/Admin/AdminTranslations.php:51
+#: includes/Admin/AdminTranslations.php:188
+msgid "WP admin"
+msgstr "WP administratorius"
+
+#: includes/Admin/AdminTranslations.php:234
+msgid "Write brand name"
+msgstr "Parašyk prekės ženklo pavadinimą"
+
+#: includes/Admin/AdminTranslations.php:194
+msgid "Write your feedback here (optional)"
+msgstr "Parašyk savo atsiliepimus čia (neprivaloma)"
+
+#: includes/Builder/Translator.php:58
+#: includes/Elementor/Widgets/ContactFormWidget.php:201
+#: includes/Shortcodes/ShortcodesManager.php:46
+#: gutenberg-blocks/ContactForm/build/index.js:1
+#: gutenberg-blocks/ContactForm/src/index.js:56
+msgid "Write your message..."
+msgstr "Parašyk žinutę..."
+
+#: includes/Admin/AdminTranslations.php:201
+#, fuzzy
+msgid "Writing your content"
+msgstr "Turinio rašymas"
+
+#: includes/Rest/BuilderRoutes.php:580 includes/Rest/BuilderRoutes.php:650
+#: includes/Rest/BuilderRoutes.php:719
+msgid "Wrong sequence of step execution."
+msgstr "Netinkama žingsnių vykdymo seka."
+
+#: includes/Elementor/ScrollAnimation.php:38
+msgid "Yes"
+msgstr "Taip"
+
+#: includes/Admin/AdminTranslations.php:106
+msgid "Yoga studio website"
+msgstr "Jogos studijos svetainė"
+
+#. translators: %s php version
+#: functions.php:60
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Naudoji <b>%s</b> PHP versiją."
+
+#: includes/Admin/AdminTranslations.php:268
+#, fuzzy
+msgid "You can create up to 5 site versions that will appear here"
+msgstr "Čia galite sukurti iki 5 svetainės versijų, kurios čia bus rodomos"
+
+#. translators: %s: maximum number of pages that can be generated
+#: includes/Admin/AdminTranslations.php:228
+#, fuzzy, php-format
+msgid "You can generate up to %s pages."
+msgstr "Galite sukurti iki %s puslapių."
+
+#: includes/Admin/AdminTranslations.php:288
+#, fuzzy
+msgid ""
+"You have 5 versions of your website. Oldest version will be deleted. Are you "
+"sure you want to proceed?"
+msgstr ""
+"Turite 5 savo svetainės versijas. Seniausia versija bus ištrinta. Ar tikrai "
+"norite tęsti?"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"Jau sukūrei turinį. Tęsiant bus ištrintas visas ankstesnis turinys. Ar "
+"tikrai nori tęsti?"
+
+#: includes/Admin/AdminTranslations.php:193
+msgid "Your feedback will help us improve."
+msgstr "Tavo atsiliepimai padės mums tobulėti."
+
+#: includes/Admin/AdminTranslations.php:134
+msgid "Your own color palette"
+msgstr "Tavo spalvų paletė"
+
+#: includes/Admin/AdminTranslations.php:233
+#| msgid "My own font pair"
+msgid "Your own font pair"
+msgstr "Mano paties šriftų pora"
+
+#: includes/Admin/AdminTranslations.php:50
+#| msgid ""
+#| "Your site’s language will be changed to the selected language from this "
+#| "list, and all content will be generated in that language.”"
+msgid ""
+"Your site’s language will be changed to the selected language from this list,"
+" and all content will be generated in that language."
+msgstr ""
+"Tavo svetainės kalba bus pakeista į pasirinktą kalbą iš šio sąrašo ir visas "
+"turinys bus kuriamas ta kalba."
+
+#: includes/Admin/AdminTranslations.php:164
+msgid "{builderType}, {language} and {brandName} for brand name"
+msgstr "{builderType}, {language} ir {brandName} - prekės ženklo pavadinimui"

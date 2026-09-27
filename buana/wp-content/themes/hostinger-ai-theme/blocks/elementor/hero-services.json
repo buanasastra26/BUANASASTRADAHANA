@@ -1,0 +1,117 @@
+[
+  {
+    "class": "hostinger-ai-title",
+    "type": "Title",
+    "max_words": 7,
+    "tone": "business",
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-description",
+    "type": "Description",
+    "max_words": 18,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 2,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-cta-button",
+    "type": "CTA Button",
+    "max_words": 2,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-background-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 1920,
+      "height": 800,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-service-image",
+    "type": "Image",
+    "index": "0",
+    "max_words": 5,
+    "image_size": {
+      "width": 340,
+      "height": 200,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-service-description",
+    "type": "Description",
+    "max_words": 8,
+    "index": "0"
+  },
+  {
+    "class": "hostinger-ai-service-image",
+    "type": "Image",
+    "index": "1",
+    "max_words": 5,
+    "image_size": {
+      "width": 340,
+      "height": 200,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-service-description",
+    "type": "Description",
+    "max_words": 8,
+    "index": "1"
+  },
+  {
+    "class": "hostinger-ai-service-image",
+    "type": "Image",
+    "index": "2",
+    "max_words": 5,
+    "image_size": {
+      "width": 340,
+      "height": 200,
+      "crop": true
+    }
+  },
+  {
+    "class": "hostinger-ai-service-title",
+    "type": "Title",
+    "max_words": 3,
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-service-description",
+    "type": "Description",
+    "max_words": 8,
+    "index": "2"
+  },
+  {
+    "class": "hostinger-ai-background-video",
+    "type": "Video",
+    "index": "0",
+    "max_words": 5,
+    "video_size": {
+      "width": 1920,
+      "height": 800
+    }
+  }
+]

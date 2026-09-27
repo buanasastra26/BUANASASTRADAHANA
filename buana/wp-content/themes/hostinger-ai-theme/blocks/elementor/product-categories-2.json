@@ -1,0 +1,606 @@
+[
+  {
+    "id": "533d225",
+    "elType": "container",
+    "settings": {
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 1
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": "1"
+      },
+      "grid_rows_grid_mobile": {
+        "unit": "fr",
+        "size": "1"
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+      },
+      "css_classes": "hostinger-ai-product-category-2"
+    },
+    "elements": [
+      {
+        "id": "e041aa4",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "background_background": "classic",
+          "container_type": "grid",
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid"
+        },
+        "elements": [
+          {
+            "id": "bae6421",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "flex_align_items": "center",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/2025-06-17_14-05_1.png",
+                "id": 944,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "13",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-2",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              }
+            },
+            "elements": [
+              {
+                "id": "b3cda9f",
+                "elType": "widget",
+                "settings": {
+                  "title": "Home decor",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 38,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "300",
+                  "_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-title hostinger-index-2 hostinger-ai-font-title",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  },
+                  "_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "be81cff",
+                "elType": "widget",
+                "settings": {
+                  "text": "Shop collection",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "400",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "text_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "text_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "text_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-cta-button hostinger-index-2",
+                  "__globals__": {
+                    "background_color": "",
+                    "button_text_color": "globals/colors?id=58be983"
+                  },
+                  "typography_text_decoration": "underline",
+                  "button_text_color": "#FFFFFF",
+                  "background_color": "#FFFFFF00"
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "689e402",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "flex_align_items": "center",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/aaa.png",
+                "id": 1174,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "13",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-3",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              }
+            },
+            "elements": [
+              {
+                "id": "7fd3e84",
+                "elType": "widget",
+                "settings": {
+                  "title": "Home decor",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 38,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "300",
+                  "_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-title hostinger-index-3 hostinger-ai-font-title",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  },
+                  "_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "6fe28ef",
+                "elType": "widget",
+                "settings": {
+                  "text": "Shop collection",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "400",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "text_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "text_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "text_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-cta-button hostinger-index-3",
+                  "__globals__": {
+                    "background_color": "",
+                    "button_text_color": "globals/colors?id=58be983"
+                  },
+                  "typography_text_decoration": "underline",
+                  "button_text_color": "#FFFFFF",
+                  "background_color": "#FFFFFF00"
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "866cec7",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_justify_content": "center",
+              "flex_align_items": "center",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/2025-06-17_14-06.png",
+                "id": 943,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "13",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-4",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              }
+            },
+            "elements": [
+              {
+                "id": "9f4961b",
+                "elType": "widget",
+                "settings": {
+                  "title": "Home decor",
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 38,
+                    "sizes": []
+                  },
+                  "typography_font_weight": "300",
+                  "_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "_css_classes": "hostinger-ai-title hostinger-index-4 hostinger-ai-font-title",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=58be983"
+                  },
+                  "_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "d9bbd78",
+                "elType": "widget",
+                "settings": {
+                  "text": "Shop collection",
+                  "typography_typography": "custom",
+                  "typography_font_weight": "400",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "text_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "text_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "text_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": false
+                  },
+                  "_padding_tablet": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_padding_mobile": {
+                    "unit": "custom",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_css_classes": "hostinger-ai-cta-button hostinger-index-4",
+                  "__globals__": {
+                    "background_color": "",
+                    "button_text_color": "globals/colors?id=58be983"
+                  },
+                  "typography_text_decoration": "underline",
+                  "button_text_color": "#FFFFFF",
+                  "background_color": "#FFFFFF00"
+                },
+                "elements": [],
+                "widgetType": "button"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

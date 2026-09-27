@@ -1,0 +1,387 @@
+[
+  {
+    "id": "83589cf",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 2,
+        "sizes": []
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": 1,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "presetTitle": "Grid",
+      "presetIcon": "eicon-container-grid",
+      "css_classes": "hostinger-ai-resume-2",
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "741c4c2",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_justify_content": "flex-start",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid"
+        },
+        "elements": [
+          {
+            "id": "58509ed",
+            "elType": "widget",
+            "settings": {
+              "title": "Web Developer",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e8e9bb6",
+            "elType": "widget",
+            "settings": {
+              "title": "Portfolio",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title hostinger-index-1",
+              "__globals__": {
+                "title_color": "globals/colors?id=b1c2d3e",
+                "typography_typography": "globals/typography?id=c83476d"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "9ad70ad",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_justify_content": "center",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 1,
+            "sizes": []
+          },
+          "presetTitle": "Container",
+          "presetIcon": "eicon-container"
+        },
+        "elements": [
+          {
+            "id": "75594f1",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "flex_gap_mobile": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "6186e7b",
+                "elType": "widget",
+                "settings": {
+                  "editor": "<p>Skilled in creating responsive and user-friendly web applications tailored to client needs.</p>",
+                  "link_color": "#0D141A",
+                  "_css_classes": "hostinger-ai-description",
+                  "__globals__": {
+                    "text_color": "globals/colors?id=b1c2d3e",
+                    "link_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "_margin": {
+                    "unit": "rem",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_margin_tablet": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  },
+                  "_margin_mobile": {
+                    "unit": "rem",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                  }
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              },
+              {
+                "id": "6f1afce",
+                "elType": "widget",
+                "settings": {
+                  "title": "Expert in front-end technologies.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-description hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "110ed61",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_gap": {
+                "column": "10",
+                "row": "10",
+                "isLinked": true,
+                "unit": "px",
+                "size": 10
+              },
+              "flex_gap_mobile": {
+                "column": "",
+                "row": "",
+                "isLinked": true,
+                "unit": "px",
+                "size": null
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "2e0e067",
+                "elType": "widget",
+                "settings": {
+                  "title": "Freelance Web Developer",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-subtitle hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "b797497",
+                "elType": "widget",
+                "settings": {
+                  "title": "Tech Company",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-workplace hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "3c84c48",
+                "elType": "widget",
+                "settings": {
+                  "title": "January 2020 - Present",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-date hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "85bb455",
+                "elType": "widget",
+                "settings": {
+                  "title": "Developed multiple websites, enhancing user experience and optimizing performance for clients.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-description hostinger-index-1",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "d3baf18",
+                "elType": "widget",
+                "settings": {
+                  "title": "Previous Projects",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-subtitle hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=2142591"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "7cedb77",
+                "elType": "widget",
+                "settings": {
+                  "title": "Tech Company",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-workplace hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "352dbfc",
+                "elType": "widget",
+                "settings": {
+                  "title": "January 2020 - Present",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-date hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "48d99f3",
+                "elType": "widget",
+                "settings": {
+                  "title": "Developed multiple websites, enhancing user experience and optimizing performance for clients.",
+                  "align": "left",
+                  "text_stroke_text_stroke_type": "yes",
+                  "_css_classes": "hostinger-ai-description hostinger-index-2",
+                  "__globals__": {
+                    "title_color": "globals/colors?id=b1c2d3e",
+                    "typography_typography": "globals/typography?id=887fca2"
+                  },
+                  "header_size": "p",
+                  "title_color": "#0D141A"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

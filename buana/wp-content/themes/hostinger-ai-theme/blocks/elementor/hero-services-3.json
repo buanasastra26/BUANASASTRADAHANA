@@ -1,0 +1,444 @@
+[
+  {
+    "id": "19cc212",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "flex_align_items": "center",
+      "min_height": {
+        "unit": "px",
+        "size": 600,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_image": {
+        "id": "",
+        "url": "https://hostinger-wp-blocks.com/wp-content/plugins/elementor/assets/images/placeholder.png"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#00000066",
+      "padding": {
+        "unit": "rem",
+        "top": "5",
+        "right": "2",
+        "bottom": "5",
+        "left": "2",
+        "isLinked": false
+      },
+      "css_classes": "hostinger-ai-background-image",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "5853bd3",
+        "elType": "widget",
+        "settings": {
+          "title": "Personal Coaching with John Terry",
+          "header_size": "h1",
+          "__globals__": {
+            "title_color": "globals/colors?id=58be983",
+            "typography_typography": "globals/typography?id=5535e8e"
+          },
+          "align": "center",
+          "align_mobile": "center",
+          "title_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "_css_classes": "hostinger-ai-title",
+          "_element_width": "initial",
+          "_element_custom_width": {
+            "unit": "px",
+            "size": 800,
+            "sizes": []
+          },
+          "_flex_align_self": "center",
+          "animated_headline_promotion": "",
+          "_mask_notice": ""
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "09d45fe",
+        "elType": "widget",
+        "settings": {
+          "editor": "Tailored guidance for Chicago's top executives to sharpen leadership and decision-making skills.",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=887fca2",
+            "text_color": "globals/colors?id=58be983"
+          },
+          "align": "center",
+          "align_mobile": "center",
+          "text_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "_css_classes": "hostinger-ai-description",
+          "_element_width": "initial",
+          "_element_custom_width": {
+            "unit": "px",
+            "size": 600,
+            "sizes": []
+          },
+          "_flex_align_self": "center",
+          "margin": {
+            "unit": "px",
+            "top": "20",
+            "right": "0",
+            "bottom": "30",
+            "left": "0",
+            "isLinked": false
+          },
+          "_mask_notice": ""
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "dfe5fc7",
+        "elType": "widget",
+        "settings": {
+          "text": "Start Now",
+          "__globals__": {
+            "background_color": "globals/colors?id=5420d44",
+            "button_text_color": "globals/colors?id=58be983",
+            "border_color": "globals/colors?id=5420d44",
+            "typography_typography": "globals/typography?id=6e52843"
+          },
+          "align": "center",
+          "button_text_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "border_border": "solid",
+          "border_width": {
+            "unit": "px",
+            "top": "1",
+            "right": "1",
+            "bottom": "1",
+            "left": "1",
+            "isLinked": true
+          },
+          "border_color": "#FFFFFF",
+          "border_radius": {
+            "unit": "px",
+            "top": "50",
+            "right": "50",
+            "bottom": "50",
+            "left": "50",
+            "isLinked": true
+          },
+          "text_padding": {
+            "unit": "px",
+            "top": "20",
+            "right": "40",
+            "bottom": "20",
+            "left": "40",
+            "isLinked": false
+          },
+          "_css_classes": "hostinger-ai-cta-button",
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "60",
+            "left": "0",
+            "isLinked": false
+          },
+          "link": {
+            "url": "https://"
+          },
+          "cta_promotion": "",
+          "_mask_notice": ""
+        },
+        "elements": [],
+        "widgetType": "button"
+      },
+      {
+        "id": "02a633a",
+        "elType": "container",
+        "settings": {
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 3
+          },
+          "grid_rows_grid": {
+            "unit": "fr",
+            "size": "1"
+          },
+          "grid_rows_grid_mobile": {
+            "unit": "fr",
+            "size": "1"
+          },
+          "content_width": "full",
+          "grid_column_gap": {
+            "unit": "px",
+            "size": 20
+          },
+          "max_width": {
+            "unit": "px",
+            "size": 1140
+          },
+          "_flex_align_self": "center",
+          "margin": {
+            "unit": "px",
+            "top": "30",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "fb58484",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "background_background": "classic",
+              "__globals__": {
+                "background_color": ""
+              },
+              "background_color": "#FFFFFF26",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "42d44b6",
+                "elType": "widget",
+                "settings": {
+                  "title": "Leadership",
+                  "align": "center",
+                  "_css_classes": "hostinger-ai-service-title hostinger-index-0",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=2142591",
+                    "title_color": "globals/colors?id=58be983"
+                  },
+                  "animated_headline_promotion": "",
+                  "_mask_notice": ""
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "7a550e5",
+                "elType": "widget",
+                "settings": {
+                  "editor": "Elevate your leadership presence.",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=887fca2",
+                    "text_color": "globals/colors?id=58be983"
+                  },
+                  "align": "center",
+                  "align_mobile": "center",
+                  "text_color": "#FFFFFF",
+                  "typography_typography": "custom",
+                  "_css_classes": "hostinger-ai-service-description hostinger-index-0",
+                  "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "20",
+                    "bottom": "30",
+                    "left": "20",
+                    "isLinked": false
+                  },
+                  "_padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_mask_notice": ""
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "2696a81",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "background_background": "classic",
+              "__globals__": {
+                "background_color": ""
+              },
+              "background_color": "#FFFFFF26",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "77d9ad5",
+                "elType": "widget",
+                "settings": {
+                  "title": "Strategy",
+                  "align": "center",
+                  "_css_classes": "hostinger-ai-service-title hostinger-index-1",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=2142591",
+                    "title_color": "globals/colors?id=58be983"
+                  },
+                  "animated_headline_promotion": "",
+                  "_mask_notice": ""
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "79ea054",
+                "elType": "widget",
+                "settings": {
+                  "editor": "Craft clear, actionable plans.",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=887fca2",
+                    "text_color": "globals/colors?id=58be983"
+                  },
+                  "align": "center",
+                  "align_mobile": "center",
+                  "text_color": "#FFFFFF",
+                  "typography_typography": "custom",
+                  "_css_classes": "hostinger-ai-service-description hostinger-index-1",
+                  "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "20",
+                    "bottom": "30",
+                    "left": "20",
+                    "isLinked": false
+                  },
+                  "_mask_notice": ""
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "8ad14ce",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "background_background": "classic",
+              "__globals__": {
+                "background_color": ""
+              },
+              "background_color": "#FFFFFF26",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "c2e70a4",
+                "elType": "widget",
+                "settings": {
+                  "title": "Balance",
+                  "align": "center",
+                  "_css_classes": "hostinger-ai-service-title hostinger-index-2",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=2142591",
+                    "title_color": "globals/colors?id=58be983"
+                  },
+                  "animated_headline_promotion": "",
+                  "_mask_notice": ""
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "60178e8",
+                "elType": "widget",
+                "settings": {
+                  "editor": "Find harmony in work and life.",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=887fca2",
+                    "text_color": "globals/colors?id=58be983"
+                  },
+                  "align": "center",
+                  "align_mobile": "center",
+                  "text_color": "#FFFFFF",
+                  "typography_typography": "custom",
+                  "_css_classes": "hostinger-ai-service-description hostinger-index-2",
+                  "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "20",
+                    "bottom": "30",
+                    "left": "20",
+                    "isLinked": false
+                  },
+                  "_mask_notice": ""
+                },
+                "elements": [],
+                "widgetType": "text-editor"
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

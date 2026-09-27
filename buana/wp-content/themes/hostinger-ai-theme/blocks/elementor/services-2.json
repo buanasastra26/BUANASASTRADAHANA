@@ -1,0 +1,351 @@
+[
+  {
+    "id": "76384ba",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "css_classes": "hostinger-ai-our-services-2",
+      "__globals__": {
+        "background_color": "globals/colors?id=b5aeb33"
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "6aabfe1",
+        "elType": "container",
+        "settings": {
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "f7ed4dd",
+            "elType": "widget",
+            "settings": {
+              "title": "Our Services",
+              "align": "left",
+              "text_stroke_text_stroke_type": "yes",
+              "_css_classes": "hostinger-ai-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=09cc561",
+                "typography_typography": "globals/typography?id=c83476d"
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "30",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "fdcb56c",
+            "elType": "container",
+            "settings": {
+              "container_type": "grid",
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 3
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": "1"
+              },
+              "grid_rows_grid_mobile": {
+                "unit": "fr",
+                "size": "1"
+              },
+              "content_width": "full",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "df3b27a",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "flex_justify_content": "flex-start",
+                  "flex_align_items": "flex-start",
+                  "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                  },
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_flex_align_self": "flex-start"
+                },
+                "elements": [
+                  {
+                    "id": "d13d5fe",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                        "id": "",
+                        "size": "",
+                        "source": "url"
+                      },
+                      "image_border_radius": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20",
+                        "isLinked": true
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "15",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_flex_align_self": "flex-start",
+                      "_css_classes": "hostinger-ai-service-image"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "3e790c6",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Experience luxurious accommodation in the breathtaking Alps, perfect for your ski getaway.</p>",
+                      "_css_classes": "hostinger-ai-service-description",
+                      "__globals__": {
+                        "text_color": "globals/colors?id=09cc561",
+                        "link_color": "globals/colors?id=09cc561",
+                        "typography_typography": "globals/typography?id=887fca2"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0d9383c",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "flex_justify_content": "flex-start",
+                  "flex_align_items": "flex-start",
+                  "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                  },
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "3377a60",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                        "id": "",
+                        "size": "",
+                        "source": "url"
+                      },
+                      "image_border_radius": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20",
+                        "isLinked": true
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "15",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_css_classes": "hostinger-ai-service-image hostinger-index-1"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "97eff75",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Experience luxurious accommodation in the breathtaking Alps, perfect for your ski getaway.</p>",
+                      "_css_classes": "hostinger-ai-service-description hostinger-index-1",
+                      "__globals__": {
+                        "text_color": "globals/colors?id=09cc561",
+                        "link_color": "globals/colors?id=09cc561",
+                        "typography_typography": "globals/typography?id=887fca2"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "cb22ced",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "flex_justify_content": "flex-start",
+                  "flex_align_items": "flex-start",
+                  "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                  },
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "7f71384",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-4.avif",
+                        "id": "",
+                        "size": "",
+                        "source": "url"
+                      },
+                      "image_border_radius": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20",
+                        "isLinked": true
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "15",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_css_classes": "hostinger-ai-service-image hostinger-index-2"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "9a21c25",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Experience luxurious accommodation in the breathtaking Alps, perfect for your ski getaway.</p>",
+                      "_css_classes": "hostinger-ai-service-description hostinger-index-2",
+                      "__globals__": {
+                        "text_color": "globals/colors?id=09cc561",
+                        "link_color": "globals/colors?id=09cc561",
+                        "typography_typography": "globals/typography?id=887fca2"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

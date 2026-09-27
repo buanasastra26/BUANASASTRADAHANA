@@ -1,0 +1,101 @@
+[
+  {
+    "id": "cf5fe77",
+    "elType": "container",
+    "settings": {
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "61ab3ae",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full"
+        },
+        "elements": [
+          {
+            "id": "3b70693",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "rem",
+                "size": 2,
+                "sizes": []
+              },
+              "space_tablet": {
+                "unit": "rem",
+                "size": "",
+                "sizes": []
+              },
+              "space_mobile": {
+                "unit": "rem",
+                "size": "",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "18c27c9",
+            "elType": "widget",
+            "settings": {
+              "shortcode": "[woocommerce_my_account]"
+            },
+            "elements": [],
+            "widgetType": "shortcode"
+          },
+          {
+            "id": "b339b2d",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "rem",
+                "size": 2,
+                "sizes": []
+              },
+              "space_tablet": {
+                "unit": "rem",
+                "size": "",
+                "sizes": []
+              },
+              "space_mobile": {
+                "unit": "rem",
+                "size": "",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

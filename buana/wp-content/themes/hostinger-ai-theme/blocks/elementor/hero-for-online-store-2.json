@@ -1,0 +1,190 @@
+[
+  {
+    "id": "07fe42a",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_background": "classic",
+      "background_image": {
+        "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2024/07/photo-1622547748225-3fc4abd2cca0-1.avif",
+        "id": 78,
+        "size": "",
+        "alt": "",
+        "source": "library"
+      },
+      "background_overlay_background": "classic",
+      "padding": {
+        "unit": "rem",
+        "top": "14",
+        "right": "0",
+        "bottom": "14",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "10",
+        "right": "0",
+        "bottom": "10",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "8",
+        "right": "0",
+        "bottom": "8",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center",
+      "css_classes": "hostinger-ai-hero-for-online-store-2 hostinger-ai-background-image",
+      "__globals__": {
+        "background_overlay_color": "globals/colors?id=09cc561"
+      },
+      "background_position": "center center",
+      "background_repeat": "no-repeat",
+      "background_size": "cover"
+    },
+    "elements": [
+      {
+        "id": "4df0c5f",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_align_items": "center"
+        },
+        "elements": [
+          {
+            "id": "25adc73",
+            "elType": "widget",
+            "settings": {
+              "title": "Hero Italian Food",
+              "align": "center",
+              "_css_classes": "hostinger-ai-title hostinger-index-5 hostinger-ai-font-title",
+              "__globals__": {
+                "title_color": "globals/colors?id=58be983",
+                "typography_typography": "globals/typography?id=5535e8e"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "7fc65b5",
+            "elType": "widget",
+            "settings": {
+              "title": "Treat yourself to the finest Italian cuisine with our freshly prepared meals.",
+              "header_size": "p",
+              "align": "center",
+              "_margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_margin_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_margin_mobile": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_padding": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_padding_mobile": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-description hostinger-index-0",
+              "__globals__": {
+                "title_color": "globals/colors?id=58be983",
+                "typography_typography": "globals/typography?id=887fca2"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "7274cd5",
+            "elType": "widget",
+            "settings": {
+              "text": "Click here",
+              "border_radius": {
+                "unit": "px",
+                "top": "50",
+                "right": "50",
+                "bottom": "50",
+                "left": "50",
+                "isLinked": true
+              },
+              "text_padding": {
+                "unit": "custom",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": false
+              },
+              "text_padding_tablet": {
+                "unit": "custom",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "text_padding_mobile": {
+                "unit": "custom",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "_css_classes": "hostinger-ai-cta-button hostinger-index-6",
+              "__globals__": {
+                "background_color": "globals/colors?id=5420d44",
+                "button_text_color": "globals/colors?id=58be983",
+                "typography_typography": "globals/typography?id=6e52843"
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

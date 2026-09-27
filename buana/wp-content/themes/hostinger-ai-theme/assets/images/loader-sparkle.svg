@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M24 4L27.5 17.5L38 10L30.5 20.5L44 24L30.5 27.5L38 38L27.5 30.5L24 44L20.5 30.5L10 38L17.5 27.5L4 24L17.5 20.5L10 10L20.5 17.5L24 4Z" fill="url(#sparkle-grad)" opacity="0.9"/>
+    <defs>
+        <linearGradient id="sparkle-grad" x1="4" y1="4" x2="44" y2="44">
+            <stop stop-color="#673DE6"/>
+            <stop offset="0.5" stop-color="#3AB0FF"/>
+            <stop offset="1" stop-color="#E536DB"/>
+        </linearGradient>
+    </defs>
+</svg>

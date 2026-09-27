@@ -1,0 +1,945 @@
+[
+  {
+    "id": "932f72f",
+    "elType": "container",
+    "settings": {
+      "container_type": "grid",
+      "grid_columns_grid": {
+        "unit": "fr",
+        "size": 1
+      },
+      "grid_rows_grid": {
+        "unit": "fr",
+        "size": "1"
+      },
+      "grid_rows_grid_mobile": {
+        "unit": "fr",
+        "size": "1"
+      },
+      "padding": {
+        "unit": "rem",
+        "top": "2.25",
+        "right": "2.25",
+        "bottom": "2.25",
+        "left": "2.25",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "rem",
+        "top": "",
+        "right": "",
+        "bottom": "",
+        "left": "",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "rem",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+      },
+      "css_classes": "hostinger-ai-product-category-3"
+    },
+    "elements": [
+      {
+        "id": "69ef969",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "background_background": "classic",
+          "container_type": "grid",
+          "grid_columns_grid": {
+            "unit": "fr",
+            "size": 2,
+            "sizes": []
+          },
+          "presetTitle": "Grid",
+          "presetIcon": "eicon-container-grid",
+          "padding": {
+            "unit": "custom",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding_tablet": {
+            "unit": "custom",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "custom",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "d98dbc4",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/1-1.png",
+                "id": 989,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "9",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-5",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              },
+              "flex_align_content": "flex-end",
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_justify_items": "end",
+              "grid_align_items": "end",
+              "presetTitle": "Container",
+              "presetIcon": "eicon-container",
+              "min_height": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "flex_direction": "column-reverse",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "1146e8e",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                  },
+                  "position": "absolute",
+                  "_offset_orientation_v": "end",
+                  "_offset_y_end": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                  },
+                  "padding_mobile": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "f7589b3",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Home decor",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 33,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_css_classes": "hostinger-ai-title hostinger-index-5 hostinger-ai-font-title",
+                      "__globals__": {
+                        "title_color": "globals/colors?id=58be983"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "cfc9b26",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Shop collection",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "400",
+                      "border_radius": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "text_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": false
+                      },
+                      "_padding_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_padding_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_css_classes": "hostinger-ai-cta-button hostinger-index-5",
+                      "__globals__": {
+                        "background_color": "",
+                        "button_text_color": "globals/colors?id=58be983"
+                      },
+                      "typography_text_decoration": "underline",
+                      "button_text_color": "#FFFFFF",
+                      "background_color": "#FFFFFF00",
+                      "border_radius_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "border_radius_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "34af9bc",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/2.png",
+                "id": 971,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "9",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-6",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              },
+              "flex_align_content": "flex-end",
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_justify_items": "end",
+              "grid_align_items": "end",
+              "presetTitle": "Container",
+              "presetIcon": "eicon-container",
+              "min_height": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "flex_direction": "column-reverse",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "6f6e064",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                  },
+                  "position": "absolute",
+                  "_offset_orientation_v": "end",
+                  "_offset_y_end": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                  },
+                  "padding_mobile": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "06dffab",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Home decor",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 33,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_css_classes": "hostinger-ai-title hostinger-index-6 hostinger-ai-font-title",
+                      "__globals__": {
+                        "title_color": "globals/colors?id=58be983"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "35c5e0b",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Shop collection",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "400",
+                      "border_radius": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "text_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": false
+                      },
+                      "_padding_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_padding_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_css_classes": "hostinger-ai-cta-button hostinger-index-6",
+                      "__globals__": {
+                        "background_color": "",
+                        "button_text_color": "globals/colors?id=58be983"
+                      },
+                      "typography_text_decoration": "underline",
+                      "button_text_color": "#FFFFFF",
+                      "background_color": "#FFFFFF00",
+                      "border_radius_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "border_radius_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "7d2abf3",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/3.png",
+                "id": 978,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "9",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-7",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              },
+              "flex_align_content": "flex-end",
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_justify_items": "end",
+              "grid_align_items": "end",
+              "presetTitle": "Container",
+              "presetIcon": "eicon-container",
+              "min_height": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "flex_direction": "column-reverse",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "ee0324a",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                  },
+                  "position": "absolute",
+                  "_offset_orientation_v": "end",
+                  "_offset_y_end": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                  },
+                  "padding_mobile": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "a9a8927",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Home decor",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 33,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_css_classes": "hostinger-ai-title hostinger-index-7 hostinger-ai-font-title",
+                      "__globals__": {
+                        "title_color": "globals/colors?id=58be983"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "43a9c20",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Shop collection",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "400",
+                      "border_radius": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "text_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": false
+                      },
+                      "_padding_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_padding_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_css_classes": "hostinger-ai-cta-button hostinger-index-7",
+                      "__globals__": {
+                        "background_color": "",
+                        "button_text_color": "globals/colors?id=58be983"
+                      },
+                      "typography_text_decoration": "underline",
+                      "button_text_color": "#FFFFFF",
+                      "background_color": "#FFFFFF00",
+                      "border_radius_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "border_radius_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "7d1b83a",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "background_background": "classic",
+              "background_image": {
+                "url": "https://hostinger-wp-blocks.com/wp-content/uploads/2025/06/4.png",
+                "id": 979,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "background_position": "center center",
+              "background_repeat": "no-repeat",
+              "background_size": "cover",
+              "background_overlay_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "16",
+                "right": "16",
+                "bottom": "16",
+                "left": "16",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "12",
+                "right": "0",
+                "bottom": "9",
+                "left": "0",
+                "isLinked": false
+              },
+              "padding_tablet": {
+                "unit": "rem",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "rem",
+                "top": "6",
+                "right": "0",
+                "bottom": "6",
+                "left": "0",
+                "isLinked": false
+              },
+              "css_classes": "is-light has-white-color hostinger-ai-cover-image hostinger-index-8",
+              "__globals__": {
+                "background_overlay_color": "globals/colors?id=09cc561"
+              },
+              "flex_align_content": "flex-end",
+              "grid_columns_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_rows_grid": {
+                "unit": "fr",
+                "size": 1,
+                "sizes": []
+              },
+              "grid_justify_items": "end",
+              "grid_align_items": "end",
+              "presetTitle": "Container",
+              "presetIcon": "eicon-container",
+              "min_height": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "flex_direction": "column-reverse",
+              "flex_justify_content": "center"
+            },
+            "elements": [
+              {
+                "id": "064f741",
+                "elType": "container",
+                "settings": {
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                  },
+                  "position": "absolute",
+                  "_offset_orientation_v": "end",
+                  "_offset_y_end": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                  },
+                  "padding_mobile": {
+                    "unit": "rem",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "fe88930",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Home decor",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 33,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_css_classes": "hostinger-ai-title hostinger-index-8 hostinger-ai-font-title",
+                      "__globals__": {
+                        "title_color": "globals/colors?id=58be983"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "9ee0f4c",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Shop collection",
+                      "typography_typography": "custom",
+                      "typography_font_weight": "400",
+                      "border_radius": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "text_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": false
+                      },
+                      "_padding_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_padding_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "_css_classes": "hostinger-ai-cta-button hostinger-index-8",
+                      "__globals__": {
+                        "background_color": "",
+                        "button_text_color": "globals/colors?id=58be983"
+                      },
+                      "typography_text_decoration": "underline",
+                      "button_text_color": "#FFFFFF",
+                      "background_color": "#FFFFFF00",
+                      "border_radius_tablet": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      },
+                      "border_radius_mobile": {
+                        "unit": "custom",
+                        "top": "",
+                        "right": "",
+                        "bottom": "",
+                        "left": "",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]
