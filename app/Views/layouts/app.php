@@ -7,6 +7,7 @@
 <title><?= e($title ?? env('APP_NAME','CV BUANA SASTRA DAHANA')) ?></title>
 <meta name="description" content="CV BUANA SASTRA DAHANA - konstruksi, renovasi, pekerjaan aluminium, dan supply material.">
 <link rel="stylesheet" href="<?= asset('css/app.css') ?>">
+<link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/assets/images/branding/app-192.png"><meta name="apple-mobile-web-app-capable" content="yes">
 </head>
 <body>
 <header class="site-header">
@@ -24,4 +25,6 @@
 <main><?= $content ?></main>
 <footer class="site-footer"><div class="container footer-grid"><div><img class="footer-logo" src="<?= asset('images/branding/LOGO_CV_BUANA_SASTRA_DAHANA.png') ?>" alt="Logo"><p>Platform digital CV BUANA SASTRA DAHANA.</p></div><div><strong>Navigasi</strong><a href="<?= url('estimasi') ?>">Estimasi</a><a href="<?= url('survey') ?>">Ajukan Survey</a><a href="<?= url('login') ?>">Portal Client</a></div><div><strong>Rencanakan pekerjaan Anda</strong><p>Mulai dengan estimasi awal dan ajukan survey untuk menentukan kebutuhan proyek.</p></div></div></footer>
 <script src="<?= asset('js/app.js') ?>"></script>
+<?php require ROOT_PATH.'/app/Views/partials/install.php'; ?>
 </body></html>
+
